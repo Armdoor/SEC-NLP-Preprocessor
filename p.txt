@@ -1,0 +1,35 @@
+sequence_tag = find_case_insensitive(filing_document, 'SEQUENCE')
+    document_sequence = sequence_tag.find(string=True, recursive=False).strip() if sequence_tag else "N/A"
+
+    filename_tag = find_case_insensitive(filing_document, 'FILENAME')
+    document_filename = filename_tag.find(string=True, recursive=False).strip() if filename_tag else "N/A"
+
+    description_tag = find_case_insensitive(filing_document, 'DESCRIPTION')
+    document_description = description_tag.find(string=True, recursive=False).strip() if description_tag else "No description available"
+    
+    print("document_sequence: ",document_sequence)
+    print("document_filename: ",document_filename)
+    print("document_description: ",document_description)
+    
+    # Initialize our document dictionary
+    master_document_dict[form_type] = {}
+    
+    # Add the different parts, we parsed up above.
+    master_document_dict[form_type]['document_sequence'] = document_sequence
+    master_document_dict[form_type]['document_filename'] = document_filename
+    master_document_dict[form_type]['document_description'] = document_description
+    
+    # Store the document itself
+    master_document_dict[form_type]['document_code'] = filing_document.extract()
+    
+    # Check for the 'text' tag before extracting
+    text_tag = find_case_insensitive(filing_document, 'TEXT')
+    filing_doc_text = text_tag.find(string=True, recursive=False) if text_tag else "No Text!!"
+    print("filing_doc_text: ",filing_doc_text)
+
+    filing_doc_text = filing_doc_text.extract()
+    print("filing_doc_text: ",filing_doc_text)    
+    # Find all the thematic breaks
+# all_thematic_breaks = [tag for tag in filing_doc_text.find_all('hr') if 'width: 100%' in tag.get('style', '')]    
+# all_page_numbers = [thematic_break.parent.parent.previous_sibling.previous_sibling.get_text(strip=True) 
+#                         for thematic_break in all_thematic_breaks]
