@@ -1,0 +1,568 @@
+<document>
+<type>ZIP
+<sequence>17
+<filename>0001140361-25-000228-xbrl.zip
+<description>IDEA: XBRL DOCUMENT
+<text>
+begin 644 0001140361-25-000228-xbrl.zip
+M4$L#!!0    ( -N#(UJ*H:RP' 0  /P6   1    86%P;"TR,#(T,3(S,"YX
+M<v3-6$v vs80o1?h?v!uu[="">]&amp;QOK#5)L$BRP28IM"O06T-+82U0B59+*VO\^
+M)"7*LBVYEM6BOE'DFYGWR/&amp;0X[NWFSQ#WX$+PNC"";W 04 3EA*Z7CBE&lt;+%(
+M"''&gt;WO_\T]TOKOL1*' L(47++?J5,YQRDJX!_?;\944R0-'$"R,O]*;1[:2U
+M[KK:?B/F(GF!'".)^1KD9YR#*' ""^=%RF+N^[@H,O 2EOM1$$W"*-9L,LB!
+MR@^,YP^PPF4F%\[?)&lt;[(BD#J($6?BOE&amp;-#Y&gt;7U^]U]AC?*V<!--*'_YZ-->GWTU4
+MB\6XR$Y&amp;K&amp; 9H7_M.=TL&gt;6;=QKY&gt;7F(!#8,C?$TBG,UFOEEMH,H1.&gt;&amp;:4"$Q
+M3:"-3V5CT 9/_6K10E,@^S@!B;=FWWVU8!0V0,E=N2U =/-0R[Y&gt;UC:1&amp;\1N
+M'%I+E1/[ABLLEL;(KNP%$ESVX9NERD"E"$(Z23"E3&amp;*I$M),U9-%0&gt;B*U3-J
+M3N_HW)[",ZR0V&gt;.Y=KAP!,G5N3KUW N'U&lt;+1Y^[:4_Y6<!-- 40POA+(,31Z*7
+M?64B5"8:9D^[P-8%YLF1EZ,<4$Y8 5P2I7J70OZ_)BN%U5!9RH10<LVB,KP<
+M*DJ90/;?ZM%^OBH%2 _^-->'[LJ"F&amp;R@-+2EW!WM'T/95$;A]5'O/<i)&#2+ip m3b*:j#;n[ksn="" u7@@@"yr'ih#s%-4="">4.M?S=^8=.#OV7 M(O]-Z,#U.^MJXA
+MIRP3G"5E=H'A?CIVV]6S]@1LF? /ZD0UL5]-="U1"&lt;&gt;X1/3H_FF7LK7*P;J2
+M5;?6$TN,FPHM;(7MM/$AD\+.F$3V-B*U.7220T_9/LGA$*X'(Z(FK*22;X=$
+M;IO8CS$,2L[5,V08A;9-\S6"!&amp;R2ER$$&amp;KP9C0A,,4G$D,@[@VHX(K8@R9#(
+M%JX'PZ(&gt;%NY952TIK/7[LCO\H5G&amp;^9Z5J_VX8&gt;2&amp;-^-YR,$<y"7q][=3%gs0 0="" ;#\qsaqd1_n="9.RX^U_#B\F,7$Y_JV/I." m]en\&8t[@="">NP$S=XXX;!L%T_
+M&gt;D2?&amp;=4:Z,#3LT/VO9-'W"[&amp;S=B?7?TD4OP2Z&lt;*FR##%DO'M!_5]_D^@[&gt;7]
+MSLDEOXAV@S!HCRR^VA_=7@S:FK[&amp;Y.+H8X^GLPOK(_-/EN9;7'@=;]-!-W$-
+MUX-.^75/;\(NG'&gt;A=Q--/S,)XJ$$A;_Y!/D2&gt;/4XUJW MWY(U4,T[&gt;P\93DF
+M]%%"KE^&amp;BG"Y%.H-7&amp;JZ'SDKBX5C^N\Y41 '49*I5D$W!)*7"HX5FJL4MM\5
+M5C4#A*5?JU EKY_NO7HB3SW,6V1OC_7T0JY13^"]N6UO_O183R_D&amp;O7$WDU[
+M\R?1L9Y&gt;R#7J";QIFVP&lt;=IU/#^0:]81&gt;O)=,LZYZT .Y1CVQ%TR#TWIZ(=&gt;H
+M)S@H7IWUH ?R/^LQ?PE4E]C]#U!+ P04    " #;@R-:AF\&gt;,'8'  !%30
+M%0   &amp;%A&lt;&amp;PM,C R-#$R,S!?9&amp;5F+GAM;-6&lt;77/B-A2&amp;[SO3_^#2:S"&amp;D&amp;PR
+MR^ZD2;;#-)MDDG3:Z4U&amp;V()HUK8826S(OZ]DK. /29:!&amp;.<f@ 7rzap]ec\.="" \[gb]?l="" m<cy_746a\q,2bg="">!L8\#%,_'G27M NHCU/GZY==?/O_6[?X)8T@
+M@X$S?77^(!@$! 5SZ-S=W\Y0")W!4&lt;\;]+S&gt;:'!RE&amp;GO=L7W0Q3_.!-_IH!"
+MA_&lt;;T[,51&gt;/.,V.+,]=]&gt;7GIO0Q[F,S=0;_ON?]^OW[PGV$$NBBF#,0^[#A&lt;
+M?T:3C=?8!RP).O/UU92$TF#HOO6E58A/72GKBDU=;] =&gt;KT5#3IIB*+9HA,I
+M7Y7T:4[&gt;Z&gt;FIF[2^2;D1,EAGTD[TS'L39X6CY%/ .GR0'6&lt;]S 2'\![.'/'Z
+M]_WD[7M@L0AAS\&gt;1*UK&lt;2^PO(QBS\SBXBAEBKY-XADF4#"SO-;%BKPLX[E 4
+M\6_*;&lt;\$SL8= !8A'[3!D3&lt;8]L60_6[V<s,! 96(9lcs$jo="" <;,8x="" lh"]3<"i="" m!6%8'9='F0.4X"&lt;ZC)-S$;0]1\?&lt;P%C.H&amp;\' m]3[b3:rz$8rfd.psv+so'b)]yd$1?sf%w;="" n++&-.wv3#?td,q<p,4n:g&="">!V&amp;.\2O=LU'PG03$2\^V:?\QU
+M#%&lt;,Q@$,9-<bw*t.#$ewll,0^[e>0G%<qj2<'y6c1j'?f^.?;@"1*xx>XDUR
+M&amp;%D3@&gt;AIW&gt;4UHHR?ABA/!$X8C*CT#,$4AN-.A8HWBORT*O?=TY"#^,@="[&amp;K
+MFM* \TWY*#=TSTD^7K[[29]T3]QR4LT(CJK'%AM3V(1YYFB&lt;'(:=O ,F 23I
+M)4AS;.X@09COX\$EOZS10%)J"K0*FO9C,R55DU_!*@4Y: ;D.KY[..&lt;1$A"S
+M&amp;Q 5.9HDN:-$4=)&gt;BA8I64)4.Z4,ATTRG/#[#K+ )#G)/#"^+UW@9<s(zp4. &-m@.odw="" m_a7&z="" mu$bmoi$c7="">YPU.3N\(W?4-XLLX.58U]NSH'.-K&gt;=JC:5
+M6@BS+BFO49.\'L%J$O"S 9JA]9VY 5Z%-D=2JVT[5KLD:S'66J; CYL$?AX$
+M!%*:OHAH/25L@RX'6JEK.^3JY&amp;H!5MJE&lt;$\. /&gt;"O[TEC_@E-J$MJU1@LZH/
+M@E6;V#90LV8ITD\'0)J<w6_)'<$_t;jxj.6jd:k@ej0?a+ !z0'z="" 0mf4wc:,"wzr='-%O!K$XD)P3"!1054UIGOFF' 9bn.<vrw-q="" a?vbao80v"56<"\(="" m2\*c\p;31q%y="" m8'v'*0="" m]h(si&")*n\@x3146!*_2x5wssa6w[shfm,,r\wm!561bb6llhl$ue="" yq6tpeqq3uj<'="">8!6I6 (KNTA@#56+'@D0/T\_O$93'!9H*=O2
+M_ IM[&gt;5D2L(24L%"$FJH@'.#&lt;_U_"\&amp;\P,F@2!-5*MK+K#HA2W)*(\FOH8*.
+MG.)7*_\9Q'.HJ*F;)(5#8U[27H06*=4\1.:=),2&amp;BC3_\ @8C"]P%"WCM%Q4
+M_ G5J$ESUFC:R]$F*4N0&amp;BM)LJ&amp;*S ,.D8]$=-_YK25!H'C6TPOD5%0(V@NP
+M,AW;::CPD&gt;@:JKS&lt;$2AV'AC[,/FE6RS (+&gt;S6&gt;F^H%J8YFX2MA&gt;I=7J6:$U^
+M$G%#!9="*!-*EY!8@];*U;@5\@\#O2K5[= K7.4"A(;*,&gt;M8KR)(YCS8/PE^
+M8&lt;\\P@6(7Y4E-Z,R5W/3*-M+W#[!6E4WC:'DW%!EYYSO;H'8Y13W,\JV--5"
+M6WOIF9*PY%6PD(0:70MTP;LG()SP(\+J+ZB&gt;@QI-;O:5-.TE9Y-4K1E7LI(D
+M&amp;UT1) -\!--27<z@r%$l*-z3869q>DURIC1J&lt;2L826I)W8=Y9WZ(*0S&amp;'4:6
+M&lt;+T!QPRNV%68G$O''0KGXLWNB&amp;&gt; 3I-!6M+N'(#%FC,,&amp;95;-L#3#4^7&lt;,HF
+M,&gt;7!)4N/5ZAXNZH7I&amp;.E$KPG&lt;&lt;-B;]4&gt;D,&gt;++1+2PT^\DE68"H]]KJ7=G:0H
+M?USF'C-0\BS+E%2SLG&lt;](FL&gt;D5B#-9 K&lt;=4FEJ5;-BS#S1I]&lt;,1/@[9!SC^Y
+MLPOE4F[;<q96.zzg+c^e);8\g?.[hw[_!c-(+y>0MX^^0\7OE54R&gt;8VKE1WH
+MHJER!F+KW/3T-K;)M:_6;L&gt;YJB?XZ61D0] HVQ#4R-I-T":W&amp;@0U=N\T![W&gt;
+M\2#;W[&amp;:8(5,$M3*VDS0+C=K@EJ['9]HT!$&lt;%.;\B9I@A4P2U,K:3- N-VN"
+M6KL='T+0S\%A;LZ?ZN:@4;:9@QI9FPG:Y59C#FKL=GPL04&gt;0S^E1OYI@A4P2
+MU,K:3- N-VN"6KL=GS/07\F,LG-^Z.FN9(RRS96,1M9F@G:YU;B2T=CM^#"!
+M?@X&gt;9_L[&amp;NCFH%&amp;VF8,:69L)VN568PYJ[/;Y[, V=_[) G&lt;1\$4(*+V=/3#L
+M_U!4ZRIU<g&"7m?fvium>A8E/(/5/A^FW@9V-B)E@4<od.o.%8+#u>VJJ6&amp;+
+MG+),M8[)4G2%TZ$K=UL@+56T#@A55:?;DJJQ4%&gt;3ZQXJ=;N3Q5$D'M_F02E/
+MO]IV2;7<?J 3KF$&XNH\LAC+3@F_LD-Y6GYV"TE?\X_B/YFMMXL_XC]_??D?
+M4$L#!!0    ( -N#(UH]XQ9SHPL  'R#   5    86%P;"TR,#(T,3(S,%]L
+M86(N>&amp;ULW9UO]LX$H??'W#?@&gt;?# 7M ;&lt;=.TUZ*5HM<vet$er9!d\4=kc@l ,r3gh4a*5ok^yz="-R+[Q." [9rs\="" [_\r'o_*(q[[*5^qq3="" e$="" m51rluiq="?;F\#4+.YJ\GL_ED-CF:OWU=LX_'LGX81'^\D_\L_(2S+&amp;Z4O'M*" m9)mqa)7%0%*:y-n?j#^v2,t,i9*ja;qi8lz="" m@@^cns2]?s="" m]&$tfqr,&(^68a5$zp^cav3l)\l@&="" wl_?e="">=/CX^3AX/)R)&gt;3^&lt;'![/I?SZ?7R_O^,8?!U&amp;2^M&amp;2CUBF?Y?D
+MA&gt;=BZ:=YHVO5GQ9Q6#DXG&amp;YCH0KY:5S)QK)H/)N/#V&gt;3IV0U*ILHS2V"5/*G
+MAK[LT^SX^'B:6[?2S%% N-YV.QL]QHKQBT7(O_!;)G_^]N4,K7T\E8IIQ--S
+M?\'#+&amp;1&gt;/7V^YQ]&amp;2;"Y#WE5=A?S6]A/&amp;,=;-W)TCN7HS-[(T?GKSO/4IGEK
+M2=.-2/W033MS?\VV-L+8-_K"U=!23;YP.<k9+.<_8)1k8>P;?&lt;7C0*P^1:O^
+M&amp;ZZ'<m7xz]2 ?p="" js6#v'="">B_U4!30UETGOVFQ.5/*8]6?%5%EKZ):V&lt;&gt;.K_8
+MYIZWOL52\1K*543$S&gt;XDF=?<xzv?+'*wv6*x]ow[s w\]92':5*5c&5)wj="">R
+MX/&gt;/?)&amp;&gt;91?O^&amp;'#H_3"W_"/8N,'414F[^&amp;'D4F6!JGL(RZ;JGV37I7&gt;Q3P1
+M#_&amp;2:W';-K/5$"N$% UNX7\39HV16PP&gt;C7^['K%@U:*:)RUL9WK%I)%]+<s_ m="">S_==;(Y,"&gt;QFGD_7E;-SGXU=+543)<b6x[ot['2z]m8;%hd4[0?^'(<\rco *^allz^r="" :9;sdo="" [0g="" m&*9fj6!fc].]\w_r%"0d^74!r'pa<$i[="">%!,*VE"
+M:0:2"7(L=3C!8,9_"+NG8K,1T74JEG]\YIL%CS6&lt;4'O96<!--N"2X:T99;R#&%
+M;5/O%44L+V-?B](]0XLG2+084Q79AJQ.K#G3/P;8T$^2R]N\'--> V Q=4R ("
+M6V;1F-;00IY):IL5O+R,B=L*W$'L((@\B38CJZ';T"GLFE/^0^#-CBLIEQ?\
+M&gt;H. #8-15W:&gt;T%D2;6R!+=A4 (IOO%X#\P%L*<r)%!w&7$4>E=?);T](YPF0
+M\.5D+;Y-5SPHV,]^V2&amp;??<b6c&\\ eednqq_f38v%h!mnze0;-^),mj"[t47="" m<@bavm1y^<="">,R+)@WY=&gt;&lt;.P%,63Z/J$FD;0!]?JGZZ-8YIOGF\RC?N "3-51
+M2S%9H 7%L"%+\X&gt;!I<b\za.3'_=\>H+&amp;7.!CI9V6:HJ**#)5/0#U[SA(4Q[)
+MC&gt;Y#%!3/6_25F=2474(T%JR146V@PQQC],%ZKRQF:OE^&gt;:0S)5H,K$HH**U0
+M;9?R'IB]%F&amp;P#-(@6G_.%OHX\$,-'UQ0[2$!@06J&gt;#P;3D&amp;O&amp;*2 V-N5L:IP
+MSSM#/"_"-)+:/K"AJZALD=H&gt;D+R*N9P'/.MZ?O66SS'BR]O;QKTEL[#L*"6T
+M0-4<wp99tcn&+e')rvsc9<w("bo+s?n%n44f1=lq5^'&]17d'>#H'_:S)'G@
+M&lt;6OD43D,/B!WAS_:%H&gt;3 (K1<bhtjs8g1*$9[ks #a,="" tpw="">\!QIU$)FBIFF
+M'N;+219Y):/_$OIK#4K05G95LUE@#T:Q85QWB &amp;MZKSM1R8_[Y=3&gt;.0%,6 J
+M@8JDPHU.68\W!+;?;/F8[7J0.P.@1KM%H&amp;D<w"l 09%jm]lh)="" 6[vpa%="" [-mt]4="" h[jx::="" m.<l,3%j&<4<!si5h,;3p=""></w"l> [6?HJR5SU_X.I"WSHIO,V@(49*R
+MB[#$ EDJI@VQB%\,6%#N%:5L5YQ_-6:_M)))$N9!55F%E!6JK7+=&amp;ZFGV22)
+M_? LVS8\_8L_@Z@B&amp;H75AL8:5B2J/:U-QS2NNK[BM2QGN8%EEB$0B^5*M!A:
+MB%E-JD)K2GIOU/X2A/SB ?B""V966*V;K3%MQK(G5/%)PUF35ES*(E:4#8%(
+M(!F"'D"(PYU*19#(96_TW?A/9ZL,_&gt;"VO#=,H&amp;C0*ERB6FM(#:VP)Q8/0..+
+MU:M8SNQ,%0R(;%-N18&lt;40,PC5=0)T!::WF;#6;04\;V(\^#Y%Q1.Q4.V+CR?
+MBA6\]6U50YD9AAK6\Z-5B^QGB2D,/5?HVM6,452OBJ^5,!&amp;S4LND&gt; B3IQT$
+MHG.6H(E$5E2G4S?2&gt;IM4GS8\7@?1^M=8/*9WIV)S[T?PYIQ4*I,(45I/'K(%
+M]I,&amp;<t] %e?]vd="" %ka6-4dj*ro,k+0="" 0.h)g<(\j+,fghanssolg*8="JE.Q7A:^JGYATLPNHT&amp;L" 3&_<eje?&6e#_.="" 85[0^12m!qz:!v="" e0="" m@xc="">1<laat@' c;7!&="" jf.="\L7&lt;97L?@61" m(*j!s$%,hpf&b-z)09x)#="" my"kg;<#hf_+3[-?+^$8\ze]z-z@@pnlj5wpw(snc6w'="BNU:C0;9TB;W.-(Z" vxvd@akam25w="">--_
+M*\SU:@W6MQOZ2C(@X+&amp;\0M33#$#H:S5 _DVX]#T)KD22^N%_@WOT\$L)H0F@
+M"5WA#\9W!K_NO17Z:J4&amp;^(699?;!G&amp;')7$+04UF'D%?T(/ T'GV\!2)CQ]P'
+M (=,9&gt;=4D\TK($ ,JS= 5'_H"R!UF9?O-^3' 9 (#KK !TNEK:[8OOI!Y:H'
+MHN0?0PJO[D0$/]+!S&amp;5'FF8+NK!8-H0!/C'*&amp;E(O+V%YT2!N?*/)$/0 JM3I
+MJHH\8RY[6[[/@T1^L3JY\1<ao&z#"f7!ua36*s48t7z)umw2:[.jka;eji1] (<e2!a'%%h^56$zki+9[ew0.6="BK.4;_0WF0PJ$-2:RAFLC&lt;CN@*V[" m;@?mkd837&ecn7%0]#8s!q*,)1bd="" ms<ow_="">"N&amp;2&lt;8QZ.,-)[Y\B+/@L_GB1C99 PHS
+ME]UKFFW&gt;;4)B6;W9U/2)OM&gt;D2[W\AWSC?3;_:?%W5@GV_&amp;83EA%!CZ(*I*[:
+MOM-D2F@/"%Z(F]B7?R/T^GFS$"'PU75"478+5%BP2$2TP1%VBQ$)J;T+P<i2 m5a0="" on5'z$<4!5,@%a!6="" x="">;)/? IQ)48P6TE1W2;!8T@E%L.-0=8@2J.D\%
+M;[_,P2,OB %3.5,D%6%TRGI<?C\]+>^R!'#@Z^F41%N&amp;58F#I1B*Z6(YUOR:
+MEF1%[E6EK"H&gt;P-?3R20)\Z#"JW-=J:_09*[;D.K[]V$.XVQ^&gt;) #*4M^/YE-
+MWLR/+D3*DX\//+._ ?]RG4E6=@B7?2&gt;=9!M_#Q&gt;A]9/_5A$@8EM4] KSWU@N
+M8*L'SJ1D('_LSIA3T67\5:2Q*A+K-C[[P*4+*6GS[UVWP.5[2!EY+YH1QW@X
+MO?3-)P&lt;'![48;^%+GT%67?I0F17+B%&gt;'ESY#!!QHLJ)7F#6LWPX%:U-.19?Q
+MU]A&amp;JNS8IGWV@8O#2Q\&gt;H3,I(^]%,^(8#Z&gt;7OH/)/][6+Z]'\*7/(*LN?:C,
+MBF7$J\-+GR$"#C19T2O,&amp;M9'0\':E%/19?PUMI$J.[9IGWW@XO#2AT?H3,K(
+M&gt;]&amp;,.,;#Z:7O<!--*F?GE]/8<O?099=-->E#958L(UX=7OH,$7"@R8I&gt;85:Q?CT?
+M"M:FG(HNXZ^QC539L4W[[ ,7AY&lt;^/$)G4D;&gt;BV;$,1Z.=WU']1B',VS71\IV
+MNSY$9KF,@UZ=[OK("-1:3E3T"K.*]&gt;%L*%B;<bjzc']c60>KU)=URF<?N#C=
+M]6$1.I,B=WTOF!''>#A^S'&amp;H["R/L&lt;&lt;<i&swf .16="ZW!KTZ?&lt;Q!1J!N7A,5" mo<*l'6:.ax*u*:="">BR_@W[F.#5&gt;KWL2F??&gt;#B]#$'%J$S*?(QQPMFQ#$&gt;C@^\
+M!T&lt;'YDN?0;8[\"(RRQ,,Z-7I@9&gt;,0!UCB(I&gt;81XJUJ:<bb[cwsc1@%7j)qk* 7)p="" j]1,-y;,="" m$!6]pcs<6]at3d67\6^<:,="" m9q^x.#wp8a$zdr(="" o"^8$<="X.#[PJH]2T,&lt;&lt;I&amp;QWX$5DEB&lt;8T*O3" r\9@3k&="">&gt;+$(G4F1!]X7S(AC/+;_E7EM
+M5,ZSW[+"JBC[9^$GW/L_4$L#!!0    ( -N#(UH0WD;M@P&lt;  .E4   5
+M86%P;"TR,#(T,3(S,%]P<f4n>&amp;ULU5Q&lt;^(V&amp;'WO3/^#2Y^Q,&gt;2R9#:[0Y/=
+M#M-LD@ETVNG+CK %T:QM,;+9D']?R5C@BR3+#@'QDHMU./K.=S[)MF3S\?,Z
+M#*R?D,0(1]&lt;=U^YU+!AYV$?1XKJSBKL@]A#J?/[TZR\??^MV_X01)""!OC5[
+MM?X@&amp;/@$^0MH/3X]S%$ K?Z9[?9MUS[O7Y[EVKM=]OD 13^NV(\9B*%%^XWB
+MJW6,KCO/2;*\<ir7eq?[96!clg#zo9[k_ )@qz+xjs@]="" m="" om;n(]pq!t410g(="">(&lt;]D*1!YSZ^GI&amp; $PR&lt;;5]2!/NORV%==JCK]KL#UU['?B&lt;+D35K=,+AZPH^
+MT^0.AT,G;=U"*1%24&amp;]ET^Q9UB9_! ?P"<xm]oooi['ttt.'(9p()g=@!@ :="" m9?kqy'4)kslq"i<!y,="">&gt;"9R+&gt;0)"MC0L.T.6'?&gt;"9&gt;?W';/SEO 6K)JF. '!
+M?N),^:JQ5KIY&gt;]#W^TJM*N3[?6:9CG)X@"SGNGE[T(^0(.Q_B?SW#[S<u;z" '*!4jiv]7<#[1]t@5+"d'="L" mgr2="">#C&gt;\M]A;A3!*1A'U+$')ZSB:8Q*F)X7Z
+MD %8!C2D_IG;'_32@-1\^0"7!,84F+;<t0.%sn 3o[85*u(::]i![$t+,7^*?c0^0pg="" ?="X=B[65A+1#WF6" mo4(o="" z@9$="">R/5' JEO[S_0;3\_YH%B&lt;$&gt; EG
+M"I@?UQUA&amp;XV0:2FU.&gt;\&gt;Z"8W=RA.Z%5)/ 6SG9E9N I$%K00\=;0YR"&gt;I&lt;5.
+M+Y06M*(V\&lt;,@B?F1G9#LP/=;.$O&amp;],1.-LZO45S2(@=D4D2 XRNY!R&amp;\Q2%
+MD5)/%294E8&gt;UT%8=W&gt;S(]U'/[O5Z]SB!\&gt;T*TO;S;S"&lt;05**N Z612R'%2/.
+M3Q<c4hp>$(^STC\+<t7u>C!#.$M *%_7&gt;T;!=IJ9$QQJY!IKJ\M'?67)B*T$
+M6W)"3'Q(KCL]=E=!^&gt;:0D&amp;S&amp;5ZA,)2:5BX@]^?_A\ES'?R5LY[\$9KK_.NH:
+M^2\AS/QWC?'?M2_Z^4@OQ/[7P+C_4IC9_NNI:^"_E##SOV^,__W23'4I]K\&amp;
+MQOV7PLSV7T]= _^EA)G_ V/\=^U!8:8:RL:_$K8;_Q*8V?[KJ6LT_B6$F?]G
+MQOA/*_&amp;\5^]_#8S[+X69[;^&gt;N@;^2PDS_\^-\;]GG^=GJH$KN_Y3PG;7?Q*8
+MV?[KJ6MT_2<as _="" d5"if&fp#$\<-\df#oav!ql!:794^!.x:\?!3"14(y@"\z"p!'48+#$$="I" m&,)sa[1]nwa="" mhv6sl!*#m="&lt;U5'EDE&quot;R#&lt;JKV=]#!D9.G6I*K9$^PRE7,FX&quot;MFK@-RYY3=IBU" mm="" r_,,;_@7v1c_2l+qo_2man_$m@9onoiz[1^)<09oy?[m="">:3_:$%4D'=<k*0[0*a<;gp*.tyw1zl<>UBCD8MJDG&amp;GV!%RG
+MF[Z:$X+NS*9U7E"0M5^3W-/IH&gt;E^UQV*X)BJ*9\*:E#"?:\<zoue\-w-*64l "l2<="" -k<kpje)#"g,2v6(r?9kb-)v7\s5?kodp.:="" 1<="" 4.(y^z:)ozo9ab5lztb3n"c$eftn8="" m(p^3)2:it="" m4_!;):nq\26rdyf="GN" m[pd)fo@^4*')d&jm9a<k1:b*=",N57L">X-744)&gt;;[ OK@6M3Q1*H^83YE=*$\D-"Z&gt;&amp;NOVVRX'KZ"L*
+MX/U*<!--<E:RY42+[9_'*0BFGH?9ZG_?[*@8V-->@O78IR+1'&amp;V&gt;VE:X7H,ME( 4
+M:WX]Z,EL6!Q2TO8[,0&gt;NE)'O4\EQ]HM)=(55HL 5*D2(,[\ZZN4UK PA8?O]
+MF&gt;-4Q0W]\X%,\4MY^; &amp;):J(/.IDZD$JK5TUY.G:[]4<iq;2ryx'\dcp3[1y m-4a:$!*hj"hjt),i#;7(="O51X&lt;R*Y,.I%,DCCA,0_(">6TAL3%5!4("7@R92'
+M2F"[XB@Q9J4Q-+@TV'0W(A (BD'4Q'=L"DTF&amp;ZX0H6UQD8,O1YF\(LE&gt;! T&gt;
+MGW$DOI64-6&gt;)J3:;['"-&amp;&amp;V7JSS&lt;:9-7'B?06Q$JR&gt;W/IDQP&gt;6]<tlrwq"o- m)cm="(T;;Z2H/=]KD9&lt;8I">P-],EK.,-!R69A6Y:64IO)!JMD:+M;(N'6FKSR
+M=X\+07\-P*)DL *1Y4&gt;(,-GL&gt;DG:E@NIN/$FKP3RF&gt;C+VGL&amp;T0(*]HU4D-(L
+M7H28[+V&amp;J,:S&gt;9&amp;+NV_RZMX_-.P$1NR!H%64+4Z6GVA08K)423 F%X".+.T*
+MD)#Q$C!Y*6^" ^0A)ND;2"!!H'QFEP/XX!&lt; 3':^5I#^P!<p<<]-7k)[))"5 (pgu="NT^J!6&lt;I40)-K05N@=DVH&amp;'EMF+Q25XI_',&lt;K2+0K" ?d+54b="" h7uxd="" m*hr\]'&l*?mj!="" m1="">V;<t(>'GEF+R0MQ'X)81D017^2?!+\DQE+4'T*ESD52(+
+MJ[P2I,FEHB^QX3JOA)(_I63RFN"(%K?/"EQP&gt;RELRS)4:C/9=I4,;:-+)-Q:
+MDQ<!---VIN:,P$!&,Z<:W_@N)1+\$4QGL%8[+E.K(:CO$*&2^!?:T.FO."05V"
+M&[Q-->(*7:\Q.<awp72 &vk="" (="" -n#(uj:-"@'vad="" 1="" 968r,#="" b%7y6tb;y:j_0b4)zhfjr,8$]="" j;*16zp6$+4+(+)l$n,#<w;i?="" m,#,w,%\x:ryh="&amp;WM/6M3VTBVW^=7]/7LSI" m:6$_v+="S?OH?4$L#!!0" miohek(dl="" ng]t*gfb;oq@ws:z="" t="">209\/WU]W1+,K(MV&lt;8!@A-24X.E;G6?=Y_3C]/[_[@;1.A&amp;IEF8
+MQ&amp;]_-7O&amp;KTC&amp;/!%A?/WVU\/+HY.37_]Q\--^/X=J4#7.=N]8&amp;H5O._T\'^[N
+M[-S&gt;WO;4FUZ27N]@P[!VPCC+:<qeizp?a?&7!=55,: 9i="" k="7/U;2]&lt;V?=_?" mt:63jeg85!&:-7?^\_g3)="">_+ &gt;W.PJ.Z%_<?UJ%Q=HK"JFJ8)02;[B)DBQK5
+M!UF:3RH'-&.Z(KR$RIA,6KUK:]!4U ,,Y7_>77RZKYXWU[^ONI.G-,Z")!W0
+M'/BH&gt;C.Z!NZ:N-9(-Y-\JB%X[ETG-PO;,&gt;VNX74MLVIGE'6O*1W.(UD63"$J
+MY R9JQZA8*HB3T9QGHZ;*Y&gt;%TQ^,TA3$M.V+LG0:F#SMYN.AS)J)"&lt;4[JEA]
+M@[N&amp;5&lt;<y3ulep-^!tjib3$.>-8.DBZ;@R4+&gt;7!4*IBOFP[2E)I1,595WO-]&lt;
+M595,4U &amp;+&lt;23P73%L6BI.!93%8'[T:0F'0XCV&gt;/)0%<ql664u=hu6yf8sl% m".ww)17j!_s,psr2!_l[q="_BW7]UN^A3R&amp;6&lt;28'R9!==C@:#,-]&amp;%+U+$RK2" m4%q+=")0,AC0">ZT_TO_&lt;)'PUDG".&gt;2IK#IZ,,C%S]D_.+LR",),*D9^*&gt;V;.Q
+M2^Z_/TJ&amp;XS2\[N&lt;(X+51%P%F=OWS;K&lt;$&lt;"!SBA2:7?G7*+QYVSE*XAQZ[EZ!
+M@'40+Y[&gt;=G)YE^]HM'? Q.X4:/^TSQ(Q1ED^CN3;3@!UNP$=A-%X%QVF(8WV
+MD'Z7A?\G=Y%I#/,]I-KITBB\CG=1) -XPY,H27=1&gt;LVVC&amp;VD_GNSAQCE7ZY3
+MT";1+<m_#o2_ 2#[o@ao4="" ;1a2@b)-8pa?[="" bl?g]y_b%4qn"?h1="" mx='VN@EBFQ4]=6_^$"J=' r[e20b#="" z33d**8#]:d,="T^3JY2J4">5R/&amp;!)]"&amp;BUQW=WP?*
+M\S]\XA)B,&lt;\P;$XD,SUI!9A8TI:V1VS'+HEVEU\HL&gt;653.5)]&gt;N/]Y+E)V#I
+M4\WCP[LP^^/0Z-F&amp;&lt;9KD,GL_DMBPS,]RP&amp;3:.8!:<g]g"m1u(6?4<0+,;2<p m*1&.[="N44^E;M@BHA1E">#W+&lt;,^J08_<i( ^x16ql.e(r8ohf%="SD!L&amp;$VH(8" mmk$="">Y&amp;;/P78-<n<)('>8@PD#\DJ 5TB78F82 1C8# &gt;.9ZX+N&gt;76(?&gt;? /(@
+M #$,N&amp;$1*8EK$VIBSV*V9;BFJ4B_'N16#]CUQ) ;OA"V(XAE^828GO LE_F.
+M1;EA$^D&amp;<et-g99s^pd@ix2!9r=mbs%,#$j9q[dmb02]]0@v_'5i[m0a)_@) 9zaf.+_u@79i[4w*^'lto)7a983x^!l="" m(#<%my@p#6y;+o$qi:z+'1="">"QM?R
+M%$IJH'NV,"UI.-1@8-FQPUR'.I+YA#(#(./+0;_,89!64!]%-,O.@LL\X5\T
+M!C"R#Y)8/U&gt;@GQY&gt;OC_\[Y6!/X1VA6I[AN 2++GE6 X7ED68Z5)*;$K!,IK8
+MQCY?;LP[J'"&gt;WW; X=X-PCLI8/2.(+HYT']6AO X!H]G? 0@IC0ZB86\^RC'
+M-4@%H\*1OD$#BX )%*"4+H6!4V+J"M]; =(#T#S# @_?M^:@VID&gt;T%,92.50
+MR^Q@7\5?NYF.K*!II..QW7ZJ&gt;E$.8+=JOW&gt;7B4Y9K/SJMYTL'(!/"*Z.;K[&gt;
+MIG[,DE&amp;JGW1\N5N"KS%N!+^L)S6AJJ=0J.&lt;@E"G2,,K&amp;@.?HY.,T^K,?'U2O
+MIEL? G4243U!5)GF[T%(#Q10$&amp;MU+:/Z[KYL J9HJ5J55,]5)SM3=%B1+ \;
+MDI^6A"4EY+6"I'@4T-G=, IYF!<p(!%"j9y[z)01y.x\"it#)5j[;8cl[s2v 2'a!(3ob:fm5gs3f-j"r="" _)u%:g8m.8vh+(#\g4ueantyc:@l@="" m="" mf-j"r'?="" r="36D&amp;O3" u="">%%R^3J:TH= ZJ*G.X?/=\?= LP\ODZR)?J1&amp;1'Y2I+9.[F\?4
+M1D1^2*:VSL%N&amp;E-$-E@INY,S]+LU)9_=D1X4ZX@E8M%:D&amp;YVY=JM6P7A7&amp;8
+MJX6K8G%/U=W/AC1&gt;L,35.4#[.ZI.U7;U8;&amp;^-OE5_*X:JB^#&lt;:"&lt;3,NULF7K
+M9_K%;0DM2R)1@%KVT$^K#EB2 K[E"A@JGKHLR?-D $T-[U"61*% +*+\RZ0\
+M3X:[B,P65K0! .XFRW75<mr"e3k4a.2 im="AW%5+?[N(CO)D\BHM">M'O]")C
+M,_5+8I ),6;9\?OIR=7Q&gt;W1Y=7AU?#G-FGL./08_2!L_+H^/?K\XN3HYOD2'
+MI^_1\7^._GEX^MLQ.CK[_/GD\O+D[/1Q &lt;%M@/R;9OTPOLZ3&gt;!N][QWU$#9L
+MXM&lt;[G_J]FKCOLW1G(M(%&gt;&gt;&gt;:&gt;4HQKPOYO.P9^M^<q ^d"$="">#:6TH9+"II!3%
+MIB*M(E,%A?CN(M".4J KA&lt;%*7VY#D??AM_'W&gt;]VI@/PJ!7D6FJ-O+P]&gt;&amp;VP?
+MSBX^H]95B6H+1;&amp;/X7XQPA&lt;&gt;-TVG6!OT X\XA,+_*'%M[#G."HL17O?C_"K$
+MC\&amp;+S=?-C5''E\UO&amp;. NCD^OT,7Q^=G%U0JCR)PLS_I,3PCL^2C-1C3.49Z@
+M2\G5=D%D6NCL IGVEGB#D@!=]24JEXE#F:%JI1@=\EP5@R].GDG')QQ].43M
+M+/4*&amp;G%I]=W,HLUEEOM&lt;&gt;_?'A&lt;]?WX"%&amp;9&lt;6QY@&amp;#C$<qy<,,\l4id4=0?cr j$kz+@[ec3mrkas\%[r(j"rc&vuax[,&_z"xbohx3?a="" m31+3*]\"6n\.x(n^="" mgs\g:+%"7="D.154EVQ=RF*0YVJJ"> ?&lt;(="!'\D;M0$QUL11OOEL#MT&amp;CU_-X
+MEK6PY*$\:N'2UW%,V8K!=8'OVX[C=4HZO.T0^)VE'(+XY#KYH]C(^^?PNH-H
+M!*77*1WV0]XP.'_[, &gt;W1H\K@+9X)\Z%O XSM3L^G]GH)#DQ D,8 ML.&lt;0/N
+M&amp;\(GU/=]:1,9,+&amp;"[WNH2(Q.8MZ;LX3/HJE;QW&gt; B4:YL%T5JHAF*!M*KF;)
+M! IC%.89@D$&lt;3%?Z!*9K8RQ&amp;923LI_9W'T.E<li 1vwma="" nkb,(bcdzea=""><a m%:)z+k#7="" q^r\[rda&dh="">UE2$"@2T6$&amp;=:I?J^Y0GXC Q/"I&gt;;\\O3&gt;$9=%^
+M+BHPZ[RXD6D&gt;<ai5 +],d;o;1w5!q\.4i$w="" 0$ozs-y3^id?k6%="" 4g="" ?u="">"8
+MEL^EZ7O&lt;8!;ACO M1WB!))@%U.3V\DVA4YZ:.A2D9HMS.4R3&amp;P63<m&.@"i0 m*0[i(ho4,ch](kd7="">%I;FD0H25&amp;2]\&amp;9_!/"C$R$.A!I J3%;_;;G*:Y#FMH
+MZK_/A"&lt;8Y+ N&amp;6_FD-O?R&lt;4*&amp;F(;FZXA'\)(0IE:#[I7!\NS B^P+!,'E/@4
+MPA7FV?!(*/6Y1U90AP/#,+N6XY+Y?; O1MC5.GZ89=^9;"N&amp;HH*C\V+]%))8
+M0WB.M&lt;\"P&amp;.IPJ$0J<rr\l^g,)9f32>PBX4M:6!+PR .Y[YIVMCTA$E-M03*
+M5M")LUBBPB\]I^D7]&amp;\Z_K;*L8"6*U'J"'Z&gt;I5?);5P_I"!) %Z["&amp;PFB&lt;,(
+ME8[K&lt;68%!@X$6)(5Z'0T&amp;BJ3&amp;B&gt;SY-ENGT6? DP/8V?I.8R^H3ZD?']NQ;%)
+MX,)@[W"+,&amp;Q04PAF&gt;0%39RBXL_RLT%&lt;-]"N"?YY F]'_AL,9+T52'QO,#SP&lt;
+M&amp;,2W H#?\SU QW1<s+seqx4z![ymf 8\;fys6_a1';:i40i6r'j:0s,a%8v#&"p%9';(@e="" b@+="" m&q4l!2&7v1nt!01="" m3="" us0\]i="DLD550T3($]X9!&amp;2-Y)/LK#">9ABPEF^-SUF+6*0!\0PYN5B#?MDOHI 5?GO ]1W)S;@ -N60$A%O&lt;\XEH8
+M? ?F8V$YW#!\VUSE_(SO.UW3,(UO*Z+WT?HO/WO8=/<r"+8b.518hubco:t\ ay="" l_+w\^p"\(3xk)e51;9'bda6$!s@2h="" m6!4!="UW9?Q31K)H?[JWMZV]^-'Q%[T[*#5I&lt;QSUS&amp;LP)=9E-!?6I0[CD%/32" m8;[t*35="" mr&bd8cu$@2v="" vh\ej:=")CM0\%GB^$">?, 0-)EU,#&amp;(VZ/"+\?Q/&gt;A&gt;]RQXZ'@RC9*PVD'T_[O\T@]%I
+MLE3@?](O)O-!^L]/\$:I=6UOV.-,1&amp;_.?.2SK[G_.<j <="">/5UZ1:%V ?H?6C
+MON1?4-Z7RL:G"3AJ:F*()7&gt;(R2BY5296%2I#C+SN1Q2$D1H)PPR&amp;Q5S&amp;0B&lt;1
+M &gt;L[&amp;$4YC64RRJ(QRD FLV"LORP_2!B 5XAJ4C19FRD'D5!F/1Y794$20&gt;?J
+M.^5OARITSW:?:,ED4K[:7.^Z$[S0DCIH4*0(^0287ZGN.E/J6=?4?*(W*PQ%
+MLR-972"TA#8/:!6 EE-?0EAFNQ9)V((U=F/Q&amp;ON_TS '@5)S-:.XM&amp;I9W?\E
+MTA,.)YB:G!C4HRX.3)N:GN-9OB-76"J:"^A8DD2,@J3E(.^=@U]^]EU"]E89
+MS2;2U#2BS'@9B[E3S.<o8dya6iz%.24 @))u)j!a;;?*q0ata&"[u-e\="">I&gt;*
+MVIRR9;KHZ,,%4L?8H&gt;*;U2DU,T!-5&amp;)FD'K5WY&gt;HOY&gt;)WI(/9/X,(XAJK#[/
+M;+JF%V!I&gt;](F-@M\5^6?L4QJ!(9A^NZK\GX]9^X9 +Y)P8%YS34)[9JXIKQ3
+M^\HFJDN,7E'S57M_#.T]3Z4:&gt;55*$;U%67EVZ5D03 6-@2VEZZI]R8P39E%F
+M@P)SX5*EU:Y&lt;(6A\U&gt;)E' )&amp;='F-$TO'8I.(+MYB;U;3Z:+NJU;_D%I]DF4C
+MF3;K-@$MMJGP;&gt;8)@HGT'9\0CV)IFI;%_&gt;4Y!%]U^PETVY)=LL57T^VR[M/K
+M]C??J=BZXVWES:@+IJ*:X)D^NO@-#V#40JU43Y_(5(HIN9F&lt;)M!C0CF= K(R
+M-WOR*#-3KQOL5MM@9S4M*12SG8^\JK!@QOA*90$N]M/S?C%RKKM$8C5MARKQ
+M:&gt;G]L9$$?(KDCRC3V1^WLK47?"S2\\D+0.BTW$.L^2,K0P_*?-L/X<v]qc]l ::22p]+s@pg(%bnd*_w03eo="" mbe="(O]M&amp;?].I1PP3#6F*;F@TDFBHTB[T:3J?U/(ABV" mho]%rnf3k'y5:35-s+2pu_="" u,n%9q&(^82za="">/H*X;P-:I+*_U14QL
+M6,2W7.[3@%B2,&gt;KYS#5MWV.F("OLU'H83P\/SS\]"[&lt;6FZ,7Q+!Z#&gt;7R=\.[
+M;I'Y='&gt;U/+8'ZI3C*<t$_:o0%?29ie]dccy].fhxr "c^-'6st$!^tmvz!="" 9="" mf<+,q%(r*3sf$,^cgn="" n="">R @+WR W?-%-&gt;M*9QTP=^1+D("S)(JG-^2\_4^
+M00/-5I"?I6FS#_2V';PWB7D&gt;9;Q_- :WI'=V3=.VI&gt;&lt;9?L")@SV/2.QQ0J04
+MIF#&gt;VIFIFYD\%Y<ksz+:pka0_q:)p0;j%a6vspqbjm-f!$8(zajv8sg,hk[a #wi"="&lt;;-L0#('+'1#A/?(E.KC!9W1?L*XMNV)H,W4-QB[,&amp;#&amp;P1QWBN]@W" '1u@"8\')c<?^4z45utkr6z#8vu8cle="M8" )<1wl="" ;="UV/&lt;-" c+37w6m.o1$(*9e@8%-rheg,0\&-dk!0_)="" m="&lt;&amp;,KODO5]" m6\&:epvtii+5!4mu:\:z?3m="6YHN?3-U308\$)0S:@N/,#&quot;M'%-+VM3R;2JQ" m;!n30(="" mjvm++p_93%w#,(:!ch'w'4@2n);="" ml^8]#6u,?]6uzir58q="" ts!;oi'e88d[="" u1wk*bmlnmes="" yl):oek_l%s<nf!&uyr7="">67BVUF;IF!8%T3,]1=TT1RGP?0[P&amp;4B#!KW2(M&gt;;M36U,?]6U
+M2M&gt;XC\%CY\RV;1)PF]D"+#BU"/8LBXLU=:TU][PNV!Q=6WH9VF;J&amp;E-GSSV
+MF-+CQ+$A8I?J;L/ =B4@2=8,TMN8_JIK51)*EQ@20A%;F))0 4X38R8,;#ZU
+MB6.L&gt;RE@:Y9Q73"M:Y;Y<g5mz06;fzek,#x'x .ra="" @3&n6o*@="" ]5="&lt;JLONVCUUB" ef="" m:t^(-3="" u;mf2v="">EPX8.&lt;<sw:x)1t[l'p<>"L<g'_8[4>Z8%K7"'ZY
+MNK;TPLG-U#6PI*9KNP:W/9&lt;$%%,&amp;K&amp;:&lt;"\NFIA70QV7ZL^B:_C-_@/#K=SF]
+MX"R,&amp;[C#[$4=-SR)A=KN*!$;(ZZ/'@Y4AI3;OM1YJ&amp;;.!889 CF0((O7:J,/
+MT/,V[ZM=D^IN<i5?3\@@c(ol>L7!),.N]KS-G$HJ4N9::.N7GTW'W=.'DZK*
+MH&lt;[+-U1Y^=0I\V+K)69=7+95BL&amp;2;+R3IM5FS/NO:XWWGG$K9;E#&gt;36N'+=0
+M&gt;,DQ\^JSW_17Y97Q=:=2&amp;KYO.K8/00DAW&amp;,VE]BRW8#9)CB<z^1@67% \1.?="" m%'t<75@.u$fp0="" y58hi&90kgsm?v055d)'d.ja(g="">I_H*).Z%H!?GN*%FEFH
+M]XX6EY@HVNN^HK'J_#;,^[5A5HE'+&amp;^5OJ3R)LR@!5!%&amp;G-U[ @&lt;295]3V_.
+MRVDL:"JRXB2O:-NN:FW1R7;5NG;U6D_HEU2<b$#i#<se*wxt?dvp+t1j)l=l mo4.t\ktg<u="">;U ^NSUV*\FWN/5DE;RZ/)$VU-]6?-%/@H/&lt;7E6\FM[UH@E:'
+M-]Y=G'\XI]?R72KI%Y7YIM.D:$.HT66J2I&lt;&amp;N2(HC6[I.&amp;MI9]$=--URX"ZH
+M. ]YP1:C-L07.XBG!O_5!_PE)*PC.R-C=8&gt;\18:+[<k-:6 *-rw[pn:l="" 1z+x<ts4="" jbk="" m4bx'r.x9n%*v10k:w="">IWN_Z/DS!#"1IIJS)$3CH-(QG=GR=Z611
+M:;:'CJ/29-0_W%/IUI(PSO6Q"B@I6ZE]IX8G&amp;6&lt;4JH\!CE09&amp;%4[:ZK&gt;:[0C
+M#QA.VJT6+KVL)GLU9T6&gt;K[-'[JHI<?RT$*^]+W&*.NWBK=_ " DLWD5=F]3,
+M4&'R[+8+FQX(QDJZ^3@;,.=N5UJ<^+RP-O.^S/R ]:2RT"YVSR!T*W6!%K7Y
+M<.MVF*F-WMH.W6<GGR08VU*_L+&GBZJW^IVY]P:\)/"FBBPJ-(YA..'@,1WU
+M0QF@#Q/_JC134SY;1.-M--4F>I&gt; XS5M8&amp;EA)J68",)'&gt;0/XG=-4?NEO(]O:
+M5G'5=#N7,@[!,O\/](G.4YGIR_^VVZ#:1C((E(V^D&gt;A?-!Y1L+&gt;FOJO"[J'/
+M::_L"V4CSJ4$Q_#3B%/TF4IP5D,5R2D7,$V*HRI''\YZ,Y[6U%.MO3\3'0H6
+M%(=F_C6*U5R7:0$A!2"507 @D(['1FFJQHEA4A)/U2XAG05S0H2*,9.O@)CY
+MI#&gt;5(4[.4&gt;B&gt;-N? GEBGD -8#F,:C3,=W(J6;Z3VOB]I)+/M<gx&om[67uq( m&*nbwh0&yzgb#cc3b@*j#pw4='ITV?1D)=$-3C4!6L#/2]P]F_7"HJ:W1N'>HG
+M@PP(<b%'x&(5 '!rtk$@?]="" ms42@.u&h[h-k%9l";9"*4(4qx76hchs!qtk)0i56,i="" xf8yd""i\3)4$k<f-"-d![!!]g-%+4o:4j;q="">5W-SK&amp;T015:;)(YKU
+MU3N5, L&gt;%2\T&gt;8,PXP";NEM%]Z..VJA&amp;,G4.AU'-H5E=*/)EJTA8S.6R3+/M
+M"2E4N(0HRF'$D6 )ABHEW2B&amp;H%E/%ZA%??@+?<b*-$r3!"!0$ij' m,2si4o"i"?15e40qh&yb;l%"0+="" xv2^@vb="">6L^TZK@K\=, -I.H6\*1:*W7@F.FY0H7#
+MO0V[N/Q]8KH*+I4M*03*)E2=9G(7IUI+0SO-O75\2F@35ZG&gt;9#FUJ7A]KREJ
+MYG,&gt;1PT@D$=?@RI&amp;42&amp;9-^K"&amp;6#'&amp;1A.==].(8ON-M@M]B?P0]51,(.&gt;#+(J
+M<m7t1 0ze='JW[*%W,K^5,D;&amp;WS5UL)J)+^N6HE%DF=1)4ILA&amp;]"Q!F:[D*F\' awcfr#0,%:3*="" m*:y2h2y_h8="" mp$$),\0z2$@%@+9\$pf:em@\r6dt(8$^<]0'!t.jp!t\\!c^1%2+%v!4s"vh="" p6"8%s<08;^x@0cj0="QSW:\7V06U">IKDL\+0
+M3&amp;OH4/ZE;$48JZRX4&gt;F<q\5q.#v6if%tsx?zhu<(7_v57^?4! mjh[jii4"y71(k="" ve'%nd1x5x=""><a 9mi\e<3(&jv1@[b^xq]dszu<ls;$dt[h)2b5ir@0mq+="" m9l'h="" w8[0zp4kqh\="">K"+QTB48SYJ:OS&gt;-<g[8 9odq&,#pp,#'="" @3="" mc8v2k.8mu.="N=!Q(#+.\L.Q&quot;7H\*V-!E]V/!D+R.@?96*&quot;_&amp;SA;('P)4$S&quot;D" mg$::!j8ig%m\f:lqx\$^8")\='F)@[36/Z&lt;G"]' nfp*,="">[S&gt;A ZKY,X:T_B/,D)O,N3
+MWTX/KWZ_4)&lt;&amp;/PZG'Q8)/9_D?&lt;6L;/TJ11TY%-9B,K4SLQ;4M'*SW31?#H/3
+M&amp;'$ZTHYJX8?I6^D*(Y0!J,5@J]PA)OLT"M0TO&amp;I(NS5E!67_1FI04,V51*2C
+MO)^D@(-894'H6_#U(: 4+:P#]X^1^J']YAC5DZ+*VX[9 =?^MOJ]VOG&gt;VN32
+M U&gt;5U+6*NY,8R]HN#Z;5YG)+6WQU\=O%Q=6'//GGU&gt;=/5Y1-. !#\#"B8W4Y
+MO;ZKGD6)6IZ8FG*K6UYL.@^8LD(STE)_OUH"[Q:*SU.K3O9[=N!5J%B?V3$=
+MHWD[ROJ[DUK%9C6SV"I;%;"/0,BE,*S=+_&amp;&gt;MN,7P9;'8&lt;7#K&lt;72@&gt;'=&gt;'==
+MS6MGW,RZ)YXL;3;;V<?#9B?;01^I"D1"=2N/H(-E66^^(^E8D4:/I)SUM>OG
+M8_ &amp;,O&gt;[L\BMG30O'2S&gt;;?HB6+2)^K=@R\I:RK8TH6&amp;U-*#NVLQDI&amp;=P(-9*
+M90Z&gt;96O^EJ&gt;ZIJ)E\?'KUP+7CI3P?*3TD)UH;2A4H+1L2_W66U%KOU9=WYU&amp;
+M=+)2S!(Q5G_[^2 Z^']02P,$%     @ VX,C6CDMG_(]!   \ 0   X   !L
+M;V=O7V%P&lt;&amp;QE+FIP9_M_X_\#!@$O-T\W!D9&amp;1H8$(&amp;3X?YO!F8&amp;#C8V=C96#
+MG9V=DY.#BT&gt;$EX&gt;;FT=22)A?1%9*7DY62D9&amp;045/74%)1UE&amp;1L-&lt;4\? T,3$
+M1%[=TM;"R$;/V,0(9 @C)R&lt;G#S&gt;/!"^OA)&amp;BC*(1R&gt;#_ 09!#@8;AC!F1B4&amp;
+M)D%&amp;9D'&amp;_T&lt;8Y!D8&amp;%D9P8 !"AB9F%E8V=@Y.+FX@0JV"C P,3(S,[$PL[*R
+ML !E:X'R#"R"K$**AHYLPH&amp;)[$J%(D:-$Q=R*#MM/"@:=/&amp;#BG%241,GEYBX
+MA*24JIJZAJ:6B:F9N86EE;.+JYN[AZ=7&lt;$AH6'A$9%1R2FI:&gt;D9F5G%):5EY
+M1655&lt;TMK6WM'9]&gt;DR5.F3IL^8^:L18N7+%VV?,7*59LV;]FZ;?N.G;L.'3YR
+M]-CQ$R=/7;I\Y&gt;JUZS=NWGKXZ/&amp;3I\^&gt;OWCYZN.GSU^^?OO^X^&lt;OD+\8&amp;9@9
+M80"KOP2!_F)B86%F80?YBY&amp;I'*1 D(55T9!-R#&amp;0/;%06,FHD4/$:&gt;+"C0&lt;Y
+ME8V#/H@F%5WD$E,Q&gt;:CZ$&gt;0UL,^(\U@363Z#&gt;PSAKUL,/,R,P,AC%F2P9_C^
+M2V-1 Q&lt;('_YHWUU2SY&amp;Y/_?JNQ:/"A&gt;9W?,=K*\]K5GY&gt;'6]4(W'C\6UZ&lt;MO
+MWO'G77/LEOR4CD&gt;A%CK^CI,G.\@[5 @?-]MGO6'WWLU;9MV34/UTY73/?LGS
+MHE&gt;OFS[PYSSXX#QW=*;AALJ0_%F.?_RJ_HE&gt;NL#H*A( PZRRR6%;+FSI7NOW
+MRU%VZY;4N_N77[E^:I[AC^./XH7B3FT+G_1R5YU'GW39K2-5F_F*X];^=GT5
+M=.N'T:%C9EK3R^OW'"]HMOASXL_J9U8,KTKR.^[I7EC'LFW6T]L\3X[;M+G8
+M-X?MV_YQ^K&amp;H*W;^WYINNKF?T;E\6O&gt;K;7W4YU\:S%F7C_Y3WKA37.S6LP63
+MFN?\7=A7MV!&gt;]LO_#"UR^M?W1#Y\/CMZLU:28O*&gt;8Q&lt;M?E5U_8QWN'QL]2-&gt;
+MNX-]8H]*&gt;OYRKM]I\IJ[5M]O^Z:MO&lt;EM(ARK%C&gt;P,D0MZM)@@&amp;+FX_899VW?
+MV8@G5C5K9U&gt;V?^-9DOZ9:5_R^ITVL0M&lt;'_5S95G9[)#/;%EE^$]&lt;9N4?#M&amp;/
+MLG][C\VNMYUZ)\VZ0\7P1$L1A\4"KB^!K@Q1E_.77"ZUCGZQ[X_0FN8/ENNW
+MU:@_RN87?6'VJ[?GU,,+E1W\&amp;G&lt;/BGYX6MW_YNW"^+.K[[U6BUR\H=5F06-'
+M9,SO\@/_2AB_E(H$.K#"&lt;,7]HT"?7JJ8YKSN1&gt;#Z;Q-B_/G]+?A:JJ]O"G20
+ME\OXS\"^)WWUW4IW[VH7=E[5@USL/Z[]6_K;KF+5N0MG&lt;VV7/FZ&lt;+&amp;3(_N%L
+MK:&lt;K0TWK@AJ9CWGK5ZMNO39;M7='_KWS9@S,^VRS7_7S5=2=/BPENFUJ0F-B
+M8^&amp;\-]63WV6'=3%H+(+@_S&lt;!4$L! A0#%     @ VX,C6HJAK+ &lt;!   _!8
+M !$              ( !     &amp;%A&lt;&amp;PM,C R-#$R,S N&gt;'-D4$L! A0#%
+M  @ VX,C6H9O'C!V!P  14T  !4              ( !2P0  &amp;%A&lt;&amp;PM,C R
+M-#$R,S!?9&amp;5F+GAM;%!+ 0(4 Q0    ( -N#(UH]XQ9SHPL  'R#   5
+M          "  ?0+  !A87!L+3(P,C0Q,C,P7VQA8BYX;6Q02P$"% ,4
+M" #;@R-:$-Y&amp;[8,'  #I5   %0              @ '*%P  86%P;"TR,#(T
+M,3(S,%]P&lt;F4N&gt;&amp;UL4$L! A0#%     @ VX,C6IHT* ?:&amp;0  ;:L  !$
+M         ( !@!\  &amp;5F,C P-# S-S!?.&amp;LN:'1M4$L! A0#%     @ VX,C
+M6CDMG_(]!   \ 0   X              ( !B3D  &amp;QO9V]?87!P;&amp;4N:G!G
+64$L%!@     &amp;  8 @P$  /(]      $!
+
+end
+&lt;/TEXT&gt;
+&lt;/DOCUMENT&gt;
+&lt;DOCUMENT&gt;
+&lt;TYPE&gt;XML
+&lt;SEQUENCE&gt;18
+&lt;FILENAME&gt;ef20040370_8k_htm.xml
+&lt;DESCRIPTION&gt;IDEA: XBRL DOCUMENT
+&lt;TEXT&gt;
+&lt;XML&gt;
+&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:aapl="http://apple.com/20241230"
+  xmlns:dei="http://xbrl.sec.gov/dei/2024"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:us-gaap="http://fasb.org/us-gaap/2024"
+  xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+  xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+    &lt;link:schemaRef xlink:href="aapl-20241230.xsd" xlink:type="simple"/&gt;
+    &lt;context id="c20241230to20241230"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A1.625NotesDue2026Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A1.625NotesDue2026Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A0.875NotesDue2025Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A0.875NotesDue2025Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A3.600NotesDue2042Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A3.600NotesDue2042Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A2.000NotesDue2027Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A2.000NotesDue2027Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A3.050NotesDue2029Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A3.050NotesDue2029Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_StatementClassOfStockAxis_CommonStockMember"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis"&gt;us-gaap:CommonStockMember&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A0.000NotesDue2025Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A0.000NotesDue2025Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A0.500NotesDue2031Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A0.500NotesDue2031Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;context id="c20241230to20241230_DebtInstrumentAxis_A1.375NotesDue2029Member"&gt;
+        &lt;entity&gt;
+            &lt;identifier scheme="http://www.sec.gov/CIK"&gt;0000320193&lt;/identifier&gt;
+            &lt;segment&gt;
+                &lt;xbrldi:explicitMember dimension="us-gaap:DebtInstrumentAxis"&gt;aapl:A1.375NotesDue2029Member&lt;/xbrldi:explicitMember&gt;
+            &lt;/segment&gt;
+        &lt;/entity&gt;
+        &lt;period&gt;
+            &lt;startDate&gt;2024-12-30&lt;/startDate&gt;
+            &lt;endDate&gt;2024-12-30&lt;/endDate&gt;
+        &lt;/period&gt;
+    &lt;/context&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.500NotesDue2031Member"
+      id="Fact_947443b8005c4eb18e3f243e5e584565"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A2.000NotesDue2027Member"
+      id="Fact_ba66f2c56f1a4d6595acae935dfa32b2"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.625NotesDue2026Member"
+      id="Fact_bfc345216eeb4191adc1c0424a5d4050"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.375NotesDue2029Member"
+      id="Fact_6b624ba32ec04de7a2b14d91a5b2f681"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.050NotesDue2029Member"
+      id="Fact_ff203fc034ee4754a1283b5307110424"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.000NotesDue2025Member"
+      id="Fact_09dd56d43394418d837b963ac054e7fe"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.600NotesDue2042Member"
+      id="Fact_a4b006e53bb240aab8cc5e4e66f84209"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:NoTradingSymbolFlag
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.875NotesDue2025Member"
+      id="Fact_1dc3bd10c537492aa7726a12a8069e9f"&gt;true&lt;/dei:NoTradingSymbolFlag&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_StatementClassOfStockAxis_CommonStockMember"
+      id="Fact_85d13e06a0b74426b76a6eb94ab0123c"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:AmendmentFlag
+      contextRef="c20241230to20241230"
+      id="Fact_ef2c3636cd334b17aa45aa1ad12529c2"&gt;false&lt;/dei:AmendmentFlag&gt;
+    &lt;dei:EntityCentralIndexKey
+      contextRef="c20241230to20241230"
+      id="Fact_dbad6e90af344ded9447aeb1e2a7d982"&gt;0000320193&lt;/dei:EntityCentralIndexKey&gt;
+    &lt;dei:DocumentType
+      contextRef="c20241230to20241230"
+      id="Fact_d9d8c1163394419f8464a846a4752866"&gt;8-K&lt;/dei:DocumentType&gt;
+    &lt;dei:DocumentPeriodEndDate
+      contextRef="c20241230to20241230"
+      id="Fact_92bce3c22af640669eb2b31d13a6d4c9"&gt;2024-12-30&lt;/dei:DocumentPeriodEndDate&gt;
+    &lt;dei:EntityRegistrantName
+      contextRef="c20241230to20241230"
+      id="Fact_ec40f0d0d25647fc90d94a999e54efbd"&gt;Apple Inc.&lt;/dei:EntityRegistrantName&gt;
+    &lt;dei:EntityIncorporationStateCountryCode
+      contextRef="c20241230to20241230"
+      id="Fact_139ce198c0b34c6d936d8fe42bfa1c5f"&gt;CA&lt;/dei:EntityIncorporationStateCountryCode&gt;
+    &lt;dei:EntityFileNumber
+      contextRef="c20241230to20241230"
+      id="Fact_383f8f3312fa49a3a6b853314aa9c84f"&gt;001-36743&lt;/dei:EntityFileNumber&gt;
+    &lt;dei:EntityAddressAddressLine1
+      contextRef="c20241230to20241230"
+      id="Fact_272d5eaf5e0046cc9115218d1a12019b"&gt;One Apple Park Way&lt;/dei:EntityAddressAddressLine1&gt;
+    &lt;dei:EntityAddressCityOrTown
+      contextRef="c20241230to20241230"
+      id="Fact_8e4f564df5be46b4ae678cb3f02fd3a6"&gt;Cupertino&lt;/dei:EntityAddressCityOrTown&gt;
+    &lt;dei:EntityAddressStateOrProvince
+      contextRef="c20241230to20241230"
+      id="Fact_a654f79ce6c34b20a1ddb38fb4ab0c64"&gt;CA&lt;/dei:EntityAddressStateOrProvince&gt;
+    &lt;dei:EntityAddressPostalZipCode
+      contextRef="c20241230to20241230"
+      id="Fact_ea920b9f82f0493fb20898f791672b8e"&gt;95014&lt;/dei:EntityAddressPostalZipCode&gt;
+    &lt;dei:CityAreaCode
+      contextRef="c20241230to20241230"
+      id="Fact_f3260ff5c36343e1b823bdb09c78b364"&gt;408&lt;/dei:CityAreaCode&gt;
+    &lt;dei:LocalPhoneNumber
+      contextRef="c20241230to20241230"
+      id="Fact_2fc33f443c884732a49b92d36c009512"&gt;996-1010&lt;/dei:LocalPhoneNumber&gt;
+    &lt;dei:EntityTaxIdentificationNumber
+      contextRef="c20241230to20241230"
+      id="Fact_c4a7b5ada9a64ceca2416b9e9aa0009c"&gt;94-2404110&lt;/dei:EntityTaxIdentificationNumber&gt;
+    &lt;dei:WrittenCommunications
+      contextRef="c20241230to20241230"
+      id="Fact_f4e8d6c42a1c40a8a72f15a1868396ed"&gt;false&lt;/dei:WrittenCommunications&gt;
+    &lt;dei:SolicitingMaterial
+      contextRef="c20241230to20241230"
+      id="Fact_31718f2e58e545bf97a32e31a0f00197"&gt;false&lt;/dei:SolicitingMaterial&gt;
+    &lt;dei:PreCommencementTenderOffer
+      contextRef="c20241230to20241230"
+      id="Fact_f5ee77a475bc4b3ab51a0cd7a8e547ec"&gt;false&lt;/dei:PreCommencementTenderOffer&gt;
+    &lt;dei:PreCommencementIssuerTenderOffer
+      contextRef="c20241230to20241230"
+      id="Fact_47a85ad95b8d424e969448a2e1133c95"&gt;false&lt;/dei:PreCommencementIssuerTenderOffer&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_StatementClassOfStockAxis_CommonStockMember"
+      id="Fact_bbd8343b94b74af2aece82ecb06f42e0"&gt;Common Stock, $0.00001 par value per share&lt;/dei:Security12bTitle&gt;
+    &lt;dei:TradingSymbol
+      contextRef="c20241230to20241230_StatementClassOfStockAxis_CommonStockMember"
+      id="Fact_c2034937c9af43ebba89b71598b1d49b"&gt;AAPL&lt;/dei:TradingSymbol&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.000NotesDue2025Member"
+      id="Fact_2b12eebed8b6488a8dc7a65f4aec9f74"&gt;0.000% Notes due 2025&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.000NotesDue2025Member"
+      id="Fact_71155e8809fc462884e28c44eed1db8f"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.875NotesDue2025Member"
+      id="Fact_ad59b0410d254b1da705636b3a9093f2"&gt;0.875% Notes due 2025&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.875NotesDue2025Member"
+      id="Fact_efcfdacba5d84beebc2a3e5a395ae260"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.625NotesDue2026Member"
+      id="Fact_1654597784c54b6e86d435723785cd3d"&gt;1.625% Notes due 2026&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.625NotesDue2026Member"
+      id="Fact_2c444be8b1fe4f739c6ecb06d8cf1c10"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A2.000NotesDue2027Member"
+      id="Fact_526b0361c72c4c8e8d7255ba8442f4d8"&gt;2.000% Notes due 2027&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A2.000NotesDue2027Member"
+      id="Fact_e262bb4028a64972905524fd4a576278"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.375NotesDue2029Member"
+      id="Fact_8485dbf021ac483b886daa0698f4d2b7"&gt;1.375% Notes due 2029&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A1.375NotesDue2029Member"
+      id="Fact_3ffe61863b534ab992e28dbfeacb643e"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.050NotesDue2029Member"
+      id="Fact_8c92beecb5554fc5b5da4da342833cd7"&gt;3.050% Notes due 2029&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.050NotesDue2029Member"
+      id="Fact_b14aa8541e8c46559be443bf57e75442"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.500NotesDue2031Member"
+      id="Fact_d740e4195d1e4adba6bb1aa09a546081"&gt;0.500% Notes due 2031&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A0.500NotesDue2031Member"
+      id="Fact_7a2f5ac35eb54cecacc71efb91f500a2"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:Security12bTitle
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.600NotesDue2042Member"
+      id="Fact_795927418cd641e6856c3e65f392f8a6"&gt;3.600% Notes due 2042&lt;/dei:Security12bTitle&gt;
+    &lt;dei:SecurityExchangeName
+      contextRef="c20241230to20241230_DebtInstrumentAxis_A3.600NotesDue2042Member"
+      id="Fact_09a17570c5874fa2abf8abccd35a13fa"&gt;NASDAQ&lt;/dei:SecurityExchangeName&gt;
+    &lt;dei:EntityEmergingGrowthCompany
+      contextRef="c20241230to20241230"
+      id="Fact_de099165930744c8b5ce2357fb51d744"&gt;false&lt;/dei:EntityEmergingGrowthCompany&gt;
+&lt;/xbrl&gt;
+&lt;/XML&gt;
+&lt;/TEXT&gt;
+&lt;/DOCUMENT&gt;
+&lt;/SEC-DOCUMENT&gt;
+</g[8></a></q\5q.#v6if%tsx?zhu<(7_v57^?4!></m7t1></b*-$r3!"!0$ij'></b%'x&(5></gx&om[67uq(></k-:6></b$#i#<se*wxt?dvp+t1j)l=l></z^1@67%></i5?3\@@c(ol></g'_8[4></sw:x)1t[l'p<></g5mz06;fzek,#x'x></ksz+:pka0_q:)p0;j%a6vspqbjm-f!$8(zajv8sg,hk[a></t$_:o0%?29ie]dccy].fhxr></v]qc]l></o8dya6iz%.24></j></r"+8b.518hubco:t\></s+seqx4z![ymf></rr\l^g,)9f32></m&.@"i0></ai5></a></li></qy<,,\l4id4=0?cr></q></mr"e3k4a.2></p(!%"j9y[z)01y.x\"it#)5j[;8cl[s2v></et-g99s^pd@ix2!9r=mbs%,#$j9q[dmb02]]0@v_'5i[m0a)_@)></n<)('></i(></g]g"m1u(6?4<0+,;2<p></m_#o2_></ql664u=hu6yf8sl%></y3ulep-^!tjib3$.></qeizp?a?&7!=55,:></awp72></t(></p<<]-7k)[))"5></tlrwq"o-></iq;2ryx'\dcp3[1y></zoue\-w-*64l></k*0[0*a<;gp*.tyw1zl<></as></t7u></c4hp></t0.%sn></u;z"></xm]oooi['ttt.'(9p()g=@!@></ir7eq?[96!clg#zo9[k_></f4n></bb[cwsc1@%7j)qk*></i&swf></bjzc']c60></i2></ao&z#"f7!ua36*s48t7z)umw2:[.jka;eji1]></laat@'></t]></bhtjs8g1*$9[ks></wp99tcn&+e')rvsc9<w("bo+s?n%n44f1=lq5^'&]17d'></b\za.3'_=\></b6c&\\></r)%!w&7$4></b6x[ot['2z]m8;%hd4[0?^'(<\rco></s_></xzv?+'*wv6*x]ow[s></m7xz]2></k9+.<_8)1k8></vet$er9!d\4=kc@l></od.o.%8+#u></g&"7m?fvium></q96.zzg+c^e);8\g?.[hw[_!c-(+y></z@r%$l*-z3869q></w6_)'<$_t;jxj.6jd:k@ej0?a+></s(zp4.></qj2<'y6c1j'?f^.?;@"1*xx></bw*t.#$ewll,0^[e></s,!></f@></y"7q][=3%gs0></i)&#2+ip></v3-6$v></text></description></filename></sequence></type></document>
