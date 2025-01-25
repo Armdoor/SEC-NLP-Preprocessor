@@ -1,4 +1,4 @@
-from parser import find_case_insensitive, read_doc, header_data, document_data, normalize_filing_docs, parse_html,construct_master_dict
+from parser.parser import read_doc, header_data, document_data, normalize_filing_docs, parse_html,construct_master_dict
 
 
 def main():
@@ -19,3 +19,4 @@ def main():
 
 
 main()
+# {'style':'page-break-after:always'}

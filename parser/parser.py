@@ -1,5 +1,4 @@
 import re
-import requests
 import unicodedata
 from bs4 import BeautifulSoup, Tag
 import copy
@@ -66,12 +65,19 @@ def find_case_insensitive(soup, tag_name):
 def read_doc(path):
     with open(path, 'r', encoding='utf-8') as file:
             response_content = file.read()
-
+    print("Type of response_content", type(response_content))
+    print(response_content[:100])
         # Use the HTML parser
-    soup = BeautifulSoup(response_content, 'html.parser') 
+    try:
+        # Attempt to parse with lxml
+        soup = BeautifulSoup(response_content, 'lxml')
+    except Exception as e:
+        print("Failed with lxml parser. Retrying with html5lib.")
+        # Fall back to html5lib if lxml fails
+        soup = BeautifulSoup(response_content, 'html5lib')
     tags = (soup.prettify())
-    # with open("tags.txt", 'w') as file:
-    #     file.write(tags)
+    with open("tags.txt", 'w') as file:
+        file.write(tags)
     return soup
 
 
@@ -141,9 +147,9 @@ def header_data(soup):
     }
     header["sec_header"] = parsed_pre_head
     header["filer"] = parsed_filer
-    # with open("header.txt", 'w') as file:
-    #     for k,v in header.items():
-    #         file.write(f"{k}: {v}" + "\n")
+    with open("header.txt", 'w') as file:
+        for k,v in header.items():
+            file.write(f"{k}: {v}" + "\n")
     return header
 
 #############################################--DOC DATA--########################################################
@@ -151,8 +157,37 @@ def header_data(soup):
 
 
 master_document_dict = {}
+def check_style_match(hr_tag, style_condition):
+    """
+    Checks if the <hr> tag matches the given style condition.
+    """
+    style_value = hr_tag.get('style', '')
 
-def document_data(soup):
+    # If the condition is a lambda function, apply it
+    if isinstance(style_condition, dict) and 'style' in style_condition:
+        return style_condition['style'](style_value)
+    
+    # If the condition is an exact string match, check if it exists in the style
+    if isinstance(style_condition, dict) and 'width' in style_condition:
+        return style_condition['width'] in style_value
+
+    # If the condition is a plain string (e.g., 'style': 'page-break-after:always'), check for exact match
+    if isinstance(style_condition, dict) and 'style' in style_condition:
+        return style_condition['style'] in style_value
+
+    return False
+
+def find_thematic_breaks(all_hr_tags, styles):
+    thematic_breaks = []
+    for hr in all_hr_tags:
+        for style in styles:
+            if check_style_match(hr, style):
+                thematic_breaks.append(hr)
+                break
+    return thematic_breaks
+
+
+def document_data(soup, styles):
     docs = soup.find_all("document")
     # print("Styling", style)
     # header = header_data(soup)
@@ -195,7 +230,7 @@ def document_data(soup):
         else:
             print("No description found")
             document_description = "No description"
-        print(document_id, document_sequence, document_filename)
+        # print(document_id, document_sequence, document_filename)
         master_document_dict[document_id] = {}
 
         master_document_dict[document_id]['document_sequence'] = document_sequence
@@ -217,10 +252,67 @@ def document_data(soup):
         else:
             print("No text found")
             continue
+        # for style in styles:
+        #     thematic_breaks = filing_doc_text.find_all('hr', style)
+        #     if len(thematic_breaks) > 0:
+        #         print("Thematic breaks found:", thematic_breaks)
+        #         break
+        all_hr_tags= filing_doc_text.find_all('hr')
+        thematic_breaks = find_thematic_breaks(all_hr_tags, styles)
 
-        thematic_breaks = filing_doc_text.find_all('hr', {'style':'page-break-after:always'})
-        all_page_numbers = [thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
-                        for thematic_break in thematic_breaks]
+        if len(thematic_breaks) == 0:
+            print("No thematic breaks found  " )
+        # thematic_breaks = filing_doc_text.find_all('hr', {'width':'100%'})
+        # if len(thematic_breaks) == 0:
+        #     print("No thematic breaks found for ", str(style[0]) )
+        #     thematic_breaks = filing_doc_text.find_all('hr', style[1])
+        # print("Thematic breaks", thematic_breaks)
+        # print(style)
+        # for thematic_break in thematic_breaks:
+        #     print("Thematic break:", thematic_break)
+        #     print("Parent:", thematic_break.parent)
+        #     print("Grandparent:", thematic_break.parent.parent if thematic_break.parent else "No parent")
+        #     print("Previous sibling:", thematic_break.parent.parent.previous_sibling if thematic_break.parent and thematic_break.parent.parent else "No grandparent")
+        # all_page_numbers = [thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
+                        # for thematic_break in thematic_breaks]
+        all_page_numbers = [
+            thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
+            if (thematic_break.parent and thematic_break.parent.parent and thematic_break.parent.parent.previous_sibling) 
+            else (thematic_break.parent.get_text(strip=True) if thematic_break.parent else None) 
+            for thematic_break in thematic_breaks
+            if thematic_break.parent and thematic_break.parent.parent
+        ]
+        # for thematic_break in thematic_breaks:
+        #     try:
+        #         parent = thematic_break.parent
+        #         grandparent = parent.parent if parent else None
+        #         previous_sibling = grandparent.previous_sibling if grandparent else None
+
+        #         # Log the parent and grandparent structures for inspection
+        #         print(f"Inspecting thematic_break: {thematic_break}")
+        #         print(f"Parent: {parent}")
+        #         print(f"Grandparent: {grandparent}")
+
+        #         if previous_sibling:
+        #             page_number = previous_sibling.get_text(strip=True)
+        #             if page_number:
+        #                 all_page_numbers.append(page_number)
+        #             else:
+        #                 print(f"Previous sibling exists but contains no text: {previous_sibling}")
+        #         elif parent:
+        #             page_number = parent.get_text(strip=True)
+        #             if page_number:
+        #                 all_page_numbers.append(page_number)
+        #             else:
+        #                 print(f"Parent exists but contains no text: {parent}")
+        #         else:
+        #             print(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
+
+        #     except Exception as e:
+        #         print(f"Error processing thematic break: {thematic_break}, error: {e}")
+
+
+
         length_of_page_numbers = len(all_page_numbers)
         print("length of page numbers", length_of_page_numbers)
         if length_of_page_numbers > 0:
