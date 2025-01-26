@@ -47,7 +47,7 @@ filer = {
     },
 }
 master_filings_dict ={}
-
+accession_number = ""
 #############################################--Case InSensensetive--########################################################
 
 
@@ -65,8 +65,8 @@ def find_case_insensitive(soup, tag_name):
 def read_doc(path):
     with open(path, 'r', encoding='utf-8') as file:
             response_content = file.read()
-    print("Type of response_content", type(response_content))
-    print(response_content[:100])
+    # print("Type of response_content", type(response_content))
+    # print(response_content[:100])
         # Use the HTML parser
     try:
         # Attempt to parse with lxml
@@ -84,8 +84,8 @@ def read_doc(path):
 
 #############################################--Header DATA--########################################################
 
-
-def header_data(soup):
+'''
+def header_data(soup, cmp_name):
     sec_header = find_case_insensitive(soup, "SEC-HEADER")
     if sec_header:
         sec_header_text = sec_header.get_text(separator='\n', strip=True)
@@ -147,9 +147,67 @@ def header_data(soup):
     }
     header["sec_header"] = parsed_pre_head
     header["filer"] = parsed_filer
-    with open("header.txt", 'w') as file:
-        for k,v in header.items():
-            file.write(f"{k}: {v}" + "\n")
+    return header
+'''
+def header_data_parser(soup): 
+    sec_header = find_case_insensitive(soup, "SEC-HEADER")
+    if not sec_header:
+        print("No <SEC-HEADER> tag found")
+        return {}
+    sec_header_text = sec_header.get_text(separator='\n', strip=True)
+    header = {}
+    header['sec_header'] = sec_header_text
+
+    lines = sec_header_text.splitlines()
+    value= ""
+    for line in lines:
+        line = line.strip()
+        if line.startswith("ACCESSION NUMBER:"):
+            current_section = line.rstrip(":")
+            key, value = current_section.split(":",1)
+            print("key", key , "value; ",value )
+            accession_number = value
+            break 
+
+    return header, value
+
+
+def header_data(soup):
+    sec_header = find_case_insensitive(soup, "SEC-HEADER")
+    if not sec_header:
+        print("No <SEC-HEADER> tag found")
+        return {}
+
+    sec_header_text = sec_header.get_text(separator='\n', strip=True)
+    lines = sec_header_text.splitlines()
+
+    header = {}
+    current_section = None
+
+    for line in lines:
+        current_section = line.rstrip(":")
+        print("current_section", current_section)
+
+        # Check if the line is a new section header (ends with ':')
+        if line.endswith(":"):
+            current_section = line.rstrip(":")
+            if current_section not in header:
+                header[current_section] = {}
+            continue
+
+        if current_section:
+            # Parse key-value pairs within the current section
+            if ":" in line:
+                key, value = line.split(":", 1)
+                key = key.strip()
+                value = value.strip()
+
+                # Handle multiple occurrences of the same key
+                if key not in header[current_section]:
+                    header[current_section][key] = [value]
+                else:
+                    header[current_section][key].append(value)
+
     return header
 
 #############################################--DOC DATA--########################################################
@@ -165,15 +223,14 @@ def check_style_match(hr_tag, style_condition):
 
     # If the condition is a lambda function, apply it
     if isinstance(style_condition, dict) and 'style' in style_condition:
-        return style_condition['style'](style_value)
+        if callable(style_condition['style']):
+            return style_condition['style'](style_value)  # Apply lambda function
+        else:
+            return style_condition['style'] in style_value  # Check if string exists in style_value
     
     # If the condition is an exact string match, check if it exists in the style
     if isinstance(style_condition, dict) and 'width' in style_condition:
         return style_condition['width'] in style_value
-
-    # If the condition is a plain string (e.g., 'style': 'page-break-after:always'), check for exact match
-    if isinstance(style_condition, dict) and 'style' in style_condition:
-        return style_condition['style'] in style_value
 
     return False
 
@@ -252,16 +309,16 @@ def document_data(soup, styles):
         else:
             print("No text found")
             continue
-        # for style in styles:
-        #     thematic_breaks = filing_doc_text.find_all('hr', style)
-        #     if len(thematic_breaks) > 0:
-        #         print("Thematic breaks found:", thematic_breaks)
-        #         break
-        all_hr_tags= filing_doc_text.find_all('hr')
-        thematic_breaks = find_thematic_breaks(all_hr_tags, styles)
+        for style in styles:
+            thematic_breaks = filing_doc_text.find_all('hr', style)
+            if len(thematic_breaks) > 0:
+                print("Thematic breaks found")
+                break
+        # all_hr_tags= filing_doc_text.find_all('hr')
+        # thematic_breaks = find_thematic_breaks(all_hr_tags, styles)
 
         if len(thematic_breaks) == 0:
-            print("No thematic breaks found  " )
+            print("No thematic breaks found " )
         # thematic_breaks = filing_doc_text.find_all('hr', {'width':'100%'})
         # if len(thematic_breaks) == 0:
         #     print("No thematic breaks found for ", str(style[0]) )
@@ -275,41 +332,42 @@ def document_data(soup, styles):
         #     print("Previous sibling:", thematic_break.parent.parent.previous_sibling if thematic_break.parent and thematic_break.parent.parent else "No grandparent")
         # all_page_numbers = [thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
                         # for thematic_break in thematic_breaks]
-        all_page_numbers = [
-            thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
-            if (thematic_break.parent and thematic_break.parent.parent and thematic_break.parent.parent.previous_sibling) 
-            else (thematic_break.parent.get_text(strip=True) if thematic_break.parent else None) 
-            for thematic_break in thematic_breaks
-            if thematic_break.parent and thematic_break.parent.parent
-        ]
-        # for thematic_break in thematic_breaks:
-        #     try:
-        #         parent = thematic_break.parent
-        #         grandparent = parent.parent if parent else None
-        #         previous_sibling = grandparent.previous_sibling if grandparent else None
+        # all_page_numbers = [
+        #     thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
+        #     if (thematic_break.parent and thematic_break.parent.parent and thematic_break.parent.parent.previous_sibling) 
+        #     else (thematic_break.parent.get_text(strip=True) if thematic_break.parent else None) 
+        #     for thematic_break in thematic_breaks
+        #     if thematic_break.parent and thematic_break.parent.parent
+        # ]
+        all_page_numbers =[]
+        for thematic_break in thematic_breaks:
+            try:
+                parent = thematic_break.parent
+                grandparent = parent.parent if parent else None
+                previous_sibling = grandparent.previous_sibling if grandparent else None
 
-        #         # Log the parent and grandparent structures for inspection
-        #         print(f"Inspecting thematic_break: {thematic_break}")
-        #         print(f"Parent: {parent}")
-        #         print(f"Grandparent: {grandparent}")
+                # Log the parent and grandparent structures for inspection
+                # print(f"Inspecting thematic_break: {thematic_break}")
+                # print(f"Parent: {parent}")
+                # print(f"Grandparent: {grandparent}")
 
-        #         if previous_sibling:
-        #             page_number = previous_sibling.get_text(strip=True)
-        #             if page_number:
-        #                 all_page_numbers.append(page_number)
-        #             else:
-        #                 print(f"Previous sibling exists but contains no text: {previous_sibling}")
-        #         elif parent:
-        #             page_number = parent.get_text(strip=True)
-        #             if page_number:
-        #                 all_page_numbers.append(page_number)
-        #             else:
-        #                 print(f"Parent exists but contains no text: {parent}")
-        #         else:
-        #             print(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
+                if previous_sibling:
+                    page_number = previous_sibling.get_text(strip=True)
+                    if page_number:
+                        all_page_numbers.append(page_number)
+                    else:
+                        print(f"Previous sibling exists but contains no text: {previous_sibling}")
+                elif parent:
+                    page_number = parent.get_text(strip=True)
+                    if page_number:
+                        all_page_numbers.append(page_number)
+                    else:
+                        print(f"Parent exists but contains no text: {parent}")
+                else:
+                    print(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
 
-        #     except Exception as e:
-        #         print(f"Error processing thematic break: {thematic_break}, error: {e}")
+            except Exception as e:
+                print(f"Error processing thematic break: {thematic_break}, error: {e}")
 
 
 
@@ -387,18 +445,29 @@ def document_data(soup, styles):
     return master_document_dict  
 #############################################--MASTER DICT--########################################################
 
-def construct_master_dict(master_document_dict, header):
-    accession_number = header["sec_header"]["ACCESSION NUMBER"]
+def construct_master_dict(master_document_dict, header, accession_number):
     master_filings_dict[accession_number] = {}
     master_filings_dict[accession_number]['sec_header_content'] = header["sec_header"]
-    master_filings_dict[accession_number]['filer_data'] = header["filer"]
+    # master_filings_dict[accession_number]['filer_data'] = header["filer"]
     master_filings_dict[accession_number]['filing_documents'] = master_document_dict
-    master_filings_dict_json = convert_tags_to_strings(master_filings_dict)
+    # master_filings_dict_json = convert_tags_to_strings(master_filings_dict)
     with open("master_dict.txt", 'w', encoding='utf-8') as file:
-        json.dump(master_filings_dict_json, file, indent=4)
+        formatted_content = format_dict(header)
+        # json.dump(master_filings_dict_json, file, indent=4)
+        file.write(formatted_content)
+    return master_filings_dict
 
+    return master_filings_dict
+def format_dict(dictionary, indent=0):
+    formatted_str = ""
+    for key, value in dictionary.items():
+        if isinstance(value, dict):
+            formatted_str += "  " * indent + f"{key}:\n"
+            formatted_str += format_dict(value, indent + 1)  # Recursively format nested dictionaries
+        else:
+            formatted_str += "  " * (indent + 1) + f"{key}: {value}\n"
+    return formatted_str
 
-    return master_filings_dict, accession_number
 def convert_tags_to_strings(data):
     """
     Recursively convert BeautifulSoup Tag objects to strings in a dictionary.
@@ -506,7 +575,7 @@ def process_document_data(filing_docs):
         filing_docs[document_id]['pages_code'] = document_data ['pages_code']
         filing_docs[document_id]['pages_normalized_text'] = document_data ['pages_normalized_text']
         filing_docs[document_id]['pages_numbers_generated'] = document_data ['pages_numbers_generated']
-        # filing_docs_json = convert_tags_to_strings(filing_docs)
+        filing_docs_json = convert_tags_to_strings(filing_docs)
         
     return filing_docs
 
