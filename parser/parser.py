@@ -1,55 +1,20 @@
 import re
 import unicodedata
 from bs4 import BeautifulSoup, Tag
-import copy
-import json
 
-#############################################--Header--########################################################
-pre_head = {
-    'ACCESSION NUMBER': None,
-    'CONFORMED SUBMISSION TYPE': None,
-    'PUBLIC DOCUMENT COUNT': None,
-    'CONFORMED PERIOD OF REPORT': None,
-    'ITEM INFORMATION': None,
-    'FILED AS OF DATE': None,
-    'DATE AS OF CHANGE':None,
-}
-filer = {
-    "COMPANY DATA": {
-        "COMPANY CONFORMED NAME": None,
-        "CENTRAL INDEX KEY": None,
-        "IRS NUMBER": None,
-        "STATE OF INCORPORATION": None,
-        "FISCAL YEAR END": None,
-    },
-    "BUSINESS ADDRESS": {
-        "STREET 1": None,
-        "CITY": None,
-        "STATE": None,
-        "ZIP": None,
-        "BUSINESS PHONE": None,
-    },
-    "MAIL ADDRESS": {
-        "STREET 1": None,
-        "CITY": None,
-        "STATE": None,
-        "ZIP": None,
-    },
-    "FILING VALUES": {
-        "FORM TYPE": None,
-        "SEC ACT": None,
-        "SEC FILE NUMBER": None,
-        "FILM NUMBER": None,
-    },
-    "FORMER COMPANY": {
-        "FORMER CONFORMED NAME": None,
-        "DATE OF NAME CHANGE": None,
-    },
-}
+
+##############################################--VARIABLE DECLARATION--#################################################
+
+master_document_dict = {}
 master_filings_dict ={}
 accession_number = ""
-#############################################--Case InSensensetive--########################################################
 
+##############################################--VARIABLE DECLARATION ENDS--#############################################
+
+
+#############################################--CASE INSENSITIVE FUNCTION--##############################################
+
+#checks if the tag name is in the soup and returns the tag if it is regarderless of the casetype
 
 def find_case_insensitive(soup, tag_name):
     """
@@ -60,95 +25,30 @@ def find_case_insensitive(soup, tag_name):
             return tag
     return None
 
+#############################################--CASE INSENSITIVE FUNCTION--##############################################
+
 #############################################--READING THE DOC--########################################################
 
+# reads the raw file and returns the soup
 def read_doc(path):
     with open(path, 'r', encoding='utf-8') as file:
             response_content = file.read()
-    # print("Type of response_content", type(response_content))
-    # print(response_content[:100])
-        # Use the HTML parser
+    # try to parse the soup with lxml and if it fails, try with html5lib
     try:
         # Attempt to parse with lxml
-        soup = BeautifulSoup(response_content, 'lxml')
-    except Exception as e:
-        print("Failed with lxml parser. Retrying with html5lib.")
-        # Fall back to html5lib if lxml fails
         soup = BeautifulSoup(response_content, 'html5lib')
-    tags = (soup.prettify())
-    with open("tags.txt", 'w') as file:
-        file.write(tags)
+        print("html5lib parser used")
+    except Exception as e:
+        print("Failed with html parser. Retrying with lxml.")
+        # Fall back to html5lib if lxml fails
+        soup = BeautifulSoup(response_content, 'lxml')
     return soup
 
+#############################################--READING THE DOC ENDS--###################################################
 
+#############################################--Header DATA EXTRACTION--#################################################
 
-#############################################--Header DATA--########################################################
-
-'''
-def header_data(soup, cmp_name):
-    sec_header = find_case_insensitive(soup, "SEC-HEADER")
-    if sec_header:
-        sec_header_text = sec_header.get_text(separator='\n', strip=True)
-        # with open("SectionHeader.txt", 'w') as file:
-        #     file.write(sec_header_text)
-    else:
-        print("No <SEC-HEADER> tag found")
-
-    header = {}
-    lines = sec_header_text.splitlines()
-
-    parsed_pre_head = copy.deepcopy(pre_head) 
-    parsed_filer = copy.deepcopy(filer)
-    current_section = None
-    name_change = 1
-
-    for line in lines:
-        line = line.strip()
-        # Parse the pre-head section
-        for key in pre_head.keys():
-            if line.startswith(key):
-                _, value = line.split(":", 1)
-                parsed_pre_head[key] = value.strip()
-                break
-
-        # Normalize section headers
-        norm_line = line.rstrip(":")
-        if norm_line in filer.keys():
-            current_section = norm_line
-            continue
-
-        # Dynamically handle multiple `FORMER COMPANY` entries
-        if current_section == "FORMER COMPANY":
-            # Check if the current `FORMER COMPANY` has been filled
-            if (parsed_filer[current_section]["FORMER CONFORMED NAME"] is not None and 
-                parsed_filer[current_section]["DATE OF NAME CHANGE"] is not None):
-                
-                # Create a new key for the next `FORMER COMPANY`
-                new_name = f"FORMER COMPANY {name_change}"
-                parsed_filer[new_name] = {
-                    "FORMER CONFORMED NAME": None,
-                    "DATE OF NAME CHANGE": None
-                }
-                name_change += 1
-                current_section = new_name
-
-        # Parse the fields in the current section
-        if current_section in parsed_filer:
-            for key in parsed_filer[current_section]:
-                if line.startswith(key):
-                    _, value = line.split(":", 1)
-                    parsed_filer[current_section][key] = value.strip()
-                    break
-
-    # Remove empty `FORMER COMPANY` entries if they exist
-    parsed_filer = {
-        key: value for key, value in parsed_filer.items()
-        if not (key.startswith("FORMER COMPANY") and all(v is None for v in value.values()))
-    }
-    header["sec_header"] = parsed_pre_head
-    header["filer"] = parsed_filer
-    return header
-'''
+# parses the sec header and returns the header data and theaccession number
 def header_data_parser(soup): 
     sec_header = find_case_insensitive(soup, "SEC-HEADER")
     if not sec_header:
@@ -159,99 +59,29 @@ def header_data_parser(soup):
     header['sec_header'] = sec_header_text
 
     lines = sec_header_text.splitlines()
-    value= ""
     for line in lines:
         line = line.strip()
         if line.startswith("ACCESSION NUMBER:"):
             current_section = line.rstrip(":")
-            key, value = current_section.split(":",1)
-            print("key", key , "value; ",value )
-            accession_number = value
+            _, accession_number = current_section.split(":",1)
             break 
 
-    return header, value
+    return header, accession_number
+
+#############################################--Header DATA EXTRACTION ENDS--############################################
 
 
-def header_data(soup):
-    sec_header = find_case_insensitive(soup, "SEC-HEADER")
-    if not sec_header:
-        print("No <SEC-HEADER> tag found")
-        return {}
+#############################################--DOC DATA EXTRACTION--####################################################
 
-    sec_header_text = sec_header.get_text(separator='\n', strip=True)
-    lines = sec_header_text.splitlines()
-
-    header = {}
-    current_section = None
-
-    for line in lines:
-        current_section = line.rstrip(":")
-        print("current_section", current_section)
-
-        # Check if the line is a new section header (ends with ':')
-        if line.endswith(":"):
-            current_section = line.rstrip(":")
-            if current_section not in header:
-                header[current_section] = {}
-            continue
-
-        if current_section:
-            # Parse key-value pairs within the current section
-            if ":" in line:
-                key, value = line.split(":", 1)
-                key = key.strip()
-                value = value.strip()
-
-                # Handle multiple occurrences of the same key
-                if key not in header[current_section]:
-                    header[current_section][key] = [value]
-                else:
-                    header[current_section][key].append(value)
-
-    return header
-
-#############################################--DOC DATA--########################################################
-
-
-
-master_document_dict = {}
-def check_style_match(hr_tag, style_condition):
-    """
-    Checks if the <hr> tag matches the given style condition.
-    """
-    style_value = hr_tag.get('style', '')
-
-    # If the condition is a lambda function, apply it
-    if isinstance(style_condition, dict) and 'style' in style_condition:
-        if callable(style_condition['style']):
-            return style_condition['style'](style_value)  # Apply lambda function
-        else:
-            return style_condition['style'] in style_value  # Check if string exists in style_value
-    
-    # If the condition is an exact string match, check if it exists in the style
-    if isinstance(style_condition, dict) and 'width' in style_condition:
-        return style_condition['width'] in style_value
-
-    return False
-
-def find_thematic_breaks(all_hr_tags, styles):
-    thematic_breaks = []
-    for hr in all_hr_tags:
-        for style in styles:
-            if check_style_match(hr, style):
-                thematic_breaks.append(hr)
-                break
-    return thematic_breaks
-
-
+# this function uses the <hr> tag to find the thematic breaks which then are used to find the pagenumbers and the 
+# <document> tag to find the document data like the document id, sequence, filename, description, and the text. Then we
+# use the tag <text> to store html code that contains the text of the document in the master_document_dict.
 def document_data(soup, styles):
     docs = soup.find_all("document")
-    # print("Styling", style)
-    # header = header_data(soup)
-    print("len of docs", len(docs))
     thematic_breaks =[]
     for doc in docs:
         if not isinstance(doc, Tag):
+            print(doc)
             print("not a tag")
             continue  # Skip if `doc` is not a Tag object
         document_tag = doc.type.find(text=True, recursive=False)
@@ -283,24 +113,15 @@ def document_data(soup, styles):
                     break
                 if isinstance(element, str):  
                     document_description += element.strip()
-            # print("Document Description:", document_description)
         else:
             print("No description found")
             document_description = "No description"
-        # print(document_id, document_sequence, document_filename)
         master_document_dict[document_id] = {}
-
         master_document_dict[document_id]['document_sequence'] = document_sequence
         master_document_dict[document_id]['document_filename'] = document_filename
         master_document_dict[document_id]['document_description'] = document_description
         cleaned_doc_html = ' '.join(str(doc).split())
         master_document_dict[document_id]['document_code']= cleaned_doc_html
-        # exct = doc.extract()
-        # with open("extract.txt", 'w') as file:
-        #     file.write(str(exct))
-        # check = str(doc)
-        # with open("check.txt", 'w') as file:
-        #     file.write(str(check))
 
         filing_doc_text = doc.find("text")
 
@@ -312,44 +133,17 @@ def document_data(soup, styles):
         for style in styles:
             thematic_breaks = filing_doc_text.find_all('hr', style)
             if len(thematic_breaks) > 0:
-                print("Thematic breaks found")
                 break
-        # all_hr_tags= filing_doc_text.find_all('hr')
-        # thematic_breaks = find_thematic_breaks(all_hr_tags, styles)
 
         if len(thematic_breaks) == 0:
             print("No thematic breaks found " )
-        # thematic_breaks = filing_doc_text.find_all('hr', {'width':'100%'})
-        # if len(thematic_breaks) == 0:
-        #     print("No thematic breaks found for ", str(style[0]) )
-        #     thematic_breaks = filing_doc_text.find_all('hr', style[1])
-        # print("Thematic breaks", thematic_breaks)
-        # print(style)
-        # for thematic_break in thematic_breaks:
-        #     print("Thematic break:", thematic_break)
-        #     print("Parent:", thematic_break.parent)
-        #     print("Grandparent:", thematic_break.parent.parent if thematic_break.parent else "No parent")
-        #     print("Previous sibling:", thematic_break.parent.parent.previous_sibling if thematic_break.parent and thematic_break.parent.parent else "No grandparent")
-        # all_page_numbers = [thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
-                        # for thematic_break in thematic_breaks]
-        # all_page_numbers = [
-        #     thematic_break.parent.parent.previous_sibling.get_text(strip=True) 
-        #     if (thematic_break.parent and thematic_break.parent.parent and thematic_break.parent.parent.previous_sibling) 
-        #     else (thematic_break.parent.get_text(strip=True) if thematic_break.parent else None) 
-        #     for thematic_break in thematic_breaks
-        #     if thematic_break.parent and thematic_break.parent.parent
-        # ]
+       
         all_page_numbers =[]
         for thematic_break in thematic_breaks:
             try:
                 parent = thematic_break.parent
                 grandparent = parent.parent if parent else None
                 previous_sibling = grandparent.previous_sibling if grandparent else None
-
-                # Log the parent and grandparent structures for inspection
-                # print(f"Inspecting thematic_break: {thematic_break}")
-                # print(f"Parent: {parent}")
-                # print(f"Grandparent: {grandparent}")
 
                 if previous_sibling:
                     page_number = previous_sibling.get_text(strip=True)
@@ -369,10 +163,7 @@ def document_data(soup, styles):
             except Exception as e:
                 print(f"Error processing thematic break: {thematic_break}, error: {e}")
 
-
-
         length_of_page_numbers = len(all_page_numbers)
-        print("length of page numbers", length_of_page_numbers)
         if length_of_page_numbers > 0:
             # grab the last number
             previous_number = all_page_numbers[-1]
@@ -417,7 +208,6 @@ def document_data(soup, styles):
             # filing_doc_string = str(filing_doc_text)
             # handle the case where there are thematic breaks.
             if len(thematic_breaks) > 0:
-                print("Document with thematic breaks ", document_id)
                 # define the regex delimiter pattern, this would just be all of our thematic breaks.
                 regex_delimiter_pattern = '|'.join(map(re.escape, thematic_breaks))
 
@@ -429,7 +219,6 @@ def document_data(soup, styles):
 
             # handle the case where there are no thematic breaks.
             elif len(thematic_breaks) == 0:
-                print("Document without thematic breaks ", document_id)
                 # handles so it will display correctly.
                 split_filing_string = thematic_breaks
                 
@@ -443,46 +232,20 @@ def document_data(soup, styles):
             print('There was {} thematic breaks(s) found.'.format(len(thematic_breaks)))
 
     return master_document_dict  
-#############################################--MASTER DICT--########################################################
+
+#############################################--DOC DATA EXTRACTION ENDS--###############################################
+
+#############################################--CONSTRUCT MASTER DICT--##################################################
 
 def construct_master_dict(master_document_dict, header, accession_number):
     master_filings_dict[accession_number] = {}
     master_filings_dict[accession_number]['sec_header_content'] = header["sec_header"]
-    # master_filings_dict[accession_number]['filer_data'] = header["filer"]
     master_filings_dict[accession_number]['filing_documents'] = master_document_dict
-    # master_filings_dict_json = convert_tags_to_strings(master_filings_dict)
-    with open("master_dict.txt", 'w', encoding='utf-8') as file:
-        formatted_content = format_dict(header)
-        # json.dump(master_filings_dict_json, file, indent=4)
-        file.write(formatted_content)
     return master_filings_dict
 
-    return master_filings_dict
-def format_dict(dictionary, indent=0):
-    formatted_str = ""
-    for key, value in dictionary.items():
-        if isinstance(value, dict):
-            formatted_str += "  " * indent + f"{key}:\n"
-            formatted_str += format_dict(value, indent + 1)  # Recursively format nested dictionaries
-        else:
-            formatted_str += "  " * (indent + 1) + f"{key}: {value}\n"
-    return formatted_str
+#############################################--CONSTRUCT MASTER DICT ENDS--#############################################
 
-def convert_tags_to_strings(data):
-    """
-    Recursively convert BeautifulSoup Tag objects to strings in a dictionary.
-    """
-    if isinstance(data, dict):
-        return {key: convert_tags_to_strings(value) for key, value in data.items()}
-    elif isinstance(data, list):
-        return [convert_tags_to_strings(item) for item in data]
-    elif isinstance(data, Tag):
-        return str(data)
-    else:
-        return data
-master_filings_dict_json = convert_tags_to_strings(master_filings_dict)
-
-#############################################--NORMALIZE DATA--########################################################
+#############################################--NORMALIZE DATA--#########################################################
 
 def restore_windows_1252_characters(restore_string):
     """
@@ -559,12 +322,9 @@ def process_document_data(filing_docs):
 
             # Normalize the extracted text
             cleaned_text = normalize_text_content(raw_text)
-
             # Store the results
             repaired_pages[page_number] = page_soup  # Repaired HTML
             normalized_text[page_number] = cleaned_text  # Cleaned text
-
-            print(f"Page {page_number} has been normalized for document {document_id}.")
 
         # Update the document data
         document_data['pages_normalized_text'] = normalized_text
@@ -575,7 +335,6 @@ def process_document_data(filing_docs):
         filing_docs[document_id]['pages_code'] = document_data ['pages_code']
         filing_docs[document_id]['pages_normalized_text'] = document_data ['pages_normalized_text']
         filing_docs[document_id]['pages_numbers_generated'] = document_data ['pages_numbers_generated']
-        filing_docs_json = convert_tags_to_strings(filing_docs)
         
     return filing_docs
 
@@ -585,13 +344,12 @@ def normalize_filing_docs(filing_docs):
     """
     print("Starting normalization of filing documents...")
     doc_norm = process_document_data(filing_docs)
-    filing_docs_json = convert_tags_to_strings(doc_norm)
-    # with open("filing_docs_norm.txt", 'w', encoding='utf-8') as file:
-    #         json.dump(filing_docs_json, file, indent=4)
     print("Normalization complete.")
     return doc_norm
 
-##################################################----PARSE HTML----#############################################
+#############################################--NORMALIZE DATA ENDS--####################################################
+
+##################################################----PARSE HTML----####################################################
 
 def parse_html(filing_docs):
     doc_acumulated_data = ""
@@ -599,7 +357,6 @@ def parse_html(filing_docs):
         print('-' * 80)
         print(f"Extracting data from document ID: {document_id}")
         if 'pages_code' not in document_data:
-            print(f"No pages_code found for document ID: {document_id}")
             continue
         
         pages_code = document_data['pages_code']
@@ -610,13 +367,6 @@ def parse_html(filing_docs):
             if not code:
                 print(f"Warning: code is None or empty for page number: {page_number}")
                 continue
-
-            # Parse the HTML code
-            soup_code = code.prettify()
-
-            # Debug: Save prettified HTML for inspection
-            # with open(f"page_code_{page_number}.html", 'w', encoding='utf-8') as file:
-            #     file.write(soup_code)
 
             # Remove <ix:header> tags if present
             for header in code.find_all('ix:header'):
@@ -630,16 +380,11 @@ def parse_html(filing_docs):
 
             # Extract text from the <body>
             data_extracted = extract_text(html_body)
-            print( "Data extracted type " ,type(data_extracted))
             doc_acumulated_data += "\n" + "PAGE NUMBER: "+str(page_number)+"\n"+"\n"+ "\n".join(data_extracted) + "\n"
-            # Save extracted text to a file
-            # output_file = f"Extracted_data_{document_id}_page_{page_number}.txt"
-            # with open(output_file, 'w', encoding='utf-8') as file:
-            #     print(f"Saving extracted data to: {output_file}")
-            #     file.write("\n".join(data_extracted)) 
     return doc_acumulated_data
+#############################################--PARSE HTML ENDS--########################################################
 
-##################################################----EXTRACT TEXT----#############################################
+#############################################--EXTRACT TEXT--###########################################################
 
 def extract_text(element, handle_tables=True):
     """
@@ -668,8 +413,9 @@ def extract_text(element, handle_tables=True):
     unique_lines = list(dict.fromkeys(text))
     return unique_lines
 
+#############################################--EXTRACT TEXT ENDS--######################################################
 
-##################################################----EXTRACT TABLE----#############################################
+#############################################--EXTRACT TABLE--##########################################################
 
 
 def extract_table(table_element):
@@ -682,3 +428,7 @@ def extract_table(table_element):
         if cells:
             rows.append("\t".join(cells))  # Tab-separated values for each row
     return "\n".join(rows) if rows else None
+
+
+#############################################--EXTRACT TABLE ENDS--#####################################################
+

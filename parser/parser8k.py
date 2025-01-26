@@ -27,57 +27,7 @@ important.
 exhibits as required.
 '''
 ######################################### Filing Data #########################################
-filing_sections ={
-"Section 1 Registrant's Business and Operations":{
-    "Item 1.01 Entry into a Material Definitive Agreement": str,
-    "Item 1.02 Termination of a Material Definitive Agreement": str,
-    "Item 1.03 Bankruptcy or Receivership": str,
-    "Item 1.04 Mine Safety - Reporting of Shutdowns and Patterns of Violations": str
-    },
-    "Section 2 Financial Information":{
-    "Item 2.01 Completion of Acquisition or Disposition of Assets": str,
-    "Item 2.02 Results of Operations and Financial Condition": str,
-    "Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant": str,
-    "Item 2.04 Triggering Events That Accelerate or Increase a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement": str,
-    "Item 2.05 Costs Associated with Exit or Disposal Activities": str,
-    "Item 2.06 Material Impairments": str
-    },
-    "Section 3 Securities and Trading Markets":{
-    "Item 3.01 Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing": str,
-    "Item 3.02 Unregistered Sales of Equity Securities": str,
-    "Item 3.03 Material Modification to Rights of Security Holders": str
-    },
-    "Section 4 Matters Related to Accountants and Financial Statements":{
-    "Item 4.01 Changes in Registrant's Certifying Accountant": str,
-    "Item 4.02 Non-Reliance on Previously Issued Financial Statements or a Related Audit Report or Completed Interim Review": str
-    },
-    "Section 5 Corporate Governance and Management":{
-    "Item 5.01 Changes in Control of Registrant": str,
-    "Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers": str,
-    "Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year": str,
-    "Item 5.04 Temporary Suspension of Trading Under Registrant's Employee Benefit Plans": str,
-    "Item 5.05 Amendment to Registrant's Code of Ethics, or Waiver of a Provision of the Code of Ethics": str,
-    "Item 5.06 Change in Shell Company Status": str,
-    "Item 5.07 Submission of Matters to a Vote of Security Holders": str,
-    "Item 5.08 Shareholder Director Nominations": str
-    },
-    "Section 6 Asset-Backed Securities":{
-    "Item 6.01 ABS Informational and Computational Material": str,
-    "Item 6.02 Change of Servicer or Trustee": str,
-    "Item 6.03 Change in Credit Enhancement or Other External Support": str,
-    "Item 6.04 Failure to Make a Required Distribution": str,
-    "Item 6.05 Securities Act Updating Disclosure": str
-    },
-    "Section 7 Regulation FD":{
-    "Item 7.01 Regulation FD Disclosure": str
-    },
-    "Section 8 Other Events":{
-    "Item 8.01 Other Events (The registrant can use this Item to report events that are not specifically called for by Form 8-K, that the registrant considers to be of importance to security holders.)": str
-    },
-    "Section 9 Financial Statements and Exhibits":{
-    "Item 9.01 Financial Statements and Exhibits": str
-    }
-}
+
 styles = [
     {'style': lambda value: value and 'width: 100%' in value},  # Style condition using lambda
     {'width': '100%'},  # Checking for an exact width attribute

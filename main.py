@@ -1,5 +1,5 @@
 import os
-from sec_api import fetch_company_tickers, fetch_company_filings, filter_filings_by_type, create_filings_dataframe,download_filings
+from SEC_API.sec_api import fetch_company_tickers, fetch_company_filings, filter_filings_by_type, create_filings_dataframe,download_filings
 
 from pathlib import Path
 import json
