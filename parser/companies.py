@@ -14,8 +14,13 @@ import json
 styles = [
     {'style': lambda value: value and 'width: 100%' in value},  # Style condition using lambda
     {'width': '100%'},  # Checking for an exact width attribute
-    {'style': 'page-break-after:always'}  # Checking for a specific page break style
-]
+    {'style': 'page-break-after:always'}] # Checking for a specific page break style
+
+# styles = [
+#     {'style': lambda value: value and 'width: 100%' in value}, 
+#     {'style': 'page-break-after:always'},  # Specific page break style
+#     {'width': '100%'},  # Specific width condition
+# ]
 
 all_headers ={}
 
@@ -32,9 +37,13 @@ def companies_main(raw_path, preprocessed_path,file_name, cmp_name):
     if os.path.exists(output_file_path):
         print(f"File '{output_file_path}' already exists. Skipping processing.")
         return  # Skip processing this file
-    
+    print(f"Processing {file_name} filing for {cmp_name}")
     # read the raw file that needs to be parsed
-    soup = read_doc(raw_path)
+    soup , empty_file = read_doc(raw_path)
+    if empty_file:
+        print(f"***********{file_name} is empty form {cmp_name}***********")
+        return
+
     header, accession_number = header_data_parser(soup)
     if cmp_name not in all_headers:
         all_headers[cmp_name] = {}  # Initialize list for the company

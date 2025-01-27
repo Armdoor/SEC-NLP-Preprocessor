@@ -100,5 +100,5 @@ def main(root_path, company_folder_names, processed_folder_created, filing_types
 ##############################################--MAIN ENDAS--############################################################
 
 
-root_path = "/Users/akshitsanoria/Desktop/PythonP/data1"
+root_path = "/Volumes/T7/data"
 main(root_path, company_folder_names, processed_folder_created, filing_types)

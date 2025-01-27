@@ -30,19 +30,23 @@ def find_case_insensitive(soup, tag_name):
 #############################################--READING THE DOC--########################################################
 
 # reads the raw file and returns the soup
-def read_doc(path):
+def read_doc(path, empty_file=False):
     with open(path, 'r', encoding='utf-8') as file:
             response_content = file.read()
+    # in case the file is empty, return None
+    if response_content == "":
+        empty_file = True
+        return "Empty file", empty_file
     # try to parse the soup with lxml and if it fails, try with html5lib
     try:
         # Attempt to parse with lxml
         soup = BeautifulSoup(response_content, 'html5lib')
-        print("html5lib parser used")
+        # print("html5lib parser used")
     except Exception as e:
         print("Failed with html parser. Retrying with lxml.")
         # Fall back to html5lib if lxml fails
         soup = BeautifulSoup(response_content, 'lxml')
-    return soup
+    return soup, empty_file
 
 #############################################--READING THE DOC ENDS--###################################################
 
@@ -136,7 +140,13 @@ def document_data(soup, styles):
                 break
 
         if len(thematic_breaks) == 0:
-            print("No thematic breaks found " )
+            try:
+                thematic_breaks = filing_doc_text.find_all('div' , {'style': lambda value: value and 'border-bottom: Black 4pt solid' in value} )
+                # print(" The thematic breaks are ", thematic_breaks)
+                if len(thematic_breaks) > 0:
+                    print("Breaks found")
+            except:
+                print("No thematic breaks found " )
        
         all_page_numbers =[]
         for thematic_break in thematic_breaks:
@@ -357,9 +367,12 @@ def parse_html(filing_docs):
         print('-' * 80)
         print(f"Extracting data from document ID: {document_id}")
         if 'pages_code' not in document_data:
+            print("No pages code found")
             continue
         
         pages_code = document_data['pages_code']
+        if not pages_code:
+            print("No pages code found")
         for page_number, code in pages_code.items():
             print("-" * 80)
             print(f"Extracting data from page number: {page_number}")
@@ -432,3 +445,32 @@ def extract_table(table_element):
 
 #############################################--EXTRACT TABLE ENDS--#####################################################
 
+
+
+# styles = [
+#     {'style': lambda value: value and 'width: 100%' in value},  # Style condition using lambda
+#     {'width': '100%'},  # Checking for an exact width attribute
+#     {'style': 'page-break-after:always'}  # Checking for a specific page break style
+# ]
+
+# path_test = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_1.txt"
+# soup_test = read_doc(path_test)
+# header_test, accession_number_test = header_data_parser(soup_test)
+# print("Accession number: ", accession_number_test)
+# print("Header: ", header_test['sec_header'])
+# doc_dic = document_data(soup_test, styles)
+# # print("Keys in doc_dic: ", doc_dic.keys())
+
+# master_dic = construct_master_dict(doc_dic, header_test, accession_number_test)
+# # print("Keys in master_dic: ", master_dic.keys())
+# # print("Keys in doc_dic[accession_number]: ", doc_dic[accession_number_test].keys())
+# filing_doc = master_dic[accession_number_test]['filing_documents']
+# # print("Keys in filing_doc: ", filing_doc.keys())
+# norm_data = normalize_filing_docs(filing_doc)
+# with open('normalized.txt', 'w', encoding='utf-8') as file:
+#     file.write(str(norm_data))
+# # print("Parsed html: ",parse_html(norm_data))
+# file_acumulated_data = header_test['sec_header'] + "\n" +parse_html(norm_data)
+
+# with open('extrated.txt', 'w', encoding='utf-8') as file:
+#     file.write(file_acumulated_data)
