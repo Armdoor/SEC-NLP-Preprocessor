@@ -1,0 +1,842 @@
+0000049826-17-000019.hdr.sgml : 20170209
+20170208181923
+ACCESSION NUMBER:		0000049826-17-000019
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20170208
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170209
+DATE AS OF CHANGE:		20170208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		17583845
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2017 Workiva
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported): February 8, 2017
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+
+
+
+		
+Delaware	1-4797	36-1258310
+(State or other jurisdiction of incorporation)	(Commission File No.)	(I.R.S. Employer Identification No.)
+		
+155 Harlem Avenue, Glenview, IL		60025
+(Address of principal executive offices)		(Zip Code)
+Registrant's telephone number, including area code: 847-724-7500
+Not
+Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+	
+[ ]	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[ ]	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[ ]	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[ ]	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+PAGE NUMBER: 2
+
+Item 8.01 Other Events.
+(a) Amended Forms of Grant under 2015 Long-Term Incentive Plan
+Amended forms of grant for stock options, restricted stock units, or RSUs, performance share units, or PSUs, and the Performance Cash grants, or P Cash, to be issued pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan are included as exhibits to this report.
+(b) Updated Description of Capital Stock
+The Company is updating the description of its capital stock that was contained in the Form 8-K filed with the Securities and Exchange Commission on July 22, 2015. To the extent the following description is inconsistent with prior filings, it modifies and supersedes those filings:
+Description of Capital Stock
+The following description of the Company’s capital stock is intended as a summary only. This description is based upon, and is qualified by reference to, the Company’s Amended and Restated Certificate of Incorporation and By-laws and the applicable provisions of Delaware corporation law.
+General
+As of January 31, 2017, the authorized capital stock of Illinois Tool Works Inc. (“ITW”) consists of 700,000,000 shares of common stock, par value $0.01 per share, and 300,000 shares of preferred stock, no par value. As of January 31, 2017, there were 346,550,685 shares of common stock issued and outstanding. No preferred stock is issued and outstanding.
+Common Stock
+Holders of common stock are entitled to one vote for each share held of record, in person or by proxy, at all meetings of the stockholders and on all propositions presented to such meetings (other than the election of any directors who may be elected by vote of the preferred stock voting as a class). The common stock does not entitle holders to cumulative voting rights in the election of directors. Holders of common stock do not have preemptive rights.
+All outstanding shares of common stock are fully paid and nonassessable. Dividends may be paid on the common stock when and if declared by the Board of Directors out of funds legally available therefor. Upon liquidation, dissolution, or winding up of the affairs of ITW, its assets remaining, after provision for payment of creditors and holders of any preferred stock, are distributable pro rata among holders of its common stock.
+The common stock is listed and traded on the NYSE under the symbol “ITW.” The transfer agent and registrar of the common stock is Broadridge Corporate Issuer Solutions, Inc., Philadelphia, PA.
+Preferred Stock
+ITW’s preferred stock is issuable in series. The preferred stock is senior to the common stock, both as to payment of dividends and distribution of assets. The designation, preferences and rights of each series may be established by the Board of Directors, including voting rights, dividends, redemption features, payments on liquidation and sinking fund provisions, if any. The preferred stock may be utilized for a variety of corporate purposes, including future public offerings to raise additional capital or to finance acquisitions. The preferred stock also could be issued to persons friendly to current management with terms that could render more difficult or discourage attempts to gain control of ITW by means of a merger, tender offer, proxy contest or otherwise and thereby protect the continuity of current management. The preferred stock also could be used to dilute the stock ownership of persons seeking to obtain control of ITW.
+Special Charter and By-law Provisions
+ITW’s Amended and Restated Certificate of Incorporation and By-laws, as amended and restated, contain provisions that could render more difficult a merger, tender offer, proxy contest or attempt to gain control of the Board of Directors. The Amended and Restated Certificate of Incorporation prohibits stockholder action by written consent. The Amended and Restated Certificate of Incorporation and By-laws permit only the Board of Directors to fill vacancies on the Board of Directors, whether created by an increase in the number of directors or otherwise, and permit special meetings of stockholders to be called by the chairman, the president or a majority of the Board of Directors, or, subject to procedural requirements set forth in the By‑laws, by stockholders that own at least 20% of the
+
+PAGE NUMBER: 3
+
+Company’s outstanding common stock. The By-laws provide advance notice procedures for stockholders seeking to bring business before an annual meeting of stockholders or to nominate candidates for election as directors at any meeting of stockholders. Under the By-laws, up to 20 stockholders owning at least 3% of the Company’s outstanding common stock for at least 3 years may include nominations in the Company’s proxy materials for up to the greater of 25% of the Board of Directors or 2 directors, provided the stockholder(s) and nominee(s) satisfy the requirements specified in the By-laws. The By-laws also specify certain requirements regarding the form and content of a stockholder’s notice.
+Item 9.01 Financial Statements and Exhibits
+
+
+
+		
+(d)	Exhibits	
+		
+	Exhibit Number	Exhibit Description
+	99.1	Terms of Stock Option Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.2	Terms of Restricted Stock Unit Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.3	Terms of Performance Share Unit Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.4	Terms of Performance Cash Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+
+PAGE NUMBER: 4
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+	
+	
+	ILLINOIS TOOL WORKS INC.
+	
+	
+Dated:February 8, 2017	By: /s/ Randall J. Scheuneman
+	Randall J. Scheuneman
+	Vice President & Chief Accounting Officer
+	
+
+PAGE NUMBER: 5
+
+EXHIBIT INDEX
+
+
+
+		
+	Exhibit Number	Exhibit Description
+	99.1	Terms of Stock Option Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.2	Terms of Restricted Stock Unit Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.3	Terms of Performance Share Unit Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+		
+	99.4	Terms of Long-Term Incentive Cash Grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2017 Workiva
+Document
+Exhibit 99.1
+TERMS OF OPTION GRANT
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	In the event of a stock dividend, stock split, reverse stock split, share combination, recapitalization, reclassification or similar event affecting the capital structure of the Company, appropriate adjustment will be made in the number of shares subject to the option and in the option price per share.
+	
+(b)	The option period shall be for 10 years from [GRANT DATE] (the “Grant Date”). Accordingly, no options under this grant may be exercised after the close of business in Chicago on [EXPIRATION DATE] (the “Expiration Date”). Except as otherwise provided in this option agreement or the Plan, no purchase of shares may be made under this option during the first year of the option period. During the second year of the option period, you shall have the right to purchase 25% of the total number of optioned shares, and in each of the next three years an additional 25% of the total number of shares optioned hereunder. Such rights to exercise shall be cumulative and may be exercised in any succeeding year of the option period up to the extent vested but not exercised in a previous year or years. On the Expiration Date, all rights under this agreement as to any shares covered by the option shall terminate.
+	
+(c)	You shall have no voting, dividend or subscription rights except with respect to the shares which have been issued to you following your exercise of part or all of the option. Your rights under this option agreement may not be assigned or transferred other than as permitted by the Plan, and during your lifetime the option shall be exercisable only by you personally.
+	
+(d)	If prior to the Expiration Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, your option shall be fully vested and exercisable until the Expiration Date. For purposes of this option agreement, the term “Disability” shall have the meaning set forth in the Plan; provided that if no such definition is contained in the Plan, the term “Disability” means permanent and total disability which is expected to prevent you from engaging in any substantial gainful activity for any prolonged period of time, as determined by the Company in its sole discretion.
+	
+(e)	If you retire prior to the Expiration Date, and your option was granted within a year prior to your retirement, then 25% of your option shall become vested one year after the Grant Date; the remaining 75% shall be forfeited. If your option was granted more than a year prior to your retirement, then 100% of your option shall continue to vest in accordance with paragraph (b) above. The vested portion of your option is then exercisable not later than the Expiration Date. For purposes of this option agreement, retirement is defined as termination of employment with the Company Group at such time as: (i) the combination of your age and years of service is 70 or more, and (ii) you have reached age 55 or more with 5 or more years of service. The vesting provisions in this paragraph (e) are subject to your execution of a restrictive covenant within 30 days of your retirement date if requested by any member of the Company Group.
+	
+(f)	Except as provided in paragraph (e), if your employment terminates for any reason other than death or Disability, your options that were vested prior to termination and not previously exercised may be exercised by you during the 90-day period commencing on the date of your termination but not later than the Expiration Date. If you die during this 90-day period, the exercise period will be extended to the earlier of two years from the date of death or the Expiration Date.
+
+PAGE NUMBER: 2
+
+
+
+	
+(g)	Notwithstanding the foregoing, the Compensation Committee of the Board of Directors may, in its sole discretion, deem this option, whether vested or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+	
+(h)	The option is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this option agreement shall have the meanings ascribed to them in the Plan.
+	
+(i)	This option agreement and the provisions of the Plan are governed by, and subject to, the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this option agreement or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois, agree that such litigation shall be conducted in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, where this grant is made and/or to be performed.
+	
+(j)	You must follow the procedures for exercising options established by the Company from time to time. At the time of exercise, you must pay the option price using the payment methods established by the Company for all of the options being exercised and any applicable Tax-Related Items (as defined below) that are required to be withheld by the Company or your employer (the “Employer”) in connection with the exercise.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the option, including, but not limited to, the grant, vesting or exercise of the option, the subsequent sale of shares acquired pursuant to such exercise and the receipt of any dividends; and (2) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the option to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to the relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
+	
+(i)	withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or
+	
+(ii)	withholding from proceeds of the sale of shares acquired upon exercise of the option either through a voluntary sale or through a mandatory sale arranged by the Company (on your behalf pursuant to this authorization without further consent); or
+
+PAGE NUMBER: 3
+
+
+
+	
+(iii)	withholding in shares to be issued upon exercise of the option (notwithstanding the foregoing, if you are subject to the short-swing profit rules of Section 16(b) of the U.S. Securities Exchange Act of 1934, the Company and/or the Employer will satisfy the obligations with regard to all Tax-Related Items only by withholding in shares to be issued upon exercise of the option, unless such withholding method is not permissible under applicable law, in which case you may elect to satisfy the Tax-Related Items by one of the other methods identified above); or
+(iv) any other method determined by the Company.
+Depending on the withholding method, the Company may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates, including maximum applicable rates, in which case you may receive a refund of any over-withheld amount in cash and will have no entitlement to the share equivalent. If the obligation for Tax-Related Items is satisfied by withholding in shares, for tax purposes, you are deemed to have been issued the full number of shares subject to the exercised option, notwithstanding that a number of the shares are held back solely for the purpose of paying the Tax-Related Items.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the shares or the proceeds of the sale of shares if you fail to comply with your obligations in connection with the Tax-Related Items.
+	
+(l)	The provisions of this option agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The option is subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction and (iii) any policies adopted by the Company to implement such requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	You are not permitted to purchase or sell options on the Company’s common stock or engage in short sales of the Company’s common stock. In addition, if you are an executive officer or director, you acknowledge that you are not permitted to engage in trading puts, calls, straddles, equity swaps or other derivative securities that are directly linked to the Company’s common stock and are subject to any Company policies regarding stock trading, hedging and pledging Company common stock or other Company equity securities. For purposes of this paragraph, an “executive officer” means any officer classified by the Company as a reporting person under Section 16 of the U.S. Securities Exchange Act of 1934.
+	
+(o)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+	
+(p)	The Company reserves the right to impose other requirements on your participation in the Plan, on the option and on any shares purchased upon exercise of the option, to the extent the Company determines it is necessary
+
+PAGE NUMBER: 4
+
+or advisable for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+
+	
+(q)	Notwithstanding any provisions in this option agreement, the option shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. If you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendices A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this option agreement.
+
+PAGE NUMBER: 5
+
+APPENDIX A
+GENERAL TERMS AND CONDITIONS FOR
+PARTICIPANTS OUTSIDE THE UNITED STATES
+
+
+	
+(a)	Nature of Grant. In accepting the option, you acknowledge, understand and agree that:
+	
+(i)	the Plan is established voluntarily by the Company, it is discretionary in nature, and may be modified, amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan;
+	
+(ii)	the grant of the option is exceptional, discretionary, voluntary and occasional and does not create any contractual or other right to receive future grants of options, or benefits in lieu of options, even if options have been granted in the past;
+	
+(iii)	all decisions with respect to future option grants, if any, will be at the sole discretion of the Company;
+	
+(iv)	your participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate your employment or service relationship (if any) at any time;
+	
+(v)	you are voluntarily participating in the Plan;
+	
+(vi)	the option and the shares subject to the option, and the income from and value of same, are extraordinary items that do not constitute compensation of any kind for services of any kind rendered to the Employer, and are outside the scope of your employment or service contract, if any;
+	
+(vii)	the option and the shares subject to the option, and the income from and value of same, are not intended to replace any pension rights or compensation;
+	
+(viii)	the option and the shares subject to the option, and the income from and value of same, are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end of service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar mandatory payments;
+	
+(ix)	unless otherwise agreed with the Company, the option and the shares subject to the option, and the income from and value of same, are not granted as consideration for, or in connection with, the service you may provide as a director of a Subsidiary or Affiliate;
+	
+(x)	the option grant and your participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Subsidiary or Affiliate;
+	
+(xi)	the future value of the shares underlying the option is unknown, indeterminable and cannot be predicted with certainty;
+	
+(xii)	if the underlying shares do not increase in value, the option will have no value;
+
+PAGE NUMBER: 6
+
+
+
+	
+(xiii)	if you exercise the option and acquire shares, the value of such shares may increase or decrease in value, even below the option price;
+	
+(xiv)	no claim or entitlement to compensation or damages shall arise from forfeiture of the option resulting from termination of your employment or other service relationship by the Company or the Employer (for any reason whatsoever, and whether or not in breach of local labor laws and whether or not later found to be invalid), and in consideration of the grant of the option to which you are otherwise not entitled, you irrevocably agree never to institute any claim against the Company or the Employer and you irrevocably waive your ability, if any, to bring any such claim, and release the Company and the Employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, you shall be deemed irrevocably to have agreed not to pursue such claim and agree to execute any and all documents necessary to request dismissal or withdrawal of such claims;
+	
+(xv)	unless otherwise provided in the option agreement, in the event of termination of your employment or other service relationship (for any reason whatsoever, whether or not in breach of local labor laws and whether or not later found to be invalid), your right to vest in the option under the Plan, if any, will terminate effective as of the date that you are no longer actively employed or rendering services and will not be extended by any notice period mandated under local law (e.g., active employment or service would not include a period of “garden leave” or similar period pursuant to local law); furthermore, in the event of termination of your employment (for any reason whatsoever whether or not in breach of local labor laws and whether or not later found to be invalid), your right to exercise the option after termination of your employment or other service relationship, if any, will be measured by the date of termination of your active employment and will not be extended by any notice period mandated under local law; the Committee shall have the exclusive discretion to determine when you are no longer actively employed or rendering services for purposes of your option grant (including whether you may still be considered to be providing services while on a leave of absence); and
+	
+(xvi)	the Company Group shall not be liable for any foreign exchange rate fluctuation between your local currency and the United States Dollar that may affect the value of the options or of any amounts due to you pursuant to the settlement of the options or the subsequent sale of any shares acquired upon settlement.
+	
+(b)	No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding your participation in the Plan or your acquisition or sale of the underlying shares. You should consult with your own personal tax, legal and financial advisors regarding your participation in the Plan before taking any action related to the Plan.
+	
+(c)	Data Privacy. You hereby voluntarily consent to the collection, use and transfer, in electronic or other form, of your personal data as described in this option agreement and any other option grant materials by and among, as applicable, the Employer, the Company and its other Subsidiaries and Affiliates for the exclusive purpose of implementing, administering and managing your participation in the Plan.
+You understand that the Company and the Employer may hold certain personal information about you, including, but not limited to, your name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company, details of all options or any other entitlement to shares of stock awarded, canceled, exercised, vested, unvested or outstanding in your favor (“Data”), for the exclusive purpose of implementing, administering and managing the Plan.
+
+PAGE NUMBER: 7
+
+You understand that Data will be transferred to Fidelity Stock Plan Services (“Fidelity”) or such other stock plan service provider as may be selected by the Company in the future, which is assisting the Company with the implementation, administration and management of the Plan. You understand that the recipients of the Data may be located in the United States or elsewhere, and that the recipients’ country (e.g., the United States) may have different data privacy laws and protections than your country. You understand that you may request a list with the names and addresses of any potential recipients of the Data by contacting your local human resources representative. You authorize the Company, Fidelity and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing your participation in the Plan. You understand that Data will be held only as long as is necessary to implement, administer and manage your participation in the Plan. You understand that you may, at any time, request access to Data, request information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing your local human resources representative. Further, you understand that you are providing the consents herein on a purely voluntary basis. If you do not consent, or if you later seek to revoke your consent, your employment status or service with the Employer will not be affected; the only consequence of refusing or withdrawing your consent is that the Company would not be able to grant options or other equity awards to you or administer or maintain such awards. Therefore, you understand that refusing or withdrawing your consent may affect your ability to participate in the Plan. For more information on the consequences of your refusal to consent or withdrawal of consent, you understand that you may contact your local human resources representative.
+
+
+	
+(d)	Language. If you have received this option agreement or any other document related to the option and/or the Plan translated into a language other than English, and if the meaning of the translated version is different than the English version, the English version will control.
+	
+(e)	Retirement. Notwithstanding paragraph (e) of the option agreement, if the Company receives an opinion of counsel that there has been a legal judgment and/or legal development in your jurisdiction that would likely result in the favorable treatment applicable to the option pursuant to paragraph (e) being deemed unlawful and/or discriminatory, then the Company will not apply the favorable treatment at the time of your retirement, and the option will be treated as set forth in paragraph (f) of the option agreement.
+	
+(f)	Waiver. You acknowledge that a waiver by the Company of a breach of any provision of this option agreement shall not operate or be construed as a waiver of any other provision of this option agreement, or of any subsequent breach by you or another Participant.
+	
+(g)	Insider Trading/Market Abuse Laws. You acknowledge that you may be subject to insider trading restrictions and/or market abuse laws in applicable jurisdictions, including the United States, which may affect your ability to acquire or sell shares or rights to shares (e.g., options) under the Plan during such times you are considered to have “inside information” (as defined in the laws of applicable jurisdictions) regarding the Company. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. You acknowledge that it is your responsibility to comply with any applicable restrictions and should speak to your personal advisor on this matter.
+	
+(h)	Foreign Asset/Account Reporting; Exchange Controls. Your country may have certain foreign asset and/or account reporting requirements and/or exchange controls which may affect your ability to acquire or hold shares under the Plan or cash received from participating in the Plan (including from any dividends received or sale proceeds arising from the sale of shares) in a brokerage or bank account outside your country. You
+
+PAGE NUMBER: 8
+
+may be required to report such accounts, assets or transactions to the tax or other authorities in your country. You also may be required to repatriate sale proceeds or other funds received as a result of your participation in the Plan to your country through a designated bank or broker and/or within a certain time after receipt. You acknowledge that it is your responsibility to be compliant with such regulations, and you should consult your personal legal advisor for any details.
+
+PAGE NUMBER: 9
+
+APPENDIX B
+COUNTRY-SPECIFIC TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+Capitalized terms used but not defined herein shall have the meanings given to such terms in the Plan and/or the option agreement (including Appendix A).
+Terms and Conditions
+This Appendix B includes special terms and conditions applicable to your option if you reside and/or work in any of the countries covered by this Appendix B. These terms and conditions are in addition to, or if so indicated, in place of, the terms and conditions set forth in the option agreement (including Appendix A).
+If you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the options were granted or are considered a resident of another country for local law purposes, the Company shall have the sole discretion to determine to what extent the terms and conditions shall apply to you under these circumstances.
+Notifications
+This Appendix B also includes notifications relating to exchange control and other issues of which you should be aware with respect to your participation in the Plan. The information is based on the exchange control, securities, and other laws in effect in the countries to which this Appendix B refers as of January 2017. Such laws are often complex and change frequently. As a result, the Company strongly recommends that you not rely on the notifications herein as the only source of information relating to the consequences of participating in the Plan because the information may be out of date at the time your option vests, you exercise your option, or you sell shares acquired under the Plan.
+In addition, the notifications are general in nature and may not apply to your particular situation, and the Company is not in a position to assure you of any particular result. Accordingly, you should seek appropriate professional advice as to how the relevant laws in your country may apply to your situation.
+Finally, if you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the option was granted or are considered a resident of another country for local law purposes, the information contained herein may not be applicable to you in the same manner.
+AUSTRALIA
+Breach of Law
+. Notwithstanding any provision in the Plan or the option agreement, you will not be entitled to, and shall not claim any benefit (including without limitation a legal right) under the Plan if the provision of such benefit would give rise to a breach of Part 2D.2 of the Corporations Act 2001 (Cth), any other provision of that Act, or any other applicable statute, rule or regulation which limits or restricts the giving of such benefits. Further, the Employer is under no obligation to seek or obtain the approval of its shareholders in a general meeting for the purpose of overcoming any such limitation or restriction.
+
+PAGE NUMBER: 10
+
+Tax Information.
+The Plan is a plan to which Subdivision 83A-C of the Income Tax Assessment Act 1997 (Cth) (the “Act”) applies (subject to the conditions in that Act).
+Notifications
+Securities Law Information
+. You understand that if you acquire shares upon exercise of the
+option and subsequently offer the shares for sale to a person or entity resident in Australia, the
+offer may be subject to disclosure requirements under Australian law. You are advised to
+obtain legal advice regarding any applicable disclosure requirements prior to making any such
+offer.
+GERMANY
+Exchange Control Information
+. Cross-border payments in excess of €12,500 must be reported electronically monthly to the Germany Federal Bank. In the event that you make or receive a payment in excess of this amount, you are responsible for obtaining the appropriate form from the remitting bank and complying with applicable reporting requirements.
+SPAIN
+Terms and Conditions
+No Entitlement for Claims or Compensation
+. By accepting the option, you consent to participation in the Plan and acknowledge that you have received a copy of the Plan document.
+You understand and agree that, as a condition of the grant of the options, your termination of employment for any reason other than death, disability or retirement (including for the reasons listed below) will automatically result in the forfeiture of any options that have not vested on the date of your termination.
+In particular, you understand and agree that, unless otherwise provided in the option agreement, the option will be forfeited without entitlement to the underlying shares or to any amount as indemnification in the event of a termination of your employment prior to vesting by reason of, including but not limited to: resignation, disciplinary dismissal adjudged to be with cause; disciplinary dismissal adjudged or recognized to be without good cause (i.e., subject to a “despido improcedente”); individual or collective layoff on objective grounds, whether adjudged to be with cause or adjudged or recognized to be without cause; material modification of the terms of employment under Article 41 of the Workers’ Statute; relocation under Article 40 of the Workers’ Statute; Article 50 of the Workers’ Statute; unilateral withdrawal by the Employer; and under Article 10.3 of Royal Decree 1382/1985.
+Furthermore, you understand that the Company has unilaterally, gratuitously and discretionally decided to grant the option under the Plan to individuals who may be employees of the Company Group. The decision is a limited decision that is entered into upon the express assumption and condition that any grant will not economically or otherwise bind the Company on an ongoing basis, other than as expressly set forth in the option agreement. Consequently, you understand that the option is granted on the assumption and condition that the option and the shares underlying the option shall not become a part of any employment or service contract and shall not be considered a mandatory benefit, salary for any purposes (including severance compensation) or any other right whatsoever. In addition, you understand that the option would not be granted to you but for the assumptions and conditions referred to above; thus, you
+
+PAGE NUMBER: 11
+
+acknowledge and freely accept that, should any or all of the assumptions be mistaken or should any of the conditions not be met for any reason, then any award of options shall be null and void.
+Notifications
+Securities Law Information
+. The option described in the option agreement and Appendix A and B do not qualify under Spanish regulations as securities. No “offer of securities to the public,” as defined under Spanish law, has taken place or will take place in the Spanish territory. The option agreement (including Appendix A and B) has not been nor will it be registered with the
+Comisión Nacional del Mercado de Valores
+, and it does not constitute a public offering prospectus.
+Exchange Control Information
+. Spanish residents must declare the acquisition, ownership and disposition of stock in a foreign company (including shares acquired under the Plan) to the Dirección General de Comercio e Inversiones (the “DGCI”), the Bureau for Commerce and Investments, which is a department of the Ministry of Economy and Competitiveness, for statistical purposes. Generally, the declaration must be made in January for shares acquired or sold during (or owned as of December 31 of) the prior year; however, if the value of shares acquired or sold exceeds €1,502,530 (or the Spanish resident holds 10% or more of the shares capital of the Company or such other amount that would entitle you to join the Company’s board of directors), the declaration must be filed within one (1) month of the acquisition or sale, as applicable.
+In addition, Spanish residents are required to electronically declare to the Bank of Spain any securities accounts (including brokerage accounts held abroad), any foreign instruments (including shares acquired under the Plan), and any transactions with non-Spanish residents (including any payments of cash or shares made to a Spanish resident pursuant to the Plan) if the balances in such accounts together with the value of such instruments as of December 31, or the volume of transactions with non-Spanish residents during the prior or current year, exceed €1,000,000. Once the €1,000,000 threshold has been surpassed in either respect, the Spanish resident generally will be required to report all foreign accounts, foreign instruments and transactions with non-Spanish residents, even if the relevant threshold has not been crossed for an individual item. Generally, the resident only will be required to report on an annual basis (by January 20 of each year); however, if the balances in the Spanish resident’s foreign accounts together with the value of his or her foreign instruments or the volume of transactions with non-Spanish residents exceed €100,000,000, more frequent reporting will be required. If neither the total balances nor total transactions with non-residents during the relevant period exceeds €50,000, a summarized form declaration may be used.
+Foreign Asset/Account Reporting Information. Spanish residents must report assets or rights deposited or held outside of Spain (e.g., cash or shares held in a bank or brokerage account) to the Spanish tax authorities on their annual tax return. This reporting obligation is based on the value of those rights and assets as of December 31 and has a threshold of €50,000 per type of asset (bank account, shares, real estate, etc.). After such assets or rights are initially reported, the reporting obligation will apply for subsequent years only if the value of any previously reported asset or right increases by more than €20,000 or if ownership of such asset or right is transferred or relinquished during the year.
+
+PAGE NUMBER: 12
+
+UNITED KINGDOM
+Terms and Conditions
+Tax and National Insurance Contributions Acknowledgment
+. The following provisions supplement paragraph (k) of the option agreement:
+Without limitation to paragraph (k), you hereby agree that you are liable for all Tax-Related Items and hereby covenant to pay all such Tax-Related Items, as and when requested by the Company, the Employer or by Her Majesty’s Revenue & Customs (“HMRC”) (or any other tax authority or any other relevant authority). You also hereby agree to indemnify and keep indemnified the Company and the Employer against any Tax-Related Items that they are required to pay or withhold on your behalf or have paid or will pay to HMRC (or any other tax authority or any other relevant authority).
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2017 Workiva
+Document
+EXHIBIT 99.2
+TERMS OF RESTRICTED STOCK UNIT (“RSU”) GRANT
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	In the event of a stock dividend, stock split, reverse stock split, share combination, recapitalization, reclassification or similar event affecting the capital structure of the Company, appropriate adjustment will be made in the number of shares subject to the RSU.
+	
+(b)	Except as otherwise provided in this RSU agreement or the Plan, no portion of the RSU will vest prior to three years from [GRANT DATE] (the “Grant Date”). On [VESTING DATE] (the “Vesting Date”), 100% of the RSUs will become vested. Upon vesting, you will receive one share of Common Stock of the Company for each vested RSU.
+	
+(c)	The Company shall credit to a bookkeeping account maintained on your behalf an amount equal to any cash dividends you would have received, if the shares subject to the RSU had been shares of Common Stock between the Grant Date and the Vesting Date (“Dividend Equivalents”). The amount credited to the bookkeeping account shall be reinvested in additional RSUs which shall be paid to you upon vesting of the RSU. If dividends are paid in shares of Common Stock instead of cash, the bookkeeping account will be credited with one additional RSU for each share of Common Stock that you would have received as a dividend, had the shares subject to the RSU been shares of Common Stock between the Grant Date and the Vesting Date. All such additional RSUs shall vest or be forfeited at the same time as the RSU. Except as provided herein, you shall have no voting, dividend or subscription rights except with respect to the shares which have been issued to you following the vesting of your RSUs. Your rights under this RSU agreement may not be assigned or transferred other than as permitted by the Plan.
+	
+(d)	If, prior to the Vesting Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, your RSU shall be fully vested. For purposes of this RSU agreement, the term “Disability” shall have the meaning set forth in the Plan; provided that if no such definition is contained in the Plan, the term “Disability” means permanent and total disability which is expected to prevent you from engaging in any substantial gainful activity for any prolonged period of time, as determined by the Company in its sole discretion.
+	
+(e)	If you retire prior to the Vesting Date, and your RSU was granted within a year prior to your retirement, then 25% of your RSU shall become vested, and if your RSU was granted more than a year prior to your retirement, then 100% of your RSU shall become vested 30 days after your retirement date provided you have executed and delivered by that date a restrictive covenant, if any, as may be requested by any member of the Company Group. For purposes of this RSU agreement, retirement is defined as termination of employment with the Company Group at such time as: (i) the combination of your age and years of service is 70 or more, and (ii) you have reached age 55 or more with 5 or more years of service.
+	
+(f)	Except as provided in paragraph (e), if your employment terminates for any reason other than death or Disability prior to the Vesting Date, you will forfeit your RSUs.
+
+PAGE NUMBER: 2
+
+
+
+	
+(g)	Notwithstanding the foregoing, the Compensation Committee of the Board of Directors may, in its sole discretion, deem this RSU grant, whether vested or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+	
+(h)	The RSU is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this RSU agreement shall have the meanings ascribed to them in the Plan.
+	
+(i)	This RSU agreement and the provisions of the Plan are governed by, and subject to, the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this grant or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois, agree that such litigation shall be conducted in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, where this grant is made and/or to be performed.
+	
+(j)	The RSUs granted hereunder are intended to be exempt from or compliant with Code Section 409A, and shall be interpreted, construed and operated to reflect this intent.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the RSU, including, but not limited to, the grant, vesting or settlement of the RSU, the subsequent sale of shares acquired pursuant to such settlement and the receipt of any dividends; and (2) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the RSU to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to the relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
+	
+(i)	withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or
+	
+(ii)	withholding from proceeds of the sale of shares acquired upon settlement of the RSU either through a voluntary sale or through a mandatory sale arranged by the Company (on your behalf pursuant to this authorization without further consent); or
+
+PAGE NUMBER: 3
+
+
+
+	
+(iii)	withholding in shares to be issued upon settlement of the RSU (notwithstanding the foregoing, if you are subject to the short-swing profit rules of Section 16(b) of the U.S. Securities Exchange Act of 1934, the Company and/or the Employer will satisfy the obligations with regard to all Tax-Related Items only by withholding in shares to be issued upon settlement of the RSUs, unless such withholding method is not permissible under applicable law, in which case you may elect to satisfy the Tax-Related Items by one of the other methods identified above); or
+(iv) any other method determined by the Company.
+Depending on the withholding method, the Company may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates, including maximum applicable rates, in which case you will receive a refund of any over-withheld amount in cash and will have no entitlement to the share equivalent. If the obligation for Tax-Related Items is satisfied by withholding in shares, for tax purposes, you are deemed to have been issued the full number of shares subject to the vested RSU, notwithstanding that a number of the shares are held back solely for the purpose of paying the Tax-Related Items.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the shares or the proceeds of the sale of shares if you fail to comply with your obligations in connection with the Tax-Related Items.
+	
+(l)	The provisions of this RSU agreement are severable, and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The RSUs are subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction and (iii) any policies adopted by the Company to implement such requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	You are not permitted to purchase or sell options on the Company’s common stock or engage in short sales of the Company’s common stock. In addition, if you are an executive officer or director, you acknowledge that you are not permitted to engage in trading puts, calls, straddles, equity swaps or other derivative securities that are directly linked to the Company’s common stock and are subject to any Company policies regarding stock trading, hedging and pledging Company common stock or other Company equity securities. For purposes of this paragraph, an “executive officer” means any officer classified by the Company as a reporting person under Section 16 of the U.S. Securities Exchange Act of 1934.
+	
+(o)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+	
+(p)	The Company reserves the right to impose other requirements on your participation in the Plan, on the RSUs and on any shares acquired under the Plan, to the extent the Company determines it is necessary or advisable
+
+PAGE NUMBER: 4
+
+for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+
+	
+(q)	Notwithstanding any provisions in this RSU agreement, the RSU shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. If you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendices A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this RSU agreement.
+
+PAGE NUMBER: 5
+
+APPENDIX A
+GENERAL TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+(a) Nature of Grant. In accepting the grant, you acknowledge, understand and agree that:
+(i) the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan;
+(ii) the grant of the RSU is exceptional, discretionary, voluntary and occasional and does not create any contractual or other right to receive future grants of RSUs, or benefits in lieu of RSUs, even if RSUs have been granted in the past;
+(iii) all decisions with respect to future RSU grants, if any, will be at the sole discretion of the Company;
+(iv) your participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate your employment or service relationship (if any) at any time;
+(v) you are voluntarily participating in the Plan;
+(vi) the RSU and the shares subject to the RSU, and the income from and value of same, are extraordinary items that do not constitute compensation of any kind for services of any kind rendered to the Employer, and are outside the scope of your employment or service contract, if any;
+(vii) the RSU and the shares subject to the RSU, and the income from and value of same, are not intended to replace any pension rights or compensation;
+(viii) the RSU and the shares subject to the RSU, and the income from and value of same, are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end of service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar mandatory payments;
+(ix) unless otherwise agreed with the Company, the RSU and the shares subject to the RSU, and the income from and value of same, are not granted as consideration for, or in connection with, the service you may provide as a director of a Subsidiary or Affiliate;
+(x) the RSU grant and your participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Subsidiary or Affiliate;
+(xi) the future value of the underlying shares is unknown, indeterminable and cannot be predicted with certainty;
+(xii) no claim or entitlement to compensation or damages shall arise from forfeiture of the RSU resulting from termination of your employment or other service relationship by the Company or the Employer (for any reason whatsoever, and whether or not in breach of local labor laws and whether or not later found to be invalid), and in consideration of the grant of the RSU to which you are otherwise not entitled, you irrevocably agree never to institute any claim against the Company or the Employer and you irrevocably waive your ability, if any, to
+
+PAGE NUMBER: 6
+
+bring any such claim, and release the Company and the Employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, you shall be deemed irrevocably to have agreed not to pursue such claim and agree to execute any and all documents necessary to request dismissal or withdrawal of such claims;
+(xiii) unless otherwise provided in the RSU agreement, in the event of termination of your employment or other service relationship (for any reason whatsoever, whether or not in breach of local labor laws and whether or not later found to be invalid), your right to vest in the RSU under the Plan, if any, will terminate effective as of the date that you are no longer actively employed or rendering services and will not be extended by any notice period mandated under local law (
+e.g
+., active employment or service would not include a period of “garden leave” or similar period pursuant to local law); the Committee shall have the exclusive discretion to determine when you are no longer actively employed or rendering services for purposes of your RSU grant (including whether you may still be considered to be providing services while on a leave of absence); and
+(xiv) the Company Group shall not be liable for any foreign exchange rate fluctuation between your local currency and the United States Dollar that may affect the value of the RSU or of any amounts due to you pursuant to the settlement of the RSU or the subsequent sale of any shares acquired upon settlement.
+(b) No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding your participation in the Plan or your acquisition or sale of the underlying shares. You should consult with your own personal tax, legal and financial advisors regarding your participation in the Plan before taking any action related to the Plan.
+(c)
+Data Privacy. You hereby voluntarily consent to the collection, use and transfer, in electronic or other form, of your personal data as described in this RSU agreement and any other RSU grant materials by and among, as applicable, the Employer, the Company and its other Subsidiaries and Affiliates for the exclusive purpose of implementing, administering and managing your participation in the Plan.
+You understand that the Company and the Employer may hold certain personal information about you, including, but not limited to, your name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company, details of all RSUs or any other entitlement to shares of stock awarded, canceled, exercised, vested, unvested or outstanding in your favor (“Data”), for the exclusive purpose of implementing, administering and managing the Plan.
+You understand that Data will be transferred to Fidelity Stock Plan Services (“Fidelity”) or such other stock plan service provider as may be selected by the Company in the future, which is assisting the Company with the implementation, administration and management of the Plan. You understand that the recipients of the Data may be located in the United States or elsewhere, and that the recipients’ country (e.g., the United States) may have different data privacy laws and protections than your country. You understand that you may request a list with the names and addresses of any potential recipients of the Data by contacting your local human resources representative. You authorize the Company, Fidelity and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing your participation in the Plan. You understand that Data will be held only as long as is necessary to implement, administer and manage your participation in the Plan. You understand that you may, at any time, request access to Data, request information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing your local human resources representative. Further, you understand that you are providing
+
+PAGE NUMBER: 7
+
+the consents herein on a purely voluntary basis. If you do not consent, or if you later seek to revoke your consent, your employment status or service with the Employer will not be affected; the only consequence of refusing or withdrawing your consent is that the Company would not be able to grant the RSUs or other equity awards to you or administer or maintain such awards. Therefore, you understand that refusing or withdrawing your consent may affect your ability to participate in the Plan. For more information on the consequences of your refusal to consent or withdrawal of consent, you understand that you may contact your local human resources representative.
+(d) Language. If you have received this RSU agreement or any other document related to the Plan translated into a language other than English, and if the meaning of the translated version is different than the English version, the English version will control.
+(e) Retirement. Notwithstanding paragraph (e) of the RSU agreement, if the Company receives an opinion of counsel that there has been a legal judgment and/or legal development in your jurisdiction that would likely result in the favorable treatment applicable to the RSU pursuant to paragraph (e) being deemed unlawful and/or discriminatory, then the Company will not apply the favorable treatment at the time of your retirement, and the RSU will be treated as set forth in paragraph (f) of the RSU agreement.
+(f) Waiver. You acknowledge that a waiver by the Company of a breach of any provision of this RSU agreement shall not operate or be construed as a waiver of any other provision of this RSU agreement, or of any subsequent breach by you or another Participant.
+(g) Insider Trading/Market Abuse Laws. You acknowledge that, you may be subject to insider trading restrictions and/or market abuse laws in applicable jurisdictions, including the United States, which may affect your ability to acquire or sell shares or rights to shares (
+e.g
+., RSU) under the Plan during such times you are considered to have “inside information” (as defined in the laws of applicable jurisdictions) regarding the Company. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. You acknowledge that it is your responsibility to comply with any applicable restrictions and should speak to your personal advisor on this matter.
+(h) Foreign Asset/Account Reporting; Exchange Controls. Your country may have certain foreign asset and/or account reporting requirements and/or exchange controls which may affect your ability to acquire or hold shares under the Plan or cash received from participating in the Plan (including from any dividends received or sale proceeds arising from the sale of shares) in a brokerage or bank account outside your country. You may be required to report such accounts, assets or transactions to the tax or other authorities in your country. You also may be required to repatriate sale proceeds or other funds received as a result of your participation in the Plan to your country through a designated bank or broker and/or within a certain time after receipt. You acknowledge that it is your responsibility to be compliant with such regulations, and you should consult your personal legal advisor for any details.
+
+PAGE NUMBER: 8
+
+APPENDIX B
+COUNTRY-SPECIFIC TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+Capitalized terms used but not defined herein shall have the meanings given to such terms in the Plan and/or the RSU agreement (including Appendix A).
+Terms and Conditions
+This Appendix B includes special terms and conditions applicable to your RSUs if you reside and/or work in any of the countries covered by this Appendix B. These terms and conditions are in addition to, or if so indicated, in place of, the terms and conditions set forth in the RSU agreement (including Appendix A).
+If you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the RSUs were granted or are considered a resident of another country for local law purposes, the Company shall have the sole discretion to determine to what extent the terms and conditions shall apply to you under these circumstances.
+Notifications
+This Appendix B also includes notifications relating to exchange control and other issues of which you should be aware with respect to your participation in the Plan. The information is based on the exchange control, securities, and other laws in effect in the countries to which this Appendix B refers as of January 2017. Such laws are often complex and change frequently. As a result, the Company strongly recommends that you not rely on the notifications herein as the only source of information relating to the consequences of participating in the Plan because the information may be out of date at the time your RSU vests or you sell shares acquired under the Plan.
+In addition, the notifications are general in nature and may not apply to your particular situation, and the Company is not in a position to assure you of any particular result. Accordingly, you should seek appropriate professional advice as to how the relevant laws in your country may apply to your situation.
+Finally, if you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the RSUs were granted or are considered a resident of another country for local law purposes, the information contained herein may not be applicable to you in the same manner.
+[REMAINDER OF APPENDIX B OMITTED.]
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2017 Workiva
+Document
+EXHIBIT 99.3
+TERMS OF PERFORMANCE SHARE UNIT (“PSU”) GRANT
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	In the event of a stock dividend, stock split, reverse stock split, share combination, recapitalization, reclassification or similar event affecting the capital structure of the Company, appropriate adjustment will be made in the number of shares subject to this PSU.
+	
+(b)	Except as otherwise provided in this PSU agreement or the Plan, no portion of the PSU will vest prior to three years from [GRANT DATE] (the “Grant Date”). On [VESTING DATE] (the “Vesting Date”), this PSU shall vest to the extent the Compensation Committee has certified that the performance goals established for this PSU have been met. Upon vesting, subject to paragraph (g) below, you will receive one share of Common Stock of the Company for each share subject to this PSU according to the level of achievement of the performance goals and payout scale established by the Compensation Committee for this grant. This PSU will be considered to be paid on the Vesting Date if the shares are issued within 60 days after the Vesting Date; provided, however, that the Compensation Committee has certified the level of achievement of the performance goals prior to the actual payment date.
+	
+(c)	The Company shall credit to a bookkeeping account maintained on your behalf an amount equal to any cash dividends you would have received, if the shares subject to this PSU had been shares of Common Stock between the Grant Date and the Vesting Date (“Dividend Equivalents”). The amount credited to the bookkeeping account shall be reinvested in additional PSUs which shall be paid to you upon vesting of the PSU. If dividends are paid in shares of Common Stock instead of cash, the bookkeeping account will be credited with one additional PSU for each share of Common Stock that you would have received as a dividend, had the shares subject to this PSU been shares of Common Stock between the Grant Date and the Vesting Date. All such additional PSUs shall vest or be forfeited at the same time as this PSU. Except as provided herein, you shall have no voting, dividend or subscription rights except with respect to the shares which have been issued to you following the vesting of your PSUs. Your rights under this PSU agreement may not be assigned or transferred other than as permitted by the Plan.
+	
+(d)	If, prior to the Vesting Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, this PSU grant shall vest on the Vesting Date to the full extent of the performance goal level of achievement certified by the Compensation Committee. For purposes of this PSU agreement, the term “Disability” shall have the meaning set forth in the Plan; provided that if no such definition is contained in the Plan, the term “Disability” means permanent and total disability which is expected to prevent you from engaging in any substantial gainful activity for any prolonged period of time, as determined by the Company in its sole discretion.
+	
+(e)	If you retire prior to the Vesting Date, your PSU will become pro-rata vested on the Vesting Date for the portion of the performance period that you were employed and based on the performance achievement level certified by the Compensation Committee. For purposes of this PSU agreement, retirement is defined as termination of employment with the Company Group at such time as: (i) the combination of your age and years of service is 70 or more, and (ii) you have reached age 55 or more with 5 or more years of service. The vesting provisions in this paragraph (d) are subject to your execution of a restrictive covenant within 30 days after your retirement
+
+PAGE NUMBER: 2
+
+date, but in no event later than the actual payment date under paragraph (a), if requested by any member of the Company Group.
+
+
+	
+(f)	Except as provided in paragraph (e), if your employment terminates for any reason other than death or Disability prior to the Vesting Date, you will forfeit your PSUs.
+	
+(g)	Notwithstanding the foregoing, the Compensation Committee of the Board of Directors may, in its sole discretion, deem this PSU grant, whether vested or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+	
+(h)	The PSU is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this PSU agreement shall have the meanings ascribed to them in the Plan.
+	
+(i)	This PSU agreement and the provisions of the Plan are governed by, and subject to, the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this grant or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois, agree that such litigation shall be conducted in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, where this grant is made and/or to be performed.
+	
+(j)	The PSUs granted hereunder are intended to be exempt from or compliant with Code Section 409A, and shall be interpreted, construed and operated to reflect this intent.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the PSU, including, but not limited to, the grant, vesting or settlement of the PSU, the subsequent sale of shares acquired pursuant to such settlement and the receipt of any dividends; and (2) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the PSU to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to the relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
+	
+(i)	withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or
+
+PAGE NUMBER: 3
+
+
+
+	
+(ii)	withholding from proceeds of the sale of shares acquired upon settlement of the PSU either through a voluntary sale or through a mandatory sale arranged by the Company (on your behalf pursuant to this authorization without further consent); or
+	
+(iii)	withholding in shares to be issued upon settlement of the PSU (notwithstanding the foregoing, if you are subject to the short-swing profit rules of Section 16(b) of the U.S. Securities Exchange Act of 1934, the Company and/or the Employer will satisfy the obligations with regard to all Tax-Related Items only by withholding in shares to be issued upon vesting/settlement of the PSU, unless such withholding method is not permissible under applicable law, in which case you may elect to satisfy the Tax-Related Items by one of the other methods identified above); or
+	
+(iv)	any other method determined by the Company.
+Depending on the withholding method, the Company may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates, including maximum applicable rates, in which case you may receive a refund of any over-withheld amount in cash and will have no entitlement to the share equivalent. If the obligation for Tax-Related Items is satisfied by withholding in shares, for tax purposes, you are deemed to have been issued the full number of shares subject to the vested PSU, notwithstanding that a number of the shares are held back solely for the purpose of paying the Tax-Related Items.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the shares or the proceeds of the sale of shares if you fail to comply with your obligations in connection with the Tax-Related Items.
+	
+(l)	The provisions of this PSU agreement are severable, and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The PSUs are subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction and (iii) any policies adopted by the Company to implement such requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	You are not permitted to purchase or sell options on the Company’s common stock or engage in short sales of the Company’s common stock. In addition, if you are an executive officer or director, you acknowledge that you are not permitted to engage in trading puts, calls, straddles, equity swaps or other derivative securities that are directly linked to the Company’s common stock and are subject to any Company policies regarding stock trading, hedging and pledging Company common stock or other Company equity securities. For purposes of this paragraph, an “executive officer” means any officer classified by the Company as a reporting person under Section 16 of the U.S. Securities Exchange Act of 1934.
+	
+(o)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic
+
+PAGE NUMBER: 4
+
+delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+
+
+	
+(p)	The Company reserves the right to impose other requirements on your participation in the Plan, on the PSUs and on any shares acquired under the Plan, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+	
+(q)	Notwithstanding any provisions in this PSU agreement, the PSU shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. If you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendices A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this PSU agreement.
+
+PAGE NUMBER: 5
+
+APPENDIX A
+GENERAL TERMS AND CONDITIONS FOR
+PARTICIPANTS OUTSIDE THE UNITED STATES
+(a) Nature of Grant. In accepting the grant, you acknowledge, understand and agree that:
+
+
+	
+(i)	the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan;
+	
+(ii)	the grant of the PSU is exceptional, discretionary, voluntary and occasional and does not create any contractual or other right to receive future grants of PSUs, or benefits in lieu of PSUs, even if PSUs have been granted in the past;
+	
+(iii)	all decisions with respect to future PSU grants, if any, will be at the sole discretion of the Company;
+	
+(iv)	your participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate your employment or service relationship (if any) at any time;
+	
+(v)	you are voluntarily participating in the Plan;
+	
+(vi)	the PSU and the shares subject to the PSU, and the income from and value of same, are extraordinary items that do not constitute compensation of any kind for services of any kind rendered to the Employer, and are outside the scope of your employment or service contract, if any;
+	
+(vii)	the PSU and the shares subject to the PSU, and the income from and value of same, are not intended to replace any pension rights or compensation;
+	
+(viii)	the PSU and the shares subject to the PSU, and the income from and value of same, are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end of service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar mandatory payments;
+	
+(ix)	unless otherwise agreed with the Company, the PSU and the shares subject to the PSU, and the income from and value of same, are not granted as consideration for, or in connection with, the service you may provide as a director of a Subsidiary or Affiliate;
+	
+(x)	the PSU grant and your participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Subsidiary or Affiliate;
+	
+(xi)	the future value of the underlying shares is unknown, indeterminable and cannot be predicted with certainty;
+
+PAGE NUMBER: 6
+
+
+
+	
+(xii)	no claim or entitlement to compensation or damages shall arise from forfeiture of the PSU resulting from termination of your employment or other service relationship by the Company or the Employer (for any reason whatsoever, and whether or not in breach of local labor laws and whether or not later found to be invalid), and in consideration of the grant of the PSU to which you are otherwise not entitled, you irrevocably agree never to institute any claim against the Company or the Employer and you irrevocably waive your ability, if any, to bring any such claim, and release the Company and the Employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, you shall be deemed irrevocably to have agreed not to pursue such claim and agree to execute any and all documents necessary to request dismissal or withdrawal of such claims;
+	
+(xiii)	unless otherwise provided in the PSU agreement, in the event of termination of your employment or other service relationship (for any reason whatsoever, whether or not in breach of local labor laws and whether or not later found to be invalid), your right to vest in the PSU under the Plan, if any, will terminate effective as of the date that you are no longer actively employed or rendering services and will not be extended by any notice period mandated under local law (e.g., active employment or service would not include a period of “garden leave” or similar period pursuant to local law); the Committee shall have the exclusive discretion to determine when you are no longer actively employed or rendering services for purposes of your PSU grant (including whether you may still be considered to be providing services while on a leave of absence); and
+	
+(xiv)	the Company Group shall not be liable for any foreign exchange rate fluctuation between your local currency and the United States Dollar that may affect the value of the PSU or of any amounts due to you pursuant to the settlement of the PSU or the subsequent sale of any shares acquired upon settlement.
+	
+(b)	No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding your participation in the Plan or your acquisition or sale of the underlying shares. You should consult with your own personal tax, legal and financial advisors regarding your participation in the Plan before taking any action related to the Plan.
+	
+(c)	Data Privacy. You hereby voluntarily consent to the collection, use and transfer, in electronic or other form, of your personal data as described in this PSU agreement and any other PSU grant materials by and among, as applicable, the Employer, the Company and its other Subsidiaries and Affiliates for the exclusive purpose of implementing, administering and managing your participation in the Plan.
+You understand that the Company and the Employer may hold certain personal information about you, including, but not limited to, your name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company, details of all PSUs or any other entitlement to shares of stock awarded, canceled, exercised, vested, unvested or outstanding in your favor (“Data”), for the exclusive purpose of implementing, administering and managing the Plan.
+You understand that Data will be transferred to Fidelity Stock Plan Services (“Fidelity”) or such other stock plan service provider as may be selected by the Company in the future, which is assisting the Company with the implementation, administration and management of the Plan. You understand that the recipients of the Data may be located in the United States or elsewhere, and that the recipients’ country (e.g., the United States) may have different data privacy laws and protections than your country.
+
+PAGE NUMBER: 7
+
+You understand that you may request a list with the names and addresses of any potential recipients of the Data by contacting your local human resources representative. You authorize the Company, Fidelity and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing your participation in the Plan. You understand that Data will be held only as long as is necessary to implement, administer and manage your participation in the Plan. You understand that you may, at any time, request access to Data, request information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing your local human resources representative. Further, you understand that you are providing the consents herein on a purely voluntary basis. If you do not consent, or if you later seek to revoke your consent, your employment status or service with the Employer will not be affected; the only consequence of refusing or withdrawing your consent is that the Company would not be able to grant the PSUs or other equity awards to you or administer or maintain such awards. Therefore, you understand that refusing or withdrawing your consent may affect your ability to participate in the Plan. For more information on the consequences of your refusal to consent or withdrawal of consent, you understand that you may contact your local human resources representative.
+
+
+	
+(d)	Language. If you have received this PSU agreement or any other document related to the Plan translated into a language other than English, and if the meaning of the translated version is different than the English version, the English version will control.
+	
+(e)	Retirement. Notwithstanding paragraph (e) of the PSU agreement, if the Company receives an opinion of counsel that there has been a legal judgment and/or legal development in your jurisdiction that would likely result in the favorable treatment applicable to the PSU pursuant to paragraph (e) being deemed unlawful and/or discriminatory, then the Company will not apply the favorable treatment at the time of your retirement, and the PSU will be treated as set forth in paragraph (f) of the PSU agreement.
+	
+(f)	Waiver. You acknowledge that a waiver by the Company of a breach of any provision of this PSU agreement shall not operate or be construed as a waiver of any other provision of this PSU agreement, or of any subsequent breach by you or another Participant.
+	
+(g)	Insider Trading/Market Abuse Laws. You acknowledge that you may be subject to insider trading restrictions and/or market abuse laws in applicable jurisdictions, including the United States, which may affect your ability to acquire or sell shares or rights to shares (e.g., PSU) under the Plan during such times you are considered to have “inside information” (as defined in the laws of applicable jurisdictions) regarding the Company. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. You acknowledge that it is your responsibility to comply with any applicable restrictions and should speak to your personal advisor on this matter.
+	
+(h)	Foreign Asset/Account Reporting; Exchange Controls. Your country may have certain foreign asset and/or account reporting requirements and/or exchange controls which may affect your ability to acquire or hold shares under the Plan or cash received from participating in the Plan (including from any dividends received or sale proceeds arising from the sale of shares) in a brokerage or bank account outside your country. You may be required to report such accounts, assets or transactions to the tax or other authorities in your country. You also may be required to repatriate sale proceeds or other funds received as a result of your participation in the Plan to your country through a designated bank or broker and/or within a certain
+
+PAGE NUMBER: 8
+
+time after receipt. You acknowledge that it is your responsibility to be compliant with such regulations, and you should consult your personal legal advisor for any details.
+
+PAGE NUMBER: 9
+
+APPENDIX B
+COUNTRY-SPECIFIC TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+Capitalized terms used but not defined herein shall have the meanings given to such terms in the Plan and/or the PSU agreement (including Appendix A).
+Terms and Conditions
+This Appendix B includes special terms and conditions applicable to your PSUs if you reside and/or work in any of the countries covered by this Appendix B. These terms and conditions are in addition to, or if so indicated, in place of, the terms and conditions set forth in the PSU agreement (including Appendix A).
+If you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the PSUs were granted or are considered a resident of another country for local law purposes, the Company shall have the sole discretion to determine to what extent the terms and conditions shall apply to you under these circumstances.
+Notifications
+This Appendix B also includes notifications relating to exchange control and other issues of which you should be aware with respect to your participation in the Plan. The information is based on the exchange control, securities, and other laws in effect in the countries to which this Appendix B refers as of January 2017. Such laws are often complex and change frequently. As a result, the Company strongly recommends that you not rely on the notifications herein as the only source of information relating to the consequences of participating in the Plan because the information may be out of date at the time your PSU vests or you sell shares acquired under the Plan.
+In addition, the notifications are general in nature and may not apply to your particular situation, and the Company is not in a position to assure you of any particular result. Accordingly, you should seek appropriate professional advice as to how the relevant laws in your country may apply to your situation.
+Finally, if you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the PSUs were granted or are considered a resident of another country for local law purposes, the information contained herein may not be applicable to you in the same manner.
+
+PAGE NUMBER: 10
+
+AUSTRALIA
+Terms and Conditions
+Breach of Law. Notwithstanding any provision in the Plan or the PSU agreement, you will not be entitled to, and shall not claim any benefit (including without limitation a legal right) under the Plan if the provision of such benefit would give rise to a breach of Part 2D.2 of the Corporations Act 2001 (Cth), any other provision of that Act, or any other applicable statute, rule or regulation which limits or restricts the giving of such benefits. Further, the Employer is under no obligation to seek or obtain the approval of its shareholders in a general meeting for the purpose of overcoming any such limitation or restriction.
+Tax Information.
+The Plan is a plan to which Subdivision 83A-C of the Income Tax Assessment Act 1997 (Cth) (the “Act”) applies (subject to the conditions in that Act).
+Notifications
+Securities Law Information. The PSU grant is intended to comply with the provisions of the Corporations Act 2001, ASIC Regulatory Guide 49 and ASIC Class Order 14/1000. Additional details are set forth in the Offer Document for the Offer of Restricted Stock Units to Australian Resident Employees, the Plan and the PSU agreement. By accepting the PSU grant, you acknowledge and confirm that you have received these documents.
+Exchange Control Information. Exchange control reporting is required for cash transactions exceeding A$10,000 and international fund transfers. The Australian bank assisting with the transaction will file the report. If there is no Australian bank involved in the transfer, you will be required to file the report.
+CHINA
+Settlement of PSU. Notwithstanding paragraph (b) of the PSU agreement, due to legal restrictions in China, the PSU will be paid in cash at vesting and not in shares. You will receive a cash payment equal to the Fair Market Value of a share of Common Stock on the vesting date multiplied by the number of vested PSU. The cash payment will be made by the Employer and will be paid to you in local currency through your local payroll. The cash payment will be subject to all applicable tax withholding and reporting. To convert the payment amount from US dollars into local currency, the Company will use an exchange rate determined pursuant to the Company’s financial policies in effect on the payment date. Depending on the development of exchange control or other applicable laws in China, the Company, at its discretion, may determine that other payment methods may be used.
+Exchange Control Requirements. You agree to comply with any requirements that may be imposed by the Company in the future in order to facilitate compliance with exchange control requirements in China.
+GERMANY
+Exchange Control Information. Cross-border payments in excess of €12,500 must be reported electronically monthly to the Germany Federal Bank. In the event that you make or receive a payment in excess of this amount, you are responsible for obtaining the appropriate form from the remitting bank and complying with applicable reporting requirements.
+
+PAGE NUMBER: 11
+
+SPAIN
+Terms and Conditions
+No Entitlement for Claims or Compensation. By accepting the PSU, you consent to participation in the Plan and acknowledge that you have received a copy of the Plan document.
+You understand and agree that, as a condition of the grant of the PSU, your termination of employment for any reason other than death, disability or retirement (including for the reasons listed below) will automatically result in the forfeiture of any PSU that has not vested on the date of your termination.
+In particular, you understand and agree that, unless otherwise provided in the PSU agreement, the PSU will be forfeited without entitlement to the underlying shares or to any amount as indemnification in the event of a termination of your employment prior to vesting by reason of, including, but not limited to: resignation, disciplinary dismissal adjudged to be with cause, disciplinary dismissal adjudged or recognized to be without good cause (
+i.e
+., subject to a “despido improcedente”), individual or collective layoff on objective grounds, whether adjudged to be with cause or adjudged or recognized to be without cause, material modification of the terms of employment under Article 41 of the Workers’ Statute, relocation under Article 40 of the Workers’ Statute, Article 50 of the Workers’ Statute, unilateral withdrawal by the Employer, and under Article 10.3 of Royal Decree 1382/1985.
+Furthermore, you understand that the Company has unilaterally, gratuitously and discretionally decided to grant the PSU under the Plan to individuals who may be employees of the Company Group. The decision is a limited decision that is entered into upon the express assumption and condition that any grant will not economically or otherwise bind the Company on an ongoing basis, other than as expressly set forth in the PSU agreement. Consequently, you understand that the PSU is granted on the assumption and condition that the PSU and the shares underlying the PSU shall not become a part of any employment or service contract and shall not be considered a mandatory benefit, salary for any purposes (including severance compensation) or any other right whatsoever. In addition, you understand that the PSU would not be granted to you but for the assumptions and conditions referred to above; thus, you acknowledge and freely accept that, should any or all of the assumptions be mistaken or should any of the conditions not be met for any reason, then any award of PSU shall be null and void.
+Notifications
+Securities Law Information. The PSU described in the PSU agreement and Appendices A and B do not qualify under Spanish regulations as securities. No “offer of securities to the public,” as defined under Spanish law, has taken place or will take place in the Spanish territory. The PSU agreement (including Appendices A and B) has not been nor will it be registered with the Comisión Nacional del Mercado de Valores, and it does not constitute a public offering prospectus.
+Exchange Control Information. Spanish residents must declare the acquisition, ownership and disposition of stock in a foreign company (including shares acquired under the Plan) to the Dirección General de Comercio e Inversiones (the “DGCI”), the Bureau for Commerce and Investments, which is a department of the Ministry of Economy and Competitiveness, for statistical purposes. Generally, the declaration must be made in January for shares acquired or sold during (or owned as of December 31 of) the prior year; however, if the value of shares acquired or sold exceeds €1,502,530 (or the Spanish resident holds 10% or more of the shares capital of the Company or such other amount that would entitle you to join the Company’s board of directors), the declaration must be filed within one (1) month of the acquisition or sale, as applicable.
+
+PAGE NUMBER: 12
+
+In addition, Spanish residents are required to electronically declare to the Bank of Spain any securities accounts (including brokerage accounts held abroad), any foreign instruments (including shares acquired under the Plan), and any transactions with non-Spanish residents (including any payments of cash or shares made to a Spanish resident pursuant to the Plan) if the balances in such accounts together with the value of such instruments as of December 31, or the volume of transactions with non-Spanish residents during the prior or current year, exceed €1,000,000. Once the €1,000,000 threshold has been surpassed in either respect, the Spanish resident generally will be required to report all foreign accounts, foreign instruments and transactions with non-Spanish residents, even if the relevant threshold has not been crossed for an individual item. Generally, the resident only will be required to report on an annual basis (by January 20 of each year); however, if the balances in the Spanish resident’s foreign accounts together with the value of his or her foreign instruments or the volume of transactions with non-Spanish residents exceed €100,000,000, more frequent reporting will be required. If neither the total balances nor total transactions with non-residents during the relevant period exceeds €50,000, a summarized form declaration may be used.
+Foreign Asset/Account Reporting Information. Spanish residents must report assets or rights deposited or held outside of Spain (
+e.g
+., cash or shares held in a bank or brokerage account) to the Spanish tax authorities on their annual tax return. This reporting obligation is based on the value of those rights and assets as of December 31 and has a threshold of €50,000 per type of asset (bank account, shares, real estate, etc.). After such assets or rights are initially reported, the reporting obligation will apply for subsequent years only if the value of any previously reported asset or right increases by more than €20,000 or if ownership of such asset or right is transferred or relinquished during the year.
+UNITED KINGDOM
+Terms and Conditions
+Tax and National Insurance Contributions Acknowledgment. The following provisions supplement paragraph (k) of the PSU agreement:
+Without limitation to paragraph (k), you hereby agree that you are liable for all Tax-Related Items and hereby covenant to pay all such Tax-Related Items, as and when requested by the Company, the Employer or by Her Majesty’s Revenue & Customs (“HMRC”) (or any other tax authority or any other relevant authority). You also hereby agree to indemnify and keep indemnified the Company and the Employer against any Tax-Related Items that they are required to pay or withhold on your behalf or have paid or will pay to HMRC (or any other tax authority or any other relevant authority).
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2017 Workiva
+Document
+EXHIBIT 99.4
+TERMS OF PERFORMANCE CASH (“P CASH”) AWARD
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	Except as otherwise provided in this P CASH agreement or the Plan, no portion of the P CASH award will vest prior to three years from [GRANT DATE] (the “Grant Date”). On [VESTING DATE] (the “Vesting Date”), the P CASH award will become vested to the extent of the performance achievement level certified by the Compensation Committee. Subject to paragraph (g) below, you will receive a cash award on the Vesting Date according to the level of achievement of the performance goals and payout scale established for this grant. A payment will be considered to be paid on the Vesting Date if it is paid within 60 days after the Vesting Date; provided, however, that the Compensation Committee has certified the level of achievement of the performance goal prior to the actual payment date.
+	
+(b)	Your rights under this P CASH agreement may not be assigned or transferred other than as permitted by the Plan.
+	
+(c)	If, prior to the Vesting Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, your P CASH grant shall become vested on the Vesting Date to the full extent of the performance achievement level certified by the Compensation Committee. For purposes of this P CASH agreement, the term “disability” shall have the meaning set forth in the Plan; provided that if no such definition is contained in the Plan, the term “Disability” means permanent and total disability which is expected to prevent you from engaging in any substantial gainful activity for any prolonged period of time, as determined by the Company in its sole discretion.
+	
+(d)	If you retire prior to the Vesting Date, your P CASH grant will become pro-rata vested on the Vesting Date for the portion of the vesting period that you were employed and based on the performance achievement level certified by the Compensation Committee. For purposes of this P CASH agreement, retirement is defined as termination of employment with the Company Group at such time as: (i) the combination of your age and years of service is 70 or more, and (ii) you have reached age 55 or more with 5 or more years of service. The vesting provisions in this paragraph (d) are subject to your execution of a restrictive covenant within 30 days after your retirement date, but in no event later than the actual payment date under paragraph (a), if requested by any member of the Company Group.
+	
+(e)	Except as provided in paragraph (d), if your employment terminates for any reason other than death or Disability prior to the Vesting Date, you will forfeit your P CASH grant.
+	
+(f)	Notwithstanding the foregoing, the Compensation Committee of the Board of Directors may, in its sole discretion, deem this P CASH grant, whether vested or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+	
+(g)	The P CASH grant is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this P CASH agreement shall have the meanings ascribed to them in the Plan.
+	
+(h)	This P CASH agreement and the provisions of the Plan are governed by, and subject to the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this grant or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois, agree that such litigation shall be conducted in the courts of Cook County,
+
+PAGE NUMBER: 2
+
+Illinois, or the federal courts for the United States for the Northern District of Illinois, where this grant is made and/or to be performed.
+
+
+	
+(i)	The P CASH grant is intended to be exempt from or compliant with Code Section 409A, and shall be interpreted, construed and operated to reflect this intent.
+	
+(j)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the P CASH grant, including, but not limited to, the grant, vesting or payment of the P CASH grant; and (2) do not commit to and are under no obligation to structure the terms of the P CASH grant or any aspect of the P CASH grant to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to any relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following: (1) withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or (2) withholding from the cash payment upon vesting of the P CASH grant.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described.
+	
+(k)	The provisions of this P CASH agreement are severable, and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(l)	The P CASH grant is subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction and (iii) any policies adopted by the Company to implement such requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(m)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+	
+(n)	The Company reserves the right to impose other requirements on your participation in the Plan, on the P CASH grant and on the cash payment, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+PAGE NUMBER: 3
+
+
+
+	
+(o)	Notwithstanding any provisions in this P CASH agreement, the P CASH grant shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. Moreover, if you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendix A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this P CASH agreement.
+
+PAGE NUMBER: 4
+
+APPENDIX A
+GENERAL TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+
+
+	
+(a)	Nature of Grant. In accepting the grant, you acknowledge, understand and agree that:
+	
+(i)	the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan;
+	
+(ii)	the P CASH grant is exceptional, discretionary, voluntary and occasional and does not create any contractual or other right to receive future P CASH grants, or benefits in lieu of P CASH grants, even if P CASH grants have been made in the past;
+	
+(iii)	all decisions with respect to future P CASH grants, if any, will be at the sole discretion of the Company;
+	
+(iv)	your participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate your employment or service relationship (if any) at any time;
+	
+(v)	you are voluntarily participating in the Plan;
+	
+(vi)	the P CASH grant and the cash award subject to the P CASH grant, and the income from and value of same, are extraordinary items that do not constitute compensation of any kind for services of any kind rendered to the Employer, and are outside the scope of your employment or service contract, if any;
+	
+(vii)	the P CASH grant and the cash award subject to the P CASH grant, and the income from and value of same, are not intended to replace any pension rights or compensation;
+	
+(viii)	the P CASH grant and the cash award subject to the P CASH grant, and the income from and value of same, are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end of service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar mandatory payments;
+	
+(ix)	unless otherwise agreed with the Company, the P CASH grant and the cash award subject to the P CASH grant, and the income from and value of same, are not granted as consideration for, or in connection with, the service you may provide as a director of a Subsidiary or Affiliate;
+	
+(x)	the P CASH grant and your participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Subsidiary or Affiliate;
+	
+(xi)	no claim or entitlement to compensation or damages shall arise from forfeiture of the P CASH grant resulting from termination of your employment or other service relationship by the Company or the Employer (for any reason whatsoever, and whether or not in breach of local labor laws and whether or not later found to be invalid), and in consideration of the P CASH grant to which you are otherwise not entitled, you irrevocably agree never to institute any claim against the Company or the Employer and you irrevocably waive your ability, if any, to bring any such claim, and release the Company and the Employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, you shall be deemed irrevocably to have agreed not to pursue such claim and agree to execute any and all documents necessary to request dismissal or withdrawal of such claims;
+
+PAGE NUMBER: 5
+
+
+
+	
+(xii)	unless otherwise provided in the P CASH agreement, in the event of termination of your employment or other service relationship (for any reason whatsoever, whether or not in breach of local labor laws and whether or not later found to be invalid), your right to vest in the P CASH grant under the Plan, if any, will terminate effective as of the date that you are no longer actively employed or rendering services and will not be extended by any notice period mandated under local law (e.g., active employment or service would not include a period of “garden leave” or similar period pursuant to local law); the Committee shall have the exclusive discretion to determine when you are no longer actively employed or rendering services for purposes of your P CASH grant (including whether you may still be considered to be providing services while on a leave of absence); and
+	
+(xiii)	the Company Group shall not be liable for any foreign exchange rate fluctuation between your local currency and the United States Dollar that may affect the value of the cash award or of any amounts due to you at payout of the P CASH grant.
+	
+(b)	No Advice Regarding Grant. The Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding your participation in the Plan. You should consult with your own personal tax, legal and financial advisors regarding your participation in the Plan before taking any action related to the Plan.
+	
+(c)	Data Privacy.You hereby voluntarily consent to the collection, use and transfer, in electronic or other form, of your personal data as described in this P CASH agreement and any other P CASH grant materials by and among, as applicable, the Employer, the Company and its other Subsidiaries and Affiliates for the exclusive purpose of implementing, administering and managing your participation in the Plan.
+You understand that the Company and the Employer may hold certain personal information about you, including, but not limited to, your name, home address, email address and telephone number, date of birth, social insurance number, passport or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company, details of all P CASH grants and any entitlement to shares of stock awarded, canceled, exercised, vested, unvested or outstanding in your favor (“Data”), for the exclusive purpose of implementing, administering and managing the Plan.
+You understand that Data will be transferred to Fidelity Stock Plan Services (“Fidelity”) or such other stock plan service provider as may be selected by the Company in the future, which is assisting the Company with the implementation, administration and management of the Plan. You understand that the recipients of the Data may be located in the United States or elsewhere, and that the recipients’ country (e.g., the United States) may have different data privacy laws and protections than your country. You understand that you may request a list with the names and addresses of any potential recipients of the Data by contacting your local human resources representative. You authorize the Company, Fidelity and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing your participation in the Plan. You understand that Data will be held only as long as is necessary to implement, administer and manage your participation in the Plan. You understand that you may, at any time, request access to Data, request information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing your local human resources representative. Further, you understand that you are providing the consents herein on a purely voluntary basis. If you do not consent, or if you later seek to revoke your consent, your employment status or service with the Employer will not be affected; the only consequence of refusing or withdrawing your consent is that the Company would not be able to grant P CASH or equity awards to you or administer or maintain such awards. Therefore, you understand that refusing or withdrawing your consent may affect your ability to participate in the Plan. For more information on the consequences of your refusal to consent or withdrawal of consent, you understand that you may contact your local human resources representative.
+
+PAGE NUMBER: 6
+
+
+
+	
+(d)	Language. If you have received this P CASH agreement or any other document related to the Plan translated into a language other than English, and if the meaning of the translated version is different than the English version, the English version will control.
+	
+(e)	Retirement. Notwithstanding paragraph (d) of the P CASH agreement, if the Company receives an opinion of counsel that there has been a legal judgment and/or legal development in your jurisdiction that would likely result in the favorable treatment applicable to the P CASH grant pursuant to paragraph (d) being deemed unlawful and/or discriminatory, then the Company will not apply the favorable treatment at the time of your retirement, and the P CASH grant will be treated as set forth in paragraph (e) of the P CASH agreement.
+	
+(f)	Waiver. You acknowledge that a waiver by the Company of a breach of any provision of this P CASH agreement shall not operate or be construed as a waiver of any other provision of this P CASH agreement, or of any subsequent breach by you or any other Participant.
+	
+(g)	Foreign Asset/Account Reporting; Exchange Controls. Your country may have certain foreign asset and/or account reporting requirements and/or exchange controls which may affect your ability to acquire or hold cash received from participating in the Plan in a brokerage or bank account outside your country. You may be required to report such accounts, assets or transactions to the tax or other authorities in your country. You also may be required to repatriate funds received as a result of your participation in the Plan to your country through a designated bank or broker and/or within a certain time after receipt. You acknowledge that it is your responsibility to be compliant with such regulations, and you should consult your personal legal advisor for any details.
+
+PAGE NUMBER: 7
+
+APPENDIX B
+COUNTRY-SPECIFIC TERMS AND CONDITIONS
+FOR PARTICIPANTS OUTSIDE THE UNITED STATES
+Capitalized terms used but not defined herein shall have the meanings given to such terms in the Plan and/or the P CASH agreement (including Appendix A).
+Terms and Conditions
+This Appendix B includes special terms and conditions applicable to your P CASH grant if you reside and/or work in any of the countries covered by this Appendix B. These terms and conditions are in addition to, or if so indicated, in place of, the terms and conditions set forth in the P CASH agreement (including Appendix A).
+If you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the P CASH award was granted or are considered a resident of another country for local law purposes, the Company shall have the sole discretion to determine to what extent the terms and conditions shall apply to you under these circumstances.
+Notifications
+This Appendix B also includes notifications relating to exchange control and other issues of which you should be aware with respect to your participation in the Plan. The information is based on the exchange control, securities, and other laws in effect in the countries to which this Appendix B refers as of January 2017. Such laws are often complex and change frequently. As a result, the Company strongly recommends that you not rely on the notifications herein as the only source of information relating to the consequences of participating in the Plan because the information may be out of date at the time your P CASH grant vests or you receive cash under the Plan.
+In addition, the notifications are general in nature and may not apply to your particular situation, and the Company is not in a position to assure you of any particular result. Accordingly, you should seek appropriate professional advice as to how the relevant laws in your country may apply to your situation.
+Finally, if you are a citizen or resident of a country other than the one in which you are currently residing and/or working, transferred or transfer residency or employment after the P CASH grant is made or are considered a resident of another country for local law purposes, the information contained herein may not be applicable to you in the same manner.
+AUSTRALIA
+There are no country-specific provisions.
+CHINA
+Settlement of P CASH Grant. Upon vesting of this P CASH grant, payment of the cash award will be made by the Employer and will be paid to you in local currency through your local payroll. The cash payment will be subject to all applicable tax withholding and reporting. To convert the payment amount from US dollars into local currency, the Company will use an exchange rate determined pursuant to the Company’s financial policies in effect on the payment date. Depending on the development of exchange control or other applicable laws in China, the Company, at its discretion, may determine that other payment methods may be used.
+
+PAGE NUMBER: 8
+
+Exchange Control Requirements. You agree to comply with any requirements that may be imposed by the Company in the future in order to facilitate compliance with exchange control requirements in China.
+GERMANY
+Notifications
+Exchange Control Information
+. Cross-border payments in excess of €12,500 must be reported electronically monthly to the Germany Federal Bank. In the event that you make or receive a payment in excess of this amount, you are responsible for obtaining the appropriate form from the remitting bank and complying with applicable reporting requirements.
+SPAIN
+Terms and Conditions
+No Entitlement for Claims or Compensation
+. By accepting the P CASH grant, you consent to participation in the Plan and acknowledge that you have received a copy of the Plan document.
+You understand and agree that, as a condition of the P CASH grant, your termination of employment for any reason other than death, disability or retirement (including for the reasons listed below) will automatically result in the forfeiture of any P CASH grants that were not vested on the date of your termination.
+In particular, you understand and agree that, unless otherwise provided in the P CASH agreement, the P CASH grant will be forfeited without entitlement to any cash payment as indemnification in the event of a termination of your employment prior to vesting by reason of, including, but not limited to: resignation, disciplinary dismissal adjudged to be with cause, disciplinary dismissal adjudged or recognized to be without good cause (i.e., subject to a “despido improcedente”), individual or collective layoff on objective grounds, whether adjudged to be with cause or adjudged or recognized to be without cause, material modification of the terms of employment under Article 41 of the Workers’ Statute, relocation under Article 40 of the Workers’ Statute, Article 50 of the Workers’ Statute, unilateral withdrawal by the Employer, and under Article 10.3 of Royal Decree 1382/1985.
+Furthermore, you understand that the Company has unilaterally, gratuitously and discretionally decided to grant P CASH awards under the Plan to individuals who may be employees of the Company Group. The decision is a limited decision that is entered into upon the express assumption and condition that any grant will not economically or otherwise bind the Company on an ongoing basis, other than as expressly set forth in the P CASH agreement. Consequently, you understand that the P CASH awards are granted on the assumption and condition that the P CASH grant and the cash award subject to the P CASH grant shall not become a part of any employment or service contract and shall not be considered a mandatory benefit, salary for any purposes (including severance compensation) or any other right whatsoever. In addition, you understand that the P CASH award would not be granted to you but for the assumptions and conditions referred to above; thus, you acknowledge and freely accept that, should any or all of the assumptions be mistaken or should any of the conditions not be met for any reason, then any award of P CASH shall be null and void.
+In addition, Spanish residents are required to electronically declare to the Bank of Spain any securities accounts (including brokerage accounts held abroad), any foreign instruments (including shares acquired under the Plan), and any transactions with non-Spanish residents (including any payments of cash or shares made to a Spanish resident pursuant to the Plan) if the balances in such accounts together with the value of such instruments as of December 31, or the volume of transactions with non-Spanish residents during the prior or current year, exceed €1,000,000. Once the €1,000,000 threshold has been surpassed in either respect, the Spanish resident generally will be required to report all foreign accounts, foreign instruments and transactions with non-Spanish residents, even if the relevant threshold has not been crossed for an individual item. Generally, the resident only will be required to report on an annual basis
+
+PAGE NUMBER: 9
+
+(by January 20 of each year); however, if the balances in the Spanish resident’s foreign accounts together with the value of his or her foreign instruments or the volume of transactions with non-Spanish residents exceed €100,000,000, more frequent reporting will be required. If neither the total balances nor total transactions with non-residents during the relevant period exceeds €50,000, a summarized form declaration may be used.
+Foreign Asset/Account Reporting Information. Spanish residents must report assets or rights deposited or held outside of Spain (e.g., cash or shares held in a bank or brokerage account) to the Spanish tax authorities on their annual tax return. This reporting obligation is based on the value of those rights and assets as of December 31 and has a threshold of €50,000 per type of asset (bank account, shares, real estate, etc.). After such assets or rights are initially reported, the reporting obligation will apply for subsequent years only if the value of any previously reported asset or right increases by more than €20,000 or if ownership of such asset or right is transferred or relinquished during the year.
+UNITED KINGDOM
+Terms and Conditions
+Tax and National Insurance Contributions Acknowledgment. The following provisions supplement paragraph (j) of the P CASH agreement:
+Without limitation to Section (j), you hereby agree that you are liable for all Tax-Related Items and hereby covenant to pay all such Tax-Related Items, as and when requested by the Company, the Employer or by Her Majesty’s Revenue & Customs (“HMRC”) (or any other tax authority or any other relevant authority). You also hereby agree to indemnify and keep indemnified the Company and the Employer against any Tax-Related Items that they are required to pay or withhold on your behalf or have paid or will pay to HMRC (or any other tax authority or any other relevant authority).

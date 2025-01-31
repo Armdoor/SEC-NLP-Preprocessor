@@ -1,0 +1,17 @@
+2025-01-28 23:38:27,708 - Parser - INFO - Trying to decode with utf-8
+2025-01-28 23:38:27,708 - Parser - INFO - Decoded with utf-8
+2025-01-29 01:55:42,383 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 01:55:42,463 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:25:51,443 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:25:51,515 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:27:35,740 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:27:35,802 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:28:12,196 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 17:28:12,256 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:47:46,923 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:47:47,002 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:47:47,043 - Parser - INFO - No <SEC-HEADER> tag found
+2025-01-29 18:52:03,731 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:52:03,790 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:54:06,956 - Parser - INFO - Successfully read file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt
+2025-01-29 18:54:07,016 - Parser - INFO - Successfully parsed file: /Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt

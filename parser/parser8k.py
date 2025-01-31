@@ -1,5 +1,4 @@
-from parser import read_doc, header_data, document_data, normalize_filing_docs, parse_html,construct_master_dict
-import os
+from parser import Parser 
 '''
 An 8-K is required to announce significant events relevant to shareholders. 
 Companies usually have four business days to file an 8-K for most items.
@@ -81,7 +80,7 @@ styles = [
     {'width': '100%'},  # Checking for an exact width attribute
     {'style': 'page-break-after:always'}  # Checking for a specific page break style
 ]
-header ={}
+# header ={}
 def main_8k(path, file_name, preprocessed_path, cmp_name):
     output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
     if os.path.exists(output_file_path):
@@ -137,3 +136,50 @@ def search_filing_purpose(path):
     #     for item in filing_sections[section]:
     #         if item in response_content:
 
+path_to = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_204.txt"
+
+def test_parser(path_to):
+    parser = Parser()
+    soup, empty_file = parser.read_doc(path_to)
+    print(type(soup))
+    with open("soup_test.txt", "w") as f:
+        f.write(str(soup))
+    header_data, accession_number = parser.header_data_parser(soup)
+    with open("header_data.txt", "w") as f:
+        f.write(str(header_data))
+    print("accession_number:", accession_number)
+
+# type: filing_type 
+    # Parse the document
+    # header_data, accession_number = parser.header_data_parser(soup)
+    # print("Header Data:", header_data)
+    # print("Accession Number:", accession_number)
+
+test_parser(path_to)
+
+
+
+
+'''
+
+CREATE TABLE IF NOT EXISTS companies (
+            company_id INTEGER PRIMARY KEY AUTOINCREMENT,
+            cik TEXT NOT NULL, 0000320193 
+            company_name TEXT NOT NULL, COMPANY CONFORMED NAME
+            ticker TEXT, cmp_name
+            industry TEXT, 
+        )
+        """)
+        self.cursor.execute("""
+        CREATE TABLE IF NOT EXISTS filing (
+            filing_id INTEGER PRIMARY KEY AUTOINCREMENT,
+            company_id INTEGER NOT NULL,
+            form_type TEXT NOT NULL, --
+            section TEXT,
+            item TEXT,
+            content TEXT,
+            filing_date DATE,
+            FOREIGN KEY (company_id) REFERENCES companies(company_id)
+        )
+        """)
+'''

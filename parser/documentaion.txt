@@ -1,0 +1,16 @@
+parser_main.py
+    │
+    ├── main()
+    │   ├── company_folders()
+    │   ├── create_preprocessed_folders()
+    │   └── process_text_files()
+    │       ├── companies_main() (from companies.py)
+    │       │   ├── Parser.read_doc() (from parser.py)
+    │       │   ├── Parser.header_data_parser() (from parser.py)
+    │       │   ├── Parser.document_data() (from parser.py)
+    │       │   ├── Parser.construct_master_dict() (from parser.py)
+    │       │   ├── Parser.normalize_filing_docs() (from parser.py)
+    │       │   └── Parser.parse_html() (from parser.py)
+    │       └── JsonDataCollector.collect_data() (from current file)
+    │           └── remove_filings()
+    └── (End)

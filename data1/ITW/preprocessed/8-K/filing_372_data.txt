@@ -1,0 +1,284 @@
+0000049826-20-000050.hdr.sgml : 20200505
+20200505092149
+ACCESSION NUMBER:		0000049826-20-000050
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20200505
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200505
+DATE AS OF CHANGE:		20200505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		20847151
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2020 Workiva
+Exhibit
+Exhibit 99.1
+ITW Reports First Quarter 2020 Results
+
+
+	
+•	GAAP EPS of $1.77, a decrease of 2%
+	
+•	Operating margin of 23.6%
+	
+•	Free cash flow was 98% of net income
+	
+•	Strong financial position and balance sheet with $1.4 billion of cash on hand, essentially no short-term debt, and a revolving credit facility in place that could provide additional liquidity of $2.5 billion
+	
+•	Due to uncertainties regarding the duration and severity of the COVID-19 pandemic, ITW is suspending previously announced annual guidance for 2020
+GLENVIEW, IL., May 5, 2020 -
+Illinois Tool Works Inc. (NYSE: ITW) today reported its first quarter 2020 results with GAAP earnings per share (EPS) of $1.77 compared to $1.81 in the prior year period. First-quarter revenue of $3.2 billion declined 9.1 percent with organic revenue down 6.6 percent. Foreign currency translation and divestitures reduced revenues by 1.5 percent and 1.0 percent, respectively. Operating margin was flat at 23.6 percent as Enterprise Initiatives contributed 120 basis points. Free cash flow was $554 million with a 98 percent conversion rate and after-tax return on invested capital was 27.0 percent.
+ITW’s differentiated financial position includes a strong balance sheet, with approximately $1.4 billion in cash and cash equivalents on hand, essentially no short-term debt, and a revolving credit facility in place that could provide additional liquidity of up to $2.5 billion, if needed.
+“While things are far from normal for any of us or our businesses at present, I am inspired and heartened by the teamwork, flexibility, ingenuity, and selflessness demonstrated by the ITW team in adapting to the very unusual and challenging circumstances brought about by the pandemic,” said E. Scott Santi, chairman and chief executive officer. “Our ITW colleagues everywhere are going the extra mile to protect the health and support the well-being of each other and to continue to serve our customers with excellence. Around the world, many ITW manufacturing locations have been designated as essential, signifying the vital role the company plays in supporting customers and industries that are critical to the economic health of the markets and communities we serve.”
+“It remains highly uncertain as to how long this global pandemic and related economic challenges will last or how quickly our customers and end markets will recover. However, I am confident that the strength and resilience of ITW’s powerful Business Model, our diversified, high-quality business portfolio, and our people put us in a position of strength to deal with whatever lies ahead. ITW will rise to the challenge, as we always have over the course of our 108-year history. Our strong financial position gives us the latitude to make strategic choices now to prepare for a range of recovery scenarios, and to come out the other side well-positioned to continue on our path to
+ITW’s full-potential performance.”
+2020 Guidance
+Due to the uncertainties regarding the duration and severity of the coronavirus (COVID-19) pandemic, ITW is suspending its previously announced annual guidance for 2020.
+Non-GAAP Measures
+This earnings release contains certain non-GAAP financial measures. A reconciliation of these measures to the most directly comparable GAAP measures is included in the attached supplemental reconciliation schedule.
+Forward-looking Statement
+This earnings release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements may include, without limitation, statements regarding the potential effects of the COVID-19 pandemic on the Company’s business, the anticipated duration of the Company’s COVID-19 containment and recovery phases, the Company’s financial scenario planning and estimates, expected access to liquidity sources, expected capital allocation, diluted earnings per share, foreign exchange rates, total and organic revenue, operating margin, economic and regulatory conditions in various geographic regions, expected dividend payments, price/cost impact, restructuring expenses, free cash flow, effective tax rate, after-tax return on invested capital, timing and amount of share repurchases, potential acquisitions and dispositions and related impact on financial results, and plans regarding the issuance of guidance. These statements are subject to certain risks, uncertainties, assumptions and other factors that could cause actual results to differ materially from those anticipated. Such factors include those contained in ITW's Form 10-K for 2019, the Form 8-K filed on May 5, 2020 and subsequent reports filed with the SEC.
+
+PAGE NUMBER: 2
+
+About Illinois Tool Works
+ITW (NYSE: ITW) is a Fortune 200 global multi-industrial manufacturing leader with revenues totaling $14.1 billion in 2019. The company’s seven industry-leading segments leverage the unique ITW Business Model to drive solid growth with best-in-class margins and returns in markets where highly innovative, customer-focused solutions are required. ITW’s approximately 45,000 dedicated colleagues around the world thrive in the company’s decentralized and entrepreneurial culture.
+www.itw.com
+
+PAGE NUMBER: 3
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+STATEMENT OF INCOME (UNAUDITED)
+
+
+
+							
+	Three Months Ended
+	March 31,
+In millions except per share amounts	2020		2019
+Operating Revenue	$	3,228			$	3,552	
+Cost of revenue	1,871			2,059	
+Selling, administrative, and research and development expenses	560			611	
+Amortization and impairment of intangible assets	36			43	
+Operating Income	761			839	
+Interest expense	(51	)		(63	)
+Other income (expense)	25			14	
+Income Before Taxes	735			790	
+Income Taxes	169			193	
+Net Income	$	566			$	597	
+			
+Net Income Per Share:			
+Basic	$	1.78			$	1.82	
+Diluted	$	1.77			$	1.81	
+			
+Cash Dividends Per Share:			
+Paid	$	1.07			$	1.00	
+Declared	$	1.07			$	1.00	
+			
+Shares of Common Stock Outstanding During the Period:			
+Average	318.3			327.3	
+Average assuming dilution	319.7			329.6	
+
+PAGE NUMBER: 4
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+STATEMENT OF FINANCIAL POSITION (UNAUDITED)
+
+
+
+							
+In millions	March 31, 2020		December 31, 2019
+Assets			
+Current Assets:			
+Cash and equivalents	$	1,430			$	1,981	
+Trade receivables	2,424			2,461	
+Inventories	1,185			1,164	
+Prepaid expenses and other current assets	244			296	
+Assets held for sale	223			351	
+Total current assets	5,506			6,253	
+			
+Net plant and equipment	1,704			1,729	
+Goodwill	4,401			4,492	
+Intangible assets	836			851	
+Deferred income taxes	473			516	
+Other assets	1,229			1,227	
+	$	14,149			$	15,068	
+			
+Liabilities and Stockholders' Equity			
+Current Liabilities:			
+Short-term debt	$	4			$	4	
+Accounts payable	488			472	
+Accrued expenses	1,105			1,217	
+Cash dividends payable	338			342	
+Income taxes payable	55			48	
+Liabilities held for sale	42			71	
+Total current liabilities	2,032			2,154	
+			
+Noncurrent Liabilities:			
+Long-term debt	7,690			7,754	
+Deferred income taxes	695			668	
+Noncurrent income taxes payable	462			462	
+Other liabilities	986			1,000	
+Total noncurrent liabilities	9,833			9,884	
+			
+Stockholders’ Equity:			
+Common stock	6			6	
+Additional paid-in-capital	1,309			1,304	
+Retained earnings	22,631			22,403	
+Common stock held in treasury	(19,680	)		(18,982	)
+Accumulated other comprehensive income (loss)	(1,983	)		(1,705	)
+Noncontrolling interest	1			4	
+Total stockholders’ equity	2,284			3,030	
+	$	14,149			$	15,068	
+
+PAGE NUMBER: 5
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+SEGMENT DATA (UNAUDITED)
+
+
+
+								
+Three Months Ended March 31, 2020
+Dollars in millions	Total Revenue	Operating Income	Operating Margin
+Automotive OEM	$	696		$	145		20.9	%
+Food Equipment	483		117		24.3	%
+Test & Measurement and Electronics	485		121		25.1	%
+Welding	372		109		29.1	%
+Polymers & Fluids	393		93		23.6	%
+Construction Products	390		91		23.4	%
+Specialty Products	414		109		26.3	%
+Intersegment	(5	)	—		—	%
+Total Segments	3,228		785		24.3	%
+Unallocated	—		(24	)	—	%
+Total Company	$	3,228		$	761		23.6	%
+
+PAGE NUMBER: 6
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+SEGMENT DATA (UNAUDITED)
+
+
+
+																
+Q1 2020 vs. Q1 2019 Favorable/(Unfavorable)
+Operating Revenue	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Organic	(12.0	)%	(5.6	)%	(3.3	)%	(9.0	)%	(3.2	)%	0.1	%	(8.7	)%	(6.6	)%
+Acquisitions/Divestitures	—	%	—	%	(3.1	)%	(3.4	)%	—	%	—	%	(1.2	)%	(1.0	)%
+Translation	(1.7	)%	(1.2	)%	(1.1	)%	(0.4	)%	(2.3	)%	(2.7	)%	(1.0	)%	(1.5	)%
+OperatingRevenue	(13.7	)%	(6.8	)%	(7.5	)%	(12.8	)%	(5.5	)%	(2.6	)%	(10.9	)%	(9.1	)%
+
+								
+Q1 2020 vs. Q1 2019 Favorable/(Unfavorable)
+Change in Operating Margin	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Operating Leverage	(240) bps	(130) bps	(100) bps	(160) bps	(80) bps	10 bps	(180) bps	(150) bps
+Changes in Variable Margin & OH Costs	70 bps	10 bps	120 bps	130 bps	260 bps	30 bps	30 bps	40 bps
+Total Organic	(170) bps	(120) bps	20 bps	(30) bps	180 bps	40 bps	(150) bps	(110) bps
+Acquisitions/Divestitures	—	—	60 bps	80 bps	—	—	70 bps	20 bps
+Restructuring/Other	200 bps	60 bps	20 bps	50 bps	50 bps	130 bps	60 bps	90 bps
+Total Operating Margin Change	30 bps	(60) bps	100 bps	100 bps	230 bps	170 bps	(20) bps	—
+								
+Total Operating Margin % *	20.9%	24.3%	25.1%	29.1%	23.6%	23.4%	26.3%	23.6%
+								
+*Includes unfavorable operating margin impact of amortization expense from acquisition-related intangible assets	60 bps	70 bps	170 bps	20 bps	360 bps	30 bps	90 bps	110 bps **
+** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.09) on GAAP earnings per share for the first quarter of 2020.
+
+PAGE NUMBER: 7
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+GAAP to NON-GAAP RECONCILIATIONS (UNAUDITED)
+AFTER-TAX RETURN ON AVERAGE INVESTED CAPITAL (UNAUDITED)
+
+
+
+							
+	Three Months Ended
+	March 31,
+Dollars in millions	2020		2019
+Operating income	$	761			$	839	
+Tax rate	23.0	%		24.4	%
+Income taxes	(175	)		(205	)
+Operating income after taxes	$	586			$	634	
+			
+Invested capital:				
+Trade receivables	$	2,424			$	2,715	
+Inventories	1,185			1,346	
+Net assets held for sale	181			—	
+Net plant and equipment	1,704			1,765	
+Goodwill and intangible assets	5,237			5,665	
+Accounts payable and accrued expenses	(1,593	)		(1,796	)
+Other, net	(590	)		(509	)
+Total invested capital	$	8,548			$	9,186	
+			
+Average invested capital	$	8,677			$	9,160	
+Return on average invested capital	27.0	%		27.7	%
+FREE CASH FLOW (UNAUDITED)
+
+							
+	Three Months Ended
+	March 31,
+Dollars in millions	2020		2019
+Net cash provided by operating activities	$	614			$	616	
+Less: Additions to plant and equipment	(60	)		(77	)
+Free cash flow	$	554			$	539	
+			
+Net income	$	566			$	597	
+Free cash flow to net income conversion rate	98	%		90	%
+
+PAGE NUMBER: 8
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+GAAP to NON-GAAP RECONCILIATIONS (UNAUDITED)
+NET DEBT TO EBITDA (UNAUDITED)
+
+
+
+			
+	Twelve Months Ended
+Dollars in millions	March 31, 2020
+Total debt	$	7,694	
+Less: Cash and equivalents	(1,430	)
+Net debt	$	6,264	
+	
+Net income	$	2,490	
+Add:	
+Interest expense	209	
+Other income	(118	)
+Income taxes	743	
+Depreciation	268	
+Amortization and impairment of intangible assets	152	
+EBITDA	$	3,744	
+	
+Net debt to EBITDA ratio	1.7	

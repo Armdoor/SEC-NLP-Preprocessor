@@ -1,0 +1,121 @@
+0000049826-21-000009.hdr.sgml : 20210217
+20210217163904
+ACCESSION NUMBER:		0000049826-21-000009
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20210217
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20210217
+DATE AS OF CHANGE:		20210217
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		21645413
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+PAGE NUMBER: 1
+
+?xml version="1.0" ?
+XBRL Document Created with Wdesk from Workiva
+Copyright 2021 Workiva
+r:fa9ac6cf-8864-4845-8137-0a263b4450f7,g:0bdbe13d-7c64-447e-b707-7473bb2226a9,d:576a349b04ee47c09f75a65dc98f9f96
+itw-20210217
+
+
+		
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+February 17, 2021
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+																							
+Delaware	1-4797		36-1258310
+(State or other jurisdiction of incorporation)	(Commission File No.)		(I.R.S. Employer Identification No.)
+							
+	155 Harlem Avenue	Glenview	IL				60025
+(Address of principal executive offices)			(Zip Code)
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+					
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+								
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Common Stock	ITW	New York Stock Exchange
+1.75% Euro Notes due 2022	ITW22	New York Stock Exchange
+1.25% Euro Notes due 2023	ITW23	New York Stock Exchange
+0.250% Euro Notes due 2024	ITW24A	New York Stock Exchange
+0.625% Euro Notes due 2027	ITW27	New York Stock Exchange
+2.125% Euro Notes due 2030	ITW30	New York Stock Exchange
+1.00% Euro Notes due 2031	ITW31	New York Stock Exchange
+3.00% Euro Notes due 2034	ITW34	New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 2
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+On February 11, 2021, Mr. Kevin M. Warren, one of the members of the board of directors (the “Board”) of Illinois Tool Works Inc. (the “Company”), notified the Company that he will not stand for reelection at the Company’s 2021 annual meeting of stockholders due to other professional commitments. Mr. Warren will continue to serve as a director until the 2021 annual meeting, and his decision is not the result of any disagreement with the Company or any matter relating to the Company’s operations, policies or practices.
+Item 8.01. Other Events
+On February 12, 2021, the Board approved a slate of nominees for the 2021 annual meeting, which includes all of the Company’s current directors except for Mr. Warren, along with a new nominee: Mr. Darrell L. Ford, the Chief Human Resources Officer of UPS International. Mr. Ford has consented to stand for election at the 2021 annual meeting and to serve as a director, if elected, and will bring valuable skills and experience to the Board.
+Additional information with respect to Mr. Ford and the 2021 annual meeting will be disclosed in the Company’s proxy materials when filed with the Securities and Exchange Commission.
+
+PAGE NUMBER: 3
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+								
+		
+		ILLINOIS TOOL WORKS INC.
+		
+		
+Dated: February 17, 2021		By:/s/ Norman D. Finch Jr.
+		Norman D. Finch Jr.
+		Senior Vice President, General Counsel & Secretary

@@ -1,0 +1,352 @@
+0000049826-20-000003.hdr.sgml : 20200131
+20200131092944
+ACCESSION NUMBER:		0000049826-20-000003
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		15
+CONFORMED PERIOD OF REPORT:	20200131
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20200131
+DATE AS OF CHANGE:		20200131
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		20563550
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+PAGE NUMBER: 1
+
+Document created using Wdesk 1
+Copyright 2020 Workiva
+Exhibit
+Exhibit 99.1
+ITW Reports Fourth Quarter and Full Year Results
+Fourth-Quarter 2019 Highlights
+
+
+	
+•	GAAP EPS $1.99, an increase of 9%, including $0.11 of divestiture gains
+	
+•	Total revenue declined 3.1%; organic revenue down 1.6%
+	
+•	Operating margin of 23.7%; 24.1% excluding 40 basis points of higher restructuring expenses
+	
+•	After-tax ROIC of 28.9%, an increase of 120 basis points
+	
+•	Free cash flow was 114% of net income
+	
+•	
+Full-Year 2019 Highlights
+	
+•	GAAP EPS $7.74, an increase of 2%
+	
+•	Total revenue declined 4.5%; organic revenue down 1.9%
+	
+•	Operating margin of 24.1%; 24.4% excluding 30 basis points of higher restructuring expenses
+	
+•	After-tax ROIC of 28.7%, an increase of 50 basis points
+	
+•	Free cash flow increased 9% and was 106% of net income
+GLENVIEW, IL., January 31, 2020 -
+Illinois Tool Works Inc. (NYSE: ITW) today reported its fourth-quarter and full-year 2019 results.
+“The ITW team closed out 2019 with another quarter of strong execution and resilient financial performance,” said E. Scott Santi, chairman and chief executive officer. “Despite near-term macro challenges, we grew earnings per share nine percent, delivered 24.1 percent operating margin excluding higher restructuring expenses and improved after-tax return on invested capital 120 basis points to 28.9 percent.”
+“For the year, in a contracting industrial demand environment including a six percent decline in global auto builds, ITW grew earnings per share five percent excluding the impact of foreign currency headwinds, higher restructuring expenses and divestiture gains. We expanded operating margin to 24.4 percent excluding higher restructuring expenses, improved after-tax return on invested capital to 28.7 percent, increased free cash flow nine percent and returned $2.8 billion to shareholders in the form of dividends and share repurchases. Throughout 2019, we executed very well on the things within our control and continued to make meaningful progress on our path to full-potential performance through the implementation of our ‘Finish the Job’ enterprise strategy agenda. ITW’s proprietary and powerful business model, diversified high-quality business portfolio and dedicated team of highly skilled ITW colleagues around the world position us well to continue to deliver differentiated performance in 2020 and beyond,” Santi concluded.
+2019 Results
+Fourth-quarter revenue of $3.5 billion declined 3.1 percent with organic revenue down 1.6 percent. Foreign currency translation and divestitures reduced revenues by 1.0 percent and 0.5 percent, respectively. Product Line Simplification (PLS) activities reduced organic revenue by 60 basis points. GAAP EPS increased nine percent to $1.99 including $0.11 divestiture gains from the sale of three businesses. Operating margin was 23.7 percent. Excluding 40 basis points impact from higher restructuring expenses, operating margin improved 10 basis points to 24.1 percent. Enterprise initiatives contributed 130 basis points and price/cost was positive 30 basis points. Free cash flow was $692 million with a 114 percent conversion rate. The effective tax rate for the fourth quarter was 22.8 percent.
+Full year revenue of $14.1 billion declined 4.5 percent with organic revenue down 1.9 percent and unfavorable foreign currency translation impact of 2.3 percent. PLS reduced organic revenue by 60 basis points versus 70 basis points in 2018. 2019 GAAP EPS increased two percent to $7.74 including $0.09 of net gains from divestitures. Operating margin was 24.1 percent. Excluding 30 basis points impact from higher restructuring expenses, operating margin improved 10 bps to 24.4 percent. Enterprise initiatives contributed 120 basis points and price/cost was positive 10 basis points. After-tax return on invested capital was 28.7 percent. Free cash flow increased nine percent to $2.7 billion. The company repurchased $1.5 billion of its own shares and raised its dividend seven percent in August 2019 to an annualized $4.28 per share. The effective tax rate for the full year was 23.3 percent.
+2020 Guidance
+The company initiated full-year EPS guidance in a range of $7.65 to $8.05 per share. At current levels of demand, organic growth is forecast to be in the range of zero to two percent. Foreign currency translation and divestitures are projected to reduce revenues
+
+PAGE NUMBER: 2
+
+by one percentage point each. PLS impact is forecast to moderate to approximately 50 basis points. Operating margin is expected to improve and be in a range of 24.5 to 25 percent, with enterprise initiatives contributing approximately 100 basis points. Free cash flow is expected to be greater than 100 percent of net income. The Company expects an effective tax rate in the range of 23.5 to 24.5 percent and plans to repurchase approximately $2 billion of its shares in 2020.
+Non-GAAP Measures
+This earnings release contains certain non-GAAP financial measures. A reconciliation of these measures to the most directly comparable GAAP measures is included in the attached supplemental reconciliation schedule.
+Forward-looking Statement
+This earnings release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including, without limitation, statements regarding diluted earnings per share, foreign exchange rates, total and organic revenue growth, operating margin, economic and regulatory conditions in various geographic regions, price/cost impact, restructuring expenses, free cash flow, effective tax rate, after-tax return on invested capital, and timing and amount of share repurchases. These statements are subject to certain risks, uncertainties and other factors that could cause actual results to differ materially from those anticipated. Such factors include those contained in ITW's Form 10-K for 2018.
+About Illinois Tool Works
+ITW (NYSE: ITW) is a Fortune 200 global multi-industrial manufacturing leader with revenues totaling $14.1 billion in 2019. The company’s seven industry-leading segments leverage the unique ITW Business Model to drive solid growth with best-in-class margins and returns in markets where highly innovative, customer-focused solutions are required. ITW’s approximately 45,000 dedicated colleagues around the world thrive in the company’s decentralized and entrepreneurial culture.
+www.itw.com
+
+PAGE NUMBER: 3
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+STATEMENT OF INCOME (UNAUDITED)
+
+
+
+															
+	Three Months Ended		Twelve Months Ended
+	December 31,		December 31,
+In millions except per share amounts	2019		2018		2019		2018
+Operating Revenue	$	3,469			$	3,580			$	14,109			$	14,768	
+Cost of revenue	2,022			2,096			8,187			8,604	
+Selling, administrative, and research and development expenses	586			578			2,361			2,391	
+Amortization and impairment of intangible assets	37			46			159			189	
+Operating Income	824			860			3,402			3,584	
+Interest expense	(51	)		(63	)		(221	)		(257	)
+Other income (expense)	58			19			107			67	
+Income Before Taxes	831			816			3,288			3,394	
+Income taxes	190			209			767			831	
+Net Income	$	641			$	607			$	2,521			$	2,563	
+							
+Net Income Per Share:							
+Basic	$	2.00			$	1.84			$	7.78			$	7.65	
+Diluted	$	1.99			$	1.83			$	7.74			$	7.60	
+							
+Cash Dividends Per Share:							
+Paid	$	1.07			$	1.00			$	4.07			$	3.34	
+Declared	$	1.07			$	1.00			$	4.14			$	3.56	
+							
+Shares of Common Stock Outstanding During the Period:							
+Average	321.2			329.8			323.9			335.0	
+Average assuming dilution	322.9			331.6			325.6			337.1	
+
+PAGE NUMBER: 4
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+STATEMENT OF FINANCIAL POSITION (UNAUDITED)
+
+
+
+							
+In millions	December 31, 2019		December 31, 2018
+Assets			
+Current Assets:			
+Cash and equivalents	$	1,981			$	1,504	
+Trade receivables	2,461			2,622	
+Inventories	1,164			1,318	
+Prepaid expenses and other current assets	296			334	
+Assets held for sale	351			—	
+Total current assets	6,253			5,778	
+			
+Net plant and equipment	1,729			1,791	
+Goodwill	4,492			4,633	
+Intangible assets	851			1,084	
+Deferred income taxes	516			554	
+Other assets	1,227			1,030	
+	$	15,068			$	14,870	
+			
+Liabilities and Stockholders’ Equity					
+Current Liabilities:					
+Short-term debt	$	4			$	1,351	
+Accounts payable	472			524	
+Accrued expenses	1,217			1,271	
+Cash dividends payable	342			328	
+Income taxes payable	48			68	
+Liabilities held for sale	71			—	
+Total current liabilities	2,154			3,542	
+			
+Noncurrent Liabilities:					
+Long-term debt	7,754			6,029	
+Deferred income taxes	668			707	
+Noncurrent income taxes payable	462			495	
+Other liabilities	1,000			839	
+Total noncurrent liabilities	9,884			8,070	
+			
+Stockholders’ Equity:					
+Common stock	6			6	
+Additional paid-in-capital	1,304			1,253	
+Retained earnings	22,403			21,217	
+Common stock held in treasury	(18,982	)		(17,545	)
+Accumulated other comprehensive income (loss)	(1,705	)		(1,677	)
+Noncontrolling interest	4			4	
+Total stockholders’ equity	3,030			3,258	
+	$	15,068			$	14,870	
+
+PAGE NUMBER: 5
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+SEGMENT DATA (UNAUDITED)
+
+
+
+								
+Three Months Ended December 31, 2019
+Dollars in millions	Total Revenue	Operating Income	Operating Margin
+Automotive OEM	$	725		$	154		21.2	%
+Food Equipment	571		157		27.5	%
+Test & Measurement and Electronics	552		155		28.1	%
+Welding	387		98		25.4	%
+Polymers & Fluids	408		94		23.0	%
+Construction Products	384		85		22.2	%
+Specialty Products	446		109		24.5	%
+Intersegment	(4	)	—		—	%
+Total Segments	3,469		852		24.6	%
+Unallocated	—		(28	)	—	%
+Total Company	$	3,469		$	824		23.7	%
+
+								
+Twelve Months Ended December 31, 2019
+Dollars in millions	Total Revenue	Operating Income	Operating Margin
+Automotive OEM	$	3,063		$	659		21.5	%
+Food Equipment	2,188		578		26.4	%
+Test & Measurement and Electronics	2,121		542		25.6	%
+Welding	1,638		453		27.7	%
+Polymers & Fluids	1,669		381		22.8	%
+Construction Products	1,625		383		23.6	%
+Specialty Products	1,825		472		25.9	%
+Intersegment	(20	)	—		—	%
+Total Segments	14,109		3,468		24.6	%
+Unallocated	—		(66	)	—	%
+Total Company	$	14,109		$	3,402		24.1	%
+
+PAGE NUMBER: 6
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+SEGMENT DATA (UNAUDITED)
+
+
+
+																
+Q4 2019 vs. Q4 2018 Favorable/(Unfavorable)
+Operating Revenue	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Organic	(5.4	)%	1.7	%	4.0	%	(3.7	)%	(2.0	)%	(1.2	)%	(3.4	)%	(1.6	)%
+Acquisitions/ Divestitures	—	%	—	%	(0.7	)%	(2.5	)%	—	%	—	%	(0.8	)%	(0.5	)%
+Translation	(1.4	)%	(1.1	)%	(0.7	)%	(0.2	)%	(1.4	)%	(1.9	)%	(0.8	)%	(1.0	)%
+Operating Revenue	(6.8	)%	0.6	%	2.6	%	(6.4	)%	(3.4	)%	(3.1	)%	(5.0	)%	(3.1	)%
+
+								
+Q4 2019 vs. Q4 2018 Favorable/(Unfavorable)
+Change in Operating Margin	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Operating Leverage	(100) bps	20 bps	90 bps	(60) bps	(40) bps	(20) bps	(70) bps	(30) bps
+Changes in Variable Margin & OH Costs	90 bps	130 bps	230 bps	(20) bps	270 bps	(210) bps	(20) bps	40 bps
+Total Organic	(10) bps	150 bps	320 bps	(80) bps	230 bps	(230) bps	(90) bps	10 bps
+Acquisitions/ Divestitures	—	—	20 bps	20 bps	—	—	20 bps	10 bps
+Restructuring/Other	(30) bps	(60) bps	(10) bps	(90) bps	(80) bps	(40) bps	(20) bps	(50) bps
+Total Operating Margin Change	(40) bps	90 bps	330 bps	(150) bps	150 bps	(270) bps	(90) bps	(30) bps
+								
+Total Operating Margin % *	21.2%	27.5%	28.1%	25.4%	23.0%	22.2%	24.5%	23.7%
+								
+* Includes unfavorable operating margin impact of amortization expense from acquisition-related intangible assets	50 bps	60 bps	150 bps	30 bps	360 bps	30 bps	90 bps	110 bps **
+** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.09) on GAAP earnings per share for the fourth quarter of 2019.
+
+PAGE NUMBER: 7
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+SEGMENT DATA (UNAUDITED)
+
+
+
+																
+Full Year 2019 vs Full Year 2018 Favorable/(Unfavorable)
+Operating Revenue	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Organic	(5.4	)%	1.1	%	(0.3	)%	(1.2	)%	—	%	(1.0	)%	(4.1	)%	(1.9	)%
+Acquisitions/ Divestitures	—	%	—	%	(0.2	)%	(1.1	)%	(0.4	)%	—	%	(0.6	)%	(0.3	)%
+Translation	(2.8	)%	(2.3	)%	(1.8	)%	(0.8	)%	(2.8	)%	(3.4	)%	(1.8	)%	(2.3	)%
+Operating Revenue	(8.2	)%	(1.2	)%	(2.3	)%	(3.1	)%	(3.2	)%	(4.4	)%	(6.5	)%	(4.5	)%
+
+								
+Full Year 2019 vs Full Year 2018 Favorable/(Unfavorable)
+Change in Operating Margin	Automotive OEM	Food Equipment	Test & Measurement and Electronics	Welding	Polymers & Fluids	Construction Products	Specialty Products	Total ITW
+Operating Leverage	(90) bps	30 bps	(10) bps	(20) bps	—	(10) bps	(90) bps	(50) bps
+Changes in Variable Margin & OH Costs	50 bps	60 bps	150 bps	—	170 bps	(40) bps	(10) bps	60 bps
+Total Organic	(40) bps	90 bps	140 bps	(20) bps	170 bps	(50) bps	(100) bps	10 bps
+Acquisitions/ Divestitures	—	—	10 bps	20 bps	—	—	20 bps	—
+Restructuring/Other	(60) bps	(30) bps	—	(30) bps	(30) bps	(20) bps	(10) bps	(30) bps
+Total Operating Margin Change	(100) bps	60 bps	150 bps	(30) bps	140 bps	(70) bps	(90) bps	(20) bps
+								
+Total Operating Margin % *	21.5%	26.4%	25.6%	27.7%	22.8%	23.6%	25.9%	24.1%
+								
+* Includes unfavorable operating margin impact of amortization expense from acquisition-related intangible assets	50 bps	70 bps	200 bps	20 bps	360 bps	30 bps	90 bps	120 bps **
+** Amortization expense from acquisition-related intangible assets had an unfavorable impact of ($0.37) on GAAP earnings per share for 2019.
+
+PAGE NUMBER: 8
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+GAAP to NON-GAAP RECONCILIATIONS (UNAUDITED)
+ADJUSTED AFTER-TAX RETURN ON AVERAGE INVESTED CAPITAL (UNAUDITED)
+
+
+
+															
+	Three Months Ended		Twelve Months Ended
+	December 31,		December 31,
+Dollars in millions	2019		2018		2019		2018
+Operating income	$	824			$	860			$	3,402			$	3,584	
+Adjusted tax rate	22.8	%		25.5	%		24.0	%		24.9	%
+Income taxes	(188	)		(219	)		(815	)		(893	)
+Operating income after taxes	$	636			$	641			$	2,587			$	2,691	
+							
+Invested capital:								
+Trade receivables	$	2,461			$	2,622			$	2,461			$	2,622	
+Inventories	1,164			1,318			1,164			1,318	
+Net assets held for sale	280			—			280			—	
+Net plant and equipment	1,729			1,791			1,729			1,791	
+Goodwill and intangible assets	5,343			5,717			5,343			5,717	
+Accounts payable and accrued expenses	(1,689	)		(1,795	)		(1,689	)		(1,795	)
+Other, net	(481	)		(519	)		(481	)		(519	)
+Total invested capital	$	8,807			$	9,134			$	8,807			$	9,134	
+							
+Average invested capital	$	8,797			$	9,247			$	9,028			$	9,533	
+Adjusted after-tax return on average invested capital	28.9	%		27.7	%		28.7	%		28.2	%
+A reconciliation of the 2019 effective tax rate excluding the third quarter discrete tax benefit of $21 million is as follows:
+
+						
+	Twelve Months Ended
+	December 31, 2019
+	Income Taxes		Tax Rate
+As reported	$	767			23.3	%
+Discrete tax benefit related to third quarter	21			0.7	%
+As adjusted	$	788			24.0	%
+A reconciliation of the 2018 effective tax rate excluding the third quarter net discrete tax benefit of $15 million is as follows:
+
+						
+	Twelve Months Ended
+	December 31, 2018
+	Income Taxes		Tax Rate
+As reported	$	831			24.5	%
+Net discrete tax benefit related to third quarter	15			0.4	%
+As adjusted	$	846			24.9	%
+
+PAGE NUMBER: 9
+
+ILLINOIS TOOL WORKS INC. and SUBSIDIARIES
+GAAP to NON-GAAP RECONCILIATIONS (UNAUDITED)
+FREE CASH FLOW (UNAUDITED)
+
+
+
+															
+	Three Months Ended		Twelve Months Ended
+	December 31,		December 31,
+Dollars in millions	2019		2018		2019		2018
+Net cash provided by operating activities	$	774			$	809			$	2,995			$	2,811	
+Less: Additions to plant and equipment	(82	)		(82	)		(326	)		(364	)
+Free cash flow	$	692			$	727			$	2,669			$	2,447	
+							
+Net income	$	641			$	607			$	2,521			$	2,563	
+Free cash flow to net income conversion rate	108	%	*	120	%		106	%		95	%
+* Excluding the impact of the fourth quarter net after-tax gains on disposal of businesses of $35 million, net income would have been $606 million and the free cash flow to net income conversion rate for the three months ended December 31, 2019 would have been 114%.
+NET INCOME PER SHARE - DILUTED, AS REPORTED (UNAUDITED)
+
+							
+	Twelve Months Ended
+	December 31,
+	2019		2018
+Net income per share - diluted, as reported	$	7.74		*	$	7.60	
+* Diluted EPS for the twelve months ended December 31, 2019 includes the impact of $0.09 of divestiture gains, $(0.20) of foreign currency translation headwinds and $(0.12) of higher restructuring expenses.
