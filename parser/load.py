@@ -67,7 +67,6 @@ class Loader:
             to_time TIME
         )
         """)
-##############################################################################################################################################################################################################################################################################################################################################################################
         # Filings table
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS filings (
@@ -115,6 +114,29 @@ class Loader:
 
         self.conn.commit()
 
+    # def insert_companies_bulk(self, data):
+    #     """
+    #     Insert multiple rows into the companies table efficiently.
+    #     :param data: List of tuples containing company details.
+    #     """
+    #     try:
+    #         with self.conn:
+    #             self.cursor.executemany("""
+    #                 INSERT INTO companies (
+    #                     cik, entityType, sic, sicDescription, ownerOrg,
+    #                     insiderTransactionForOwnerExists, 
+    #                     insiderTransactionForIssuerExists, name, tickers, 
+    #                     exchanges, ein, description, website, 
+    #                     investorWebsite, category, fiscalYearEnd, stateOfIncorporation, 
+    #                     stateOfIncorporationDescription, phone, total_num_of_filings
+    #                 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?) 
+    #             """, data)
+    #         logging.info(f"Successfully inserted {len(data)} rows into companies.")
+    #         company_id = self.cursor.lastrowid
+    #         return True, None, company_id
+    #     except sqlite3.Error as e:
+    #         logging.error(f"Error inserting companies in bulk: {e}")
+    #         return False, e, None
     def insert_companies_bulk(self, data):
         """
         Insert multiple rows into the companies table efficiently.
@@ -122,18 +144,26 @@ class Loader:
         """
         try:
             with self.conn:
-                self.cursor.executemany("""
-                    INSERT INTO companies (
-                        cik, entityType, sic, sicDescription, ownerOrg,
-                        insiderTransactionForOwnerExists, 
-                        insiderTransactionForIssuerExists, name, tickers, 
-                        exchanges, ein, description, website, 
-                        investorWebsite, category, fiscalYearEnd, stateOfIncorporation, 
-                        stateOfIncorporationDescription, phone, total_num_of_filings
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?) 
-                """, data)
-            logging.info(f"Successfully inserted {len(data)} rows into companies.")
-            company_id = self.cursor.lastrowid
+                for company in data:
+                    cik = company[0]
+                    self.cursor.execute("SELECT company_id FROM companies WHERE cik = ?", (cik,))
+                    result = self.cursor.fetchone()
+                    if result:
+                        company_id = result[0]
+                        logging.info(f"Company with CIK {cik} already exists with company_id {company_id}.")
+                    else:
+                        self.cursor.execute("""
+                            INSERT INTO companies (
+                                cik, entityType, sic, sicDescription, ownerOrg,
+                                insiderTransactionForOwnerExists, 
+                                insiderTransactionForIssuerExists, name, tickers, 
+                                exchanges, ein, description, website, 
+                                investorWebsite, category, fiscalYearEnd, stateOfIncorporation, 
+                                stateOfIncorporationDescription, phone, total_num_of_filings
+                            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?) 
+                        """, company)
+                        company_id = self.cursor.lastrowid
+                        logging.info(f"Successfully inserted company with CIK {cik} and company_id {company_id}.")
             return True, None, company_id
         except sqlite3.Error as e:
             logging.error(f"Error inserting companies in bulk: {e}")

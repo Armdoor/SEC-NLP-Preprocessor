@@ -80,13 +80,7 @@ company_folder_names = []
 # filing_types = ["8-K", "10-K", "10-Q", "13-D", "DEF 14A", "S-1"]
 processed_folder_created = False
 filing_types = ['8-K', '10-K']
-COMMON_DATA = [
-    'cik', 'entityType', 'sic', 'sicDescription',
-    'ownerOrg', 'name', 'exchanges', 'ein', 'description',
-    'website', 'investorWebsite', 'category', 'fiscalYearEnd',
-    'stateOfIncorporation', 'stateOfIncorporationDescription',
-    'addresses', 'phone', 'formerNames'
-]
+
 ##############################################--ONE TIMER FUNCTIONS--###################################################
 
 # One timer functions to get all the company names and create the preprocessed folders
@@ -94,18 +88,18 @@ def company_folders(root_path):
 # Get all folder names
     folder_names = [name for name in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, name))]
     if type(folder_names) == type(None):                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-        print("No folders found in the path")
+        logging.warning("No folders found in the path")
         return None                          
     return folder_names
 
 def create_preprocessed_folders(folder_names, root_path):
     if folder_names is None:
-        print("No folders found in the path for creating preprocessed folders")
+        logging.warning("No folders found in the path for creating preprocessed folders")
         return None
     for folder_name in folder_names:
         create_folder_at_path = os.path.join(root_path, folder_name, "preprocessed")
         os.makedirs(create_folder_at_path, exist_ok=True)
-    processed_folder_created = True
+
 
 
 ##############################################--ONE TIMER FUNCTIONS END--###############################################
@@ -145,9 +139,9 @@ def process_text_files(root_path, ticker, filing_type, loader):
         # Insert the json data into the database
         if json_data:
             company_id =process_json_data(json_data, loader)
-            print("company_id after return: ", company_id)
         else:
-            logging.error(f"Failed to load JSON data for {ticker}")
+            logging.error(f"Failed to load JSON data for {ticker} in parser_main.py")
+            return
 
 
         # Process files
@@ -157,12 +151,12 @@ def process_text_files(root_path, ticker, filing_type, loader):
             try:
                 companies_main(file_path, preprocessed_folder_path, filing_name,filing_type, ticker, loader, company_id)
                 logging.info(f"Parsed filing: {filing_name}")
-                logging.info("-" * 80)
+                print("-" * 80)
             except Exception as e:
-                logging.error(f"Failed to parse {filing_name}: {str(e)}", exc_info=True)
+                logging.error(f"Failed to parse {filing_name}: {str(e)} in parser_main.py", exc_info=True)
 
     except Exception as e:
-        logging.error(f"Critical error for {ticker}/{filing_type}: {str(e)}", exc_info=True)
+        logging.error(f"Critical error for {ticker}/{filing_type}: {str(e)} in parser_main.py", exc_info=True)
 
 ##############################################--PRCEESSING FILES END--##################################################
 
@@ -191,18 +185,18 @@ def process_json_data(json_data, loader):
         entity.phone,
         entity.total_num_of_filings
         )
-            
+    '''        
     # Insert the company data into the database
     try:
         loaded_company_metadata, error, company_id = loader.insert_companies_bulk([company_data])
-        print("loaded_company_metadata id : ", company_id)
+
         if loaded_company_metadata:
             logging.info(f"Successfully inserted company data for {ticker}")
         else:
             logging.error(f"Failed to insert company data for {ticker}: {str(error)} in load")
     except Exception as e:
         logging.error(f"Failed to insert company data for {ticker}: {str(e)} in main")
-    # print("Company ID:", company_id)
+
     company_addresses = entity.addresses
     if company_id is not None:
         if company_addresses:
@@ -219,7 +213,7 @@ def process_json_data(json_data, loader):
             parsed_former_names = parse_former_names_data(company_id, entity.formerNames)
             try:
                 if len(parsed_former_names) > 0:
-                    # print("Former Names types: ", type(parsed_former_names), type(parsed_former_names[0]), parsed_former_names)
+
                     loaded_former_names, error = loader.insert_former_names(parsed_former_names)
                     if loaded_former_names:
                         logging.info(f"Successfully inserted company former names for {ticker}")
@@ -227,7 +221,43 @@ def process_json_data(json_data, loader):
                         logging.error(f"Failed to insert company former names for {ticker}: {str(error)} in load")
             except Exception as e:
                 logging.error(f"Failed to insert company former names for {ticker}: {str(e)} in main")
-    print("company_id before return: ", company_id)
+
+    return company_id'''
+    try:
+        loaded_company_metadata, error, company_id = loader.insert_companies_bulk([company_data])
+
+        if loaded_company_metadata:
+            logging.info(f"Successfully inserted company data for {entity.name}")
+        else:
+            logging.error(f"Failed to insert company data for {entity.name}: {str(error)} in load")
+    except Exception as e:
+        logging.error(f"Failed to insert company data for {entity.name}: {str(e)} in main")
+
+    company_addresses = entity.addresses
+    if company_id is not None:
+        if company_addresses:
+            parsed_addresses = parse_address_data(company_id, entity.addresses)
+            try:
+                if parsed_addresses:
+                    loaded_company_addresses, error = loader.insert_addresses(parsed_addresses)
+                    if loaded_company_addresses:
+                        logging.info(f"Successfully inserted company addresses for {entity.name}")
+                    else:
+                        logging.error(f"Failed to insert company addresses for {entity.name}: {str(error)} in load")
+            except Exception as e:
+                logging.error(f"Failed to insert company addresses for {entity.name}: {str(e)} in main")
+            parsed_former_names = parse_former_names_data(company_id, entity.formerNames)
+            try:
+                if len(parsed_former_names) > 0:
+
+                    loaded_former_names, error = loader.insert_former_names(parsed_former_names)
+                    if loaded_former_names:
+                        logging.info(f"Successfully inserted company former names for {entity.name}")
+                    else:
+                        logging.error(f"Failed to insert company former names for {entity.name}: {str(error)} in load")
+            except Exception as e:
+                logging.error(f"Failed to insert company former names for {entity.name}: {str(e)} in main")
+
     return company_id
     # else:
         # logging.error(f"Failed to insert company data for {ticker}: {str(e)} in main due to missing company ID")
@@ -237,41 +267,30 @@ def process_json_data(json_data, loader):
 
 
 ##############################################--MAIN--##################################################################
-# def main(root_path, company_folder_names, processed_folder_created, filing_types):
-#     loader = Loader()
-    
-#     try:
-#         if len(company_folder_names) == 0:
-#             company_folder_names = company_folders(root_path)
-#         if not processed_folder_created:
-#             create_preprocessed_folders(company_folder_names, root_path)
+def main(root_path, company_folder_names, processed_folder_created, filing_types):
+    loader = Loader()
+    companies_stored =[]
+    try:
+        if len(company_folder_names) == 0:
+            company_folder_names = company_folders(root_path)
+        if not processed_folder_created:
+            create_preprocessed_folders(company_folder_names, root_path)
         
-#         for filing_type in filing_types:
-#             for company_name in company_folder_names:
-#                 print(f"Processing {filing_type} filings for {company_name}")
-#                 print("-" * 80)
-#                 process_text_files(root_path, company_name, filing_type, loader)
-#     finally:
-#         loader.close()
+        for filing_type in filing_types:
+            for company_name in company_folder_names:
+                print(f"Processing {filing_type} filings for {company_name}")
+                print("-" * 80)
+                process_text_files(root_path, company_name, filing_type, loader)
+                companies_stored.append((company_name, filing_type))
+    finally:
+        loader.close()
 
 
 ##############################################--MAIN ENDAS--############################################################
 
 
-# root_path = "/Volumes/T7/data"
-# main(root_path, company_folder_names, processed_folder_created, filing_types)
 
-def print_entity_data(entity):
-    # Print dataclass fields
-    for field in fields(entity):
-        value = getattr(entity, field.name)
-        print(f"{field.name}: {value}")
-    
-    # Print computed properties
-    properties = [attr for attr in dir(EntityData) if isinstance(getattr(EntityData, attr, None), property)]
-    for prop in properties:
-        value = getattr(entity, prop)
-        print(f"{prop}: {value}")
+
 
 def parse_address_data(company_id, addresses):
     """
@@ -324,7 +343,11 @@ def parse_former_names_data(company_id, former_names):
 
 root_path = '/Users/akshitsanoria/Desktop/PythonP/data1/'
 ticker = 'AAPL'
-filing_type = '8-KT'
+filing_type = ['8-K', '10-K']
 loader = Loader()
-id = process_text_files(root_path, ticker, filing_type, loader)
-print("company_id: ", id)
+# id = process_text_files(root_path, ticker, filing_type, loader)
+
+
+
+# root_path = "/Volumes/T7/data"
+main(root_path, company_folder_names, processed_folder_created, filing_type)

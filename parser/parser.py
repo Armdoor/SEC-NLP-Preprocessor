@@ -1,7 +1,7 @@
 import re
 import unicodedata
 from bs4 import BeautifulSoup, Tag
-
+import logging
 
     ##############################################--VARIABLE DECLARATION--#################################################
 class Parser:
@@ -35,17 +35,17 @@ class Parser:
     def read_doc(self, path, empty_file=False):
         with open(path, 'r', encoding='utf-8') as file:
                 response_content = file.read()
+        
         # in case the file is empty, return None
         if response_content == "":
             empty_file = True
             return "Empty file", empty_file
         # try to parse the soup with lxml and if it fails, try with html5lib
         try:
-            # Attempt to parse with lxml
             soup = BeautifulSoup(response_content, 'html5lib')
-            # print("html5lib parser used")
         except Exception as e:
-            print("Failed with html parser. Retrying with lxml.")
+            logging("Failed with html parser. Retrying with lxml in parser.py")
+            
             # Fall back to html5lib if lxml fails
             soup = BeautifulSoup(response_content, 'lxml')
         return soup, empty_file
@@ -60,7 +60,7 @@ class Parser:
         filing_data = dict()
         pat = r":\s*(\d{8})"
         if not sec_header:
-            print("No <SEC-HEADER> tag found")
+            logging.error("No <SEC-HEADER> tag found in parser.py")
             return {}
         sec_header_text = sec_header.get_text(separator='\n', strip=True)
         match = re.search(pat, sec_header_text)
@@ -104,28 +104,27 @@ class Parser:
         thematic_breaks =[]
         for doc in docs:
             if not isinstance(doc, Tag):
-                print(doc)
-                print("not a tag")
+                logging.warning(f"Doc is not a tag in document_data in parser.py")
                 continue  # Skip if `doc` is not a Tag object
             document_tag = doc.type.find(text=True, recursive=False)
             if document_tag:
                 document_id = document_tag.strip()
             else:
-                print("No document type found")
+                logging.warning("No document type found in document_data in parser.py")
                 continue
 
             sequence_tag = doc.sequence.find(text=True, recursive=False)
             if sequence_tag:
                 document_sequence = sequence_tag.strip()
             else:
-                print("No sequence found")
+                logging.warning("No sequence found in document_data in parser.py")
                 document_sequence = None
 
             filename_tag = doc.filename.find(text=True, recursive=False)
             if filename_tag:
                 document_filename = filename_tag.strip()
             else:
-                print("No filename found")
+                logging.warning("No filename found in document_data in parser.py")
                 document_filename = None
 
             description_tag = doc.find("description")
@@ -137,7 +136,7 @@ class Parser:
                     if isinstance(element, str):  
                         document_description += element.strip()
             else:
-                print("No description found")
+                logging.warning("No description found in document_data in parser.py")
                 document_description = "No description"
             self.master_document_dict[document_id] = {}
             self.master_document_dict[document_id]['document_sequence'] = document_sequence
@@ -151,7 +150,7 @@ class Parser:
             if filing_doc_text:
                 filing_doc_text = filing_doc_text.extract()
             else:
-                print("No text found")
+                logging.warning("No text found in document_data in parser.py")
                 continue
             for style in styles:
                 thematic_breaks = filing_doc_text.find_all('hr', style)
@@ -161,11 +160,9 @@ class Parser:
             if len(thematic_breaks) == 0:
                 try:
                     thematic_breaks = filing_doc_text.find_all('div' , {'style': lambda value: value and 'border-bottom: Black 4pt solid' in value} )
-                    # print(" The thematic breaks are ", thematic_breaks)
-                    if len(thematic_breaks) > 0:
-                        print("Breaks found")
+                    
                 except:
-                    print("No thematic breaks found " )
+                    logging.warning("No thematic breaks found in document_data in parser.py")
         
             all_page_numbers =[]
             for thematic_break in thematic_breaks:
@@ -179,18 +176,18 @@ class Parser:
                         if page_number:
                             all_page_numbers.append(page_number)
                         else:
-                            print(f"Previous sibling exists but contains no text: {previous_sibling}")
+                            logging.warning(f"Previous sibling exists but contains no text: {previous_sibling}")
                     elif parent:
                         page_number = parent.get_text(strip=True)
                         if page_number:
                             all_page_numbers.append(page_number)
                         else:
-                            print(f"Parent exists but contains no text: {parent}")
+                            logging.warning(f"Parent exists but contains no text: {parent}")
                     else:
-                        print(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
+                        logging.warning(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
 
                 except Exception as e:
-                    print(f"Error processing thematic break: {thematic_break}, error: {e}")
+                    logging.error(f"Error processing thematic break: {thematic_break}, error: {e}")
 
             length_of_page_numbers = len(all_page_numbers)
             self.no_of_pages = length_of_page_numbers
@@ -256,10 +253,9 @@ class Parser:
                     self.master_document_dict[document_id]['pages_code'] = [filing_doc_string]
                 # else:
                 #     master_document_dict[document_id]['pages_code'] = ["None"]
-                print('-'*80)
-                print('The document {} was parsed.'.format(document_id))
-                print('There was {} page(s) found.'.format(len(all_page_numbers)))
-                print('There was {} thematic breaks(s) found.'.format(len(thematic_breaks)))
+                logging.info(f"The document {document_id} was parsed.")
+                logging.info(f"There was {len(all_page_numbers)} page(s) found.")
+                logging.info(f"There was {len(thematic_breaks)} thematic breaks(s) found.")
 
         return self.master_document_dict  
 
@@ -308,7 +304,7 @@ class Parser:
                 raw_text = ''
             return soup, raw_text
         except Exception as e:
-            print(f"Error parsing HTML: {e}")
+            logging.error(f"Error parsing HTML: {e}")
             return None, None
 
     def normalize_text_content(self, raw_text):
@@ -330,11 +326,10 @@ class Parser:
         Processes and normalizes text for each document entry in filing_docs.
         """
         for document_id, document_data in filing_docs.items():
-            print('-' * 80)
-            print(f"Processing document ID: {document_id}")
+            logging.info(f"Processing document ID: {document_id}")
 
             if 'pages_code' not in document_data:
-                print(f"No pages_code found for document ID: {document_id}")
+                logging.warning(f"No pages_code found for document ID: {document_id}")
                 continue
 
             # Extract the page code from the document
@@ -347,7 +342,7 @@ class Parser:
                 # Extract and normalize text from the HTML
                 page_soup, raw_text = self.extract_text_from_html(page_html)
                 if page_soup is None or raw_text is None:
-                    print(f"Skipping page {page_number} of document {document_id} due to errors.")
+                    logging.warning(f"Skipping page {page_number} of document {document_id} due to errors.")
                     continue
 
                 # Normalize the extracted text
@@ -361,7 +356,7 @@ class Parser:
             document_data['pages_code'] = repaired_pages
             document_data['pages_numbers_generated'] = list(repaired_pages.keys())
 
-            print(f"Finished processing document ID: {document_id}")
+            logging.info(f"Finished processing document ID: {document_id}")
             filing_docs[document_id]['pages_code'] = document_data ['pages_code']
             filing_docs[document_id]['pages_normalized_text'] = document_data ['pages_normalized_text']
             filing_docs[document_id]['pages_numbers_generated'] = document_data ['pages_numbers_generated']
@@ -372,9 +367,9 @@ class Parser:
         """
         Normalizes all documents in the filing_docs dictionary.
         """
-        print("Starting normalization of filing documents...")
+        logging.info("Starting normalization of filing documents...")
         doc_norm = self.process_document_data(filing_docs)
-        print("Normalization complete.")
+        logging.info("Normalization complete.")
         return doc_norm
 
     #############################################--NORMALIZE DATA ENDS--####################################################
@@ -385,20 +380,20 @@ class Parser:
         doc_acumulated_data = ""
         for document_id, document_data in filing_docs.items():
             print('-' * 80)
-            print(f"Extracting data from document ID: {document_id}")
+            logging.info(f"Extracting data from document ID: {document_id}")
             if 'pages_code' not in document_data:
-                print("No pages code found")
+                logging.warning("No pages code found")
                 continue
             
             pages_code = document_data['pages_code']
             if not pages_code:
-                print("No pages code found")
+                logging.warning("No pages code found")
             for page_number, code in pages_code.items():
                 print("-" * 80)
-                print(f"Extracting data from page number: {page_number}")
+                logging.info(f"Extracting data from page number: {page_number}")
 
                 if not code:
-                    print(f"Warning: code is None or empty for page number: {page_number}")
+                    logging.warning(f"Warning: code is None or empty for page number: {page_number}")
                     continue
 
                 # Remove <ix:header> tags if present
@@ -408,7 +403,7 @@ class Parser:
                 # Find the <body> tag
                 html_body = code.find('body')
                 if html_body is None:
-                    print(f"Warning: No <body> tag found in page number: {page_number}")
+                    logging.warning(f"Warning: No <body> tag found in page number: {page_number}")
                     continue
 
                 # Extract text from the <body>
@@ -474,25 +469,3 @@ class Parser:
 #     {'width': '100%'},  # Checking for an exact width attribute
 #     {'style': 'page-break-after:always'}  # Checking for a specific page break style
 # ]
-
-# path_test = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_1.txt"
-# soup_test = read_doc(path_test)
-# header_test, accession_number_test = header_data_parser(soup_test)
-# print("Accession number: ", accession_number_test)
-# print("Header: ", header_test['sec_header'])
-# doc_dic = document_data(soup_test, styles)
-# # print("Keys in doc_dic: ", doc_dic.keys())
-
-# master_dic = construct_master_dict(doc_dic, header_test, accession_number_test)
-# # print("Keys in master_dic: ", master_dic.keys())
-# # print("Keys in doc_dic[accession_number]: ", doc_dic[accession_number_test].keys())
-# filing_doc = master_dic[accession_number_test]['filing_documents']
-# # print("Keys in filing_doc: ", filing_doc.keys())
-# norm_data = normalize_filing_docs(filing_doc)
-# with open('normalized.txt', 'w', encoding='utf-8') as file:
-#     file.write(str(norm_data))
-# # print("Parsed html: ",parse_html(norm_data))
-# file_acumulated_data = header_test['sec_header'] + "\n" +parse_html(norm_data)
-
-# with open('extrated.txt', 'w', encoding='utf-8') as file:
-#     file.write(file_acumulated_data)

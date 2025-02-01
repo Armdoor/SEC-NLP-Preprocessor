@@ -34,12 +34,12 @@ all_headers ={}
 def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, loader, company_id):
 
     #  create the path to where we will be storing the preprocessed data and also naming it based on the filing name
-    # output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
+    output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
 
-    # if os.path.exists(output_file_path):
-    #     print(f"File '{output_file_path}' already exists. Skipping processing.")
-    #     return  # Skip processing this file
-    print(f"Processing {file_name} filing for {ticker}")
+    if os.path.exists(output_file_path):
+        logging.info(f"File '{output_file_path}' already exists. Skipping processing in companies.py")
+        return  # Skip processing this file
+    logging.info(f"Processing {file_name} filing for {ticker} in companies.py")
 
     # declaring the parser object
     parser = Parser()
@@ -47,7 +47,7 @@ def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, l
     # read the raw file that needs to be parsed
     soup , empty_file = parser.read_doc(raw_path)
     if empty_file:
-        logging.ERROR(f"***********{file_name} is empty form {ticker}***********")
+        logging.ERROR(f"***********{file_name} is empty form {ticker} in companies.py**********")
         return
 
     # Collect the SDEC-HEADER
@@ -63,8 +63,7 @@ def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, l
     filing_data['file_name'] = file_name
     info = filing_data['item_information']
     filing_data['item_information'] = ",".join(info) if info else ""
-    for k,v in filing_data.items():
-        print(k,v, ' type is ', type(v))
+    
     record = (
         filing_data["company_id"],
         filing_data["accession_number"],
@@ -74,8 +73,6 @@ def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, l
         int(filing_data["document_count"]),
         filing_data["item_information"]
     )
-    for v in record:
-        print(type(v))
     filing_id= loader.insert_filings([record])
     if filing_id is not None:
         header_data = (filing_id, header['sec_header'])
@@ -112,34 +109,12 @@ def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, l
 
 
     if file_acumulated_data is None:
-        print("No filing data found")
+        logging.error("No filing data found in companies.py")
     else :
         file_acumulated_data = header['sec_header'] + "\n" + file_acumulated_data    
         with open(output_file_path, 'w', encoding='utf-8') as file:
             file.write(file_acumulated_data)
 
-
-    
-
-
-
-
-
-
-
-def filing_data_helper(loader, data):
-    loader.insert_filings(data)
-
-
-
-
-'''
- cik = "sample_cik"  # You can parse this from metadata if available
-        ticker = "sample_ticker"
-        industry = "sample_industry"
-        company_id = loader.i
-
-'''
     
 ##############################################--MAIN END--####################################################
 
