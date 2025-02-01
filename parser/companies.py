@@ -4,10 +4,11 @@ parser.py to process and store the extracted data into a preprocessed folder und
 '''
 
 
-from parser import Parser, JsonDataCollector
+from parser import Parser
+from load import Loader
 import os
 import json
-
+import logging
 
 
 ##############################################--VARIABLE DECLARATION--#################################################
@@ -24,63 +25,91 @@ styles = [
 
 all_headers ={}
 
+
 ##############################################--VARIABLE DECLARATION ENDS--#############################################
 
 ##############################################--MAIN--##################################################################
 
 # called by the parser_main.py to parse the filing type for each company. 
-def companies_main(raw_path, preprocessed_path,file_name, ticker, loader, company_id, entity):
+def companies_main(raw_path, preprocessed_path,file_name, filing_type, ticker, loader, company_id):
 
     #  create the path to where we will be storing the preprocessed data and also naming it based on the filing name
-    output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
+    # output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
 
-    if os.path.exists(output_file_path):
-        print(f"File '{output_file_path}' already exists. Skipping processing.")
-        return  # Skip processing this file
+    # if os.path.exists(output_file_path):
+    #     print(f"File '{output_file_path}' already exists. Skipping processing.")
+    #     return  # Skip processing this file
     print(f"Processing {file_name} filing for {ticker}")
 
+    # declaring the parser object
     parser = Parser()
-    
-
 
     # read the raw file that needs to be parsed
     soup , empty_file = parser.read_doc(raw_path)
     if empty_file:
-        print(f"***********{file_name} is empty form {ticker}***********")
+        logging.ERROR(f"***********{file_name} is empty form {ticker}***********")
         return
 
-    # Insert the json data into the database
+    # Collect the SDEC-HEADER
+    header, filing_data = parser.header_data_parser(soup)
 
-
-
-
-
-
-
-
-    header, accession_number = parser.header_data_parser(soup)
     if ticker not in all_headers:
         all_headers[ticker] = {}  # Initialize list for the company
     if file_name not in all_headers[ticker]:
         all_headers[ticker][file_name] = [] 
+    
+    filing_data['filing_type'] = filing_type
+    filing_data['company_id'] = company_id
+    filing_data['file_name'] = file_name
+    info = filing_data['item_information']
+    filing_data['item_information'] = ",".join(info) if info else ""
+    for k,v in filing_data.items():
+        print(k,v, ' type is ', type(v))
+    record = (
+        filing_data["company_id"],
+        filing_data["accession_number"],
+        filing_data["filing_type"],
+        filing_data["filing_date"],
+        filing_data["file_name"],
+        int(filing_data["document_count"]),
+        filing_data["item_information"]
+    )
+    for v in record:
+        print(type(v))
+    filing_id= loader.insert_filings([record])
+    if filing_id is not None:
+        header_data = (filing_id, header['sec_header'])
+        loader.insert_headers([header_data])
 
-    all_headers[ticker][file_name].append(header['sec_header'])
+    # all_headers[ticker][file_name].append(header['sec_header'])
 
-    master_document_dict = parser.document_data(soup, styles) 
+    document_dict = parser.document_data(soup, styles) 
 
-    # consturct the master dictionary with all the data
-    filing_dict = parser.construct_master_dict(master_document_dict, header, accession_number)
+    # # consturct the master dictionary with all the data
+    accession_number = filing_data['accession_number']
+    filing_dict = parser.construct_master_dict(document_dict, header, accession_number)
     filing_docs = filing_dict[accession_number]['filing_documents']
 
-    # normalize the filing documents
+    # # normalize the filing documents
     normm_data = parser.normalize_filing_docs(filing_docs)
 
-    # create the preprocessed folder if it doesn't exist
+    # # create the preprocessed folder if it doesn't exist
     os.makedirs(preprocessed_path, exist_ok=True)
     output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
 
-    # write the preprocessed data to a file
-    file_acumulated_data = parser.parse_html(normm_data)
+    # # write the preprocessed data to a file
+    file_acumulated_data, pages = parser.parse_html(normm_data)
+
+    page_records = [(filing_id, page[0], page[1]) for page in pages]
+
+    # page_data = [(filing_id, page_number, page_content) for page_number, page_content in pages.items()]
+    # data = [
+    #         (filing_id, page_number, json.dumps(page_content))
+    #         for page_number, page_content in pages.items()
+    #     ]
+    # Insert the data
+    loader.insert_pages(page_records)
+
 
     if file_acumulated_data is None:
         print("No filing data found")
@@ -90,30 +119,16 @@ def companies_main(raw_path, preprocessed_path,file_name, ticker, loader, compan
             file.write(file_acumulated_data)
 
 
-    company_id = loader.insert_company("123456", "Example Inc.", "EXM", "Technology")
-    parsed_filing_data = {
-        "Financials": {"Balance Sheet": "Details here"},
-        "Operations": {"Yearly Report": "Operational insights"}
-    }
-    json_data = {
-        "market_cap": 50000000,
-        "employees": 1200,
-        "notes": ["Important information", "Additional details"]
-    }
-    loader.store_parsed_filing(company_id, "10-K", "2025-01-01", parsed_filing_data)
-    loader.store_extra_json_data(company_id, json_data)
-    loader.close()
+    
 
 
 
 
-def json_data_helper(json_data_collector):
-    json_data = json_data_collector.collect_data()
-    cik = json_data['']
 
 
-def data_helper(loader, data):
-    loader.insert_companies_bulk(data)
+
+def filing_data_helper(loader, data):
+    loader.insert_filings(data)
 
 
 
@@ -127,3 +142,9 @@ def data_helper(loader, data):
 '''
     
 ##############################################--MAIN END--####################################################
+
+
+loader= Loader()
+rp = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_1.txt"
+pp = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/preprocessed/8-K"
+companies_main(rp, pp,'filing_1', '8-K','AAPL',loader , 1)

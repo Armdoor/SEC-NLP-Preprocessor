@@ -9,7 +9,8 @@ class Parser:
         self.master_document_dict = {}
         self.master_filings_dict ={}
         self.accession_number = ""
-
+        self.no_of_pages = 0
+        self.pages = []
     ##############################################--VARIABLE DECLARATION ENDS--#############################################
 
 
@@ -56,22 +57,39 @@ class Parser:
     # parses the sec header and returns the header data and theaccession number
     def header_data_parser(self, soup): 
         sec_header = self.find_case_insensitive(soup, "SEC-HEADER")
+        filing_data = dict()
+        pat = r":\s*(\d{8})"
         if not sec_header:
             print("No <SEC-HEADER> tag found")
             return {}
         sec_header_text = sec_header.get_text(separator='\n', strip=True)
+        match = re.search(pat, sec_header_text)
+        if match:
+            date = match.group(1)
+        else:
+            date = ""
         header = {}
+        filing_data['filing_date'] = date
         header['sec_header'] = sec_header_text
-
+        item_information =[]
+        document_count = ""
         lines = sec_header_text.splitlines()
         for line in lines:
             line = line.strip()
             if line.startswith("ACCESSION NUMBER:"):
                 current_section = line.rstrip(":")
                 _, accession_number = current_section.split(":",1)
-                break 
-
-        return header, accession_number
+                filing_data["accession_number"] = accession_number.strip()
+            elif line.startswith("PUBLIC DOCUMENT COUNT:"):
+                current_section = line.rstrip(":")
+                _, document_count = current_section.split(":",1)
+                filing_data["document_count"] = document_count.strip()
+            elif line.startswith("ITEM INFORMATION:"):
+                current_section = line.rstrip(":")
+                _, filing_type = current_section.split(":",1)
+                item_information.append(filing_type.strip())
+        filing_data["item_information"] = item_information
+        return header, filing_data
 
     #############################################--Header DATA EXTRACTION ENDS--############################################
 
@@ -175,6 +193,7 @@ class Parser:
                     print(f"Error processing thematic break: {thematic_break}, error: {e}")
 
             length_of_page_numbers = len(all_page_numbers)
+            self.no_of_pages = length_of_page_numbers
             if length_of_page_numbers > 0:
                 # grab the last number
                 previous_number = all_page_numbers[-1]
@@ -394,8 +413,10 @@ class Parser:
 
                 # Extract text from the <body>
                 data_extracted = self.extract_text(html_body)
+                page_tuple = (page_number, "\n".join(data_extracted) + "\n")
+                self.pages.append(page_tuple)
                 doc_acumulated_data += "\n" + "PAGE NUMBER: "+str(page_number)+"\n"+"\n"+ "\n".join(data_extracted) + "\n"
-        return doc_acumulated_data
+        return doc_acumulated_data, self.pages
     #############################################--PARSE HTML ENDS--########################################################
 
     #############################################--EXTRACT TEXT--###########################################################

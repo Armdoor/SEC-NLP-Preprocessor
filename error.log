@@ -1,0 +1,1431 @@
+2025-01-31 21:58:53,777 - ERROR - Error inserting filings: table filings has no column named item_information
+2025-01-31 21:59:22,581 - ERROR - Error inserting filings: Incorrect number of bindings supplied. The current statement uses 7, and there are 11 supplied.
+2025-01-31 22:00:02,261 - ERROR - Error inserting filings: Incorrect number of bindings supplied. The current statement uses 7, and there are 11 supplied.
+2025-01-31 22:02:22,695 - ERROR - Error inserting filings: Incorrect number of bindings supplied. The current statement uses 7, and there are 11 supplied.
+2025-01-31 22:04:47,568 - ERROR - Error inserting filings: Binding 1 has no name, but you supplied a dictionary (which has only names).
+2025-01-31 22:05:47,813 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-01-31 22:06:20,554 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 10:52:48,534 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 10:53:16,174 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 10:56:45,508 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 11:01:02,702 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 11:01:02,738 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:01:02,936 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:01:02,940 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:01:02,940 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:01:02,942 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:01:02,942 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:01:02,945 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:01:02,945 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:01:02,945 - ERROR - Failed to parse filing_977: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_1: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_744: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_630: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_354: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_989: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_960: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_790: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_394: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_425: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,946 - ERROR - Failed to parse filing_746: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,947 - ERROR - Failed to parse filing_975: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,947 - ERROR - Failed to parse filing_232: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,947 - ERROR - Failed to parse filing_187: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,947 - ERROR - Failed to parse filing_811: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,949 - ERROR - Failed to parse filing_352: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,949 - ERROR - Failed to parse filing_346: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_804: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_810: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_555: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_582: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_543: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_999: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,950 - ERROR - Failed to parse filing_4: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_184: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_621: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_386: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_350: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_15: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_257: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_928: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_109: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_647: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_322: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,951 - ERROR - Failed to parse filing_849: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_861: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_901: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_915: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_532: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_693: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_308: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_452: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_446: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_889: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,952 - ERROR - Failed to parse filing_286: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,953 - ERROR - Failed to parse filing_279: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,953 - ERROR - Failed to parse filing_655: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,953 - ERROR - Failed to parse filing_133: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,954 - ERROR - Failed to parse filing_494: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,954 - ERROR - Failed to parse filing_331: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,955 - ERROR - Failed to parse filing_49: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,959 - ERROR - Failed to parse filing_250: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,963 - ERROR - Failed to parse filing_508: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,974 - ERROR - Failed to parse filing_681: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,974 - ERROR - Failed to parse filing_871: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,974 - ERROR - Failed to parse filing_327: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,974 - ERROR - Failed to parse filing_290: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,974 - ERROR - Failed to parse filing_510: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_262: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_869: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_303: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_129: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_739: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,975 - ERROR - Failed to parse filing_705: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,976 - ERROR - Failed to parse filing_467: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,976 - ERROR - Failed to parse filing_472: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,976 - ERROR - Failed to parse filing_51: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,976 - ERROR - Failed to parse filing_890: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,976 - ERROR - Failed to parse filing_96: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_463: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_663: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_80: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_43: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_138: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_845: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,977 - ERROR - Failed to parse filing_879: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_931: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_598: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_822: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_177: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_413: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_360: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_980: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_202: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_570: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_982: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_773: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,978 - ERROR - Failed to parse filing_217: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_944: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_987: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_159: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_36: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_373: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,979 - ERROR - Failed to parse filing_429: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_414: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_372: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_37: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_789: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_560: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_589: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,980 - ERROR - Failed to parse filing_210: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_204: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_600: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_614: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_35: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_402: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_761: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:01:02,981 - ERROR - Failed to parse filing_1000: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:03:15,762 - ERROR - Error inserting filings: parameters are of unsupported type
+2025-02-01 11:03:15,797 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:07:20,017 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:10:35,946 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:10:35,948 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:10:35,988 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:10:35,997 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:10:35,997 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:10:35,997 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:10:35,997 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:10:35,998 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:10:36,000 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:10:36,000 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:10:36,001 - ERROR - Failed to parse filing_977: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,001 - ERROR - Failed to parse filing_1: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_744: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_630: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_354: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_989: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_960: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_790: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_394: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_425: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_746: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,002 - ERROR - Failed to parse filing_975: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_232: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_187: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_811: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_352: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_346: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_804: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_810: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_555: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_582: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_543: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_999: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_4: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_184: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,003 - ERROR - Failed to parse filing_621: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_386: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_350: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_15: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_257: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_928: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_109: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,004 - ERROR - Failed to parse filing_647: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_322: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_849: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_861: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_901: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_915: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_532: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_693: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_308: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_452: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_446: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_889: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,005 - ERROR - Failed to parse filing_286: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_279: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_655: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_133: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_494: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_331: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_49: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_250: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_508: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_681: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_871: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_327: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,006 - ERROR - Failed to parse filing_290: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_510: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_262: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_869: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_303: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_129: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_739: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_705: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_467: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,007 - ERROR - Failed to parse filing_472: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_51: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_890: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_96: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_463: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_663: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,008 - ERROR - Failed to parse filing_80: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_43: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_138: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_845: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_879: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_931: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_598: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_822: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_177: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_413: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_360: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_980: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_202: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,009 - ERROR - Failed to parse filing_570: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_982: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_773: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_217: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_944: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_987: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_159: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_36: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_373: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_429: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_414: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_372: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_37: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_789: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,010 - ERROR - Failed to parse filing_560: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_589: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_210: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_204: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_600: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_614: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_35: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_402: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_761: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:10:36,011 - ERROR - Failed to parse filing_1000: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 157, in process_text_files
+    companies_main(file_path, preprocessed_folder_path, filing_name, ticker, loader)
+TypeError: companies_main() missing 2 required positional arguments: 'loader' and 'company_id'
+2025-02-01 11:19:37,194 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:19:37,196 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:19:37,230 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:20:26,153 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:20:26,154 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:20:26,188 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:20:26,197 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:20:26,197 - ERROR - Error inserting companies in bulk: UNIQUE constraint failed: companies.cik
+2025-02-01 11:20:26,197 - ERROR - Failed to insert company data for AAPL: UNIQUE constraint failed: companies.cik in load
+2025-02-01 11:20:26,197 - ERROR - Critical error for AAPL/8-K: cannot access local variable 'e' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 147, in process_text_files
+    company_id =process_json_data(json_data, loader)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/akshitsanoria/Desktop/PythonP/parser/parser_main.py", line 230, in process_json_data
+    logging.error(f"Failed to insert company data for {ticker}: {str(e)} in main due to missing company ID")
+                                                                     ^
+UnboundLocalError: cannot access local variable 'e' where it is not associated with a value
+2025-02-01 11:22:12,842 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:22:12,843 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:22:12,878 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:22:12,885 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:22:12,885 - ERROR - Error inserting companies in bulk: UNIQUE constraint failed: companies.cik
+2025-02-01 11:22:12,886 - ERROR - Failed to insert company data for AAPL: UNIQUE constraint failed: companies.cik in load
+2025-02-01 11:22:29,729 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:22:29,730 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:22:29,765 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:22:29,773 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:22:29,774 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:22:29,774 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:22:29,774 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:22:29,774 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:22:29,779 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:22:29,779 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:25:54,082 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:25:54,083 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:25:54,118 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:25:54,127 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:25:54,128 - ERROR - Error inserting companies in bulk: UNIQUE constraint failed: companies.cik
+2025-02-01 11:25:54,128 - ERROR - Failed to insert company data for AAPL: UNIQUE constraint failed: companies.cik in load
+2025-02-01 11:26:12,676 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:26:12,678 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:26:12,712 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:26:12,720 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:26:12,721 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:26:12,721 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:26:12,721 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:26:12,721 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:26:12,723 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:26:12,723 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:28:47,877 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:28:47,879 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:28:47,914 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:28:47,922 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:28:47,923 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:28:47,923 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:28:47,925 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:28:47,925 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:28:47,928 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:28:47,928 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:29:58,563 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:29:58,565 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:29:58,601 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:29:58,610 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:29:58,611 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:29:58,611 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:29:58,613 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:29:58,613 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:29:58,622 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:29:58,622 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:31:06,234 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:31:06,235 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:31:06,276 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:31:06,285 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:31:06,286 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:31:06,286 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:31:06,286 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:31:06,286 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:31:06,291 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:31:06,291 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:33:19,386 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:33:19,388 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:33:19,423 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:33:19,434 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:33:19,434 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:33:19,434 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:33:19,435 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:33:19,435 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:33:19,439 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:33:19,439 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:33:19,517 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:33:19,518 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:33:19,550 - ERROR - Error inserting pages: Error binding parameter 3: type 'list' is not supported
+2025-02-01 11:33:19,551 - INFO - Parsed filing: filing_1
+2025-02-01 11:33:19,551 - INFO - --------------------------------------------------------------------------------
+2025-02-01 11:33:19,655 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:33:19,656 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:33:19,682 - INFO - Successfully inserted 0 rows into pages.
+2025-02-01 11:33:19,683 - INFO - Parsed filing: filing_4
+2025-02-01 11:33:19,683 - INFO - --------------------------------------------------------------------------------
+2025-02-01 11:38:02,172 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:38:02,174 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:38:02,216 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 11:38:02,217 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 11:38:02,217 - INFO - Successfully inserted company data for AAPL
+2025-02-01 11:38:02,218 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 11:38:02,218 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 11:38:02,221 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 11:38:02,221 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 11:38:02,298 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:38:02,299 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:38:02,332 - INFO - Parsed filing: filing_1
+2025-02-01 11:38:02,332 - INFO - --------------------------------------------------------------------------------
+2025-02-01 11:38:02,436 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 11:38:02,437 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 11:38:02,464 - INFO - Parsed filing: filing_4
+2025-02-01 11:38:02,464 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:05:38,027 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:05:38,028 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:06:23,588 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:06:23,589 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:06:23,636 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:06:23,637 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:06:23,637 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:06:23,637 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:06:23,637 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:06:23,639 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:06:23,639 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:06:23,718 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:06:23,719 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:06:23,752 - INFO - Parsed filing: filing_1
+2025-02-01 12:06:23,753 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:06:23,859 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:06:23,860 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:06:23,887 - INFO - Parsed filing: filing_4
+2025-02-01 12:06:23,887 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:22:51,323 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:22:51,325 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:22:51,368 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:22:51,368 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:22:51,368 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:22:51,369 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:22:51,369 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:22:51,370 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:22:51,370 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:22:51,450 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:22:51,452 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:22:51,487 - INFO - Parsed filing: filing_1
+2025-02-01 12:22:51,488 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:22:51,597 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:22:51,598 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:22:51,625 - INFO - Parsed filing: filing_4
+2025-02-01 12:22:51,625 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:25:39,701 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:25:39,703 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:25:39,748 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:25:39,748 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:25:39,748 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:25:39,749 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:25:39,749 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:25:39,750 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:25:39,750 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:25:39,827 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:25:39,828 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:25:39,861 - INFO - Parsed filing: filing_1
+2025-02-01 12:25:39,861 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:25:39,968 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:25:39,969 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:25:39,997 - INFO - Parsed filing: filing_4
+2025-02-01 12:25:39,997 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:27:16,128 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:27:16,129 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:27:16,172 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:27:16,173 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:27:16,173 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:27:16,174 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:27:16,174 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:27:16,176 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:27:16,176 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:27:16,467 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:27:16,468 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:27:16,503 - INFO - Parsed filing: filing_1
+2025-02-01 12:27:16,503 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:27:16,628 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:27:16,629 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:27:16,657 - INFO - Parsed filing: filing_4
+2025-02-01 12:27:16,657 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:37:56,875 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:37:56,877 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:38:52,277 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:38:52,279 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:38:52,314 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:38:52,323 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:38:52,323 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:38:52,323 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:38:52,324 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:38:52,324 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:38:52,326 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:38:52,326 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:38:52,402 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:38:52,403 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:38:52,436 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:38:52,436 - INFO - Parsed filing: filing_1
+2025-02-01 12:38:52,436 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:38:52,541 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:38:52,542 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:38:52,569 - INFO - Successfully inserted 0 rows into pages.
+2025-02-01 12:38:52,569 - INFO - Parsed filing: filing_4
+2025-02-01 12:38:52,569 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:40:27,383 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:40:27,385 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:40:27,420 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:40:27,429 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:40:27,430 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:40:27,430 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:40:27,432 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:40:27,432 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:40:27,433 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:40:27,434 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:40:27,510 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:40:27,511 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:40:27,544 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:40:27,544 - INFO - Parsed filing: filing_1
+2025-02-01 12:40:27,544 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:40:27,869 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:40:27,871 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:40:27,899 - INFO - Successfully inserted 0 rows into pages.
+2025-02-01 12:40:27,899 - INFO - Parsed filing: filing_4
+2025-02-01 12:40:27,899 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:40:46,321 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:40:46,322 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:40:46,358 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:40:46,367 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:40:46,368 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:40:46,368 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:40:46,368 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:40:46,368 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:40:46,369 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:40:46,369 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:40:46,449 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:40:46,450 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:40:46,483 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:40:46,483 - INFO - Parsed filing: filing_1
+2025-02-01 12:40:46,483 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:42:27,474 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:42:27,475 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:42:27,513 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:42:27,522 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:42:27,522 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:42:27,523 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:42:27,523 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:42:27,523 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:42:27,524 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:42:27,524 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:42:27,605 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:42:27,606 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:42:27,639 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:42:27,640 - INFO - Parsed filing: filing_1
+2025-02-01 12:42:27,640 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:46:10,257 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:46:10,258 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:46:10,296 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:46:10,308 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:46:10,309 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:46:10,309 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:46:10,309 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:46:10,309 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:46:10,311 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:46:10,311 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:46:10,390 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:46:10,391 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:46:10,424 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 2 supplied.
+2025-02-01 12:46:10,424 - INFO - Parsed filing: filing_1
+2025-02-01 12:46:10,424 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:47:16,051 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:47:16,052 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:47:16,088 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 1 supplied.
+2025-02-01 12:47:16,096 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:47:16,096 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:47:16,096 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:47:16,097 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:47:16,097 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:47:16,102 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:47:16,102 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:47:16,180 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:47:16,181 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:47:16,214 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 1 supplied.
+2025-02-01 12:47:16,214 - INFO - Parsed filing: filing_1
+2025-02-01 12:47:16,214 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:48:23,838 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:48:23,839 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:48:23,875 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 1 supplied.
+2025-02-01 12:48:23,884 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:48:23,884 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:48:23,885 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:48:23,885 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:48:23,885 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:48:23,887 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:48:23,887 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:48:23,966 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:48:23,967 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:48:24,000 - ERROR - Error inserting pages: Incorrect number of bindings supplied. The current statement uses 3, and there are 1 supplied.
+2025-02-01 12:48:24,001 - INFO - Parsed filing: filing_1
+2025-02-01 12:48:24,001 - INFO - --------------------------------------------------------------------------------
+2025-02-01 12:53:04,656 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:53:04,657 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:53:04,692 - INFO - Successfully inserted 1 rows into pages.
+2025-02-01 12:53:04,701 - INFO - Successfully loaded JSON data for AAPL
+2025-02-01 12:53:04,702 - INFO - Successfully inserted 1 rows into companies.
+2025-02-01 12:53:04,702 - INFO - Successfully inserted company data for AAPL
+2025-02-01 12:53:04,702 - INFO - Successfully inserted 2 rows into addresses.
+2025-02-01 12:53:04,702 - INFO - Successfully inserted company addresses for AAPL
+2025-02-01 12:53:04,704 - INFO - Successfully inserted 3 rows into former names.
+2025-02-01 12:53:04,704 - INFO - Successfully inserted company former names for AAPL
+2025-02-01 12:53:04,785 - INFO - Successfully inserted 1 rows into filings.
+2025-02-01 12:53:04,786 - INFO - Successfully inserted 1 rows into headers.
+2025-02-01 12:53:04,821 - INFO - Successfully inserted 1 rows into pages.
+2025-02-01 12:53:04,821 - INFO - Parsed filing: filing_1
+2025-02-01 12:53:04,821 - INFO - --------------------------------------------------------------------------------

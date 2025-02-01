@@ -13,39 +13,41 @@ class Loader:
         )
 
     def _create_tables(self):
+
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS companies (
             company_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            cik TEXT NOT NULL,
-            entity_type VARCHAR(50) NOT NULL,
-            company_name VARCHAR(255) NOT NULL,
-            ticker VARCHAR(50) NOT NULL,
-            industry VARCHAR(50),
+            cik TEXT NOT NULL UNIQUE,
+            entityType VARCHAR(50) NOT NULL,
             sic VARCHAR(50),
-            sic_description VARCHAR(255),
-            owner_org VARCHAR(50),
-            insider_transaction_for_owner_exists INTEGER, -- BOOLEAN → INTEGER
-            insider_transaction_for_issuer_exists INTEGER, -- BOOLEAN → INTEGER
+            sicDescription VARCHAR(255),
+            ownerOrg VARCHAR(50),
+            insiderTransactionForOwnerExists INTEGER, 
+            insiderTransactionForIssuerExists INTEGER, 
+            name VARCHAR(255) NOT NULL,
+            tickers TEXT NOT NULL,
+            exchanges TEXT NOT NULL,
             ein VARCHAR(50),
             description TEXT,
             website VARCHAR(255),
-            investor_website VARCHAR(255),
+            investorWebsite VARCHAR(255),
             category VARCHAR(50),
-            fiscal_year_end VARCHAR(50),
-            state_of_incorporation VARCHAR(50),
-            state_of_incorporation_description VARCHAR(255),
-            phone TEXT
-        )
+            fiscalYearEnd VARCHAR(50),
+            stateOfIncorporation VARCHAR(50),
+            stateOfIncorporationDescription VARCHAR(255),
+            phone TEXT,
+            total_num_of_filings INTEGER
+        );
         """)
 
         # Addresses table
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS addresses (
             address_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            company_id INTEGER REFERENCES companies(company_id), -- Simplified foreign key syntax
+            company_id INTEGER REFERENCES companies(company_id),
             address_type VARCHAR(50) NOT NULL,
-            street1 VARCHAR(255), -- Consistent naming
-            street2 VARCHAR(255), -- Consistent naming
+            street1 VARCHAR(255),
+            street2 VARCHAR(255), 
             city VARCHAR(255),
             state VARCHAR(50),
             zip_code VARCHAR(50),
@@ -59,10 +61,13 @@ class Loader:
             former_name_id INTEGER PRIMARY KEY AUTOINCREMENT,
             company_id INTEGER REFERENCES companies(company_id),
             former_name VARCHAR(255) NOT NULL,
-            change_date DATE
+            from_date DATE,
+            from_time TIME,
+            to_date DATE,   
+            to_time TIME
         )
         """)
-
+##############################################################################################################################################################################################################################################################################################################################################################################
         # Filings table
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS filings (
@@ -72,27 +77,28 @@ class Loader:
             filing_type VARCHAR(50) NOT NULL,
             filing_date DATE NOT NULL,
             file_name VARCHAR(255) NOT NULL,
-            document_count INTEGER NOT NULL -- Removed trailing comma
+            document_count INTEGER NOT NULL,
+            item_information TEXT NOT NULL
         )
         """)
 
         # Documents table
-        self.cursor.execute("""
-        CREATE TABLE IF NOT EXISTS documents (
-            document_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            filing_id INTEGER REFERENCES filings(filing_id),
-            document_sequence INTEGER NOT NULL,
-            document_filename VARCHAR(255) NOT NULL,
-            document_description TEXT,
-            page_count INTEGER -- Removed trailing comma
-        )
-        """)
+        # self.cursor.execute("""
+        # CREATE TABLE IF NOT EXISTS documents (
+        #     document_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        #     filing_id INTEGER REFERENCES filings(filing_id),
+        #     document_sequence INTEGER NOT NULL,
+        #     document_filename VARCHAR(255) NOT NULL,
+        #     document_description TEXT,
+        #     page_count INTEGER -- Removed trailing comma
+        # )
+        # """)
 
         # Pages table
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS pages (
             page_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            document_id INTEGER REFERENCES documents(document_id),
+            filing_id INTEGER REFERENCES filings(filing_id),
             page_number INTEGER NOT NULL,
             page_content TEXT
         )
@@ -102,7 +108,7 @@ class Loader:
         self.cursor.execute("""
         CREATE TABLE IF NOT EXISTS headers (
             header_id INTEGER PRIMARY KEY AUTOINCREMENT,
-            filing_id INTEGER REFERENCES filings(filing_id), -- Correct reference
+            filing_id INTEGER REFERENCES filings(filing_id), 
             sec_header TEXT
         )
         """)
@@ -118,71 +124,83 @@ class Loader:
             with self.conn:
                 self.cursor.executemany("""
                     INSERT INTO companies (
-                        cik, entity_type, company_name, ticker, industry, sic, 
-                        sic_description, owner_org, insider_transaction_for_owner_exists, 
-                        insider_transaction_for_issuer_exists, ein, description, website, 
-                        investor_website, category, fiscal_year_end, state_of_incorporation, 
-                        state_of_incorporation_description, phone
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        cik, entityType, sic, sicDescription, ownerOrg,
+                        insiderTransactionForOwnerExists, 
+                        insiderTransactionForIssuerExists, name, tickers, 
+                        exchanges, ein, description, website, 
+                        investorWebsite, category, fiscalYearEnd, stateOfIncorporation, 
+                        stateOfIncorporationDescription, phone, total_num_of_filings
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?) 
                 """, data)
             logging.info(f"Successfully inserted {len(data)} rows into companies.")
+            company_id = self.cursor.lastrowid
+            return True, None, company_id
         except sqlite3.Error as e:
             logging.error(f"Error inserting companies in bulk: {e}")
+            return False, e, None
 
     def insert_addresses(self, data):
         try:
             with self.conn:
                 self.cursor.executemany("""
-                    INSERT INTO addresses (
+                    INSERT OR IGNORE INTO addresses (
                         company_id, address_type, street1, street2, city, state, zip_code, country
                     ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                 """, data)
             logging.info(f"Successfully inserted {len(data)} rows into addresses.")
+            return True, None
+
         except sqlite3.Error as e:
             logging.error(f"Error inserting addresses: {e}")
+            return False, e
+        
 
     def insert_former_names(self, data):
         try:
             with self.conn:
                 self.cursor.executemany("""
-                    INSERT INTO former_names (
-                        company_id, former_name, change_date
-                    ) VALUES (?, ?, ?)
+                    INSERT OR IGNORE INTO former_names (
+                        company_id, former_name, from_date, from_time, to_date, to_time
+                    ) VALUES (?, ?, ?, ?, ?, ?)
                 """, data)
             logging.info(f"Successfully inserted {len(data)} rows into former names.")
+            return True, None
         except sqlite3.Error as e:
             logging.error(f"Error inserting former names: {e}")
+            return False, e
 
     def insert_filings(self, data):
         try:
             with self.conn:
                 self.cursor.executemany("""
                     INSERT INTO filings (
-                        company_id, accession_number, filing_type, filing_date, file_name, document_count
-                    ) VALUES (?, ?, ?, ?, ?, ?)
+                        company_id, accession_number, filing_type, filing_date, file_name, document_count, item_information
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?)
                 """, data)
-            logging.info(f"Successfully inserted {len(data)} rows into filings.")
+                logging.info(f"Successfully inserted {len(data)} rows into filings.")
+                filing_id = self.cursor.lastrowid
+                return filing_id
         except sqlite3.Error as e:
             logging.error(f"Error inserting filings: {e}")
-
-    def insert_documents(self, data):
-        try:
-            with self.conn:
-                self.cursor.executemany("""
-                    INSERT INTO documents (
-                        filing_id, document_sequence, document_filename, document_description, page_count
-                    ) VALUES (?, ?, ?, ?, ?)
-                """, data)
-            logging.info(f"Successfully inserted {len(data)} rows into documents.")
-        except sqlite3.Error as e:
-            logging.error(f"Error inserting documents: {e}")
+            return None
+    # def insert_documents(self, data):
+    #     try:
+    #         with self.conn:
+    #             self.cursor.executemany("""
+    #                 INSERT INTO documents (
+    #                     filing_id, document_sequence, document_filename, document_description, page_count
+    #                 ) VALUES (?, ?, ?, ?, ?)
+    #             """, data)
+    #         logging.info(f"Successfully inserted {len(data)} rows into documents.")
+    #     except sqlite3.Error as e:
+    #         logging.error(f"Error inserting documents: {e}")
 
     def insert_pages(self, data):
         try:
             with self.conn:
                 self.cursor.executemany("""
                     INSERT INTO pages (
-                        document_id, page_number, page_content
+                        filing_id, page_number, page_content
                     ) VALUES (?, ?, ?)
                 """, data)
             logging.info(f"Successfully inserted {len(data)} rows into pages.")

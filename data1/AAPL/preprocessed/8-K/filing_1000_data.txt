@@ -1,0 +1,327 @@
+0001193125-14-154871.hdr.sgml : 20140423
+20140423163138
+ACCESSION NUMBER:		0001193125-14-154871
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20140423
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20140423
+DATE AS OF CHANGE:		20140423
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		14779088
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+
+PAGE NUMBER: 1
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+April 23, 2014
+Date of Report (date of earliest event reported)
+APPLE INC.
+(Exact name of Registrant as specified in its charter)
+
+
+				
+California		000-10030		94-2404110
+(State or other jurisdictionof incorporation)		(CommissionFile Number)		(I.R.S. EmployerIdentification Number)
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨		Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨		Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨		Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨		Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+PAGE NUMBER: 2
+
+
+
+Item 2.02	Results of Operations and Financial Condition.
+On April 23, 2014, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its second fiscal quarter ended March 29, 2014 and a related data sheet. A copy of Apple’s press release is attached hereto as Exhibit 99.1 and a copy of the related data sheet is attached hereto as Exhibit 99.2.
+The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01	Financial Statements and Exhibits.
+(d)	Exhibits.
+		
+ExhibitNumber		Description
+	
+99.1		Text of press release issued by Apple Inc. on April 23, 2014.
+	
+99.2		Data sheet issued by Apple Inc. on April 23, 2014.
+
+PAGE NUMBER: 3
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+						
+				APPLE INC.
+			
+Date: April 23, 2014				By:		/s/ Peter Oppenheimer
+						Peter OppenheimerSenior Vice President,Chief Financial Officer
+
+PAGE NUMBER: 4
+
+EXHIBIT INDEX
+
+
+		
+ExhibitNumber		Description
+	
+99.1		Text of press release issued by Apple Inc. on April 23, 2014.
+	
+99.2		Data sheet issued by Apple Inc. on April 23, 2014.
+
+PAGE NUMBER: 1
+
+EX-99.1
+Exhibit 99.1
+Apple Reports Second Quarter Results
+Strong iPhone Sales Drive Record March Quarter Revenue and 15 Percent EPS Growth
+CUPERTINO, California—April 23, 2014—Apple
+®
+today announced financial results for its fiscal 2014 second quarter ended March 29, 2014. The Company posted quarterly revenue of $45.6 billion and quarterly net profit of $10.2 billion, or $11.62 per diluted share. These results compare to revenue of $43.6 billion and net profit of $9.5 billion, or $10.09 per diluted share, in the year-ago quarter. Gross margin was 39.3 percent compared to 37.5 percent in the year-ago quarter. International sales accounted for 66 percent of the quarter’s revenue.
+“We’re very proud of our quarterly results, especially our strong iPhone sales and record revenue from services,” said Tim Cook, Apple’s CEO. “We’re eagerly looking forward to introducing more new products and services that only Apple could bring to market.”
+“We generated $13.5 billion in cash flow from operations and returned almost $21 billion in cash to shareholders through dividends and share repurchases during the March quarter,” said Peter Oppenheimer, Apple’s CFO. “That brings cumulative payments under our capital return program to $66 billion.”
+Apple is providing the following guidance for its fiscal 2014 third quarter:
+
+
+•		revenue between $36 billion and $38 billion
+•		gross margin between 37 percent and 38 percent
+•		operating expenses between $4.4 billion and $4.5 billion
+•		other income/(expense) of $200 million
+•		tax rate of 26.1 percent
+Apple will provide live streaming of its Q2 2014 financial results conference call beginning at 2:00 p.m. PDT on April 23, 2014 at www.apple.com/quicktime/qtv/earningsq214. This webcast will also be available for replay for approximately two weeks thereafter.
+
+PAGE NUMBER: 2
+
+This press release contains forward-looking statements including without limitation those about the Company’s estimated revenue, gross margin, operating expenses, other income/(expense), and tax rate. These statements involve risks and uncertainties, and actual results may differ. Risks and uncertainties include without limitation the effect of competitive and economic factors, and the Company’s reaction to those factors, on consumer and business buying decisions with respect to the Company’s products; continued competitive pressures in the marketplace; the ability of the Company to deliver to the marketplace and stimulate customer demand for new programs, products, and technological innovations on a timely basis; the effect that product introductions and transitions, changes in product pricing or mix, and/or increases in component costs could have on the Company’s gross margin; the inventory risk associated with the Company’s need to order or commit to order product components in advance of customer orders; the continued availability on acceptable terms, or at all, of certain components and services essential to the Company’s business currently obtained by the Company from sole or limited sources; the effect that the Company’s dependency on manufacturing and logistics services provided by third parties may have on the quality, quantity or cost of products manufactured or services rendered; risks associated with the Company’s international operations; the Company’s reliance on third-party intellectual property and digital content; the potential impact of a finding that the Company has infringed on the intellectual property rights of others; the Company’s dependency on the performance of distributors, carriers and other resellers of the Company’s products; the effect that product and service quality problems could have on the Company’s sales and operating profits; the continued service and availability of key executives and employees; war, terrorism, public health issues, natural disasters, and other circumstances that could disrupt supply, delivery, or demand of products; and unfavorable results of other legal proceedings. More information on potential factors that could affect the Company’s financial results is included from time to time in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s public reports filed with the SEC, including the Company’s Form 10-K for the fiscal year ended September 28, 2013, its Form 10-Q for the quarter ended December 28, 2013, and its Form 10-Q for the quarter ended March 29, 2014 to be filed with the SEC. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
+Apple designs Macs, the best personal computers in the world, along with OS X, iLife, iWork and professional software. Apple leads the digital music revolution with its iPods and iTunes online store. Apple has reinvented the mobile phone with its revolutionary iPhone and App Store, and is defining the future of mobile media and computing devices with iPad.
+Press Contact:
+Steve Dowling
+Apple
+dowling@apple.com
+(408) 974-1896
+Investor Relations Contacts:
+Nancy Paxton
+paxton1@apple.com
+(408) 974-5420
+Joan Hoover
+hoover1@apple.com
+(408) 974-4570
+NOTE TO EDITORS: For additional information visit Apple’s PR website (www.apple.com/pr), or call Apple’s Media Helpline at (408) 974-2042.
+©
+2014 Apple Inc. All rights reserved. Apple, the Apple logo, Mac, Mac OS and Macintosh are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
+
+PAGE NUMBER: 3
+
+Apple Inc.
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+
+
+																
+		Three Months Ended			Six Months Ended	
+		March 29,2014			March 30,2013			March 29,2014			March 30,2013	
+Net sales		$	45,646			$	43,603			$	103,240			$	98,115	
+Cost of sales (1)			27,699				27,254				63,447				60,706	
+																
+Gross margin			17,947				16,349				39,793				37,409	
+																
+				
+Operating expenses:																
+Research and development (1)			1,422				1,119				2,752				2,129	
+Selling, general and administrative (1)			2,932				2,672				5,985				5,512	
+																
+Total operating expenses			4,354				3,791				8,737				7,641	
+																
+				
+Operating income			13,593				12,558				31,056				29,768	
+Other income/(expense), net			225				347				471				809	
+																
+Income before provision for income taxes			13,818				12,905				31,527				30,577	
+				
+Provision for income taxes			3,595				3,358				8,232				7,952	
+																
+Net income		$	10,223			$	9,547			$	23,295			$	22,625	
+																
+				
+Earnings per share:																
+Basic		$	11.69			$	10.16			$	26.31			$	24.09	
+Diluted		$	11.62			$	10.09			$	26.16			$	23.90	
+				
+Shares used in computing earnings per share:																
+Basic			874,757				939,629				885,415				939,273	
+Diluted			879,528				946,035				890,490				946,626	
+				
+Cash dividends declared per common share		$	3.05			$	2.65			$	6.10			$	5.30	
+		
+(1) Includes share-based compensation expense as follows:									
+Cost of sales		$	110			$	87			$	219			$	172	
+Research and development		$	300			$	239			$	589			$	463	
+Selling, general and administrative		$	286			$	249			$	569			$	485	
+
+PAGE NUMBER: 4
+
+Apple Inc.
+UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions, except number of shares which are reflected in thousands)
+
+
+								
+		March 29,2014			September 28,2013	
+
+ASSETS:	
+		
+Current assets:								
+Cash and cash equivalents		$	18,949			$	14,259	
+Short-termmarketable securities			22,401				26,287	
+Accounts receivable, less allowances of $88 and $99, respectively			9,700				13,102	
+Inventories			1,829				1,764	
+Deferred tax assets			4,014				3,453	
+Vendor non-trade receivables			6,120				7,539	
+Other current assets			7,528				6,882	
+								
+Total current assets			70,541				73,286	
+		
+Long-termmarketable securities			109,239				106,215	
+Property, plant and equipment, net			15,120				16,597	
+Goodwill			2,055				1,577	
+Acquired intangible assets, net			3,928				4,179	
+Other assets			5,106				5,146	
+								
+Total assets		$	205,989			$	207,000	
+								
+
+LIABILITIES AND SHAREHOLDERS’ EQUITY:	
+		
+Current liabilities:								
+Accounts payable		$	18,914			$	22,367	
+Accrued expenses			15,984				13,856	
+Deferred revenue			8,310				7,435	
+								
+Total current liabilities			43,208				43,658	
+		
+Deferred revenue – non-current			3,164				2,625	
+Long-term debt			16,962				16,960	
+Other non-current liabilities			22,476				20,208	
+								
+Total liabilities			85,810				83,451	
+								
+		
+Commitments and contingencies								
+		
+Shareholders’ equity:								
+Common stock and additional paid-in capital, $0.00001 par value: 1,800,000 shares authorized; 861,745 and 899,213 shares issued and outstanding, respectively			21,496				19,764	
+Retained earnings			98,934				104,256	
+Accumulated other comprehensive income/(loss)			(251	)			(471	)
+								
+Total shareholders’ equity			120,179				123,549	
+								
+		
+Total liabilities and shareholders’ equity		$	205,989			$	207,000	
+								
+
+PAGE NUMBER: 5
+
+Apple Inc.
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+
+
+								
+		Six Months Ended	
+		March 29,2014			March 30,2013	
+Cash and cash equivalents, beginning of the period		$	14,259			$	10,746	
+								
+		
+Operating activities:								
+Net income			23,295				22,625	
+Adjustments to reconcile net income to cash generated by operating activities:								
+Depreciation and amortization			4,031				3,280	
+Share-based compensation expense			1,377				1,120	
+Deferred income tax expense			2,059				1,957	
+Changes in operating assets and liabilities:								
+Accounts receivable, net			3,401				3,846	
+Inventories			(65	)			(454	)
+Vendor non-trade receivables			1,419				1,510	
+Other current and non-current assets			14				1,269	
+Accounts payable			(2,375	)			(4,422	)
+Deferred revenue			1,414				1,541	
+Other current and non-current liabilities			1,638				3,658	
+								
+Cash generated by operating activities			36,208				35,930	
+								
+		
+Investing activities:								
+Purchases of marketable securities			(90,360	)			(81,163	)
+Proceeds from maturities of marketable securities			10,869				9,243	
+Proceeds from sales of marketable securities			80,241				49,188	
+Payments made in connection with business acquisitions, net			(559	)			(299	)
+Payments for acquisition of property, plant and equipment			(3,367	)			(4,325	)
+Payments for acquisition of intangible assets			(163	)			(429	)
+Other			(23	)			(93	)
+								
+Cash used in investing activities			(3,362	)			(27,878	)
+								
+		
+Financing activities:								
+Proceeds from issuance of common stock			341				275	
+Excess tax benefits from equity awards			363				502	
+Taxes paid related to net share settlement of equity awards			(430	)			(588	)
+Dividends and dividend equivalents paid			(5,430	)			(4,984	)
+Repurchase of common stock			(23,000	)			(1,950	)
+								
+Cash used in financing activities			(28,156	)			(6,745	)
+								
+		
+Increase in cash and cash equivalents			4,690				1,307	
+								
+Cash and cash equivalents, end of the period		$	18,949			$	12,053	
+								
+		
+Supplemental cash flow disclosure:								
+Cash paid for income taxes, net		$	5,369			$	4,258	
+Cash paid for interest		$	161			$	0	
