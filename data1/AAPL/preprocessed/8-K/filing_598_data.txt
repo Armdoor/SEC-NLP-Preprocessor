@@ -42,10 +42,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Document
 
 
@@ -91,7 +88,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -119,7 +115,6 @@ ExhibitNumber		Exhibit Description
 	
 99.2		Data sheet issued by Apple Inc. on August 1, 2017.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -132,7 +127,6 @@ Date:	August 1, 2017		Apple Inc.
 			By:		/s/ Luca Maestri
 					Luca MaestriSenior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 4
 
 Exhibit Index
 
@@ -145,10 +139,7 @@ ExhibitNumber		Exhibit Description
 	
 99.2		Data sheet issued by Apple Inc. on August 1, 2017.
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Exhibit
 Exhibit 99.1
 Apple Reports Third Quarter Results
@@ -175,7 +166,6 @@ Apple is providing the following guidance for its fiscal 2017 fourth quarter:
 Apple’s board of directors has declared a cash dividend of $0.63 per share of the Company’s common stock. The dividend is payable on August 17, 2017 to shareholders of record as of the close of business on August 14, 2017.
 Apple will provide live streaming of its Q3 2017 financial results conference call beginning at 2:00 p.m. PDT on August 1, 2017 at www.apple.com/investor/earnings-call/. This webcast will also be available for replay for approximately two weeks thereafter.
 
-PAGE NUMBER: 2
 
 This press release contains forward-looking statements including without limitation those about the Company’s estimated revenue, gross margin, operating expenses, other income/(expense), tax rate, and plans for return of capital. These statements involve risks and uncertainties, and actual results may differ. Risks and uncertainties include without limitation the effect of competitive and economic factors, and the Company’s reaction to those factors, on consumer and business buying decisions with respect to the Company’s products; continued competitive pressures in the marketplace; the ability of the Company to deliver to the marketplace and stimulate customer demand for new programs, products, and technological innovations on a timely basis; the effect that product introductions and transitions, changes in product pricing or mix, and/or increases in component costs could have on the Company’s gross margin; the inventory risk associated with the Company’s need to order or commit to order product components in advance of customer orders; the continued availability on acceptable terms, or at all, of certain components and services essential to the Company’s business currently obtained by the Company from sole or limited sources; the effect that the Company’s dependency on manufacturing and logistics services provided by third parties may have on the quality, quantity or cost of products manufactured or services rendered; risks associated with the Company’s international operations; the Company’s reliance on third-party intellectual property and digital content; the potential impact of a finding that the Company has infringed on the intellectual property rights of others; the Company’s dependency on the performance of distributors, carriers and other resellers of the Company’s products; the effect that product and service quality problems could have on the Company’s sales and operating profits; the continued service and availability of key executives and employees; war, terrorism, public health issues, natural disasters, and other circumstances that could disrupt supply, delivery, or demand of products; and unfavorable results of legal proceedings. More information on potential factors that could affect the Company’s financial results is included from time to time in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s public reports filed with the SEC, including the Company’s Form 10-K for the fiscal year ended September 24, 2016, its Form 10-Q for the fiscal quarter ended December 31, 2016, its Form 10-Q for the fiscal quarter ended April 1, 2017, and its Form 10-Q for the quarter ended July 1, 2017 to be filed with the SEC. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch and Apple TV. Apple’s four software platforms — iOS, macOS, watchOS and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay and iCloud. Apple’s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.
@@ -194,7 +184,6 @@ hoover1@apple.com
 NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or call Apple’s Media Helpline at (408) 974-2042.
 © 2017 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
 
-PAGE NUMBER: 3
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
@@ -235,7 +224,6 @@ Cost of sales	$	216			$	188			$	662			$	583
 Research and development	$	566			$	479			$	1,730			$	1,413	
 Selling, general and administrative	$	411			$	387			$	1,274			$	1,184	
 
-PAGE NUMBER: 4
 
 Apple Inc.
 CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
@@ -285,7 +273,6 @@ Accumulated other comprehensive income/(loss)	(545	)		634
 Total shareholders’ equity	132,425			128,249	
 Total liabilities and shareholders’ equity	$	345,173			$	321,686	
 
-PAGE NUMBER: 5
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)

@@ -1,0 +1,171 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "($ in thousands)",
+    "December 31, 2023",
+    "December 31, 2022"
+  ],
+  [
+    "Short-term funding",
+    "",
+    ""
+  ],
+  [
+    "Federal funds purchased",
+    "$",
+    "220,160",
+    "",
+    "$",
+    "344,170",
+    ""
+  ],
+  [
+    "Securities sold under agreements to repurchase",
+    "106,620",
+    "",
+    "240,969",
+    ""
+  ],
+  [
+    "Federal funds purchased and securities sold under agreements to repurchase",
+    "326,780",
+    "",
+    "585,139",
+    ""
+  ],
+  [
+    "Commercial paper",
+    "\u2014",
+    "",
+    "20,798",
+    ""
+  ],
+  [
+    "Total short-term funding",
+    "$",
+    "326,780",
+    "",
+    "$",
+    "605,937",
+    ""
+  ],
+  [
+    "Long-term funding",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    ""
+  ],
+  [
+    "Corporation subordinated notes, at par",
+    "$",
+    "550,000",
+    "",
+    "$",
+    "250,000",
+    ""
+  ],
+  [
+    "Discount and capitalized costs",
+    "(7,748)",
+    "",
+    "(544)",
+    ""
+  ],
+  [
+    "Subordinated debt fair value hedge(a)",
+    "(1,366)",
+    "",
+    "(1,855)",
+    ""
+  ],
+  [
+    "Finance leases",
+    "383",
+    "",
+    "469",
+    ""
+  ],
+  [
+    "",
+    "",
+    ""
+  ],
+  [
+    "Total long-term funding",
+    "$",
+    "541,269",
+    "",
+    "$",
+    "248,071",
+    ""
+  ],
+  [
+    "Total short and long-term funding, excluding FHLB advances",
+    "$",
+    "868,049",
+    "",
+    "$",
+    "854,007",
+    ""
+  ],
+  [
+    "FHLB advances",
+    "",
+    ""
+  ],
+  [
+    "Short-term FHLB advances",
+    "$",
+    "740,000",
+    "",
+    "$",
+    "3,125,000",
+    ""
+  ],
+  [
+    "Long-term FHLB advances",
+    "1,209,907",
+    "",
+    "1,209,170",
+    ""
+  ],
+  [
+    "FHLB advances fair value hedge(a)",
+    "(9,713)",
+    "",
+    "(14,308)",
+    ""
+  ],
+  [
+    "Total FHLB advances",
+    "$",
+    "1,940,194",
+    "",
+    "$",
+    "4,319,861",
+    ""
+  ],
+  [
+    "Total short and long-term funding",
+    "$",
+    "2,808,243",
+    "",
+    "$",
+    "5,173,869",
+    ""
+  ]
+]

@@ -1,0 +1,68 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "December 31, 2023",
+    "Valuation Technique",
+    "Significant Unobservable Input",
+    "Range of Inputs",
+    "Weighted Average Input Applied"
+  ],
+  [
+    "Mortgage servicing rights",
+    "Discounted cash flow",
+    "Option adjusted spread",
+    "6%",
+    "-",
+    "8%",
+    "6%"
+  ],
+  [
+    "Mortgage servicing rights",
+    "Discounted cash flow",
+    "Constant prepayment rate",
+    "1%",
+    "-",
+    "100%",
+    "4%"
+  ],
+  [
+    "Individually evaluated loans",
+    "Appraisals / Discounted cash flow",
+    "Collateral / Discount factor",
+    "18%",
+    "-",
+    "53%",
+    "53%"
+  ],
+  [
+    "Interest rate lock commitments to originate residential mortgage loans held for sale",
+    "Discounted cash flow",
+    "Closing ratio",
+    "31%",
+    "-",
+    "100%",
+    "89%"
+  ]
+]

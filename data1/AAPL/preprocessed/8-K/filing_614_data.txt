@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -84,7 +83,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -123,7 +121,6 @@ ExhibitNumber		Exhibit Description
 	
 23.1		Consent of Hogan Lovells US LLP (included in the opinion filed as Exhibit 5.1)
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -135,7 +132,6 @@ Date: May 24, 2017				Apple Inc.
 				By:		/s/ Luca Maestri
 						Luca MaestriSenior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 4
 
 EXHIBIT INDEX
 
@@ -155,7 +151,6 @@ ExhibitNumber		Exhibit Description
 	
 23.1		Consent of Hogan Lovells US LLP (included in the opinion filed as Exhibit 5.1)
 
-PAGE NUMBER: 1
 
 EX-1.1
 Exhibit 1.1
@@ -185,7 +180,6 @@ Company
 Securities
 ”).
 
-PAGE NUMBER: 2
 
 1. The Company represents and warrants to, and agrees with, each of the Underwriters that:
 (a) An “automatic shelf registration statement” as defined under Rule 405 under the Securities Act of 1933, as amended (the “
@@ -226,7 +220,6 @@ Pricing Disclosure Package
 ”) as of the Applicable Time, did not include any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; and each Issuer Free Writing Prospectus listed on Schedule II(a) hereto does not conflict with the information contained in the Registration Statement, the Pricing Prospectus or the Prospectus and each such Issuer Free Writing Prospectus, as supplemented by and taken together with the Pricing Disclosure Package as of the Applicable Time, did not include any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that this representation and warranty shall not apply to statements or omissions made in an Issuer Free Writing Prospectus in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through Goldman Sachs & Co. LLC, Barclays Bank PLC or Deutsche Bank AG, London Branch expressly for use therein;
 2
 
-PAGE NUMBER: 3
 
 (d) The documents incorporated by reference in the Pricing Prospectus and the Prospectus (including, without limitation, the interactive data in eXtensible Business Reporting Language included or incorporated by reference therein), when they became effective or were filed with the Commission, as the case may be, conformed in all material respects to the requirements of the Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder, and none of such documents contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading; any further documents so filed and incorporated by reference in the Prospectus or any further amendment or supplement thereto (including, without limitation, the interactive data in eXtensible Business Reporting Language included or incorporated by reference therein), when such documents become effective or are filed with the Commission, as the case may be, will conform in all material respects to the requirements of the Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading; provided, however, that this representation and warranty shall not apply to any statements or omissions made in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through Goldman Sachs & Co. LLC, Barclays Bank PLC or Deutsche Bank AG, London Branch expressly for use therein; and no such documents were filed with the Commission since the Commission’s close of business on the U.S. business day immediately prior to the date of this Agreement and prior to the execution of this Agreement, except as set forth on Schedule II(b) hereto;
 (e) The Registration Statement conforms, and the Prospectus and any further amendments or supplements to the Registration Statement and the Prospectus will conform, in all material respects to the requirements of the Act and the Trust Indenture Act and the rules and regulations of the Commission thereunder and do not and will not, as of the applicable effective date as to each part of the Registration Statement and as of the applicable filing date as to the Prospectus and any amendment or supplement thereto, contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading; provided, however, that this representation and warranty shall not apply to any (i) statements or omissions made in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through Goldman Sachs & Co. LLC, Barclays Bank PLC or Deutsche Bank AG, London Branch expressly for use therein or (ii) statements in or omissions from the part of the Registration Statement that constitutes the Statement of Eligibility and Qualification on
@@ -234,7 +227,6 @@ Form T-1
 of the Trustee under the Trust Indenture Act;
 3
 
-PAGE NUMBER: 4
 
 (f) The Company and its subsidiaries, taken as a whole, (i) have not sustained since the date of the latest audited financial statements included or incorporated by reference in the Pricing Prospectus any material loss or interference with their business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, otherwise than as set forth or contemplated in the Pricing Prospectus; and, (ii) since the respective dates as of which information is given in the Registration Statement and the Pricing Prospectus, there has not been any material adverse change in the capital stock or long term debt of the Company and its subsidiaries, taken as a whole, or any Material Adverse Effect, in each case otherwise than as set forth or contemplated in the Pricing Prospectus. For purposes of this Agreement, “Material Adverse Effect” means any material adverse change in or affecting the business of the Company and its subsidiaries, taken as a whole;
 (g) The Company has been (i) duly incorporated and is validly existing as a corporation in good standing under the laws of the State of California, with corporate power and authority to own its properties and conduct its business as described in the Pricing Prospectus and, (ii) except to the extent that the failure to be so qualified or be in good standing in such jurisdictions would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect, has been duly qualified as a foreign corporation for the transaction of business and is in good standing under the laws of each other jurisdiction in which it owns or leases properties or conducts any business so as to require such qualification;
@@ -244,7 +236,6 @@ Subsidiaries
 (i) Each Subsidiary has been duly incorporated and is validly existing and in good standing under the laws of its jurisdiction of organization, with power and authority (corporate and other) to own its properties and conduct its business as described in the Pricing Prospectus, and has been duly qualified to transact business and is in good standing under the laws of each other jurisdiction in which it owns or leases properties or conducts any business so as to require such qualification, except to the extent that the failure to have such power, be so qualified or be in good standing would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect;
 4
 
-PAGE NUMBER: 5
 
 (j) The Securities have been duly authorized and, when issued and delivered pursuant to this Agreement, will have been duly executed, authenticated, issued and delivered and will constitute valid and legally binding obligations of the Company entitled to the benefits provided by the indenture dated as of April 29, 2013 (the “
 Base Indenture
@@ -262,7 +253,6 @@ Governmental Authorizations
 ”) is required for the issue and sale of the Securities or the consummation by the Company of the transactions contemplated by this Agreement or the Indenture, except such as have been obtained under the Act and the Trust Indenture Act and such Governmental Authorizations as may be required under state securities or Blue Sky laws in connection with the purchase and distribution of the Securities by the Underwriters, and except, with respect to (i), (iii) and (iv), as would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect;
 5
 
-PAGE NUMBER: 6
 
 (l) There are no legal or governmental proceedings pending or, to the Company’s knowledge, threatened to which the Company or any of its Subsidiaries is a party or to which any of the properties of the Company or any of its Subsidiaries is subject that are required to be described in the Registration Statement or the Pricing Disclosure Package and are not so described or any statutes, regulations, contracts or other documents that are required to be described in the Registration Statement or the Pricing Disclosure Package or to be filed as exhibits to the Registration Statement that are not described or filed as required;
 (m) The Company is not and, after giving effect to the offering and sale of the Securities and the application of the proceeds thereof, will not be an “investment company”, as such term is defined in the Investment Company Act of 1940, as amended (the “
@@ -273,7 +263,6 @@ Investment Company Act
 (p) This Agreement has been duly authorized, executed and delivered by the Company.
 6
 
-PAGE NUMBER: 7
 
 2. Subject to the terms and conditions herein set forth, the Company agrees to issue and sell to each of the Underwriters, and each of the Underwriters agrees, severally and not jointly, to purchase from the Company the respective principal amount of Securities set forth opposite the name of such Underwriter in Schedule I hereto at a purchase price of 99.646% of the principal amount of the 2025 Notes and 99.151% of the principal amount of the 2029 Notes, plus, in each case, accrued interest, if any,
 from May 24, 2017 to the Time of Delivery (as defined below) hereunder.
@@ -293,7 +282,6 @@ Business Day
 ” shall mean each Monday, Tuesday, Wednesday, Thursday and Friday which is not a day on which banking institutions in London, England are generally authorized or obligated by law or executive order to close.
 7
 
-PAGE NUMBER: 8
 
 5. The Company
 agrees with each of the Underwriters:
@@ -302,7 +290,6 @@ agrees with each of the Underwriters:
 (c) Promptly from time to time to take such action as you may reasonably request to qualify the Securities for offering and sale under the securities laws of such jurisdictions as you may request and to comply with such laws so as to permit the continuance of sales and dealings therein in such jurisdictions for as long as may be necessary to complete the distribution of the Securities, provided that in connection therewith the Company shall not be required to qualify as a foreign corporation, to file a general consent to service of process in any jurisdiction or to subject itself to taxation in any jurisdiction in which it is not so subject;
 8
 
-PAGE NUMBER: 9
 
 (d) On the Business Day next succeeding the date of this Agreement, to furnish the Underwriters with electronic copies of the Prospectus and, from time to time during any period when the Prospectus is required to be delivered in connection with the offering and sale of the Securities, to furnish the Underwriters with written copies of the Prospectus in New York City and London in such quantities as you may reasonably request, if any, (excluding any documents incorporated by reference therein to the extent available through the Commission’s EDGAR system), and, if the delivery of a prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Act) is required at any time after the time of issue of the Prospectus in connection with the offering or sale of the Securities and if at such time any event shall have occurred as a result of which the Prospectus as then amended or supplemented would include an untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made when such Prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Act) is delivered, not misleading, or, if for any other reason it shall be necessary during such same period to amend or supplement the Prospectus or to file under the Exchange Act any document incorporated by reference in the Prospectus in order to comply with the Act, the Exchange Act or the Trust Indenture Act, to notify you and upon your request to file such document and to prepare and furnish without charge to each Underwriter and to any dealer in securities as many written and electronic copies as you may from time to time reasonably request of an amended Prospectus or a supplement to the Prospectus which will correct such statement or omission or effect such compliance;
 (e) To make generally available to its securityholders as soon as practicable, but in any event not later than sixteen months after the effective date of the Registration Statement (as defined in Rule 158(c) under the Act), an earnings statement of the Company and its subsidiaries (which need not be audited) complying with Section 11(a) of the Act and the rules and regulations of the Commission thereunder (including, at the option of the Company, Rule 158);
@@ -315,7 +302,6 @@ NYSE
 (a) (i) The Company represents and agrees that, other than the final term sheet prepared and filed pursuant to Section 5(a) hereof, without the prior consent of Goldman Sachs & Co. LLC, Barclays Bank PLC and Deutsche Bank AG, London Branch, it has not made and will not make any offer relating to the Securities that would constitute a “free writing prospectus” as defined in Rule 405 under the Act;
 9
 
-PAGE NUMBER: 10
 
 (ii) each Underwriter represents and agrees that, without the prior consent of the Company, Goldman Sachs & Co. LLC, Barclays Bank PLC and Deutsche Bank AG, London Branch, other than one or more term sheets relating to the Securities containing customary information and conveyed to purchasers of Securities, it has not made and will not make any offer relating to the Securities that would constitute a free writing prospectus; and
 (iii) any such free writing prospectus the use of which has been consented to by the Company, Goldman Sachs & Co. LLC, Barclays Bank PLC and Deutsche Bank AG, London Branch (other than the final term sheet prepared and filed pursuant to Section 5(a) hereof) is listed on Schedule II(a) hereto;
@@ -326,7 +312,6 @@ Paying Agent
 ”) and any agent of the Trustee or the Paying Agent and the fees and disbursements of counsel for the Trustee and the Paying Agent in connection with the Indenture and the Securities; (v) all expenses and application fees in connection with the listing of the Securities on the NYSE; and (vi) all other costs and expenses incident to the performance of its obligations hereunder which are not otherwise specifically provided for in this Section. It is understood, however, that, except as provided in this Section, and Sections 9 and 12 hereof, the Underwriters will pay all of their own costs and expenses, including the fees of their counsel, transfer taxes on resale of any of the Securities by them, and any advertising expenses connected with any offers they may make.
 10
 
-PAGE NUMBER: 11
 
 8. The obligations of the Underwriters hereunder shall be subject, in their discretion, to the condition that all representations and warranties and other statements of the Company herein are, at and as of the Time of Delivery, true and correct, the condition that the Company shall have performed all of its obligations hereunder theretofore to be performed, and the following additional conditions:
 (a) The Prospectus shall have been filed with the Commission pursuant to Rule 424(b) under the Act within the applicable time period prescribed for such filing by the rules and regulations under the Act and in accordance with Section 5(a) hereof; the final term sheet contemplated by Section 5(a) hereof, and any other material required to be filed by the Company pursuant to Rule 433(d) under the Act, shall have been filed with the Commission within the applicable time periods prescribed for such filings by Rule 433; no stop order suspending the effectiveness of the Registration Statement or any part thereof shall have been issued and no proceeding for that purpose shall have been initiated or threatened by the Commission and no notice of objection of the Commission to the use of the Registration Statement or any post-effective amendment thereto pursuant to Rule 401(g)(2) under the Act shall have been received; no stop order suspending or preventing the use of the Prospectus or any Issuer Free Writing Prospectus shall have been initiated or threatened by the Commission; and all requests for additional information on the part of the Commission shall have been complied with to your reasonable satisfaction;
@@ -337,7 +322,6 @@ Time of Delivery, in form and substance satisfactory to you, with respect to the
 shall have furnished to you a letter or letters, dated the respective dates of delivery thereof, in form and substance satisfactory to you, containing statements and information of the type customarily included in accountants’ “comfort letters” to underwriters with respect to the financial statements and certain financial information contained or incorporated by reference in the Pricing Disclosure Package and the Prospectus;
 11
 
-PAGE NUMBER: 12
 
 (e) (i) The Company and its subsidiaries, taken as a whole, shall not have sustained since the date of the latest audited financial statements included or incorporated by reference in the Pricing Prospectus any loss or interference with their business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, otherwise than as set forth or contemplated in the Pricing Prospectus, and (ii) since the respective dates as of which information is given in the Pricing Prospectus there shall not have been any material adverse change in the capital stock or long term debt of the Company and its subsidiaries, taken as a whole, or any Material Adverse Effect, in each case otherwise than as set forth or contemplated in the Pricing Prospectus, the effect of which, in any such case described in clause (i) or (ii), is in your reasonable judgment so material and adverse as to make it impracticable or inadvisable to proceed with the public offering or the delivery of the Securities on the terms and in the manner contemplated in the Prospectus;
 (f) On or after the Applicable Time (i) no downgrading shall have occurred in the rating accorded the Company’s debt securities by any “nationally recognized statistical rating organization”, as that term is defined by the Commission for purposes of Rule 3(a)(62) under the Exchange Act, and (ii) no such organization shall have publicly announced that it has under surveillance or review, with possible negative implications, its rating of any of the Company’s debt securities;
@@ -347,7 +331,6 @@ PAGE NUMBER: 12
 Time of Delivery certificates of officers of the Company satisfactory to you as to the accuracy of the representations and warranties of the Company herein at and as of such time, as to the performance by the Company of all of its obligations hereunder to be performed at or prior to such time, as to the matters set forth in subsections (a) and (e) of this Section and as to such other matters as you may reasonably request.
 12
 
-PAGE NUMBER: 13
 
 9. (a) The Company will indemnify and hold harmless each Underwriter against any losses, claims, damages or liabilities, joint or several, to which such Underwriter may become subject, under the Act or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon (i) an untrue statement or alleged untrue statement of a material fact contained in the Registration Statement, or any amendment thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading or (ii) an untrue statement or alleged untrue statement of a material fact contained in the Basic Prospectus, any Preliminary Prospectus, the Pricing Prospectus or the Prospectus, or any amendment or supplement thereto, any Issuer Free Writing Prospectus or any “issuer information” filed or required to be filed pursuant to Rule 433(d) under the Act, or arise out of or are based upon the omission or alleged omission to state therein a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, and will reimburse each Underwriter for any legal or other expenses reasonably incurred by such Underwriter in connection with investigating or defending any such action or claim as such expenses are incurred; provided, however, that the Company shall not be liable in any such case to the extent that any such loss, claim, damage or liability arises out of or is based upon an untrue statement or alleged untrue statement or omission or alleged omission made in (I) the Registration Statement, the Basic Prospectus, any Preliminary Prospectus, the Pricing Prospectus or the Prospectus, or any amendment or supplement thereto, or any Issuer Free Writing Prospectus, in reliance upon and in conformity with written information furnished to the Company by any Underwriter through Goldman Sachs & Co. LLC, Barclays Bank PLC or Deutsche Bank AG, London Branch expressly for use therein or (II) that portion of the Registration Statement that constitutes the Statement of Eligibility and Qualification on
 Form T-1
@@ -355,13 +338,11 @@ of the Trustee under the Trust Indenture Act.
 (b) Each Underwriter, severally and not jointly, will indemnify and hold harmless the Company against any losses, claims, damages or liabilities to which the Company may become subject, under the Act or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon (i) an untrue statement or alleged untrue statement of a material fact contained in the Registration Statement, or any amendment thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading or (ii) an untrue statement or alleged untrue statement of a material fact contained in the Basic Prospectus, any Preliminary Prospectus, the Pricing Prospectus or the Prospectus, or any amendment or supplement thereto, or any Issuer Free Writing Prospectus, or arise out of or are based upon the omission or alleged omission to state therein a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, in each case to the extent, but only to the extent, that such untrue statement or alleged untrue statement or omission or alleged omission was made in the Registration Statement, the Basic Prospectus, any Preliminary Prospectus, the Pricing Prospectus or the Prospectus or any such amendment or supplement thereto, or any Issuer Free Writing Prospectus, in reliance upon and in conformity with written information furnished to the Company by such Underwriter through Goldman Sachs & Co. LLC, Barclays Bank PLC or Deutsche Bank AG, London Branch expressly for use therein; and will reimburse the Company for any legal or other expenses reasonably incurred by the Company in connection with investigating or defending any such action or claim as such expenses are incurred.
 13
 
-PAGE NUMBER: 14
 
 (c) Promptly after receipt by an indemnified party under subsection (a) or (b) above of notice of the commencement of any action, such indemnified party shall, if a claim in respect thereof is to be made against the indemnifying party under such subsection, notify the indemnifying party in writing of the commencement thereof; but the omission so to notify the indemnifying party shall not relieve it from any liability which it may have to any indemnified party otherwise than under such subsection. In case any such action shall be brought against any indemnified party and it shall notify the indemnifying party of the commencement thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it shall wish, jointly with any other indemnifying party similarly notified, to assume the defense thereof, with counsel satisfactory to such indemnified party (who shall not, except with the consent of the indemnified party, be counsel to the indemnifying party), and, after notice from the indemnifying party to such indemnified party of its election so to assume the defense thereof, the indemnifying party shall not be liable to such indemnified party under such subsection for any legal expenses of other counsel or any other expenses, in each case subsequently incurred by such indemnified party, in connection with the defense thereof other than reasonable costs of investigation. No indemnifying party shall, without the written consent of the indemnified party, effect the settlement or compromise of, or consent to the entry of any judgment with respect to, any pending or threatened action or claim in respect of which indemnification or contribution may be sought hereunder (whether or not the indemnified party is an actual or potential party to such action or claim) unless such settlement, compromise or judgment (i) includes an unconditional release of the indemnified party from all liability arising out of such action or claim and (ii) does not include a statement as to or an admission of fault, culpability or a failure to act, by or on behalf of any indemnified party.
 (d) If the indemnification provided for in this Section 9 is unavailable to or insufficient to hold harmless an indemnified party under subsection (a) or (b) above in respect of any losses, claims, damages or liabilities (or actions in respect thereof) referred to therein, then each indemnifying party shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages or liabilities (or actions in respect thereof) in such proportion as is appropriate to reflect the relative benefits received by the Company on the one hand and the Underwriters on the other from the offering of the Securities. If, however, the allocation provided by the immediately preceding sentence is not permitted by applicable law or if the indemnified party failed to give the notice required under subsection (c) above, then each indemnifying party shall contribute to such amount paid or payable by such indemnified party in such proportion as is appropriate to reflect not only such relative benefits but also the relative fault of the Company on the one hand and the Underwriters on the other in connection with the statements or omissions which resulted in such losses, claims, damages or liabilities (or actions in respect thereof), as well as any other relevant equitable considerations. The relative benefits received by the Company on the one hand and the Underwriters on the other shall be deemed to be in the same proportion as the total net proceeds from the offering (before deducting expenses) received by the Company bear to the total underwriting discounts and commissions received by the Underwriters, in each case as set forth in the table on the cover page of the Prospectus. The relative fault shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company on the one hand or the Underwriters on the other and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. The Company and the Underwriters agree that it would not be just and equitable if contribution pursuant to this subsection (d) were determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of allocation which does not take account of the equitable considerations referred to above in this subsection (d). The amount paid or payable by an indemnified party as a result of the losses, claims, damages or liabilities (or actions in respect thereof) referred to above in this subsection (d) shall be deemed to include any legal or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such action or claim. Notwithstanding the provisions of this subsection (d), no Underwriter shall be required to contribute any amount in excess of the amount by which the total price at which the Securities underwritten by it and distributed to the public were offered to the public exceeds the amount of any damages which such Underwriter has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. The Underwriters’ obligations in this subsection (d) to contribute are several in proportion to their respective underwriting obligations and not joint.
 14
 
-PAGE NUMBER: 15
 
 (e) The obligations of the Company under this Section 9 shall be in addition to any liability which the Company may otherwise have and shall extend, upon the same terms and conditions, to each person, if any, who controls any Underwriter within the meaning of the Act and each broker-dealer affiliate of any Underwriter; and the obligations of the Underwriters under this Section 9 shall be in addition to any liability which the respective Underwriters may otherwise have and shall extend, upon the same terms and conditions, to each officer and director of the Company
 and to each person, if any, who controls the Company within the meaning of the Act.
@@ -377,7 +358,6 @@ Underwriter to purchase the principal amount of Securities which such Underwrite
 Underwriter to purchase its pro rata share (based on the principal amount of Securities which such Underwriter agreed to purchase hereunder) of the Securities of such defaulting Underwriter or Underwriters for which such arrangements have not been made; but nothing herein shall relieve a defaulting Underwriter from liability for its default.
 15
 
-PAGE NUMBER: 16
 
 (c) If, after giving effect to any arrangements for the purchase of the Securities of a defaulting Underwriter or Underwriters by you and the Company as provided in subsection (a) above, the aggregate principal amount of Securities which remains unpurchased exceeds one tenth of the aggregate principal amount of all the Securities, or if the Company shall not exercise the right described in subsection (b) above to require
 non-defaulting
@@ -403,7 +383,6 @@ phone:
 and Deutsche Bank AG, London Branch, Winchester House, 1 Great Winchester Street, London EC2N 2DB, United Kingdom, Attention: Syndicate Desk, facsimile: +44 207 545 4455; and if to the Company shall be delivered or sent by electronic communication, mail, or facsimile transmission to the address of the Company set forth in the Registration Statement, Attention: Secretary; provided, however, that any notice to an Underwriter pursuant to Section 9(c) hereof shall be delivered or sent by electronic communication, mail, or facsimile transmission to such Underwriter at its address set forth in its Underwriters’ Questionnaire, or telex constituting such Questionnaire, which address will be supplied to the Company by you upon request. Any such statements, requests, notices or agreements shall take effect upon receipt thereof.
 16
 
-PAGE NUMBER: 17
 
 In accordance with the requirements of the USA Patriot Act (Title III of Pub.
 L. 107-56
@@ -430,7 +409,6 @@ Legislation
 Legislation Schedule from time to time;
 17
 
-PAGE NUMBER: 18
 
 (iii) “
 Bail-in
@@ -467,7 +445,6 @@ arm’s-length
 commercial transaction between the Company, on the one hand, and the several Underwriters, on the other, (ii) in connection therewith and with the process leading to such transaction each Underwriter is acting solely as a principal and not the agent or fiduciary of the Company, (iii) no Underwriter has assumed an advisory or fiduciary responsibility in favor of the Company with respect to the offering contemplated hereby or the process leading thereto (irrespective of whether such Underwriter has advised or is currently advising the Company on other matters) or any other obligation to the Company except the obligations expressly set forth in this Agreement and (iv) the Company has consulted its own legal and financial advisors to the extent it deemed appropriate. The Company agrees that it will not claim that the Underwriters, or any of them, has rendered advisory services of any nature or respect, or owes a fiduciary or similar duty to the Company, in connection with such transaction or the process leading thereto.
 18
 
-PAGE NUMBER: 19
 
 19. This Agreement supersedes all prior agreements and understandings (whether written or oral) between the Company and the Underwriters, or any of them, with respect to the subject matter hereof.
 20.
@@ -476,7 +453,6 @@ THIS AGREEMENT AND ANY MATTERS RELATED TO THIS TRANSACTION SHALL BE GOVERNED BY 
 22. This Agreement may be executed by any one or more of the parties hereto in any number of counterparts (which may include counterparts delivered by any standard form of telecommunications), each of which shall be deemed to be an original, but all such respective counterparts shall together constitute one and the same instrument.
 19
 
-PAGE NUMBER: 20
 
 If the foregoing is in accordance with your understanding, please sign and return to us counterparts hereof, and upon the acceptance hereof by you, on behalf of each of the Underwriters, this letter and such acceptance hereof shall constitute a binding agreement between each of the Underwriters and the Company. It is understood that your acceptance of this letter on behalf of each of the Underwriters is pursuant to the authority set forth in a form of Agreement among Underwriters, the form of which shall be submitted to the Company for examination upon request, but without warranty on your part as to the authority of the signers thereof.
 
@@ -491,7 +467,6 @@ By:		/s/ Gary Wipfler
 		Title:		Vice President and Corporate Treasurer
 [Signature page to Underwriting Agreement]
 
-PAGE NUMBER: 21
 
 Accepted as of the date hereof:
 GOLDMAN SACHS & CO. LLC
@@ -504,7 +479,6 @@ By:		/s/ Adam Greene
 		Title:		Vice President
 [Signature page to Underwriting Agreement]
 
-PAGE NUMBER: 22
 
 SCHEDULE I
 
@@ -523,14 +497,12 @@ Standard Chartered Bank		€	31,250,000			€	31,250,000
 Total		€	1,250,000,000			€	1,250,000,000	
 								
 
-PAGE NUMBER: 23
 
 SCHEDULE II
 (a) Issuer Free Writing Prospectuses not included in the Pricing Disclosure Package:
 None
 (b) Additional Documents Incorporated by Reference:
 
-PAGE NUMBER: 24
 
 Annex II(a)
 FORM OF OPINION OF HOGAN LOVELLS US LLP
@@ -545,7 +517,6 @@ FORM OF OPINION OF HOGAN LOVELLS US LLP
 (h) The information in the Pricing Disclosure Package taken as a whole and the Prospectus under the captions “Description of the Notes” and “Description of the Debt Securities,” to the extent that such information constitutes descriptions of the terms of the Notes or the Indenture, has been reviewed by us and is accurate in all material respects.
 (i) The information in the Pricing Disclosure Package taken as a whole and the Prospectus under the caption “Certain U.S. Federal Income Tax Considerations,” to the extent that such information constitutes matters of law or legal conclusions, has been reviewed by us and is correct in all material respects.
 
-PAGE NUMBER: 25
 
 (j) At the time the Registration Statement became effective and at the date hereof, the Registration Statement and the Prospectus (except for the financial statements and schedules included therein, as to which we express no opinion) comply as to form in all material respects with the requirements of the Trust Indenture Act and the Securities Act and the applicable rules and regulations thereunder.
 (k) The documents incorporated by reference in the Prospectus pursuant to Item 12 of Form
@@ -556,7 +527,6 @@ under the Securities Act (other than the financial statements and schedules and 
 (n) Based solely upon our review of the information regarding the Company provided through the EDGAR System on the Commission’s website, the Registration Statement became effective under the Securities Act. To our knowledge, based upon a review of the Stop Orders page of the Commission’s website (http://www.sec.gov/litigation/stoporders.shtml), no stop order suspending the effectiveness of the Registration Statement has been issued under the Securities Act and no proceedings for that purpose have been instituted or threatened by the Commission.
 (o) The Company is not, and immediately following the issuance and sale of the Notes and the application of the proceeds thereof as described in the Prospectus will not be, an “investment company” within the meaning of the 1940 Act.
 
-PAGE NUMBER: 26
 
 Annex II(b)
 FORM OF NEGATIVE ASSURANCE LETTER OF HOGAN LOVELLS US LLP
@@ -567,7 +537,6 @@ No facts have come to our attention that cause us to believe that:
 (iv) there are any legal or governmental proceedings pending or threatened against the Company that are required to be disclosed in the Registration Statement, the Pricing Disclosure Package, or the Prospectus, other than those disclosed therein; or
 (v) there are any contracts or documents of a character required to be described in the Registration Statement, the Pricing Disclosure Package, or the Prospectus or to be filed as exhibits to the Registration Statement that are not described or referred to therein or so filed.
 
-PAGE NUMBER: 1
 
 EX-4.1
 Exhibit 4.1
@@ -614,7 +583,6 @@ Interest Payment Date:		Annually on May 24, commencing on May 24, 2018
 	
 Optional Redemption:		Prior to February 24, 2025, the 2025 Notes will be redeemable, at any time in whole or from time to time in part, at Apple Inc.’s option, at a redemption price calculated by Apple Inc. equal to the greater of:(i) 100% of the principal amount of the 2025 Notes being redeemed; or
 
-PAGE NUMBER: 2
 
 
 
@@ -630,7 +598,6 @@ Sinking Fund:		None
 Denominations:		€100,000 and any integral multiple of€1,000 in excess thereof.
 2
 
-PAGE NUMBER: 3
 
 
 
@@ -640,7 +607,6 @@ Miscellaneous:		The terms of the 2025 Notes shall include such other terms as ar
 		Solely with respect to the 2025 Notes, the final sentence of Section 1304(1) of the Indenture shall be amended and restated as follows:“As used herein, “U.S. Government Obligation” means (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a Person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.”
 3
 
-PAGE NUMBER: 4
 
 
 
@@ -667,7 +633,6 @@ Interest Payment Date:		Annually on May 24, commencing on May 24, 2018
 Optional Redemption:		Prior to February 24, 2029, the 2029 Notes will be redeemable, at any time in whole or from time to time in part, at Apple Inc.’s option, at a redemption price calculated by Apple Inc. equal to the greater of:(i) 100% of the principal amount of the 2029 Notes being redeemed; or(ii) the sum of the present values of the remaining scheduled payments of principal and interest on the notes to be redeemed (assuming that such notes matured on February 24, 2029) exclusive of interest accrued to, but excluding, the date of redemption, discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined in the 2029 Notes) plus 20 basis points,
 4
 
-PAGE NUMBER: 5
 
 
 
@@ -685,7 +650,6 @@ Denominations:		€100,000 and any integral multiple of€1,000 in excess thereo
 Miscellaneous:		The terms of the 2029 Notes shall include such other terms as are set forth in the form of 2029 Notes attached hereto asExhibit Band in the Indenture. In addition, the global notes for the 2029 Notes shall include the following language: “To the extent the terms of the Indenture and this Note are inconsistent, the terms of the Indenture shall govern.”
 5
 
-PAGE NUMBER: 6
 
 
 
@@ -695,7 +659,6 @@ PAGE NUMBER: 6
 		Solely with respect to the 2029 Notes, the final sentence of Section 1304(1) of the Indenture shall be amended and restated as follows:“As used herein, “U.S. Government Obligation” means (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a Person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.”
 6
 
-PAGE NUMBER: 7
 
 Subject to the covenants described in the Indenture, as amended or supplemented from time to time, the Issuer shall be entitled, subject to authorization by the Board of Directors of the Issuer and an Officer’s Certificate, to issue additional notes from time to time under each series of notes issued hereby. Any such additional notes of a series shall have identical terms as the 2025 Notes and 2029 Notes, as the case may be, issued on the issue date, other than with respect to the date of issuance, the date interest begins to accrue, the first interest payment date, and the issue price (together, the “
 Additional Notes
@@ -703,7 +666,6 @@ Additional Notes
 The officer has read and understands the provisions of the Indenture and the definitions relating thereto. The statements made in this Officer’s Certificate are based upon the examination of the provisions of the Indenture and upon the relevant books and records of the Issuer. In such officer’s opinion, they have made such examination or investigation as is necessary to enable such officer to express an informed opinion as to whether or not the covenants and conditions of such Indenture relating to the issuance, authentication and delivery of the Notes have been complied with. In such officer’s opinion, such covenants and conditions have been complied with.
 7
 
-PAGE NUMBER: 8
 
 IN WITNESS WHEREOF, the undersigned officer of the Issuer has duly executed this certificate as of May 24, 2017.
 
@@ -716,14 +678,12 @@ By:		/s/ Gary Wipfler
 		Title: Vice President and Corporate Treasurer
 [Signature Page to Officer’s Certificate Pursuant to the Indenture]
 
-PAGE NUMBER: 9
 
 EXHIBIT A
 FORM OF NOTE DUE 2025
 THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN.
 UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR BANK, SA/NV, AS OPERATOR OF THE EUROCLEAR SYSTEM (“EUROCLEAR”) AND CLEARSTREAM BANKING, SOCIÉTÉ ANONYME, LUXEMBOURG (“CLEARSTREAM, LUXEMBOURG” AND, TOGETHER WITH EUROCLEAR, “EUROCLEAR/CLEARSTREAM”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM (AND ANY PAYMENT IS MADE TO THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED, HAS AN INTEREST HEREIN.
 
-PAGE NUMBER: 10
 
 APPLE INC.
 0.875% Note due 2025
@@ -744,7 +704,6 @@ Interest Record Date: Each May 10 preceding the relevant Interest Payment Date (
 Interest Record Date
 Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
 
-PAGE NUMBER: 11
 
 IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
 
@@ -756,7 +715,6 @@ By:
 		Name:
 		Title:
 
-PAGE NUMBER: 12
 
 This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
 Dated: May 24, 2017
@@ -768,7 +726,6 @@ The Bank of New York Mellon Trust Company, N.A., as Trustee
 By:		
 		Authorized Signatory
 
-PAGE NUMBER: 13
 
 (REVERSE OF NOTE)
 APPLE INC.
@@ -799,7 +756,6 @@ Business Day
 ” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
 For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
 
-PAGE NUMBER: 14
 
 
 
@@ -813,7 +769,6 @@ The Notes are in registered form, without coupons, in denominations of
 	6.	Amendment; Supplement; Waiver.
 Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of a Note.
 
-PAGE NUMBER: 15
 
 
 
@@ -834,7 +789,6 @@ Unless the Issuer defaults in the payment of the redemption price, on and after 
 €
 100,000 or less shall be redeemed in part.
 
-PAGE NUMBER: 16
 
 
 
@@ -846,7 +800,6 @@ In the event any withholding or deduction on payments in respect of the Notes fo
 	C.	any tax, assessment or other governmental charge imposed on foreign personal holding company income or by reason of the beneficial owner’s past or present status as a passive foreign investment company, a controlled foreign corporation, a foreign tax exempt organization or a personal holding company with respect to the United States or as a corporation that accumulates earnings to avoid U.S. federal income tax;
 	D.	any tax, assessment or other governmental charge which is payable otherwise than by withholding or deducting from payment of principal or premium, if any, or interest on such Notes;
 
-PAGE NUMBER: 17
 
 
 
@@ -860,7 +813,6 @@ As used in this Section 8, “
 U.S. Person
 ” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable U.S. Treasury regulations), or any estate or trust the income of which is subject to United States federal income taxation regardless of its source.
 
-PAGE NUMBER: 18
 
 
 
@@ -873,7 +825,6 @@ This Note shall not be valid until the Trustee manually signs the certificate of
 	12.	Abbreviations and Defined Terms.
 Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
 
-PAGE NUMBER: 19
 
 
 
@@ -882,7 +833,6 @@ Pursuant to a recommendation promulgated by the Committee on Uniform Security Id
 	14.	Governing Law.
 The Indenture and the Notes shall be governed by, and construed in accordance with, the laws of the State of New York.
 
-PAGE NUMBER: 20
 
 ASSIGNMENT FORM
 To assign this Note, fill in the form below:
@@ -904,7 +854,6 @@ Signatures must be guaranteed by an “eligible guarantor institution” meeting
 STAMP
 ”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
 
-PAGE NUMBER: 21
 
 SCHEDULE OF EXCHANGES OF NOTES
 The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
@@ -913,14 +862,12 @@ The following exchanges of a part of this Global Note for physical Notes or a pa
 								
 Date of Exchange		Amount of decrease inprincipal amount of thisGlobal Note		Amount of increase inprincipal amount of thisGlobal Note		Principal amount of thisGlobal Note following suchdecrease (or increase)		Signature of authorizedofficer of Trustee
 
-PAGE NUMBER: 22
 
 EXHIBIT B
 FORM OF NOTE DUE 2029
 THIS NOTE IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE REFERRED TO HEREIN.
 UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR BANK, SA/NV, AS OPERATOR OF THE EUROCLEAR SYSTEM (“EUROCLEAR”) AND CLEARSTREAM BANKING, SOCIÉTÉ ANONYME, LUXEMBOURG (“CLEARSTREAM, LUXEMBOURG” AND, TOGETHER WITH EUROCLEAR, “EUROCLEAR/CLEARSTREAM”), TO THE ISSUER OR ITS AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM (AND ANY PAYMENT IS MADE TO THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF EUROCLEAR/CLEARSTREAM), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, THE BANK OF NEW YORK DEPOSITORY (NOMINEES) LIMITED, HAS AN INTEREST HEREIN.
 
-PAGE NUMBER: 23
 
 APPLE INC.
 1.375% Note due 2029
@@ -941,7 +888,6 @@ Interest Record Date: Each May 10 preceding the relevant Interest Payment Date (
 Interest Record Date
 Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
 
-PAGE NUMBER: 24
 
 IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
 
@@ -953,7 +899,6 @@ By:
 		Name:
 		Title:
 
-PAGE NUMBER: 25
 
 This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
 Dated: May 24, 2017
@@ -965,7 +910,6 @@ The Bank of New York Mellon Trust Company, N.A., as Trustee
 By:		
 		Authorized Signatory
 
-PAGE NUMBER: 26
 
 (REVERSE OF NOTE)
 APPLE INC.
@@ -996,7 +940,6 @@ Business Day
 ” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
 For purposes of this Note, unless otherwise defined herein, capitalized terms herein are used as defined in the Indenture. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the Trust Indenture Act as in effect on the date on which the Indenture was qualified under the Trust Indenture Act. Notwithstanding anything to the contrary herein, the Notes are subject to all such terms, and holders of Notes are referred to the Indenture and the Trust Indenture Act for a statement of them.
 
-PAGE NUMBER: 27
 
 
 
@@ -1010,7 +953,6 @@ The Notes are in registered form, without coupons, in denominations of
 	6.	Amendment; Supplement; Waiver.
 Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the rights of any Holder of a Note.
 
-PAGE NUMBER: 28
 
 
 
@@ -1031,7 +973,6 @@ Unless the Issuer defaults in the payment of the redemption price, on and after 
 €
 100,000 or less shall be redeemed in part.
 
-PAGE NUMBER: 29
 
 
 
@@ -1043,7 +984,6 @@ In the event any withholding or deduction on payments in respect of the Notes fo
 	C.	any tax, assessment or other governmental charge imposed on foreign personal holding company income or by reason of the beneficial owner’s past or present status as a passive foreign investment company, a controlled foreign corporation, a foreign tax exempt organization or a personal holding company with respect to the United States or as a corporation that accumulates earnings to avoid U.S. federal income tax;
 	D.	any tax, assessment or other governmental charge which is payable otherwise than by withholding or deducting from payment of principal or premium, if any, or interest on such Notes;
 
-PAGE NUMBER: 30
 
 
 
@@ -1057,7 +997,6 @@ As used in this Section 8, “
 U.S. Person
 ” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable U.S. Treasury regulations), or any estate or trust the income of which is subject to United States federal income taxation regardless of its source.
 
-PAGE NUMBER: 31
 
 
 
@@ -1070,7 +1009,6 @@ This Note shall not be valid until the Trustee manually signs the certificate of
 	12.	Abbreviations and Defined Terms.
 Customary abbreviations may be used in the name of a Holder of a Note or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act).
 
-PAGE NUMBER: 32
 
 
 
@@ -1079,7 +1017,6 @@ Pursuant to a recommendation promulgated by the Committee on Uniform Security Id
 	14.	Governing Law.
 The Indenture and the Notes shall be governed by, and construed in accordance with, the laws of the State of New York.
 
-PAGE NUMBER: 33
 
 ASSIGNMENT FORM
 To assign this Note, fill in the form below:
@@ -1101,7 +1038,6 @@ Signatures must be guaranteed by an “eligible guarantor institution” meeting
 STAMP
 ”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
 
-PAGE NUMBER: 34
 
 SCHEDULE OF EXCHANGES OF NOTES
 The following exchanges of a part of this Global Note for physical Notes or a part of another Global Note have been made:
@@ -1110,7 +1046,6 @@ The following exchanges of a part of this Global Note for physical Notes or a pa
 								
 Date of Exchange		Amount of decrease inprincipal amount of thisGlobal Note		Amount of increase inprincipal amount of thisGlobal Note		Principal amount of thisGlobal Note following suchdecrease (or increase)		Signature of authorizedofficer of Trustee
 
-PAGE NUMBER: 1
 
 EX-5.1
 Exhibit 5.1
@@ -1149,7 +1084,6 @@ S-K,
 For purposes of this opinion letter, we have examined copies of such agreements, instruments and documents as we have deemed an appropriate basis on which to render the opinions hereinafter expressed. In our examination of the aforesaid documents, we have assumed the genuineness of all signatures, the legal capacity of all natural persons, the accuracy and completeness of all documents submitted to us, the authenticity of all original documents, and the conformity to authentic original documents of all documents submitted to us as copies (including pdfs). As to all matters of fact, we have relied on the representations and statements of fact made in the documents so reviewed, and we have not independently established the facts so relied on. This opinion letter is given, and all statements herein are made, in the context of the foregoing.
 This opinion letter is based as to matters of law solely on the applicable provisions of the following, as currently in effect: (i) the General Corporation Law of the State of California, as amended, and (ii) the laws of the State of New York (but not including any laws, statutes, ordinances, administrative decisions, rules or regulations of any political subdivision below the state level). We express no opinion herein as to any other laws, statutes, ordinances, rules, or regulations (and in particular, we express no opinion as to any effect that such other laws, statutes, ordinances, rules, or regulations may have on the opinions expressed herein).
 
-PAGE NUMBER: 2
 
 Board of Directors
 Apple Inc.
@@ -1173,7 +1107,6 @@ on the date hereof, which Form
 will be incorporated by reference into the Registration Statement and speaks as of the date hereof. We assume no obligation to advise you of any changes in the foregoing subsequent to the delivery of this opinion letter.
 2
 
-PAGE NUMBER: 3
 
 Board of Directors
 Apple Inc.

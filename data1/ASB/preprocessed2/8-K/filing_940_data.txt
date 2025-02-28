@@ -1,0 +1,326 @@
+0000007789-21-000003.hdr.sgml : 20210121
+20210121161216
+ACCESSION NUMBER:		0000007789-21-000003
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20210121
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20210121
+DATE AS OF CHANGE:		20210121
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		21542129
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20210121
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table6.json]
+Securities Registered Pursuant to Section 12(b) of the act:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table8.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page2_table0.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page3_table0.json]
+
+
+Document
+Exhibit 99.1
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table1.json]
+Associated Banc-Corp Reports Fourth Quarter 2020 Earnings of $0.40 Per Common Share and $1.86 Per Common Share for the Full Year 2020.
+GREEN BAY, Wis.
+-- January 21, 2021 -- Associated Banc-Corp (NYSE: ASB) ("Associated" or "Company") today reported net income available to common equity ("earnings") of $62 million, or $0.40 per common share, for the quarter ended December 31, 2020. These amounts compare to earnings o
+f
+$40 million
+, o
+r
+$0.26 per common
+share for the quarter ended September 30, 2020
+. For the year ended December 31, 2020, the Company reported earnings of $288 million, or $1.86 per common share; or $1.19 per common share excluding the gain on sale of Associated Benefits and Risk Consulting
+1
+. These amounts compare to earnings of $312 million, or $1.91 per common share, for the year ended December 31, 2019.
+“In the face of an extraordinarily challenging environment,” said President and CEO Philip B. Flynn, “We reimagined and reengineered the way we service our customers while driving higher engagement and satisfaction; we grew loans, customer deposits, and capital to record levels; and we adopted our service models while also streamlining our branch network and back office functions. Our strategies to grow low-cost deposits and widen commercial loan margins took hold in the fourth quarter. In addition, we exited several lower-margin businesses and geographies. Our agility and approach have positioned us well to participate in the economic recovery we expect to see in 2021.”
+The Company also announced today that Mr. Flynn has informed its Board of Directors of his plans to retire at the end of 2021. The Board has commenced a search for a permanent successor which will consider our internal as well as external candidates. Mr. Flynn will continue as president and CEO until a successor is in place, at which time he will step down from both roles and from the board of directors. Mr. Flynn will then be available to the new CEO in an advisory capacity. Additional details can be found in the press release available at http://investor.associatedbank.com.
+2020 SUMMARY (all comparisons to 2019)
+•
+Average loans of $24.5 billion were up
+6%
+, or $1.4 billion
+Average deposits of $26.0 billion were up
+5%
+, or $1.3 billion
+Net interest income of
+$763 million
+decreased 9%, or
+$73 million
+Net interest margin of 2.53%, declined 33 basis points from 2.86%
+Provision for credit losses was $174 million, compared to $16 million
+Noninterest income of $514 million increased 35%, or $133 million
+Noninterest expense of $776 million decreased 2%, or $18 million
+Tangible book value per share was $16.67, up 9% from $15.28
+This is a non-GAAP financial measure. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide greater understanding of ongoing operations and enhance comparability of results with prior periods. See pages 10 and 11 of the attached tables for a reconciliation of non-GAAP financial measures to GAAP financial measures
+.
+
+
+Loans
+Full year 2020 average loans of $24.5 billion were up 6%, or $1.4 billion from 2019, driven by Paycheck Protection Program (PPP) and commercial real estate lending. With respect to full year 2020 average balances by loan category compared to 2019:
+•
+Commercial and business lending increased $983 million, or 12%, to $9.4 billion, primarily due to growth in PPP.
+Commercial real estate lending increased $661 million, or 13%, to $5.8 billion, driven primarily by the funding of existing loan commitments throughout the year.
+Consumer lending decreased $230 million, or 2%, to $9.3 billion as residential mortgages refinanced and home equity loans paid down.
+Fourth quarter 2020 average loans of $24.7 billion were down 1%, or $281 million from the third quarter 2020 and were up 8%, or $1.9 billion from the same period last year. With respect to fourth quarter average balances by loan category:
+Commercial real estate lending increased $125 million from the third quarter 2020 and $963 million from the same period last year to $6.2 billion.
+Consumer lending was $9.1 billion, down $79 million from the third quarter 2020 and down $300 million from the same period last year.
+Commercial and business lending decreased $327 million from third quarter 2020, driven by PPP forgiveness, and increased $1.2 billion compared to the same period last year to $9.4 billion.
+We expect full-year commercial loan growth of 2%-4% in 2021, driven by a 4%-6% increase in CRE balances and a 1%-2% increase in C&I outstandings, excluding PPP.
+Deposits
+Full year 2020 average deposits of $26.0 billion increased 5%, or $1.3 billion from 2019.
+With respect to full year 2020 average balances by deposit category as compared to 2019:
+Noninterest-bearing demand deposits increased $1.7 billion, or 32% to $6.9 billion.
+Savings increased $867 million, or 36% to $3.3 billion.
+Interest-bearing demand deposits increased $502 million, or 10% to $5.6 billion.
+Network transaction deposits decreased $418 million, or 22% to $1.4 billion.
+Money market deposits decreased $495 million, or 7% to $6.5 billion.
+Time deposits decreased $848 million, or 27% to $2.3 billion.
+
+
+Fourth quarter 2020 average deposits of $26.7 billion were down $101 million compared to the third quarter 2020 and were up $2.6 billion, or 11%, from the same period last year.
+With respect to fourth quarter 2020 average balances by deposit category:
+•
+Noninterest-bearing demand deposits increased $265 million from the prior quarter and $2.2 billion from the same period last year to $7.7 billion.
+Savings increased $166 million from the prior quarter and $914 million from the same period last year to $3.6 billion.
+Interest-bearing demand deposits decreased $96 million from the prior quarter and increased $602 million from the same period last year to $5.7 billion.
+Money market deposits increased $75 million from the prior quarter and decreased $55 million from the same period last year to $6.5 billion.
+Time deposits decreased $248 million from the prior quarter and $859 million from the same period last year to $1.9 billion.
+Network transaction deposits decreased $262 million from the prior quarter and $173 million from the same period last year to $1.3 billion.
+Net Interest Income and Net Interest Margin
+Full year 2020 net interest income of $763 million was down 9%, or $73 million from 2019. Net interest margin of
+2.53% was down 33 basis points from the prior year. The decreases in net interest income and margin were driven
+by record low levels of interest rates and significant increases in liquidity during 2020.
+The average yield on total earning assets decreased 98 basis points from the prior year to 3.01%
+The average cost of interest-bearing liabilities decreased 78 basis points from the prior year to 0.65%.
+The net free funds benefit compressed 13 basis points from the prior year.
+Fourth quarter 2020 net interest income of $188 million was up 3%, or $6 million from the prior quarter and the net interest margin increased 18 basis points, from the prior quarter to
+2.49%
+. Compared to the same period last year,
+net interest income decreased 6%, or $12 million, and the net interest margin decreased 34 basis points.
+The average yield on total earning assets for the fourth quarter of 2020 increased 10 basis points from the prior quarter and decreased 98 basis points from the same period last year to 2.80%.
+The average cost of total interest-bearing liabilities for the fourth quarter of 2020 decreased 9 basis points from the prior quarter and decreased 80 basis points from the same period last year to 0.43%.
+The net free funds benefit for the fourth quarter of 2020 compressed one basis point from the prior quarter and compressed 16 basis points compared to the same period last year.
+We would expect the full year’s margin to be between 2.55% and 2.65% in 2021.
+
+
+Noninterest Income
+Full year 2020 noninterest income of $514 million increased $133 million from the prior year.
+•
+Net mortgage banking income increased $14 million from the prior year, driven by higher refinance activity.
+Gains on sales of assets increased $153 million from the prior year, due to the sale of Associated Benefits and Risk Consulting (ABRC). The sale of ABRC also drove the reduction in insurance revenue.
+Service charges and deposit account fees were down $7 million primarily driven by higher deposit account balances and reduced customer activity.
+Fourth quarter 2020 total noninterest income of $86 million increased $10 million from the prior quarter and decreased $7 million from the same period last year.
+With respect to fourth quarter 2020 noninterest income line items:
+Gains on previously disclosed sale of branches were $7 million.
+Mortgage Banking, net was $15 million for the fourth quarter, up $2 million from the previous quarter and up $8 million from the same period last year.
+Service charges and deposit account fees were $15 million for the fourth quarter, up $1 million from the previous quarter and down $1 million from the same period last year.
+We expect noninterest income of $280 million to $300 million in 2021.
+Noninterest Expense
+Full year 2020 noninterest expense of $776 million decreased 2%, or $18 million from the prior year. Included in
+noninterest expense figures is the loss on prepayments of FHLB advances of $45 million in 2020.
+With respect to full year 2020 noninterest expense line items:
+Personnel costs decreased $55 million from the prior year, largely driven by reduced management incentive plan expense.
+Business development and advertising decreased $11 million from the prior year as there was less travel and entertainment expense.
+Acquisition costs decreased $5 million from the prior year due to less acquisition activity.
+
+
+Fourth quarter 2020 total noninterest expense of $173 million decreased $55 million from the prior quarter and decreased $31 million compared to the same period last year.
+With respect to fourth quarter 2020 noninterest expense line items:
+•
+Loss on prepayments of FHLB advances stepped down $45 million from the prior quarter.
+Personnel expense decreased $11 million from the prior quarter and $23 million from the same period last year, primarily driven by lower severance costs related to the restructuring in 3Q 2020 and the sale of ABRC.
+Other expense decreased $3 million from the prior quarter and $1 million from the same period last year.
+Occupancy expense decreased $2 million from the prior quarter and $1 million from the same period last year.
+We expect 2021 noninterest expense to be approximately $675 million.
+Taxes
+The fourth quarter 2020 tax expense was $17 million compared to $58 million of tax benefit in the prior quarter and $17 million of tax expense in the same period last year.
+The tax benefit recognized in the third quarter was driven by capital losses from the reorganization of our securities and real estate lending subsidiaries.
+We expect the annual 2021 tax rate to be between 18% to 21%.
+Credit
+Full year 2020 provision for credit losses was $174 million, up from $16 million in the prior year.
+The fourth quarter 2020 provision for credit losses was $17 million, down from $43 million in the prior quarter and up from zero in the same period last year.
+With respect to fourth quarter 2020 credit quality:
+Potential problem loans of $282 million were down $11 million, or 4%, from the prior quarter and up $121 million, or 75%, from the same period last year.
+Nonaccrual loans of $211 million were down $21 million from the prior quarter and up $92 million from the same period last year. The nonaccrual loans to total loans ratio was 0.86% in the fourth quarter, down from 0.93% in the prior quarter and up from 0.52% in the same period last year.
+Net charge offs of $28 million were down $2 million from the prior quarter and up $13 million from the same period last year.
+The allowance for credit losses on loans (ACLL) of $431 million was down $11 million from the prior quarter and up $208 million compared to the same period last year. The ACLL to total loans ratio was 1.76% in the fourth quarter, down from 1.77% in the prior quarter and up from 0.98% in the same period last year.
+We expect our full year 2021 provision to be no more than $70 million, with some quarterly variability.
+Capital
+The Company’s capital position remains strong, with a CET1 capital rat
+io of 10.4%
+at Dece
+mber 31, 2020. The Company’s capital ratios continue to be in excess of the Basel III “well-capitalized” regulatory benchmarks on a fully phased in basis.
+
+
+FOURTH QUARTER 2020 EARNINGS RELEASE CONFERENCE CALL
+The Company will host a conference call for investors and analysts at 4:00 p.m. Central Time (CT) today, January 21, 2021. Interested parties can access the live webcast of the call through the Investor Relations section of the Company's website, http://investor.associatedbank.com. Parties may also dial into the call at 877-407-8037 (domestic) or 201-689-8037 (international) and request the Associated Banc-Corp fourth quarter 2020 earnings call. The fourth quarter 2020 financial tables with an accompanying slide presentation will be available on the Company's website just prior to the call. An audio archive of the webcast will be available on the Company's website approximately fifteen minutes after the call is over.
+ABOUT ASSOCIATED BANC-CORP
+Associated Banc-Corp (NYSE: ASB) has total assets of $33 billion and is one of the top 50 publicly traded U.S. bank holding companies. Headquartered in Green Bay, Wisconsin, Associated is a leading Midwest banking franchise, offering a full range of financial products and services from more than 220 banking locations serving more than 120 communities throughout Wisconsin, Illinois and Minnesota, and commercial financial services in Indiana, Michigan, Missouri, Ohio and Texas. Associated Bank, N.A. is an Equal Housing Lender, Equal Opportunity Lender and Member FDIC. More information about Associated Banc-Corp is available at www.associatedbank.com.
+FORWARD-LOOKING STATEMENTS
+Statements made in this document which are not purely historical are forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995. This includes any statements regarding management’s plans, objectives, or goals for future operations, products or services, and forecasts of its revenues, earnings, or other measures of performance. Such forward-looking statements may be identified by the use of words such as “believe,” “expect,” “anticipate,” “plan,” “estimate,” “should,” “will,” “intend,” "target," “outlook,” or similar expressions. Forward-looking statements are based on current management expectations and, by their nature, are subject to risks and uncertainties. Actual results may differ materially from those contained in the forward-looking statements. Factors which may cause actual results to differ materially from those contained in such forward-looking statements include those identified in the Company’s most recent Form 10-K and subsequent SEC filings. Such factors are incorporated herein by reference.
+NON-GAAP FINANCIAL MEASURES
+This press release and related materials may contain references to measures which are not defined in generally accepted accounting principles (“GAAP”). Information concerning these non-GAAP financial measures can be found in the financial tables. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+# # #
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page7_table0.json]
+Numbers may not sum due to rounding.
+(a) Beginning in 2020, the investment securities held to maturity are reported net of the related allowance for credit losses. Prior periods were unadjusted due to the modified retrospective application of ASU 2016-13.
+(b) At January 1, 2020, the adoption of ASU 2016-13 resulted in an increase to the allowance for loan losses of $112 million and an increase to the allowance for unfunded commitments of $19 million for a total increase to the allowance for credit losses on loans of $131 million. A corresponding after tax decrease to common equity of $98 million was recorded along with a deferred tax asset of $33 million resulting in a decrease to accrued expenses and other liabilities. Prior periods were unadjusted due to the modified retrospective application of ASU 2016-13.
+1
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page8_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes trust, asset management, brokerage, and annuity fees.
+(b) YTD 2020 include a gain of $163 million from the sale of Associated Benefits & Risk Consulting. YTD 2019 include less than $1 million of Huntington related asset losses.
+(c) Includes Huntington branch and First Staunton acquisition related costs only.
+2
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page9_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes trust, asset management, brokerage, and annuity fees.
+(b) 2Q20 includes a gain of $163 million from the sale of Associated Benefits & Risk Consulting.
+(c) Includes Huntington branch and First Staunton acquisition related costs only.
+3
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page10_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Ratio is based upon basic earnings per common share.
+(b)
+Average full time equivalent employees without overtime.
+(c)
+Excludes assets held in brokerage accounts.
+(d)
+Does not include repurchases related to tax withholding on equity compensation.
+(e)
+The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The regulatory capital requirements effective for the Corporation follow Basel III, subject to certain transition provisions.
+(f)
+December 31, 2020 data is estimated.
+(g)
+Includes mortgage origination and servicing fees, net of mortgage servicing rights amortization.
+4
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page11_table0.json]
+(a) Excludes approximately $67,000 of allowance for held to maturity investment securities
+(b) Excludes provision for held to maturity investment securities.
+5
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page12_table0.json]
+N/M = Not meaningful
+N/A = Not applicable
+Numbers may not sum due to rounding.
+(a) Does not include any restructured loans related to COVID-19 in accordance with regulatory guidance
+6
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page13_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+7
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page14_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+8
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page15_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Includes repurchase agreements and commercial paper.
+(b)
+Included above in interest-bearing demand and money market.
+(c)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+9
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page16_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The ratio tangible common equity to tangible assets excludes goodwill and other intangible assets, net. This financial measure has been included as it is considered to be a critical metric with which to analyze and evaluate financial condition and capital strength.
+(b)
+These financial measures have been included as they provide meaningful supplemental information to assess trends in the Corporation’s results of operations.
+(c)
+Includes trust, asset management, brokerage, and annuity fees.
+(d)
+These capital measurements are used by management, regulators, investors, and analysts to assess, monitor and compare the quality and composition of our capital with the capital of other financial services companies.
+(e)
+The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains / losses, net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains / losses, net
+. The adjusted efficiency ratio is noninterest expense, which excludes the provision for unfunded commitments, other intangible amortization, acquisition related costs, and 3Q20 initiatives, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net, acquisition related costs, asset gains (losses), net and gain on sale of branches.
+Management believes the adjusted efficiency ratio is a meaningful measure as it enhances the comparability of net interest income arising from taxable and tax-exempt sources and provides a better measure as to how the Corporation is managing its expenses by adjusting for acquisition related costs, provision for unfunded commitments, asset gains (losses), net, branch sales, and 3Q 2020 initiatives.
+10
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page17_table0.json]
+Numbers may not sum due to rounding.
+(a) Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share and provide greater understanding of ongoing operations and enhanced comparability of results with prior periods.
+(b) Diluted earnings and per share data presented after-tax.
+11

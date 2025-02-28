@@ -41,7 +41,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 8-K
 UNITED STATES
@@ -72,7 +71,6 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -81,7 +79,6 @@ Item 5.02	Departure of Directors or Certain Officers; Election of Directors; App
 On December 16, 2015, Apple Inc. appointed Jeff Williams, Senior Vice President, Operations, to the role of Chief Operating Officer.
 With respect to the disclosure required pursuant to Item 401(d) of Regulation S-K, there are no family relationships between Mr. Williams and any director or executive officer of Apple. With respect to the disclosure required pursuant to Item 404(a) of Regulation S-K, there are no transactions between Apple and Mr. Williams that would be required to be reported.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.

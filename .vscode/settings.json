@@ -5,5 +5,7 @@
     ],
     "workbench.colorCustomizations": {
     "editorRuler.foreground": "#FFFFFF"
-}
+},
+"debug.showInStatusBar": "always",
+"debug.showSubSessionsInToolBar": true
 }

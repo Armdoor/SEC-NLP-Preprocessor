@@ -40,10 +40,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2016 Workiva
 Document
 
 
@@ -106,7 +103,6 @@ annual meeting of shareholders (the “
 Proxy Statement”) are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The
 Proxy Statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
 
-PAGE NUMBER: 2
 
 Apple Inc.
 Form 10-K
@@ -143,7 +139,6 @@ Item 14.	Principal Accounting Fees and Services	73
 Part IV
 Item 15.	Exhibits, Financial Statement Schedules	74
 
-PAGE NUMBER: 3
 
 This Annual Report on Form 10-K (
 “
@@ -201,7 +196,6 @@ The Company manages its business primarily on a geographic basis. The Company’
 Apple Inc. | 2016 Form 10-K |
 1
 
-PAGE NUMBER: 4
 
 Products
 iPhone
@@ -245,7 +239,6 @@ and spreadsheets through Numbers
 Apple Inc. | 2016 Form 10-K |
 2
 
-PAGE NUMBER: 5
 
 Services
 Internet Services
@@ -270,7 +263,6 @@ Apple Watch is a personal electronic device that combines the watchOS user inter
 Apple Inc. | 2016 Form 10-K |
 3
 
-PAGE NUMBER: 6
 
 iPod
 iPod is the Company’s line of portable digital music and media players, which includes iPod touch, iPod nano
@@ -300,7 +292,6 @@ and
 Apple Inc. | 2016 Form 10-K |
 4
 
-PAGE NUMBER: 7
 
 Competition
 The markets for the Company’s products and services are highly competitive and the Company is confronted by aggressive competition in all areas of its business. These markets are characterized by frequent product introductions and rapid technological advances that have substantially increased the capabilities and use of mobile communication and media devices, personal computers and other digital electronic devices. The Company’s competitors that sell mobile devices and personal computers based on other operating systems have aggressively cut prices and lowered their product margins to gain or maintain market share. The Company’s financial condition and operating results can be adversely affected by these and other industry-wide downward pressures on gross margins. Principal competitive factors important to the Company include price, product features (including security features), relative price and performance, product quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support and corporate reputation.
@@ -315,7 +306,6 @@ While some Mac computers are manufactured in the U.S. and Ireland, substantially
 Apple Inc. | 2016 Form 10-K |
 5
 
-PAGE NUMBER: 8
 
 Research and Development
 Because the industries in which the Company competes are characterized by rapid technological advances, the Company’s ability to compete successfully depends heavily upon its ability to ensure a continual and timely flow of competitive products, services and technologies to the marketplace. The Company continues to develop new technologies to enhance existing products and to expand the range of its product offerings through R&D, licensing of intellectual property and acquisition of third-party businesses and technology. Total R&D expense was $
@@ -346,7 +336,6 @@ The Company offers a limited parts and labor warranty on most of its hardware pr
 Apple Inc. | 2016 Form 10-K |
 6
 
-PAGE NUMBER: 9
 
 Backlog
 In the Company’s experience, the actual amount of product backlog at any particular time is not a meaningful indication of its future business prospects. In particular, backlog often increases immediately following new product introductions as customers anticipate shortages. Backlog is often reduced once customers believe they can obtain sufficient supply. Because of the foregoing, backlog should not be considered a reliable indicator of the Company’s ability to achieve any particular level of revenue or financial performance.
@@ -363,7 +352,6 @@ www.sec.gov
 Apple Inc. | 2016 Form 10-K |
 7
 
-PAGE NUMBER: 10
 
 
 
@@ -381,7 +369,6 @@ The Company’s ability to compete successfully depends heavily on its ability t
 Apple Inc. | 2016 Form 10-K |
 8
 
-PAGE NUMBER: 11
 
 The Company markets certain mobile communication and media devices based on the iOS mobile operating system and also markets related services, including third-party digital content and applications. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital content supplier relationships; and the Company has a minority market share in the global smartphone market. Additionally, the Company faces significant price competition as competitors reduce their selling prices and attempt to imitate the Company’s product features and applications within their own products or, alternatively, collaborate with each other to offer solutions that are more competitive than those they currently offer. The Company competes with business models that provide content to users for free. The Company also competes with illegitimate means to obtain third-party digital content and applications. Some of the Company’s competitors have greater experience, product breadth and distribution channels than the Company. Because some current and potential competitors have substantial resources and/or experience and a lower cost structure, they may be able to provide products and services at little or no profit or even at a loss. The Company also expects competition to intensify as competitors attempt to imitate the Company’s approach to providing components seamlessly within their individual offerings or work collaboratively to offer integrated solutions. The Company’s financial condition and operating results depend substantially on the Company’s ability to continually improve iOS and iOS devices in order to maintain their functional and design advantages.
 The Company is the only authorized maker of hardware using macOS, which has a minority market share in the personal computer market. This market has been contracting and is dominated by computer makers using competing operating systems, most notably Windows. In the market for personal computers and accessories, the Company faces a significant number of competitors, many of which have broader product lines, lower priced products and a larger installed customer base. Historically, consolidation in this market has resulted in larger competitors. Price competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. An increasing number of internet-enabled devices that include software applications and are smaller and simpler than traditional personal computers compete for market share with the Company’s existing products. The Company’s financial condition and operating results also depend on its ability to continually improve the Mac platform to maintain its functional and design advantages.
@@ -395,7 +382,6 @@ Many resellers have been adversely affected in the past by weak economic conditi
 Apple Inc. | 2016 Form 10-K |
 9
 
-PAGE NUMBER: 12
 
 The Company faces substantial inventory and other asset risk in addition to purchase commitment cancellation risk.
 The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand or net realizable value and accrues necessary cancellation fee reserves for orders of excess products and components. The Company also reviews its long-lived assets, including capital assets held at its suppliers’ facilities and inventory prepayments, for impairment whenever events or circumstances indicate the carrying amount of an asset may not be recoverable. If the Company determines that impairment has occurred, it records a write-down equal to the amount by which the carrying value of the assets exceeds its fair value. Although the Company believes its provisions related to inventory, capital assets, inventory prepayments and other assets and purchase commitments are currently adequate, no assurance can be given that the Company will not incur additional related charges given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes.
@@ -414,7 +400,6 @@ The Company has invested in manufacturing process equipment, much of which is he
 Apple Inc. | 2016 Form 10-K |
 10
 
-PAGE NUMBER: 13
 
 The Company’s products and services may experience quality problems from time to time that can result in decreased sales and operating margin and harm to the Company’s reputation.
 The Company sells complex hardware and software products and services that can contain design and manufacturing defects. Sophisticated operating system software and applications, such as those sold by the Company, often contain “bugs” that can unexpectedly interfere with the software’s intended operation. The Company’s online services may from time to time experience outages, service slowdowns, or errors. Defects may also occur in components and products the Company purchases from third parties. There can be no assurance the Company will be able to detect and fix all defects in the hardware, software and services it sells. Failure to do so could result in lost revenue, significant warranty and other expenses and harm to the Company’s reputation.
@@ -428,7 +413,6 @@ With respect to iOS devices, the Company relies on the continued availability an
 Apple Inc. | 2016 Form 10-K |
 11
 
-PAGE NUMBER: 14
 
 The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms or at all.
 Many of the Company’s products include third-party intellectual property, which requires licenses from those third parties. Based on past experience and industry practice, the Company believes such licenses generally can be obtained on reasonable terms. There is, however, no assurance that the necessary licenses can be obtained on acceptable terms or at all. Failure to obtain the right to use third-party intellectual property, or to use such intellectual property on commercially reasonable terms, could preclude the Company from selling certain products or otherwise have a material adverse impact on the Company’s financial condition and operating results.
@@ -446,7 +430,6 @@ By way of example, laws and regulations related to mobile communications and med
 Apple Inc. | 2016 Form 10-K |
 12
 
-PAGE NUMBER: 15
 
 Compliance with these laws, regulations and similar requirements may be onerous and expensive, and they may be inconsistent from jurisdiction to jurisdiction, further increasing the cost of compliance and doing business. Any such costs, which may rise in the future as a result of changes in these laws and regulations or in their interpretation, could individually or in the aggregate make the Company’s products and services less attractive to the Company’s customers, delay the introduction of new products in one or more regions, or cause the Company to change or limit its business practices. The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance that the Company’s employees, contractors, or agents will not violate such laws and regulations or the Company’s policies and procedures.
 The Company’s business is subject to the risks of international operations.
@@ -462,7 +445,6 @@ The Company may be subject to information technology system failures and network
 Apple Inc. | 2016 Form 10-K |
 13
 
-PAGE NUMBER: 16
 
 There may be breaches of the Company’s information technology systems that materially damage business partner and customer relationships, curtail or otherwise adversely impact access to online stores and services, or subject the Company to significant reputational, financial, legal and operational consequences.
 The Company’s business requires it to use and store customer, employee and business partner personally identifiable information (“PII”). This may include, among other information, names, addresses, phone numbers, email addresses, contact preferences, tax identification numbers and payment account information. Although malicious attacks to gain access to PII affect many companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the amount of PII it manages.
@@ -477,7 +459,6 @@ Much of the Company’s future success depends on the continued availability and
 Apple Inc. | 2016 Form 10-K |
 14
 
-PAGE NUMBER: 17
 
 The Company’s business may be impacted by political events, war, terrorism, public health issues, natural disasters and other business interruptions.
 War, terrorism, geopolitical uncertainties, public health issues and other business interruptions have caused and could cause damage or disruption to international commerce and the global economy, and thus could have a material adverse effect on the Company, its suppliers, logistics providers, manufacturing vendors and customers, including channel partners. The Company’s business operations are subject to interruption by, among others, natural disasters, whether as a result of climate change or otherwise, fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, labor disputes, public health issues and other events beyond its control. Such events could decrease demand for the Company’s products, make it difficult or impossible for the Company to make and deliver products to its customers, including channel partners, or to receive components from its suppliers, and create delays and inefficiencies in the Company’s supply chain. While the Company's suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in disruption to the Company's business and harm to the Company's reputation. Should major public health issues, including pandemics, arise, the Company could be adversely affected by more stringent employee travel restrictions, additional limitations in freight services, governmental actions limiting the movement of products between regions, delays in production ramps of new products and disruptions in the operations of the Company’s manufacturing vendors and component suppliers. The majority of the Company’s R&D activities, its corporate headquarters, information technology systems and other critical business operations, including certain component suppliers and manufacturing vendors, are in locations that could be affected by natural disasters. In the event of a natural disaster, the Company could incur significant losses, require substantial recovery time and experience significant expenditures in order to resume operations.
@@ -489,7 +470,6 @@ The Company’s stock price has experienced substantial price volatility in the 
 Apple Inc. | 2016 Form 10-K |
 15
 
-PAGE NUMBER: 18
 
 The Company’s financial performance is subject to risks associated with changes in the value of the U.S. dollar versus local currencies.
 The Company’s primary exposure to movements in foreign currency exchange rates relates to non-U.S. dollar-denominated sales and operating expenses worldwide. Weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company’s foreign currency-denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company’s products. Margins on sales of the Company’s products in foreign countries and on sales of products that include components obtained from foreign suppliers, could be materially adversely affected by foreign currency exchange rate fluctuations. In some circumstances, for competitive or other reasons, the Company may decide not to raise local prices to fully offset the dollar’s strengthening, or at all, which would adversely affect the U.S. dollar value of the Company’s foreign currency-denominated sales and earnings. Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign currency-denominated sales and earnings, could cause the Company to reduce international pricing and incur losses on its foreign currency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may also increase the Company’s cost of product components denominated in those currencies, thus adversely affecting gross margins.
@@ -506,7 +486,6 @@ The Company is also subject to the examination of its tax returns and other tax 
 Apple Inc. | 2016 Form 10-K |
 16
 
-PAGE NUMBER: 19
 
 
 
@@ -534,7 +513,6 @@ Not applicable.
 Apple Inc. | 2016 Form 10-K |
 17
 
-PAGE NUMBER: 20
 
 PART II
 
@@ -562,7 +540,6 @@ and
 Apple Inc. | 2016 Form 10-K |
 18
 
-PAGE NUMBER: 21
 
 Purchases of Equity Securities by the Issuer and Affiliated Purchasers
 Share repurchase activity during the three months ended
@@ -593,7 +570,6 @@ Total		63,316							$	42,024
 Apple Inc. | 2016 Form 10-K |
 19
 
-PAGE NUMBER: 22
 
 Company Stock Performance
 The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended
@@ -617,7 +593,6 @@ Dow Jones U.S. Technology Supersector Index		$	100			$	130			$	137			$	178			$	1
 Apple Inc. | 2016 Form 10-K |
 20
 
-PAGE NUMBER: 23
 
 
 
@@ -656,7 +631,6 @@ Total shareholders’ equity	$	128,249			$	119,355			$	111,547			$	123,549			$	1
 Apple Inc. | 2016 Form 10-K |
 21
 
-PAGE NUMBER: 24
 
 
 
@@ -710,7 +684,6 @@ In April 2015, the Company announced a significant increase to its capital retur
 Apple Inc. | 2016 Form 10-K |
 22
 
-PAGE NUMBER: 25
 
 Sales Data
 The following table shows net sales by operating segment and net sales and unit sales by product during
@@ -754,7 +727,6 @@ Mac	18,484			(10	)%		20,587			9	%		18,906
 Apple Inc. | 2016 Form 10-K |
 23
 
-PAGE NUMBER: 26
 
 Product Performance
 iPhone
@@ -798,7 +770,6 @@ The year-over-year growth in Mac net sales and unit sales during 2015 was driven
 Apple Inc. | 2016 Form 10-K |
 24
 
-PAGE NUMBER: 27
 
 Services
 The following table presents net sales information of Services for
@@ -840,7 +811,6 @@ The year-over-year increase in Europe net sales during 2015 was driven primarily
 Apple Inc. | 2016 Form 10-K |
 25
 
-PAGE NUMBER: 28
 
 Greater China
 The following table presents Greater China net sales information for
@@ -892,7 +862,6 @@ The year-over-year increase in the gross margin percentage in 2015 was driven pr
 Apple Inc. | 2016 Form 10-K |
 26
 
-PAGE NUMBER: 29
 
 The Company anticipates gross margin during the first quarter of
 2017
@@ -934,7 +903,6 @@ The year-over-year increase in other income/(expense), net during 2016 and 2015 
 Apple Inc. | 2016 Form 10-K |
 27
 
-PAGE NUMBER: 30
 
 Provision for Income Taxes
 Provision for income taxes and effective tax rates for
@@ -966,7 +934,6 @@ In March 2016, the FASB issued ASU No. 2016-09, Compensation – Stock Compensat
 Apple Inc. | 2016 Form 10-K |
 28
 
-PAGE NUMBER: 31
 
 Leases
 In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842) (“ASU 2016-02”), which modified lease accounting for both lessees and lessors to increase transparency and comparability by recognizing lease assets and lease liabilities by lessees for those leases classified as operating leases under previous accounting standards and disclosing key information about leasing arrangements. ASU 2016-02 will be effective for the Company beginning in its first quarter of 2020, and early adoption is permitted. The Company is currently evaluating the timing of its adoption and the impact of adopting ASU 2016-02 on its consolidated financial statements.
@@ -1002,7 +969,6 @@ The Company believes its existing balances of cash, cash equivalents and marketa
 Apple Inc. | 2016 Form 10-K |
 29
 
-PAGE NUMBER: 32
 
 As of
 September 24, 2016
@@ -1041,7 +1007,6 @@ Further information regarding the Company’s debt issuances and related hedging
 Apple Inc. | 2016 Form 10-K |
 30
 
-PAGE NUMBER: 33
 
 Capital Return Program
 In April 2016, the Company’s Board of Directors increased the share repurchase program authorization from $140 billion to $175 billion of the Company’s common stock, increasing the expected total size of the capital return program from $200 billion to $250 billion. Additionally in April 2016, the Company announced that the Board of Directors raised the rate of the Company's quarterly cash dividend by 10% from $0.52 to $0.57 per share, beginning with the dividend paid during the third quarter of 2016. The Company intends to increase its dividend on an annual basis subject to declaration by the Board of Directors.
@@ -1081,7 +1046,6 @@ $7.6 billion
 Apple Inc. | 2016 Form 10-K |
 31
 
-PAGE NUMBER: 34
 
 Manufacturing Purchase Obligations
 The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final assembly and testing of finished products. These outsourcing partners acquire components and build product based on demand information supplied by the Company, which typically covers periods up to 150 days. The Company also obtains individual components for its products from a wide variety of individual suppliers. Consistent with industry practice, the Company acquires components through a combination of purchase orders, supplier contracts, and open orders based on projected demand information. As of
@@ -1103,7 +1067,6 @@ Management believes the Company’s critical accounting policies and estimates a
 Apple Inc. | 2016 Form 10-K |
 32
 
-PAGE NUMBER: 35
 
 Revenue Recognition
 Net sales consist primarily of revenue from the sale of hardware, software, digital content and applications, accessories, and service and support contracts. The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and collection is probable. Product is considered delivered to the customer once it has been shipped and title, risk of loss and rewards of ownership have been transferred. For most of the Company’s product sales, these criteria are met at the time the product is shipped. For online sales to individuals, for some sales to education customers in the U.S., and for certain other sales, the Company defers revenue until the customer receives the product because the Company retains a portion of the risk of loss on these sales during transit. For payment terms in excess of the Company’s standard payment terms, revenue is recognized as payments become due unless the Company has positive evidence that the sales price is fixed or determinable, such as a successful history of collection, without concession, on comparable arrangements. The Company recognizes revenue from the sale of hardware products, software bundled with hardware that is essential to the functionality of the hardware and third-party digital content sold on the iTunes Store in accordance with general revenue recognition accounting guidance. The Company recognizes revenue in accordance with industry-specific software accounting guidance for the following types of sales transactions: (i) standalone sales of software products, (ii) sales of software upgrades and (iii) sales of software bundled with hardware not essential to the functionality of the hardware.
@@ -1114,7 +1077,6 @@ The Company records reductions to revenue for estimated commitments related to p
 Apple Inc. | 2016 Form 10-K |
 33
 
-PAGE NUMBER: 36
 
 Valuation and Impairment of Marketable Securities
 The Company’s investments in available-for-sale securities are reported at fair value. Unrealized gains and losses related to changes in the fair value of securities are recognized in accumulated other comprehensive income, net of tax, in the Company’s Consolidated Balance Sheets. Changes in the fair value of available-for-sale securities impact the Company’s net income only when such securities are sold or an other-than-temporary impairment is recognized. Realized gains and losses on the sale of securities are determined by specific identification of each security’s cost basis. The Company regularly reviews its investment portfolio to determine if any security is other-than-temporarily impaired, which would require the Company to record an impairment charge in the period any such determination is made. In making this determination, the Company evaluates, among other things, the duration and extent to which the fair value of a security is less than its cost; the financial condition of the issuer and any changes thereto; and the Company’s intent to sell, or whether it will more likely than not be required to sell, the security before recovery of its amortized cost basis. The Company’s assessment of whether a security is other-than-temporarily impaired could change in the future due to new developments or changes in assumptions related to any particular security, which would have an adverse impact on the Company’s operating results.
@@ -1127,7 +1089,6 @@ The Company accrues for the estimated cost of warranties in the period the relat
 Apple Inc. | 2016 Form 10-K |
 34
 
-PAGE NUMBER: 37
 
 Income Taxes
 The Company records a tax provision for the anticipated tax consequences of its reported operating results. The provision for income taxes is computed using the asset and liability method, under which deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates that apply to taxable income in effect for the years in which those tax assets and liabilities are expected to be realized or settled. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized.
@@ -1138,7 +1099,6 @@ As discussed in Part I, Item 3 of this Form 10-K under the heading “Legal Proc
 Apple Inc. | 2016 Form 10-K |
 35
 
-PAGE NUMBER: 38
 
 
 
@@ -1163,7 +1123,6 @@ The Company may enter into foreign currency forward and option contracts with fi
 Apple Inc. | 2016 Form 10-K |
 36
 
-PAGE NUMBER: 39
 
 To provide a meaningful assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands of random market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. The VAR model is not intended to represent actual losses but is used as a risk estimation and management tool. The model assumes normal market conditions. Forecasted transactions, firm commitments and assets and liabilities denominated in foreign currencies were excluded from the model. Based on the results of the model, the Company estimates with 95% confidence, a maximum one-day loss in fair value of $434 million as of
 September 24, 2016
@@ -1175,7 +1134,6 @@ due to the inherent limitations associated with predicting the timing and amount
 Apple Inc. | 2016 Form 10-K |
 37
 
-PAGE NUMBER: 40
 
 
 
@@ -1196,7 +1154,6 @@ All financial statement schedules have been omitted, since the required informat
 Apple Inc. | 2016 Form 10-K |
 38
 
-PAGE NUMBER: 41
 
 CONSOLIDATED STATEMENTS OF OPERATIONS
 (In millions, except number of shares which are reflected in thousands and per share amounts)
@@ -1234,7 +1191,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2016 Form 10-K |
 39
 
-PAGE NUMBER: 42
 
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
 (In millions)
@@ -1264,7 +1220,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2016 Form 10-K |
 40
 
-PAGE NUMBER: 43
 
 CONSOLIDATED BALANCE SHEETS
 (In millions, except number of shares which are reflected in thousands and par value)
@@ -1316,7 +1271,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2016 Form 10-K |
 41
 
-PAGE NUMBER: 44
 
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
 (In millions, except number of shares which are reflected in thousands)
@@ -1355,7 +1309,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2016 Form 10-K |
 42
 
-PAGE NUMBER: 45
 
 CONSOLIDATED STATEMENTS OF CASH FLOWS
 (In millions)
@@ -1415,7 +1368,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2016 Form 10-K |
 43
 
-PAGE NUMBER: 46
 
 Notes to Consolidated Financial Statements
 Note 1 – Summary of Significant Accounting Policies
@@ -1447,7 +1399,6 @@ For the sale of most third-party products, the Company recognizes revenue based 
 Apple Inc. | 2016 Form 10-K |
 44
 
-PAGE NUMBER: 47
 
 The Company records deferred revenue when it receives payments in advance of the delivery of products or the performance of services. This includes amounts that have been deferred for unspecified and specified software upgrade rights and non-software services that are attached to hardware and software products. The Company sells gift cards redeemable at its retail and online stores, and also sells gift cards redeemable on iTunes Store, App Store, Mac App Store, TV App Store and iBooks Store for the purchase of digital content and software. The Company records deferred revenue upon the sale of the card, which is relieved upon redemption of the card by the customer. Revenue from AppleCare service and support contracts is deferred and recognized over the service coverage periods. AppleCare service and support contracts typically include extended phone support, repair services, web-based support resources and diagnostic tools offered under the Company’s standard limited warranty.
 The Company records reductions to revenue for estimated commitments related to price protection and other customer incentive programs. For transactions involving price protection, the Company recognizes revenue net of the estimated amount to be refunded. For the Company’s other customer incentive programs, the estimated cost of these programs is recognized at the later of the date at which the Company has sold the product or the date at which the program is offered. The Company also records reductions to revenue for expected future product returns based on the Company’s historical experience. Revenue is recorded net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded as current liabilities until remitted to the relevant government authority.
@@ -1464,7 +1415,6 @@ The Company generally provides for the estimated cost of hardware and software w
 Apple Inc. | 2016 Form 10-K |
 45
 
-PAGE NUMBER: 48
 
 Software Development Costs
 Research and development (“R&D”) costs are expensed as incurred. Development costs of computer software to be sold, leased, or otherwise marketed are subject to capitalization beginning when a product’s technological feasibility has been established and ending when a product is available for general release to customers. In most instances, the Company’s products are released soon after technological feasibility has been established and as a result software development costs were expensed as incurred.
@@ -1482,7 +1432,6 @@ Basic earnings per share is computed by dividing income available to common shar
 Apple Inc. | 2016 Form 10-K |
 46
 
-PAGE NUMBER: 49
 
 The following table shows the computation of basic and diluted earnings per share for
 2016
@@ -1519,7 +1468,6 @@ Derivatives that do not qualify as hedges are adjusted to fair value through ear
 Apple Inc. | 2016 Form 10-K |
 47
 
-PAGE NUMBER: 50
 
 Allowance for Doubtful Accounts
 The Company records its allowance for doubtful accounts based upon its assessment of various factors, including historical experience, age of the accounts receivable balances, credit quality of the Company’s customers, current economic conditions and other factors that may affect the customers’ abilities to pay.
@@ -1569,7 +1517,6 @@ Level 3
 Apple Inc. | 2016 Form 10-K |
 48
 
-PAGE NUMBER: 51
 
 The Company’s valuation techniques used to measure the fair value of money market funds and certain marketable equity securities were derived from quoted prices in active markets for identical assets or liabilities. The valuation techniques used to measure the fair value of the Company’s debt instruments and all other financial instruments, all of which have counterparties with high credit ratings, were valued based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
 In accordance with the fair value accounting requirements, companies may choose to measure eligible financial instruments and certain other items at fair value. The Company has not elected the fair value option for any eligible financial instruments.
@@ -1610,7 +1557,6 @@ Total	$	235,810			$	2,186			$	(411	)		$	237,585			$	20,484			$	46,671			$	170,43
 Apple Inc. | 2016 Form 10-K |
 49
 
-PAGE NUMBER: 52
 
 
 
@@ -1652,7 +1598,6 @@ To help protect gross margins from fluctuations in foreign currency exchange rat
 Apple Inc. | 2016 Form 10-K |
 50
 
-PAGE NUMBER: 53
 
 To help protect the net investment in a foreign operation from adverse changes in foreign currency exchange rates, the Company may enter into foreign currency forward and option contracts to offset the changes in the carrying amounts of these investments due to fluctuations in foreign currency exchange rates. In addition, the Company may use non-derivative financial instruments, such as its foreign currency-denominated debt, as economic hedges of its net investments in certain foreign subsidiaries. In both of these cases, the Company designates these instruments as net investment hedges.
 The Company may also enter into non-designated foreign currency contracts to partially offset the foreign currency exchange gains and losses generated by the re-measurement of certain assets and liabilities denominated in non-functional currencies.
@@ -1690,7 +1635,6 @@ Interest rate contracts	$	7			$	—			$	7
 Apple Inc. | 2016 Form 10-K |
 51
 
-PAGE NUMBER: 54
 
 
 
@@ -1746,7 +1690,6 @@ Interest rate contracts	$	(341	)		$	(337	)		$	(39	)
 Apple Inc. | 2016 Form 10-K |
 52
 
-PAGE NUMBER: 55
 
 The following table shows the notional amounts of the Company’s outstanding derivative instruments and credit risk amounts associated with outstanding or unsettled derivative instruments as of
 September 24, 2016
@@ -1809,7 +1752,6 @@ three
 Apple Inc. | 2016 Form 10-K |
 53
 
-PAGE NUMBER: 56
 
 Note 3 – Consolidated Financial Statement Details
 The following tables show the Company’s consolidated financial statement details as of
@@ -1861,7 +1803,6 @@ Total acquired intangible assets	$	9,012			$	(5,806	)		$	3,206			$	8,225			$	(4,
 Apple Inc. | 2016 Form 10-K |
 54
 
-PAGE NUMBER: 57
 
 Amortization expense related to acquired intangible assets was
 $1.5 billion
@@ -1929,7 +1870,6 @@ $186.9 billion
 Apple Inc. | 2016 Form 10-K |
 55
 
-PAGE NUMBER: 58
 
 A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (
 35%
@@ -1996,7 +1936,6 @@ $2.5 billion
 Apple Inc. | 2016 Form 10-K |
 56
 
-PAGE NUMBER: 59
 
 The aggregate changes in the balance of gross unrecognized tax benefits, which excludes interest and penalties, for
 2016
@@ -2041,7 +1980,6 @@ subsidiaries of the Company (the "State Aid Decision"). The State Aid Decision o
 Apple Inc. | 2016 Form 10-K |
 57
 
-PAGE NUMBER: 60
 
 Note 6 – Debt
 Commercial Paper
@@ -2084,7 +2022,6 @@ $78.4 billion
 Apple Inc. | 2016 Form 10-K |
 58
 
-PAGE NUMBER: 61
 
 The following table provides a summary of the Company’s term debt as of
 September 24, 2016
@@ -2151,7 +2088,6 @@ $1.8 billion
 Apple Inc. | 2016 Form 10-K |
 59
 
-PAGE NUMBER: 62
 
 As of
 September 24, 2016
@@ -2219,7 +2155,6 @@ had been utilized as of
 Apple Inc. | 2016 Form 10-K |
 60
 
-PAGE NUMBER: 63
 
 The Company has entered, and in the future may enter, into accelerated share repurchase arrangements (“ASRs”) with financial institutions. In exchange for up-front payments, the financial institutions deliver shares of the Company’s common stock during the purchase periods of each ASR. The total number of shares ultimately delivered, and therefore the average repurchase price paid per share, is determined at the end of the applicable purchase period of each ASR based on the volume weighted-average price of the Company’s common stock during that period. The shares received are retired in the periods they are delivered, and the up-front payments are accounted for as a reduction to shareholders’ equity in the Company’s Consolidated Balance Sheets in the periods the payments are made. The Company reflects the ASRs as a repurchase of common stock in the period delivered for purposes of calculating earnings per share and as forward contracts indexed to its own common stock. The ASRs met all of the applicable criteria for equity classification, and therefore were not accounted for as derivative instruments.
 The following table shows the Company’s ASR activity and related information during the years ended
@@ -2263,7 +2198,6 @@ Comprehensive income consists of two components, net income and OCI. OCI refers 
 Apple Inc. | 2016 Form 10-K |
 61
 
-PAGE NUMBER: 64
 
 The following table shows the pre-tax amounts reclassified from AOCI into the Consolidated Statements of Operations, and the associated financial statement line item, for
 2016
@@ -2317,7 +2251,6 @@ shares were reserved for future issuance under the 2014 Plan.
 Apple Inc. | 2016 Form 10-K |
 62
 
-PAGE NUMBER: 65
 
 2003 Employee Stock Plan
 The 2003 Plan is a shareholder approved plan that provided for broad-based equity grants to employees, including executive officers. The 2003 Plan permitted the granting of incentive stock options, nonstatutory stock options, RSUs, stock appreciation rights, stock purchase rights and performance-based awards. Options granted under the 2003 Plan generally expire
@@ -2367,7 +2300,6 @@ of the employee’s eligible earnings.
 Apple Inc. | 2016 Form 10-K |
 63
 
-PAGE NUMBER: 66
 
 Restricted Stock Units
 A summary of the Company’s RSU activity and related information for
@@ -2434,7 +2366,6 @@ $7.5 billion
 Apple Inc. | 2016 Form 10-K |
 64
 
-PAGE NUMBER: 67
 
 Note 10 – Commitments and Contingencies
 Accrued Warranty and Indemnification
@@ -2467,7 +2398,6 @@ Substantially all of the Company’s hardware products are manufactured by outso
 Apple Inc. | 2016 Form 10-K |
 65
 
-PAGE NUMBER: 68
 
 Other Off-Balance Sheet Commitments
 Operating Leases
@@ -2519,7 +2449,6 @@ The Company manages its business primarily on a geographic basis. The Company’
 Apple Inc. | 2016 Form 10-K |
 66
 
-PAGE NUMBER: 69
 
 The Company evaluates the performance of its reportable operating segments based on net sales and operating income. Net sales for geographic segments are generally based on the location of customers and sales through the Company’s retail stores located in those geographic locations. Operating income for each segment includes net sales to third parties, related cost of sales and operating expenses directly attributable to the segment. Advertising expenses are generally included in the geographic segment in which the expenditures are incurred. Operating income for each segment excludes other income and expense and certain expenses managed outside the reportable operating segments. Costs excluded from segment operating income include various corporate expenses such as R&D, corporate marketing expenses, certain share-based compensation expenses, income taxes, various nonrecurring charges and other separately managed general and administrative costs. The Company does not include intercompany transfers between segments for management reporting purposes.
 The following table shows information by reportable operating segment for
@@ -2565,7 +2494,6 @@ Total operating income	$	60,024			$	71,230			$	52,503
 Apple Inc. | 2016 Form 10-K |
 67
 
-PAGE NUMBER: 70
 
 The U.S. and China were the only countries that accounted for more than 10% of the Company’s net sales in 2016, 2015 and 2014
 .
@@ -2620,7 +2548,6 @@ Total net sales	$	215,639			$	233,715			$	182,795
 Apple Inc. | 2016 Form 10-K |
 68
 
-PAGE NUMBER: 71
 
 Note 12 – Selected Quarterly Financial Information (Unaudited)
 The following tables show a summary of the Company’s quarterly financial information for each of the four quarters of
@@ -2657,7 +2584,6 @@ Diluted	$	1.96			$	1.85			$	2.33			$	3.06
 Apple Inc. | 2016 Form 10-K |
 69
 
-PAGE NUMBER: 72
 
 Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
 The Board of Directors and Shareholders of Apple Inc.
@@ -2684,7 +2610,6 @@ San Jose, California
 Apple Inc. | 2016 Form 10-K |
 70
 
-PAGE NUMBER: 73
 
 Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
 The Board of Directors and Shareholders of Apple Inc.
@@ -2712,7 +2637,6 @@ San Jose, California
 Apple Inc. | 2016 Form 10-K |
 71
 
-PAGE NUMBER: 74
 
 
 
@@ -2747,7 +2671,6 @@ Not applicable.
 Apple Inc. | 2016 Form 10-K |
 72
 
-PAGE NUMBER: 75
 
 PART III
 
@@ -2779,7 +2702,6 @@ The information required by this Item is set forth under the subheadings “Fees
 Apple Inc. | 2016 Form 10-K |
 73
 
-PAGE NUMBER: 76
 
 PART IV
 
@@ -2810,7 +2732,6 @@ The information required by this Section (a)(3) of Item 15 is set forth on the e
 Apple Inc. | 2016 Form 10-K |
 74
 
-PAGE NUMBER: 77
 
 SIGNATURES
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -2864,7 +2785,6 @@ SUSAN L. WAGNER
 Apple Inc. | 2016 Form 10-K |
 75
 
-PAGE NUMBER: 78
 
 EXHIBIT INDEX
 (1)
@@ -2899,7 +2819,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 Apple Inc. | 2016 Form 10-K |
 76
 
-PAGE NUMBER: 79
 
 
 
@@ -2944,10 +2863,7 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 Apple Inc. | 2016 Form 10-K |
 77
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2016 Workiva
 Exhibit
 Exhibit 10.18
 APPLE INC.
@@ -2969,7 +2885,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification within thirty (30) days after the Award Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -3018,7 +2933,6 @@ Limitations on Rights Associated with Stock Units
 . The Participant shall have no rights as a shareholder of the Company, no dividend rights (except as expressly provided in Section 5(b) with respect to Dividend Equivalent Rights) and no voting rights, with respect to the Stock Units or any Shares underlying or issuable in respect of such Stock Units until such Shares are actually issued to and held of record by the Participant. No adjustments will be made for dividends or other rights of a holder for which the record date is prior to the date of issuance of the stock certificate or book entry evidencing such Shares.
 1
 
-PAGE NUMBER: 3
 
 (b)
 Dividend Equivalent Rights Distributions
@@ -3039,7 +2953,6 @@ Severance Date
 the number of days between the Vesting Date that immediately preceded the Severance Date (or, in the case of a Termination of Service prior to the initial Vesting Date, the Vesting Commencement Date) and the next Vesting Date following the Severance Date that would have occurred but for such Termination of Service; and (b) any Stock Units (as well as the related Dividend Equivalent Rights) that are not vested after giving effect to the foregoing clause (a) shall terminate on the Severance Date. Further, in the event the Participant’s Termination of Service is due to the Participant’s death, any then-outstanding and unvested Stock Units subject to the Award shall be fully vested as of the Severance Date, and any Dividend Equivalent Rights credited to the Participant shall be paid. If any unvested Stock Units are terminated hereunder, such Stock Units (as well as the related Dividend Equivalent Rights) shall automatically terminate and be cancelled as of the applicable Severance Date without payment of any consideration by the Company and without any other action by the Participant or the Participant’s personal representative, as the case may be.
 2
 
-PAGE NUMBER: 4
 
 9.
 Recoupment
@@ -3065,7 +2978,6 @@ Tax-Related Items
 Prior to the relevant taxable or tax withholding event, as applicable, the Participant shall pay or make arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, the Participant authorizes the Company and/or the Employer, or their respective agents, at their discretion and pursuant to such procedures as they may specify from time to time, to satisfy any applicable withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
 3
 
-PAGE NUMBER: 5
 
 (a)
 withholding from any wages or other cash compensation payable to the Participant by the Company and/or the Employer;
@@ -3087,7 +2999,6 @@ Data
 ”). The Company and its related entities may transfer Data amongst themselves as necessary for the purpose of implementation, administration and management of the Participant’s participation in the Plan, and the Company and its related entities may each further transfer Data to any third parties assisting the Company or any such related entity in the implementation, administration and management of the Plan. The Participant acknowledges that the transferors and transferees of such Data may be located anywhere in the world and hereby authorizes each of them to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Participant’s participation in the Plan, including any transfer
 4
 
-PAGE NUMBER: 6
 
 of such Data as may be required for the administration of the Plan and/or the subsequent holding of Shares on the Participant’s behalf to a broker or to other third party with whom the Participant may elect to deposit any Shares acquired under the Plan (whether pursuant to the Award or otherwise).
 14.
@@ -3119,7 +3030,6 @@ Choice of Venue
 . For purposes of litigating any dispute that arises directly or indirectly from the relationship of the parties evidenced by this grant or this Award Agreement, the parties hereby submit to the exclusive jurisdiction of the State of California and agree that such litigation shall be conducted only in the courts of Santa Clara County, California, or the federal courts for the Northern District of California, and no other courts, where this grant is made and/or to be performed.
 5
 
-PAGE NUMBER: 7
 
 22.
 Construction
@@ -3132,10 +3042,7 @@ Imposition of Other Requirements
 . The Company reserves the right to impose other requirements on the Participant’s participation in the Plan, on the Stock Units and on any Shares acquired under the Plan, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require the Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
 6
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2016 Workiva
 Exhibit
 Exhibit 10.19
 APPLE INC.
@@ -3163,7 +3070,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification within thirty (30) days after the Award Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -3216,7 +3122,6 @@ Limitations on Rights Associated with Stock Units
 . The Participant shall have no rights as a shareholder of the Company, no dividend rights (except as expressly provided in Section 5(b) with respect to Dividend Equivalent Rights) and no voting rights, with respect to the Stock Units or any Shares underlying or issuable in respect of such Stock Units until such Shares are actually issued to and held of
 1
 
-PAGE NUMBER: 3
 
 record by the Participant. No adjustments will be made for dividends or other rights of a holder for which the record date is prior to the date of issuance of the stock certificate or book entry evidencing such Shares.
 (b)
@@ -3242,7 +3147,6 @@ Severance Fraction
 ” means a fraction, the numerator of which shall be determined by subtracting the number of days remaining in the Performance Period on the Severance Date from the total number of days in the Performance Period, and the denominator of which shall be the total number of days in the Performance Period. If any unvested Stock Units are terminated pursuant to this Award Agreement, such Stock Units (as well as the related Dividend Equivalent Rights) shall automatically terminate and be cancelled as of the applicable Severance Date (or, to the extent the applicable performance-based
 2
 
-PAGE NUMBER: 4
 
 vesting conditions are not satisfied, the Vesting Date, as provided in
 Exhibit A
@@ -3270,7 +3174,6 @@ Tax-Related Items
 ”), the ultimate liability for all Tax-Related Items is and remains the Participant’s responsibility and may exceed the amount actually withheld by the Company or the Employer. The Participant further acknowledges that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Award, including the grant of the Stock Units, the vesting of the Stock Units, the delivery of Shares, the subsequent sale of any Shares acquired at vesting and the receipt of any dividends and/or Dividend Equivalent Rights; and (ii) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Award to reduce or eliminate the Participant’s liability for Tax-Related Items or achieve any particular tax result. Further, if the Participant is or becomes subject to tax in more than one jurisdiction, the Participant acknowledges that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
 3
 
-PAGE NUMBER: 5
 
 Prior to the relevant taxable or tax withholding event, as applicable, the Participant shall pay or make arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, the Participant authorizes the Company and/or the Employer, or their respective agents, at their discretion and pursuant to such procedures as they may specify from time to time, to satisfy any applicable withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
 (a)
@@ -3293,7 +3196,6 @@ Data
 ”). The Company and its related entities may transfer Data amongst themselves as necessary for the purpose of implementation,
 4
 
-PAGE NUMBER: 6
 
 administration and management of the Participant’s participation in the Plan, and the Company and its related entities may each further transfer Data to any third parties assisting the Company or any such related entity in the implementation, administration and management of the Plan. The Participant acknowledges that the transferors and transferees of such Data may be located anywhere in the world and hereby authorizes each of them to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Participant’s participation in the Plan, including any transfer of such Data as may be required for the administration of the Plan and/or the subsequent holding of Shares on the Participant’s behalf to a broker or to other third party with whom the Participant may elect to deposit any Shares acquired under the Plan (whether pursuant to the Award or otherwise).
 14.
@@ -3322,7 +3224,6 @@ Governing Law
 . This Award Agreement shall be governed by and construed and enforced in accordance with the laws of the State of California without regard to conflict of law principles thereunder.
 5
 
-PAGE NUMBER: 7
 
 21.
 Choice of Venue
@@ -3339,7 +3240,6 @@ Imposition of Other Requirements
 * * * * *
 6
 
-PAGE NUMBER: 8
 
 PERFORMANCE AWARD
 EXHIBIT A
@@ -3368,7 +3268,6 @@ For purposes of the Award, the following definitions will apply:
 •	“Comparison Group” means the Company and each other company included in the Standard & Poor’s 500 index on the first day of the Performance Period and, except as provided below, the common stock (or similar equity security) of which continues to be listed or traded on a national securities exchange through the last trading day of the Performance Period. In the event a member of the Comparison Group files for bankruptcy or liquidates due to an insolvency, such company shall continue to be treated as a Comparison Group member, and such company’s Ending Price will be treated as $0 if the common stock (or similar equity security) of such company is no longer listed or traded on a national securities
 A-1
 
-PAGE NUMBER: 9
 
 exchange on the last trading day of the Performance Period. In the event of a formation of a new parent company by a Comparison Group member, substantially all of the assets and liabilities of which consist immediately after the transaction of the equity interests in the original Comparison Group member or the assets and liabilities of such Comparison Group member immediately prior to the transaction, such new parent company shall be substituted for the Comparison Group member to the extent (and for such period of time) as its common stock (or similar equity securities) are listed or traded on a national securities exchange but the common stock (or similar equity securities) of the original Comparison Group member are not. In the event of a merger or other business combination of two Comparison Group members (including, without limitation, the acquisition of one Comparison Group member, or all or substantially all of its assets, by another Comparison Group member), the surviving, resulting or successor entity, as the case may be, shall continue to be treated as a member of the Comparison Group, provided that the common stock (or similar equity security) of such entity is listed or traded on a national securities exchange through the last trading day of the Performance Period. With respect to the preceding two sentences, the applicable stock prices shall be equitably and proportionately adjusted to the extent (if any) necessary to preserve the intended incentives of the awards and mitigate the impact of the transaction.
 
@@ -3382,7 +3281,6 @@ exchange on the last trading day of the Performance Period. In the event of a fo
 With respect to the computation of TSR, Beginning Price, and Ending Price, there shall also be an equitable and proportionate adjustment to the extent (if any) necessary to preserve the intended incentives of the awards and mitigate the impact of any stock split, stock dividend or reverse stock split occurring during the Performance Period (or during the applicable 20-day period in determining Beginning Price or Ending Price, as the case may be).
 A-2
 
-PAGE NUMBER: 10
 
 In the event of any ambiguity or discrepancy, the determination of the Committee shall be final and binding.
 * * * * *

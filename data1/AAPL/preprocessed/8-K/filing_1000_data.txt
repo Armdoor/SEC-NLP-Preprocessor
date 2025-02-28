@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -74,7 +73,6 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨		Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨		Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -90,7 +88,6 @@ ExhibitNumber		Description
 	
 99.2		Data sheet issued by Apple Inc. on April 23, 2014.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -102,7 +99,6 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registr
 Date: April 23, 2014				By:		/s/ Peter Oppenheimer
 						Peter OppenheimerSenior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 4
 
 EXHIBIT INDEX
 
@@ -114,7 +110,6 @@ ExhibitNumber		Description
 	
 99.2		Data sheet issued by Apple Inc. on April 23, 2014.
 
-PAGE NUMBER: 1
 
 EX-99.1
 Exhibit 99.1
@@ -135,7 +130,6 @@ Apple is providing the following guidance for its fiscal 2014 third quarter:
 •		tax rate of 26.1 percent
 Apple will provide live streaming of its Q2 2014 financial results conference call beginning at 2:00 p.m. PDT on April 23, 2014 at www.apple.com/quicktime/qtv/earningsq214. This webcast will also be available for replay for approximately two weeks thereafter.
 
-PAGE NUMBER: 2
 
 This press release contains forward-looking statements including without limitation those about the Company’s estimated revenue, gross margin, operating expenses, other income/(expense), and tax rate. These statements involve risks and uncertainties, and actual results may differ. Risks and uncertainties include without limitation the effect of competitive and economic factors, and the Company’s reaction to those factors, on consumer and business buying decisions with respect to the Company’s products; continued competitive pressures in the marketplace; the ability of the Company to deliver to the marketplace and stimulate customer demand for new programs, products, and technological innovations on a timely basis; the effect that product introductions and transitions, changes in product pricing or mix, and/or increases in component costs could have on the Company’s gross margin; the inventory risk associated with the Company’s need to order or commit to order product components in advance of customer orders; the continued availability on acceptable terms, or at all, of certain components and services essential to the Company’s business currently obtained by the Company from sole or limited sources; the effect that the Company’s dependency on manufacturing and logistics services provided by third parties may have on the quality, quantity or cost of products manufactured or services rendered; risks associated with the Company’s international operations; the Company’s reliance on third-party intellectual property and digital content; the potential impact of a finding that the Company has infringed on the intellectual property rights of others; the Company’s dependency on the performance of distributors, carriers and other resellers of the Company’s products; the effect that product and service quality problems could have on the Company’s sales and operating profits; the continued service and availability of key executives and employees; war, terrorism, public health issues, natural disasters, and other circumstances that could disrupt supply, delivery, or demand of products; and unfavorable results of other legal proceedings. More information on potential factors that could affect the Company’s financial results is included from time to time in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s public reports filed with the SEC, including the Company’s Form 10-K for the fiscal year ended September 28, 2013, its Form 10-Q for the quarter ended December 28, 2013, and its Form 10-Q for the quarter ended March 29, 2014 to be filed with the SEC. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple designs Macs, the best personal computers in the world, along with OS X, iLife, iWork and professional software. Apple leads the digital music revolution with its iPods and iTunes online store. Apple has reinvented the mobile phone with its revolutionary iPhone and App Store, and is defining the future of mobile media and computing devices with iPad.
@@ -155,7 +149,6 @@ NOTE TO EDITORS: For additional information visit Apple’s PR website (www.appl
 ©
 2014 Apple Inc. All rights reserved. Apple, the Apple logo, Mac, Mac OS and Macintosh are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
 
-PAGE NUMBER: 3
 
 Apple Inc.
 UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
@@ -203,7 +196,6 @@ Cost of sales		$	110			$	87			$	219			$	172
 Research and development		$	300			$	239			$	589			$	463	
 Selling, general and administrative		$	286			$	249			$	569			$	485	
 
-PAGE NUMBER: 4
 
 Apple Inc.
 UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS
@@ -264,7 +256,6 @@ Total shareholders’ equity			120,179				123,549
 Total liabilities and shareholders’ equity		$	205,989			$	207,000	
 								
 
-PAGE NUMBER: 5
 
 Apple Inc.
 UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS

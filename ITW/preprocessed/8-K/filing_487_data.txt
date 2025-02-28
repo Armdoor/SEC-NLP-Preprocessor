@@ -1,0 +1,325 @@
+0000049826-19-000017.hdr.sgml : 20190214
+20190214102643
+ACCESSION NUMBER:		0000049826-19-000017
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20190214
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20190214
+DATE AS OF CHANGE:		20190214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		19602156
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported): February 14, 2019
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+
+
+
+		
+		
+Delaware	1-4797	36-1258310
+(State or other jurisdiction of incorporation)	(Commission File No.)	(I.R.S. Employer Identification No.)
+		
+155 Harlem Avenue, Glenview, IL		60025
+(Address of principal executive offices)		(Zip Code)
+Registrant's telephone number, including area code: 847-724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company [ ]
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+	
+	
+[ ]	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+[ ]	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+[ ]	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+[ ]	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+
+Item 8.01 Other Events
+8.01(a) Amended Forms of Grant under 2015 Long-Term Incentive Plan
+Amended forms of grant for stock options, performance share units, or PSUs, and Performance Cash grants, to be issued pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan, are included as exhibits to this report.
+Item 9.01 Financial Statements and Exhibits
+
+
+
+			
+(d)	Exhibits		
+			
+	Exhibit Number		Exhibit Description
+			
+	99.1		Form of stock option terms pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+			
+	99.2		Form of performance share unit terms pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+			
+	99.3		Form of performance cash grant pursuant to the Illinois Tool Works Inc. 2015 Long-Term Incentive Plan
+			
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+
+	
+	
+	ILLINOIS TOOL WORKS INC.
+	
+	
+Dated: February 14, 2019	By:/s/ Norman D. Finch Jr.
+	Norman D. Finch Jr.
+	Senior Vice President, General Counsel and Secretary
+
+
+Exhibit
+EXHIBIT 99.1
+TERMS OF OPTION GRANT
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	The Option period shall be for 10 years from [GRANT DATE] (the “Grant Date”). Accordingly, no Options under this grant may be exercised after the close of business in Chicago on [EXPIRATION DATE] (the “Expiration Date”). Except as otherwise provided in this Option agreement or the Plan, no purchase of Shares may be made under this Option during the first year of the Option period. During the second year of the Option period, you shall have the right to purchase 25% of the total number of optioned Shares, and in each of the next three years an additional 25% of the total number of Shares optioned hereunder. Such rights to exercise shall be cumulative and may be exercised in any succeeding year of the Option period up to the extent vested but not exercised in a previous year or years. On the Expiration Date, all rights under this agreement as to any Shares covered by the Option (to the extent not previously exercised) shall terminate.
+	
+(b)	You shall have no voting, dividend or subscription rights except with respect to the Shares which have been issued to you following your exercise of part or all of the Option. Your rights under this Option agreement may not be assigned or transferred other than as permitted by the Plan, and during your lifetime the Option shall be exercisable only by you personally.
+	
+(c)	If prior to the Expiration Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, your Option shall be fully vested and exercisable until the Expiration Date.
+	
+(d)	If you incur a Retirement prior to the Expiration Date, and your Option was granted within a year prior to your Retirement, then 25% of your Option shall become vested one year after the Grant Date; the remaining 75% shall be forfeited. If your Option was granted more than a year prior to your Retirement, then 100% of your Option shall continue to vest in accordance with paragraph (a) above. The vested portion of your Option is then exercisable not later than the Expiration Date. The vesting provisions in this paragraph (d) are subject to your execution of a restrictive covenant and release of claims in such form as the Company may require within 30 days of your Retirement date if requested by any member of the Company Group.
+	
+(e)	If your employment terminates for any reason other than death, Disability, or Retirement, you will forfeit any unvested Options and your Options that were vested prior to termination and not previously exercised may be exercised by you during the 90-day period commencing on the date of your termination but not later than the Expiration Date. If you die during this 90-day period, the exercise period will be extended to the earlier of two years from the date of death or the Expiration Date.
+	
+(f)	In the event of a Change in Control, the provisions of Article 18 of the Plan shall control.
+	
+(g)	Notwithstanding the foregoing, the Committee may, in its sole discretion, deem this Option, whether vested or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or divulge confidential information about the Company Group to other persons.
+Universal Option Agreement 2019
+1
+
+
+
+
+	
+(h)	The Option is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this Option agreement shall have the meanings ascribed to them in the Plan. A prospectus describing the Plan has been delivered to you. The Plan itself is available upon request.
+	
+(i)	This Option agreement and the provisions of the Plan are governed by, and subject to, the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this Option agreement or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois and agree that such litigation shall be conducted exclusively in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, and no other courts, where this grant is made and/or to be performed.
+	
+(j)	You must follow the procedures for exercising Options established by the Company from time to time. At the time of exercise, you must pay the Option Price using the payment methods established by the Company for all of the Options being exercised and any applicable Tax-Related Items (as defined below) that are required to be withheld by the Company or, if different, your employer (the “Employer”) in connection with the exercise.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or the Employer, the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Option, including, but not limited to, the grant, vesting or exercise of the Option, the subsequent sale of Shares acquired pursuant to such exercise and the receipt of any dividends; and (2) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Option to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to the relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
+	
+(i)	withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or
+	
+(ii)	withholding from proceeds of the sale of Shares acquired upon exercise of the Option either through a voluntary sale or through a mandatory sale arranged by the Company (on your behalf pursuant to this authorization without further consent); or
+	
+(iii)	withholding in Shares to be issued upon exercise of the Option (notwithstanding the foregoing, if you are subject to the short-swing profit rules of Section 16(b) of the Exchange Act, the Company and/or the Employer will satisfy the obligations with regard to all Tax-Related Items only by
+Universal Option Agreement 2019
+2
+
+
+withholding in Shares to be issued upon exercise of the Option, unless such withholding method is not permissible under applicable law, in which case you may elect to satisfy the Tax-Related Items by one of the other methods identified above); or
+(iv) any other method determined by the Company.
+The Company may withhold or account for Tax-Related Items by considering statutory withholding amounts or other applicable withholding rates, including maximum rates applicable in your jurisdiction(s), in which case you may receive a refund of any over-withheld amount in cash and will have no entitlement to the equivalent amount in Shares. If the obligation for Tax-Related Items is satisfied by withholding in Shares, for tax purposes, you are deemed to have been issued the full number of Shares subject to the exercised Option, notwithstanding that a number of the Shares are held back solely for the purpose of paying the Tax-Related Items.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the Shares or the proceeds of the sale of Shares if you fail to comply with your obligations in connection with the Tax-Related Items.
+
+
+	
+(l)	The provisions of this Option agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The Option is subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction, (iii) the Compensation Recovery Policy of the Company or similar policy as in effect from time to time and (iv) any policies adopted by the Company to implement the foregoing requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	You are not permitted to purchase or sell options on the Company’s common stock or engage in short sales of the Company’s common stock. In addition, if you are an executive officer or director, you acknowledge that you are not permitted to engage in trading puts, calls, straddles, equity swaps or other derivative securities that are directly linked to the Company’s common stock and are subject to any Company policies regarding stock trading, hedging and pledging Company common stock or other Company equity securities. For purposes of this paragraph, an “executive officer” means any officer classified by the Company as a reporting person under Section 16 of the Exchange Act.
+	
+(o)	In the event of a stock dividend, stock split, reverse stock split, Share combination, recapitalization, reclassification or similar event affecting the capital structure of the Company, appropriate adjustment will be made in the number of Shares subject to the Option and in the Option Price per Share.
+	
+(p)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+Universal Option Agreement 2019
+3
+
+
+
+
+	
+(q)	The Company reserves the right to impose other requirements on your participation in the Plan, on the Option and on any Shares purchased upon exercise of the Option, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+	
+(r)	Notwithstanding any provisions in this Option agreement, the Option shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. If you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendices A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this Option agreement.
+Universal Option Agreement 2019
+4
+
+
+Exhibit
+EXHIBIT 99.2
+TERMS OF PERFORMANCE SHARE UNIT (“PSU”) GRANT
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	Except as otherwise provided in this PSU agreement or the Plan, no portion of the PSU will vest prior to three years from [GRANT DATE] (the “Grant Date”). On [VESTING DATE] (the “Vesting Date”), this PSU shall vest to the extent the Committee has certified that the performance goals established for this PSU have been met. Upon vesting, you will receive one Share for each Share subject to this PSU according to the level of achievement of the performance goals and payout scale established by the Committee for this grant. This PSU will be considered to be paid on the Vesting Date if the Shares are issued within 60 days after the Vesting Date; provided, however, that the Committee has certified the level of achievement of the performance goals prior to the actual payment date.
+	
+(b)	The Company shall credit to a bookkeeping account maintained on your behalf an amount equal to any cash dividends you would have received, if the Shares subject to this PSU between the Grant Date and the Vesting Date had been issued and outstanding. The amount credited to the bookkeeping account shall be credited as additional PSUs which shall be subject to the performance goals and vesting conditions of this award and paid to you upon vesting of the PSU. Except as provided herein, you shall have no voting, dividend or subscription rights except with respect to the Shares which have been issued to you following the vesting of your PSUs. Your rights under this PSU agreement may not be assigned or transferred other than as permitted by the Plan.
+	
+(c)	If, prior to the Vesting Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, this PSU grant shall vest on the Vesting Date to the full extent of the performance goal level of achievement certified by the Committee.
+	
+(d)	If you incur a Retirement prior to the Vesting Date, your PSU will become pro-rata vested on the Vesting Date for the portion of the Performance Period that you were employed and based on the performance achievement level certified by the Committee. For the avoidance of doubt, if you incur a Retirement after the end of the Performance Period and before the Vesting Date, the pro-rata vesting percentage shall be 100%, subject to the performance achievement level. The vesting provisions in this paragraph (d) are subject to your execution of a restrictive covenant and release of claims, in such form as the Company may require, within 30 days after your Retirement date, but in no event later than the actual payment date under paragraph (a), if requested by any member of the Company Group.
+	
+(e)	If, prior to the Vesting Date, your employment terminates for any reason other than death, Disability, or Retirement, you will forfeit your PSUs.
+	
+(f)	In the event of a Change in Control, the provisions of Article 18 of the Plan shall control.
+	
+(g)	Notwithstanding the foregoing, the Committee may, in its sole discretion, deem this PSU grant, whether vested (but not yet paid) or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+Universal PSU Agreement 2019
+
+
+
+
+	
+(h)	The PSU is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this PSU agreement shall have the meanings ascribed to them in the Plan. A prospectus describing the Plan has been delivered to you. The Plan itself is available upon request.
+	
+(i)	This PSU agreement and the provisions of the Plan are governed by, and subject to, the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this grant or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois and agree that such litigation shall be conducted exclusively in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, and no other courts, where this grant is made and/or to be performed.
+	
+(j)	The PSUs granted hereunder are intended to be exempt from or compliant with Code Section 409A, and shall be interpreted, construed and operated to reflect this intent.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the PSU, including, but not limited to, the grant, vesting or settlement of the PSU, the subsequent sale of Shares acquired pursuant to such settlement and the receipt of any dividends; and (2) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the PSU to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to the relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
+	
+(i)	withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or
+	
+(ii)	withholding from proceeds of the sale of Shares acquired upon settlement of the PSU either through a voluntary sale or through a mandatory sale arranged by the Company (on your behalf pursuant to this authorization without further consent); or
+	
+(iii)	withholding in Shares to be issued upon settlement of the PSU (notwithstanding the foregoing, if you are subject to the short-swing profit rules of Section 16(b) of the Exchange Act, the Company and/or the Employer will satisfy the obligations with regard to all Tax-Related Items only by withholding in Shares to be issued upon vesting/settlement of the PSU, unless such withholding method is not
+2
+Universal PSU Agreement 2019
+
+
+permissible under applicable law, in which case you may elect to satisfy the Tax-Related Items by one of the other methods identified above); or
+
+
+	
+(iv)	any other method determined by the Company.
+The Company may withhold or account for Tax-Related Items by considering statutory withholding amounts or other applicable withholding rates, including maximum rates applicable in your jurisdiction(s), in which case you may receive a refund of any over-withheld amount in cash and will have no entitlement to the equivalent amount in Shares. If the obligation for Tax-Related Items is satisfied by withholding in Shares, for tax purposes, you are deemed to have been issued the full number of Shares subject to the vested PSU, notwithstanding that a number of the Shares are held back solely for the purpose of paying the Tax-Related Items.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the Shares or the proceeds of the sale of Shares if you fail to comply with your obligations in connection with the Tax-Related Items.
+	
+(l)	The provisions of this PSU agreement are severable, and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The PSUs are subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction, (iii) the Compensation Recovery Policy of the Company or similar policy as in effect from time to time and (iv) any policies adopted by the Company to implement the foregoing requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	You are not permitted to purchase or sell options on the Company’s common stock or engage in short sales of the Company’s common stock. In addition, if you are an executive officer or director, you acknowledge that you are not permitted to engage in trading puts, calls, straddles, equity swaps or other derivative securities that are directly linked to the Company’s common stock and are subject to any Company policies regarding stock trading, hedging and pledging Company common stock or other Company equity securities. For purposes of this paragraph, an “executive officer” means any officer classified by the Company as a reporting person under Section 16 of the Exchange Act.
+	
+(o)	In the event of a stock dividend, stock split, reverse stock split, Share combination, recapitalization, reclassification or similar event affecting the capital structure of the Company, appropriate adjustment will be made in the number of Shares subject to this PSU.
+	
+(p)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+	
+(q)	The Company reserves the right to impose other requirements on your participation in the Plan, on the PSUs and on any Shares acquired under the Plan, to the extent the Company determines it is necessary or advisable
+3
+Universal PSU Agreement 2019
+
+
+for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+
+	
+(r)	Notwithstanding any provisions in this PSU agreement, the PSU shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. If you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendices A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this PSU agreement.
+4
+Universal PSU Agreement 2019
+
+
+Exhibit
+EXHIBIT 99.3
+TERMS OF PERFORMANCE CASH AWARD
+PURSUANT TO THE
+ILLINOIS TOOL WORKS INC. 2015 LONG-TERM INCENTIVE PLAN (THE “PLAN”)
+
+
+	
+(a)	Except as otherwise provided in this performance cash agreement or the Plan, no portion of the performance cash award will vest prior to three years from [GRANT DATE] (the “Grant Date”). Three years from the grant date (the “Vesting Date”), the performance cash award will become vested to the extent of the performance achievement level certified by the Committee. You will be entitled to receive a cash payment on the Vesting Date according to the level of achievement of the performance goals and payout scale established for this grant. Payment will be made within 60 days after the Vesting Date; provided, however, that the Committee has certified the level of achievement of the performance goal prior to the actual payment date.
+	
+(b)	Your rights under this performance cash agreement may not be assigned or transferred other than as permitted by the Plan.
+	
+(c)	If, prior to the Vesting Date, your employment with the Company and its Subsidiaries and Affiliates (the “Company Group”) terminates by reason of death or Disability, your performance cash grant shall become vested on the Vesting Date to the full extent of the performance achievement level certified by the Committee.
+	
+(d)	If you incur a Retirement prior to the Vesting Date, your performance cash grant will become pro-rata vested on the Vesting Date for the portion of the Performance Period that you were employed and based on the performance achievement level certified by the Committee. For the avoidance of doubt, if you incur a Retirement after the end of the Performance Period and before the Vesting Date, the pro-rata vesting percentage shall be 100%, subject to the performance achievement level. The vesting provisions in this paragraph (d) are subject to your execution of a restrictive covenant and release of claims, in such form as the Company may require, within 30 days after your Retirement date, but in no event later than the actual payment date under paragraph (a), if requested by any member of the Company Group.
+	
+(e)	If, prior to the Vesting Date, your employment terminates for any reason other than death, Disability, or Retirement, you will forfeit your performance cash grant.
+	
+(f)	In the event of a Change in Control, the provisions of Article 18 of the Plan shall control.
+	
+(g)	Notwithstanding the foregoing, the Committee may, in its sole discretion, deem this performance cash grant, whether vested (but not yet paid) or unvested, to be immediately forfeited if you compete with the Company Group, engage in gross misconduct or conduct that is against the business interests of the Company Group, or you divulge confidential information about the Company Group to other persons.
+	
+(h)	The performance cash grant is subject to the terms of the Plan. Any inconsistencies shall be resolved in favor of the Plan. Capitalized terms used but not otherwise defined in this performance cash agreement shall have the meanings ascribed to them in the Plan. A prospectus describing the Plan has been delivered to you. The Plan itself is available upon request.
+	
+(i)	This performance cash agreement and the provisions of the Plan are governed by, and subject to the laws of the State of Illinois, United States of America, without regard to the conflict of law provisions. For purposes of litigating any dispute that arises under this grant or the Plan, the parties hereby submit to and consent to the exclusive jurisdiction of the State of Illinois and agree that such litigation shall be conducted exclusively
+Universal Performance Cash Grant 2019
+
+
+in the courts of Cook County, Illinois, or the federal courts for the United States for the Northern District of Illinois, and no other courts, where this grant is made and/or to be performed.
+
+
+	
+(j)	The performance cash grant is intended to be exempt from or compliant with Code Section 409A, and shall be interpreted, construed and operated to reflect this intent.
+	
+(k)	You acknowledge that, regardless of any action taken by the Company or, if different, your employer (the “Employer”), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items related to your participation in the Plan and legally applicable to you or deemed by the Company or the Employer in its discretion to be an appropriate charge to you even if legally applicable to the Company or the Employer as a result of your participation in the Plan (“Tax-Related Items”) is and remains your responsibility and may exceed the amount withheld (if any) by the Company or the Employer. You further acknowledge that the Company and/or the Employer (1) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the performance cash grant, including, but not limited to, the grant, vesting or payment of the performance cash grant; and (2) do not commit to and are under no obligation to structure the terms of the performance cash grant or any aspect of the performance cash grant to reduce or eliminate your liability for Tax-Related Items or achieve any particular tax result. Further, if you are subject to Tax-Related Items in more than one jurisdiction, you acknowledge that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
+Prior to any relevant taxable or tax withholding event, as applicable, you agree to make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items.
+In this regard, you authorize the Company and/or the Employer, or their respective agents, at their discretion, to satisfy their withholding obligations with regard to all Tax-Related Items by one or a combination of the following: (1) withholding from your wages or other cash compensation paid to you by the Company, its Affiliates or Subsidiaries and/or the Employer; or (2) withholding from the cash payment upon vesting of the performance cash grant.
+Finally, you agree to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of your participation in the Plan that cannot be satisfied by the means previously described.
+	
+(l)	The provisions of this performance cash agreement are severable, and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+	
+(m)	The performance cash grant is subject to the requirements of (i) Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (regarding recovery of erroneously awarded compensation) and any implementing rules and regulations thereunder, (ii) similar rules under the laws of any other jurisdiction, (iii) the Compensation Recovery Policy of the Company or similar policy as in effect from time to time and (iv) any policies adopted by the Company to implement the foregoing requirements, all to the extent determined by the Company in its discretion to be applicable to you.
+	
+(n)	The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+	
+(o)	The Company reserves the right to impose other requirements on your participation in the Plan, on the performance cash grant and on the cash payment, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require you to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+Universal Performance Cash Grant 2019
+2
+
+
+
+
+	
+(p)	Notwithstanding any provisions in this performance cash agreement, the performance cash grant shall be subject to the general terms and conditions set forth in Appendix A for Participants who reside outside the United States, as well as to any country-specific terms and conditions set forth in Appendix B for Participants who reside in any of the countries included in Appendix B. Moreover, if you relocate outside the United States or between countries included in Appendix B, the additional terms and conditions in Appendix A and B, as applicable, will apply to you, to the extent the Company determines that the application of such terms and conditions is necessary or advisable for legal or administrative reasons. Appendices A and B constitute part of this performance cash agreement.
+Universal Performance Cash Grant 2019
+3

@@ -1,0 +1,33 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Title of each class",
+    "Trading symbol",
+    "Name of each exchange on which registered"
+  ],
+  [
+    "Common stock, par value $0.01 per share",
+    "ASB",
+    "New York Stock Exchange"
+  ],
+  [
+    "Depositary Shrs, each representing 1/40th intrst in a shr of 5.875% Non-Cum. Perp Pref Stock, Srs E",
+    "ASB PrE",
+    "New York Stock Exchange"
+  ],
+  [
+    "Depositary Shrs, each representing 1/40th intrst in a shr of 5.625% Non-Cum. Perp Pref Stock, Srs F",
+    "ASB PrF",
+    "New York Stock Exchange"
+  ]
+]

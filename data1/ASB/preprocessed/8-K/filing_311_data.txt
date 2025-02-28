@@ -1,0 +1,954 @@
+0000007789-23-000069.hdr.sgml : 20231019
+20231019161617
+ACCESSION NUMBER:		0000007789-23-000069
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20231019
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20231019
+DATE AS OF CHANGE:		20231019
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		231334905
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20231019
+
+
+					
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, DC 20549
+FORM	8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+					
+Date of Report (Date of earliest event reported)	October 19, 2023
+		
+Associated Banc-Corp
+(Exact name of registrant as specified in its chapter)
+								
+Wisconsin	001-31343	39-1098068
+(State or other jurisdiction of incorporation)	(Commission File Number)	(IRS Employer Identification No.)
+											
+433 Main Street	Green Bay	Wisconsin	54301
+(Address of principal executive offices)	(Zip code)
+								
+Registrant’s telephone number, including area code	920	491-7500
+					
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered Pursuant to Section 12(b) of the act:
+								
+Title of each class	Trading symbol	Name of each exchange on which registered
+Common stock, par value $0.01 per share	ASB	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.875% Non-Cum. Perp Pref Stock, Srs E	ASB PrE	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.625% Non-Cum. Perp Pref Stock, Srs F	ASB PrF	New York Stock Exchange
+6.625% Fixed-Rate Reset Subordinated Notes due 2033	ASBA	New York Stock Exchange
+					
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐	Emerging growth company
+☐	If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+
+
+		
+Item 2.02 Results of Operations and Financial Condition.
+
+On October 19, 2023, Associated Banc-Corp announced its earnings for the quarter ended September 30, 2023. A copy of the registrant’s press release containing this information and the slide presentation discussed on the conference call for investors and analysts on October 19, 2023, are being furnished as Exhibit 99.1 and Exhibit 99.2, respectively, to this Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are furnished as part of this Report on Form 8-K:
+99.1 Press release of the registrant dated October 19, 2023, containing financial information for the quarter ended September 30, 2023.
+
+99.2 Slide presentation discussed on the conference call for investors and analysts on October 19, 2023.
+
+
+
+
+								
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	Associated Banc-Corp
+	(Registrant)
+	
+	
+Date: October 19, 2023	By: /s/ Derek S. Meyer
+	Derek S. Meyer
+	Chief Financial Officer
+
+
+Document
+Exhibit 99.1
+
+
+					
+	NEWS RELEASEInvestor Contact:Ben McCarville, Vice President, Director of Investor Relations920-491-7059Media Contact:Jennifer Kaminski, Vice President, Public Relations Senior Manager920-491-7576
+		
+
+Associated Banc-Corp Reports Third Quarter 2023 Net Income Available to Common Equity of $80 Million, or $0.53 per Common Share
+Results driven by balance sheet growth and continued progress against the Company's strategic initiatives
+GREEN BAY, Wis. -- October 19, 2023 -- Associated Banc-Corp (NYSE: ASB) ("Associated" or "Company") today reported net income available to common equity ("earnings") of $80 million, or $0.53 per common share, for the quarter ended September 30, 2023. These amounts compare to earnings of $84 million, or $0.56 per common share, for the quarter ended June 30, 2023 and earnings of $93 million, or $0.62 per common share, for the quarter ended September 30, 2022.
+"We continued to see steady improvements in customer acquisition, retention and satisfaction scores during the quarter, enabling us to grow core customer deposits by over $500 million and decrease our reliance on non-customer funding sources," said President and CEO Andy Harmening. "Our strategic initiatives have also enabled us to deliver another quarter of balanced, high-quality loan growth.
+While we feel well positioned today, we recognize that the banking environment continues to evolve, and we look forward to sharing more details about the second phase of our strategic plan later this quarter.”
+Third Quarter 2023 Highlights (all comparisons to the second quarter of 2023)
+•
+Total period end commercial loans increased $68 million to $18.5 billion
+Total period end consumer loans increased $276 million to $11.7 billion
+Total period end deposits increased $109 million to $32.1 billion
+Quarterly net interest margin decreased 9 basis points to 2.71%
+Noninterest income increased $1 million to $67 million
+Noninterest expense increased $6 million to $196 million
+Provision for credit losses on loans remained flat at $22 million
+Net income available to common equity decreased $4 million to $80 million
+
+
+Loans
+Third quarter 2023 average total loans of $29.9 billion were up 2%, or $446 million, from the prior quarter and were up 10%, or $2.8 billion, from the same period last year. With respect to third quarter 2023 average balances by loan category:
+•
+Commercial and business lending increased $86 million from the prior quarter and increased $793 million from the same period last year to $11.0 billion.
+Commercial real estate lending increased $17 million from the prior quarter and increased $545 million from the same period last year to $7.3 billion.
+Consumer lending increased $343 million from the prior quarter and increased $1.5 billion from the same period last year to $11.6 billion.
+Third quarter 2023 period end total loans of $30.2 billion were up 1%, or $344 million, from the prior quarter and were up 9%, or $2.4 billion, from the same period last year. With respect to third quarter 2023 period end balances by loan category:
+Commercial and business lending increased $40 million from the prior quarter and increased $582 million from the same period last year to $11.2 billion.
+Commercial real estate lending increased $28 million from the prior quarter and increased $450 million from the same period last year to $7.3 billion.
+Consumer lending increased $276 million from the prior quarter and increased $1.3 billion from the same period last year to $11.7 billion.
+In 2023, we now expect full-year total loan growth of 5% to 6%.
+Deposits
+Third quarter 2023 average deposits of $32.0 billion were up 2%, or $721 million, from the prior quarter and were up 11%, or $3.1 billion, from the same period last year. With respect to third quarter 2023 average balances by deposit category:
+Noninterest-bearing demand deposits decreased $351 million from the prior quarter and decreased $1.8 billion from the same period last year to $6.3 billion.
+Savings increased $65 million from the prior quarter and increased $79 million from the same period last year to $4.8 billion.
+Interest-bearing demand deposits increased $315 million from the prior quarter and increased $392 million from the same period last year to $7.0 billion.
+Money market deposits decreased $450 million from the prior quarter and decreased $1.0 billion from the same period last year to $6.3 billion.
+Total time deposits increased $970 million from the prior quarter and increased $4.7 billion from the same period last year to $6.0 billion.
+Network transaction deposits increased $172 million from the prior quarter and increased $766 million from the same period last year to $1.6 billion.
+
+
+Third quarter 2023 period end deposits of $32.1 billion were up $109 million from the prior quarter and were up 10%, or $2.9 billion, from the same period last year. With respect to third quarter 2023 period end balances by deposit category:
+•
+Noninterest-bearing demand deposits decreased $143 million from the prior quarter and decreased $1.8 billion from the same period last year to $6.4 billion.
+Savings increased $59 million from the prior quarter and increased $128 million from the same period last year to $4.8 billion.
+Interest-bearing demand deposits increased $490 million from the prior quarter and increased $406 million from the same period last year to $7.5 billion.
+Money market deposits decreased $253 million from the prior quarter and decreased $641 million from the same period last year to $7.3 billion.
+Total time deposits decreased $45 million from the prior quarter and increased $4.8 billion from the same period last year to $6.1 billion.
+Network transaction deposits (included in money market and interest-bearing deposits) increased $49 million from the prior quarter and increased $785 million from the same period last year to $1.6 billion.
+We continue to expect total core customer deposits (which excludes network transaction deposits and brokered CDs) to decrease by 3% in 2023 on a period end basis, with 2% growth in the second half of the year.
+Net Interest Income and Net Interest Margin
+Third quarter 2023 net interest income of $254 million de
+creased
+$4 million, or 1%, from the prior quarter and decreased
+$10 million, or 4%, f
+rom the same period last
+year
+. The net interest margin decreased to
+2.71%, reflecting a
+9 basis point decrease from the prior quarter and
+a 42 basis point decrease from the same period last year
+.
+The average yield on total loans for the third quarter of 2023 increased 19 basis points from the prior quarter and increased 190 basis points from the same period last year to 5.96%.
+The average cost of total interest-bearing liabilities for the third quarter of 2023 increased 30 basis points from the prior quarter and increased 255 basis points from the same period last year to 3.36%.
+The net free funds benefit for the third quarter of 2023 increased three basis points from the prior quarter and increased 49 basis points compared to the same period last year to 0.71%.
+We now expect total net interest income growth of 8% to 10% in 2023.
+Noninterest Income
+Third quarter 2023 total noninterest income of $67 million increased $1 million, or 2%, from the prior quarter and decreased $4 million, or 6%, from the same period last year. With respect to third quarter 2023 noninterest income line items:
+Mortgage banking, net was $7 million for the third quarter, down $1 million from the prior quarter and up $4 million from the same period last year.
+
+
+•
+Service charges and deposit account fees increased slightly from the prior quarter and decreased $2 million from the same period last year.
+Capital markets, net increased slightly from the prior quarter and decreased $2 million from the same period last year.
+Asset gains (losses) increased $1 million from the prior quarter and increased $1 million from the same period last year.
+We continue to expect total noninterest income to compress by 8% to 10% in 2023.
+Noninterest Expense
+Third quarter 2023 total noninterest expense of $196 million increased $6 million, or 3%, from the prior quarter and increased slightly from the same period last year as we continued to invest in our strategic initiatives. With respect to third quarter 2023 noninterest expense line items:
+Personnel expense increased $3 million from the prior quarter and decreased $1 million from the same period last year.
+Technology expense increased $2 million from the prior quarter and increased $3 million from the same period last year.
+Occupancy expense increased $1 million from the prior quarter and increased slightly from the same period last year.
+We continue to expect total noninterest expense growth of 3% to 4% in 2023, excluding any nonrecurring items incurred in the fourth quarter.
+Taxes
+The third quarter 2023 tax expense was $19 million compared to $24 million of tax expense in the prior quarter and $26 million of tax expense in the same period last year.
+The effective tax rate for the third quarter of 2023 was 18.9% compared to an effective tax rate of 21.3% in the prior quarter and an effective tax rate of 21.4% in the same period last year.
+We continue to expect the 2023 effective tax rate to be between 20% and 21%, assuming no change in the statutory corporate tax rate.
+Credit
+The third quarter 2023 provision for credit losses on loans was $22 million, compared to a provision of $22 million in the prior quarter and a provision of $17 million in the same period last year. With respect to third quarter 2023 credit quality:
+
+
+•
+Nonaccrual loans of $169 million were up $37 million from the prior quarter and up $52 million from the same period last year. The nonaccrual loans to total loans ratio was 0.56% in the third quarter, up from 0.44% in the prior quarter and up from 0.42% in the same period last year.
+Third quarter 2023 net charge offs of $18 million were up compared to net charge offs of $11 million in the prior quarter and were up compared to net charge offs of $2 million in the same period last year.
+The allowance for credit losses on loans (ACLL) of $381 million was up $4 million compared to the prior quarter and up $48 million compared to the same period last year. The ACLL to total loans ratio was 1.26% in the third quarter, flat with the prior quarter and up from 1.20% in the same period last year.
+In 2023, we expect to adjust provision to reflect changes to risk grades, economic conditions, loan volumes, and other indications of credit quality.
+Capital
+The Company’s capital position remains strong, with a CET1 capital ratio of 9.55%
+at September 30, 2023. The Company’s capital ratios continue to be in excess of the Basel III “well-capitalized” regulatory benchmarks on a fully phased in basis.
+
+
+THIRD QUARTER 2023 EARNINGS RELEASE CONFERENCE CALL
+The Company will host a conference call for investors and analysts at 4:00 p.m. Central Time (CT) today, October 19, 2023. Interested parties can access the live webcast of the call through the Investor Relations section of the Company's website, http://investor.associatedbank.com. Parties may also dial into the call at 877-407-8037 (domestic) or 201-689-8037 (international) and request the Associated Banc-Corp third quarter 2023 earnings call. The third quarter 2023 financial tables with an accompanying slide presentation will be available on the Company's website just prior to the call. An audio archive of the webcast will be available on the Company's website approximately fifteen minutes after the call is over.
+ABOUT ASSOCIATED BANC-CORP
+Associated Banc-Corp (NYSE: ASB) has total assets of $42 billion and is the largest bank holding company based in Wisconsin. Headquartered in Green Bay, Wisconsin, Associated is a leading Midwest banking franchise, offering a full range of financial products and services from more than 200 banking locations serving more than 100 communities throughout Wisconsin, Illinois and Minnesota. The Company also operates loan production offices in Indiana, Michigan, Missouri, New York, Ohio and Texas. Associated Bank, N.A. is an Equal Housing Lender, Equal Opportunity Lender and Member FDIC. More information about Associated Banc-Corp is available at www.associatedbank.com.
+FORWARD-LOOKING STATEMENTS
+Statements made in this document which are not purely historical are forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995. This includes any statements regarding management’s plans, objectives, or goals for future operations, products or services, and forecasts of its revenues, earnings, or other measures of performance. Such forward-looking statements may be identified by the use of words such as “believe,” “expect,” “anticipate,” “plan,” “estimate,” “should,” “will,” “intend,” "target," “outlook,” "project," "guidance," or similar expressions. Forward-looking statements are based on current management expectations and, by their nature, are subject to risks and uncertainties. Actual results may differ materially from those contained in the forward-looking statements. Factors which may cause actual results to differ materially from those contained in such forward-looking statements include those identified in the Company’s most recent Form 10-K and subsequent SEC filings. Such factors are incorporated herein by reference.
+NON-GAAP FINANCIAL MEASURES
+This press release and related materials may contain references to measures which are not defined in generally accepted accounting principles (“GAAP”). Information concerning these non-GAAP financial measures can be found in the financial tables. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+# # #
+
+
+
+
+																							
+Associated Banc-CorpConsolidated Balance Sheets (Unaudited)							
+($ in thousands)	September 30, 2023	June 30, 2023	Seql Qtr $ Change	March 31, 2023	December 31, 2022	September 30, 2022	Comp Qtr $ Change
+Assets							
+Cash and due from banks	$	388,694		$	407,620		$	(18,926)		$	311,269		$	436,952		$	386,231		$	2,463	
+Interest-bearing deposits in other financial institutions	323,130		190,881		132,249		511,116		156,693		112,173		210,957	
+Federal funds sold and securities purchased under agreements to resell	965		31,160		(30,195)		455		27,810		4,015		(3,050)	
+Investment securities available for sale, at fair value	3,491,679		3,504,777		(13,098)		3,381,607		2,742,025		2,487,312		1,004,367	
+Investment securities held to maturity, net, at amortized cost	3,900,415		3,938,877		(38,462)		3,967,058		3,960,398		3,951,491		(51,076)	
+Equity securities	35,937		30,883		5,054		30,514		25,216		24,879		11,058	
+Federal Home Loan Bank and Federal Reserve Bank stocks, at cost	268,698		271,637		(2,939)		331,420		295,496		279,334		(10,636)	
+Residential loans held for sale	54,790		38,083		16,707		35,742		20,383		51,134		3,656	
+Commercial loans held for sale	—		15,000		(15,000)		33,490		—		—		—	
+Loans	30,193,187		29,848,904		344,283		29,207,072		28,799,569		27,817,280		2,375,907	
+Allowance for loan losses	(345,795)		(338,750)		(7,045)		(326,432)		(312,720)		(292,904)		(52,891)	
+Loans, net	29,847,392		29,510,153		337,239		28,880,640		28,486,849		27,524,376		2,323,016	
+Tax credit and other investments	256,905		263,583		(6,678)		269,269		276,773		275,247		(18,342)	
+Premises and equipment, net	373,017		374,866		(1,849)		375,540		376,906		379,462		(6,445)	
+Bank and corporate owned life insurance	679,775		678,578		1,197		677,328		676,530		677,129		2,646	
+Goodwill	1,104,992		1,104,992		—		1,104,992		1,104,992		1,104,992		—	
+Other intangible assets, net	42,674		44,877		(2,203)		47,079		49,282		51,485		(8,811)	
+Mortgage servicing rights, net	89,131		80,449		8,682		74,479		77,351		78,352		10,779	
+							
+Interest receivable	171,119		159,185		11,934		152,404		144,449		115,782		55,337	
+Other assets	608,068		573,870		34,198		518,115		547,621		546,214		61,854	
+Total assets	$	41,637,381		$	41,219,473		$	417,908		$	40,702,519		$	39,405,727		$	38,049,607		$	3,587,774	
+Liabilities and stockholders’ equity							
+Noninterest-bearing demand deposits	$	6,422,994		$	6,565,666		$	(142,672)		$	7,328,689		$	7,760,811		$	8,224,579		$	(1,801,585)	
+Interest-bearing deposits	25,700,332		25,448,743		251,589		23,003,134		21,875,343		20,974,003		4,726,329	
+Total deposits	32,123,326		32,014,409		108,917		30,331,824		29,636,154		29,198,581		2,924,745	
+Federal funds purchased and securities sold under agreements to repurchase	451,644		325,927		125,717		208,398		585,139		276,674		174,970	
+Commercial paper	—		15,327		(15,327)		18,210		20,798		7,687		(7,687)	
+							
+FHLB advances	3,733,041		3,630,747		102,294		4,986,138		4,319,861		3,777,478		(44,437)	
+Other long-term funding	529,459		534,273		(4,814)		544,103		248,071		249,484		279,975	
+Allowance for unfunded commitments	34,776		38,276		(3,500)		39,776		38,776		39,776		(5,000)	
+Accrued expenses and other liabilities	637,491		537,640		99,851		448,407		541,438		545,976		91,515	
+Total liabilities	37,509,738		37,096,599		413,139		36,576,856		35,390,237		34,095,656		3,414,082	
+Stockholders’ equity							
+Preferred equity	194,112		194,112		—		194,112		194,112		194,112		—	
+							
+							
+							
+							
+							
+							
+Common equity	3,933,531		3,928,762		4,769		3,931,551		3,821,378		3,759,840		173,691	
+Total stockholders’ equity	4,127,643		4,122,874		4,769		4,125,663		4,015,490		3,953,952		173,691	
+Total liabilities and stockholders’ equity	$	41,637,381		$	41,219,473		$	417,908		$	40,702,519		$	39,405,727		$	38,049,607		$	3,587,774	
+Numbers may not sum due to rounding.
+1
+
+
+
+
+																										
+Associated Banc-CorpConsolidated Statements of Income (Unaudited)	Comp Qtr	YTD	YTD	Comp YTD
+($ in thousands, except per share data)	3Q23	3Q22	$ Change	% Change	Sep 2023	Sep 2022	$ Change	% Change
+Interest income								
+Interest and fees on loans	$	447,912		$	275,666		$	172,246		62	%	$	1,262,538		$	643,239		$	619,299		96	%
+Interest and dividends on investment securities								
+Taxable	38,210		19,221		18,989		99	%	104,197		54,009		50,188		93	%
+Tax-exempt	15,941		16,538		(597)		(4)	%	47,960		49,025		(1,065)		(2)	%
+Other interest	6,575		3,284		3,291		100	%	17,990		7,696		10,294		134	%
+Total interest income	508,637		314,708		193,929		62	%	1,432,685		753,969		678,716		90	%
+Interest expense								
+Interest on deposits	193,131		26,000		167,131		N/M	464,749		37,590		427,159		N/M
+Interest on federal funds purchased and securities sold under agreements to repurchase	3,100		756		2,344		N/M	8,504		1,200		7,304		N/M
+Interest on other short-term funding	—		1		(1)		(100)	%	1		2		(1)		(50)	%
+Interest on FHLB Advances	48,143		20,792		27,351		132	%	147,365		38,663		108,702		N/M
+Interest on long-term funding	10,019		2,722		7,297		N/M	25,895		8,182		17,713		N/M
+Total interest expense	254,394		50,270		204,124		N/M	646,514		85,637		560,877		N/M
+Net interest income	254,244		264,439		(10,195)		(4)	%	786,171		668,332		117,839		18	%
+Provision for credit losses	21,943		16,998		4,945		29	%	62,014		13,006		49,008		N/M
+Net interest income after provision for credit losses	232,301		247,440		(15,139)		(6)	%	724,157		655,326		68,831		11	%
+Noninterest income								
+Wealth management fees	20,828		19,984		844		4	%	61,499		63,719		(2,220)		(3)	%
+Service charges and deposit account fees	12,864		15,029		(2,165)		(14)	%	38,230		48,392		(10,162)		(21)	%
+Card-based fees	11,510		11,479		31		—	%	33,492		32,847		645		2	%
+Other fee-based revenue	4,509		4,487		22		—	%	13,249		12,613		636		5	%
+Capital markets, net	5,368		7,675		(2,307)		(30)	%	15,544		24,331		(8,787)		(36)	%
+Mortgage banking, net	6,501		2,098		4,403		N/M	17,814		16,635		1,179		7	%
+Bank and corporate owned life insurance	2,047		1,827		220		12	%	6,882		8,004		(1,122)		(14)	%
+Asset gains (losses), net	625		18		607		N/M	590		1,883		(1,293)		(69)	%
+Investment securities gains (losses), net	(11)		5,664		(5,675)		N/M	55		5,676		(5,621)		(99)	%
+								
+Other	2,339		2,527		(188)		(7)	%	6,841		6,613		228		3	%
+Total noninterest income	66,579		70,788		(4,209)		(6)	%	194,195		220,713		(26,518)		(12)	%
+Noninterest expense								
+Personnel	117,159		118,243		(1,084)		(1)	%	347,669		335,720		11,949		4	%
+Technology	26,172		22,694		3,478		15	%	73,990		65,401		8,589		13	%
+Occupancy	14,125		13,717		408		3	%	42,775		43,948		(1,173)		(3)	%
+Business development and advertising	7,100		6,778		322		5	%	20,054		17,388		2,666		15	%
+Equipment	5,016		4,921		95		2	%	14,921		14,841		80		1	%
+Legal and professional	4,461		4,159		302		7	%	13,149		14,118		(969)		(7)	%
+Loan and foreclosure costs	2,049		1,631		418		26	%	4,822		5,121		(299)		(6)	%
+FDIC assessment	9,150		5,800		3,350		58	%	25,575		16,300		9,275		57	%
+Other intangible amortization	2,203		2,203		—		—	%	6,608		6,608		—		—	%
+								
+Other	8,771		15,645		(6,874)		(44)	%	24,726		31,057		(6,331)		(20)	%
+Total noninterest expense	196,205		195,791		414		—	%	574,291		550,503		23,788		4	%
+Income before income taxes	102,674		122,438		(19,764)		(16)	%	344,061		325,536		18,525		6	%
+Income tax expense	19,426		26,163		(6,737)		(26)	%	70,299		68,176		2,123		3	%
+Net income	83,248		96,275		(13,027)		(14)	%	273,762		257,360		16,402		6	%
+Preferred stock dividends	2,875		2,875		—		—	%	8,625		8,625		—		—	%
+Net income available to common equity	$	80,373		$	93,400		$	(13,027)		(14)	%	$	265,137		$	248,735		$	16,402		7	%
+Earnings per common share								
+Basic	$	0.53		$	0.62		$	(0.09)		(15)	%	$	1.76		$	1.66		$	0.10		6	%
+Diluted	$	0.53		$	0.62		$	(0.09)		(15)	%	$	1.75		$	1.65		$	0.10		6	%
+Average common shares outstanding								
+Basic	150,035		149,321		714		—	%	149,929		149,063		866		1	%
+Diluted	151,014		150,262		752		1	%	150,971		150,205		766		1	%
+								
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+2
+
+
+
+
+																													
+Associated Banc-CorpConsolidated Statements of Income (Unaudited) - Quarterly Trend
+($ in thousands, except per share data)			Seql Qtr				Comp Qtr
+3Q23	2Q23	$ Change	% Change	1Q23	4Q22	3Q22	$ Change	% Change
+Interest income									
+Interest and fees on loans	$	447,912		$	423,307		$	24,605		6	%	$	391,320		$	349,403		$	275,666		$	172,246		62	%
+Interest and dividends on investment securities									
+Taxable	38,210		35,845		2,365		7	%	30,142		21,435		19,221		18,989		99	%
+Tax-exempt	15,941		15,994		(53)		—	%	16,025		16,666		16,538		(597)		(4)	%
+Other interest	6,575		6,086		489		8	%	5,329		3,779		3,284		3,291		100	%
+Total interest income	508,637		481,231		27,406		6	%	442,817		391,283		314,708		193,929		62	%
+Interest expense									
+Interest on deposits	193,131		162,196		30,935		19	%	109,422		60,719		26,000		167,131		N/M
+Interest on federal funds purchased and securities sold under agreements to repurchase	3,100		2,261		839		37	%	3,143		2,280		756		2,344		N/M
+Interest on other short-term funding	—		—		—		N/M	—		—		1		(1)		(100)	%
+Interest on FHLB advances	48,143		49,261		(1,118)		(2)	%	49,960		36,824		20,792		27,351		132	%
+Interest on long-term funding	10,019		9,596		423		4	%	6,281		2,470		2,722		7,297		N/M
+Total interest expense	254,394		223,314		31,080		14	%	168,807		102,294		50,270		204,124		N/M
+Net interest income	254,244		257,917		(3,673)		(1)	%	274,010		288,989		264,439		(10,195)		(4)	%
+Provision for credit losses	21,943		22,100		(157)		(1)	%	17,971		19,992		16,998		4,945		29	%
+Net interest income after provision for credit losses	232,301		235,817		(3,516)		(1)	%	256,039		268,997		247,440		(15,139)		(6)	%
+Noninterest income									
+Wealth management fees	20,828		20,483		345		2	%	20,189		20,403		19,984		844		4	%
+Service charges and deposit account fees	12,864		12,372		492		4	%	12,994		13,918		15,029		(2,165)		(14)	%
+Card-based fees	11,510		11,396		114		1	%	10,586		11,167		11,479		31		—	%
+Other fee-based revenue	4,509		4,465		44		1	%	4,276		3,290		4,487		22		—	%
+Capital markets, net	5,368		5,093		275		5	%	5,083		5,586		7,675		(2,307)		(30)	%
+Mortgage banking, net	6,501		7,768		(1,267)		(16)	%	3,545		2,238		2,098		4,403		N/M
+Bank and corporate owned life insurance	2,047		2,172		(125)		(6)	%	2,664		3,427		1,827		220		12	%
+									
+Asset gains (losses), net	625		(299)		924		N/M	263		(545)		18		607		N/M
+Investment securities gains (losses), net	(11)		14		(25)		N/M	51		(1,930)		5,664		(5,675)		N/M
+									
+Other	2,339		2,080		259		12	%	2,422		4,102		2,527		(188)		(7)	%
+Total noninterest income	66,579		65,543		1,036		2	%	62,073		61,657		70,788		(4,209)		(6)	%
+Noninterest expense									
+Personnel	117,159		114,089		3,070		3	%	116,420		118,381		118,243		(1,084)		(1)	%
+Technology	26,172		24,220		1,952		8	%	23,598		25,299		22,694		3,478		15	%
+Occupancy	14,125		13,587		538		4	%	15,063		15,846		13,717		408		3	%
+Business development and advertising	7,100		7,106		(6)		—	%	5,849		8,136		6,778		322		5	%
+Equipment	5,016		4,975		41		1	%	4,930		4,791		4,921		95		2	%
+Legal and professional	4,461		4,831		(370)		(8)	%	3,857		4,132		4,159		302		7	%
+Loan and foreclosure costs	2,049		1,635		414		25	%	1,138		804		1,631		418		26	%
+FDIC assessment	9,150		9,550		(400)		(4)	%	6,875		6,350		5,800		3,350		58	%
+Other intangible amortization	2,203		2,203		—		—	%	2,203		2,203		2,203		—		—	%
+									
+Other	8,771		8,476		295		3	%	7,479		10,618		15,645		(6,874)		(44)	%
+Total noninterest expense	196,205		190,673		5,532		3	%	187,412		196,560		195,791		414		—	%
+Income before income taxes	102,674		110,687		(8,013)		(7)	%	130,700		134,094		122,438		(19,764)		(16)	%
+Income tax expense	19,426		23,533		(4,107)		(17)	%	27,340		25,332		26,163		(6,737)		(26)	%
+Net income	83,248		87,154		(3,906)		(4)	%	103,360		108,762		96,275		(13,027)		(14)	%
+Preferred stock dividends	2,875		2,875		—		—	%	2,875		2,875		2,875		—		—	%
+Net income available to common equity	$	80,373		$	84,279		$	(3,906)		(5)	%	$	100,485		$	105,887		$	93,400		$	(13,027)		(14)	%
+Earnings per common share									
+Basic	$	0.53		$	0.56		$	(0.03)		(5)	%	$	0.67		$	0.70		$	0.62		$	(0.09)		(15)	%
+Diluted	$	0.53		$	0.56		$	(0.03)		(5)	%	$	0.66		$	0.70		$	0.62		$	(0.09)		(15)	%
+Average common shares outstanding									
+Basic	150,035		149,986		49		—	%	149,763		149,454		149,321		714		—	%
+Diluted	151,014		150,870		144		—	%	151,128		150,886		150,262		752		1	%
+
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+3
+
+
+
+
+																							
+Associated Banc-CorpSelected Quarterly Information							
+($ in millions except per share data; shares repurchased and outstanding in thousands)	YTDSep 2023	YTDSep 2022	3Q23	2Q23	1Q23	4Q22	3Q22
+Per common share data							
+Dividends	$	0.63		$	0.60		$	0.21		$	0.21		$	0.21		$	0.21		$	0.20	
+Market value:							
+High	24.18		25.71		19.21		18.45		24.18		25.13		21.87	
+Low	14.48		17.63		16.22		14.48		17.66		20.54		17.63	
+Close			17.11		16.23		17.98		23.09		20.08	
+Book value / share			26.06		26.03		26.06		25.40		25.01	
+Tangible book value / share			18.46		18.41		18.42		17.73		17.32	
+Performance ratios (annualized)							
+Return on average assets	0.91	%	0.95	%	0.80	%	0.86	%	1.06	%	1.12	%	1.02	%
+Noninterest expense / average assets	1.90	%	2.04	%	1.90	%	1.89	%	1.92	%	2.03	%	2.08	%
+Effective tax rate	20.43	%	20.94	%	18.92	%	21.26	%	20.92	%	18.89	%	21.37	%
+Dividend payout ratio(a)	35.80	%	36.14	%	39.62	%	37.50	%	31.34	%	30.00	%	32.26	%
+Net interest margin	2.86	%	2.77	%	2.71	%	2.80	%	3.07	%	3.31	%	3.13	%
+Selected trend information							
+Average full time equivalent employees(b)	4,222		4,101		4,220		4,227		4,219		4,169		4,182	
+Branch count			202		202		202		202		215	
+Assets under management, at market value(c)			$	12,543		$	12,995		$	12,412		$	11,843		$	11,142	
+Mortgage loans originated for sale during period	$	283		$	536		$	115		$	99		$	69		$	64		$	132	
+Mortgage loan settlements during period	$	255		$	620		$	103		$	97		$	55		$	95		$	120	
+							
+Mortgage portfolio serviced for others			$	6,452		$	6,525		$	6,612		$	6,712		$	6,800	
+Mortgage servicing rights, net / mortgage portfolio serviced for others			1.38	%	1.23	%	1.13	%	1.15	%	1.15	%
+							
+Shares outstanding, end of period			150,951		150,919		150,886		150,444		150,328	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+Selected quarterly ratios							
+Loans / deposits			93.99	%	93.24	%	96.29	%	97.18	%	95.27	%
+Stockholders’ equity / assets			9.91	%	10.00	%	10.14	%	10.19	%	10.39	%
+Risk-based capital(d)(e)							
+Total risk-weighted assets			$	33,497		$	33,146		$	32,648		$	32,472		$	31,406	
+Common equity Tier 1			$	3,197		$	3,143		$	3,086		$	3,036		$	2,956	
+Common equity Tier 1 capital ratio			9.55	%	9.48	%	9.45	%	9.35	%	9.41	%
+Tier 1 capital ratio			10.12	%	10.07	%	10.05	%	9.95	%	10.03	%
+Total capital ratio			12.25	%	12.22	%	12.22	%	11.33	%	11.41	%
+Tier 1 leverage ratio			8.42	%	8.40	%	8.46	%	8.59	%	8.66	%
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Ratio is based upon basic earnings per common share.
+(b)
+Average full time equivalent employees without overtime.
+(c)
+Excludes assets held in brokerage accounts.
+(d)
+The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The regulatory capital requirements effective for the Corporation follow Basel III, subject to certain transition provisions.
+(e)
+September 30, 2023 data is estimated.
+4
+
+
+
+
+																							
+Associated Banc-CorpSelected Asset Quality Information					
+($ in thousands)	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change
+Allowance for loan losses							
+Balance at beginning of period	$	338,750		$	326,432		4	%	$	312,720		$	292,904		$	280,771		21	%
+Provision for loan losses	25,500		23,500		9	%	17,000		21,000		14,000		82	%
+Charge offs	(20,535)		(14,855)		38	%	(5,501)		(2,982)		(3,346)		N/M
+Recoveries	2,079		3,674		(43)	%	2,212		1,798		1,478		41	%
+Net (charge offs) recoveries	(18,455)		(11,181)		65	%	(3,289)		(1,183)		(1,867)		N/M
+Balance at end of period	$	345,795		$	338,750		2	%	$	326,432		$	312,720		$	292,904		18	%
+Allowance for unfunded commitments							
+Balance at beginning of period	$	38,276		$	39,776		(4)	%	$	38,776		$	39,776		$	36,776		4	%
+Provision for unfunded commitments	(3,500)		(1,500)		133	%	1,000		(1,000)		3,000		N/M
+Balance at end of period	$	34,776		$	38,276		(9)	%	$	39,776		$	38,776		$	39,776		(13)	%
+Allowance for credit losses on loans (ACLL)	$	380,571		$	377,027		1	%	$	366,208		$	351,496		$	332,680		14	%
+Provision for credit losses on loans	$	22,000		$	22,000		—	%	$	18,000		$	20,000		$	17,000		29	%
+($ in thousands)	Sep 30, 2023	Jun 30, 2023	Seql Qtr % Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change
+Net (charge offs) recoveries							
+							
+							
+Commercial and industrial	$	(16,558)		$	(11,177)		48	%	$	(1,759)		$	278		$	(897)		N/M
+Commercial real estate—owner occupied	2		3		(33)	%	3		3		3		(33)	%
+Commercial and business lending	(16,556)		(11,174)		48	%	(1,756)		281		(894)		N/M
+Commercial real estate—investor	272		2,276		(88)	%	—		—		—		N/M
+Real estate construction	18		(18)		N/M	18		16		9		100	%
+Commercial real estate lending	290		2,257		(87)	%	18		16		9		N/M
+Total commercial	(16,266)		(8,917)		82	%	(1,738)		297		(885)		N/M
+Residential mortgage	(22)		(283)		(92)	%	(53)		(125)		(42)		(48)	%
+Auto finance	(1,269)		(1,048)		21	%	(957)		(768)		(165)		N/M
+Home equity	128		183		(30)	%	340		123		(101)		N/M
+Other consumer	(1,027)		(1,117)		(8)	%	(881)		(711)		(675)		52	%
+Total consumer	(2,189)		(2,264)		(3)	%	(1,550)		(1,480)		(983)		123	%
+Total net (charge offs) recoveries	$	(18,455)		$	(11,181)		65	%	$	(3,289)		$	(1,183)		$	(1,867)		N/M
+							
+(In basis points)	Sep 30, 2023	Jun 30, 2023		Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	
+Net (charge offs) recoveries to average loans (annualized)							
+							
+							
+Commercial and industrial	(66)		(46)			(7)		1		(4)		
+Commercial real estate—owner occupied	—		—			—		—		—		
+Commercial and business lending	(60)		(41)			(7)		1		(3)		
+Commercial real estate—investor	2		18			—		—		—		
+Real estate construction	—		—			—		—		—		
+Commercial real estate lending	2		12			—		—		—		
+Total commercial	(35)		(20)			(4)		1		(2)		
+Residential mortgage	—		(1)			—		(1)		—		
+Auto finance	(27)		(25)			(26)		(24)		(7)		
+Home equity	8		12			22		8		(7)		
+Other consumer	(148)		(163)			(125)		(95)		(89)		
+Total consumer	(7)		(8)			(6)		(6)		(4)		
+Total net (charge offs) recoveries	(25)		(15)			(5)		(2)		(3)		
+							
+($ in thousands)	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change
+Credit quality							
+Nonaccrual loans	$	168,558		$	131,278		28	%	$	117,569		$	111,467		$	116,406		45	%
+Other real estate owned (OREO)	8,452		7,575		12	%	15,184		14,784		16,373		(48)	%
+							
+Repossessed assets	$	658		$	348		89	%	$	92		$	215		$	299		120	%
+Total nonperforming assets	$	177,668		$	139,201		28	%	$	132,845		$	126,466		$	133,078		34	%
+							
+Loans 90 or more days past due and still accruing	$	2,156		$	1,726		25	%	$	1,703		$	1,728		$	1,417		52	%
+							
+Allowance for credit losses on loans to total loans	1.26	%	1.26	%		1.25	%	1.22	%	1.20	%	
+							
+Allowance for credit losses on loans to nonaccrual loans	225.78	%	287.20	%		311.48	%	315.34	%	285.79	%	
+Nonaccrual loans to total loans	0.56	%	0.44	%		0.40	%	0.39	%	0.42	%	
+Nonperforming assets to total loans plus OREO and repossessed assets	0.59	%	0.47	%		0.45	%	0.44	%	0.48	%	
+Nonperforming assets to total assets	0.43	%	0.34	%		0.33	%	0.32	%	0.35	%	
+Annualized year-to-date net charge offs (recoveries) to year-to-date average loans	0.15	%	0.10	%		0.05	%	—	%	—	%	
+							
+							
+							
+N/M = Not meaningful
+5
+
+
+
+
+																								
+Associated Banc-CorpSelected Asset Quality Information (continued)	
+(In thousands)	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change	
+Nonaccrual loans								
+Commercial and industrial	$	74,812		$	34,907		114	%	$	22,735		$	14,329		$	15,576		N/M	
+Commercial real estate—owner occupied	3,936		1,444		173	%	1,478		—		—		N/M	
+Commercial and business lending	78,748		36,352		117	%	24,213		14,329		15,576		N/M	
+Commercial real estate—investor	10,882		22,068		(51)	%	25,122		29,380		37,479		(71)	%	
+Real estate construction	103		125		(18)	%	178		105		141		(27)	%	
+Commercial real estate lending	10,985		22,193		(51)	%	25,300		29,485		37,620		(71)	%	
+Total commercial	89,732		58,544		53	%	49,513		43,814		53,196		69	%	
+Residential mortgage	66,153		61,718		7	%	58,274		58,480		55,485		19	%	
+Auto finance	4,533		3,065		48	%	2,436		1,490		302		N/M	
+Home equity	7,917		7,788		2	%	7,246		7,487		7,325		8	%	
+Other consumer	222		163		36	%	100		197		98		127	%	
+Total consumer	78,826		72,733		8	%	68,056		67,654		63,210		25	%	
+Total nonaccrual loans	$	168,558		$	131,278		28	%	$	117,569		$	111,467		$	116,406		45	%	
+								
+	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change	
+Restructured loans (accruing)(a)								
+Commercial and industrial	$	234		$	168		39	%	$	47		$	12,453		$	14,829		N/A	
+Commercial real estate—owner occupied	—		—		N/M	—		316		369		N/A	
+Commercial and business lending	234		168		39	%	47		12,769		15,198		N/A	
+Commercial real estate—investor	—		—		N/M	—		128		733		N/A	
+Real estate construction	—		—		N/M	—		195		165		N/A	
+Commercial real estate lending	—		—		N/M	—		324		898		N/A	
+Total commercial	234		168		39	%	47		13,093		16,097		N/A	
+Residential mortgage	207		126		64	%	126		16,829		16,169		N/A	
+Auto finance	169		80		111	%	61		—		—		N/A	
+Home equity	236		78		N/M	31		2,148		2,103		N/A	
+Other consumer	1,243		988		26	%	498		798		764		N/A	
+Total consumer	1,855		1,271		46	%	716		19,775		19,036		N/A	
+Total restructured loans (accruing)	$	2,089		$	1,439		45	%	$	763		$	32,868		$	35,132		N/A	
+Nonaccrual restructured loans (included in nonaccrual loans)	$	961		$	796		21	%	$	341		$	20,127		$	21,650		N/A	
+	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change	
+Accruing loans 30-89 days past due								
+Commercial and industrial	$	1,507		$	12,005		(87)	%	$	4,239		$	6,283		$	1,861		(19)	%	
+Commercial real estate—owner occupied	1,877		1,484		26	%	2,955		230		—		N/M	
+Commercial and business lending	3,384		13,489		(75)	%	7,195		6,512		1,861		82	%	
+Commercial real estate—investor	10,121		—		N/M	—		1,067		—		N/M	
+Real estate construction	10		76		(87)	%	—		39		43		(77)	%	
+Commercial real estate lending	10,131		76		N/M	—		1,105		43		N/M	
+Total commercial	13,515		13,565		—	%	7,195		7,618		1,904		N/M	
+Residential mortgage	11,652		8,961		30	%	7,626		9,874		6,517		79	%	
+Auto finance	16,688		11,429		46	%	8,640		9,408		6,206		169	%	
+Home equity	3,687		4,030		(9)	%	4,113		5,607		4,234		(13)	%	
+Other consumer	1,880		2,025		(7)	%	1,723		1,610		1,592		18	%	
+Total consumer	33,908		26,444		28	%	22,102		26,499		18,549		83	%	
+Total accruing loans 30-89 days past due	$	47,422		$	40,008		19	%	$	29,297		$	34,117		$	20,452		132	%	
+								
+	Sep 30, 2023	Jun 30, 2023	Seql Qtr %Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr %Change	
+Potential problem loans								
+								
+Commercial and industrial	$	207,237		$	205,228		1	%	$	135,047		$	136,549		$	108,556		91	%	
+Commercial real estate—owner occupied	27,792		29,396		(5)	%	32,077		34,422		28,287		(2)	%	
+Commercial and business lending	235,029		234,624		—	%	167,124		170,971		136,843		72	%	
+Commercial real estate—investor	148,840		106,662		40	%	89,653		92,535		117,982		26	%	
+Real estate construction	—		—		N/M	—		970		—		N/M	
+Commercial real estate lending	148,840		106,662		40	%	89,653		93,505		117,982		26	%	
+Total commercial	383,869		341,286		12	%	256,776		264,476		254,825		51	%	
+Residential mortgage	1,247		1,646		(24)	%	1,684		1,978		2,845		(56)	%	
+								
+Home equity	236		240		(2)	%	244		197		185		28	%	
+								
+Total consumer	1,483		1,886		(21)	%	1,928		2,175		3,030		(51)	%	
+Total potential problem loans	$	385,352		$	343,173		12	%	$	258,704		$	266,651		$	257,855		49	%	
+								
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) On January 1, 2023, the Corporation adopted ASU 2022-02. Under this update, troubled debt restructurings were eliminated and replaced with a modified loan classification. As a result, amounts reported for 2023 periods will not be comparable to amounts reported for 2022 periods.
+6
+
+
+
+
+																													
+Associated Banc-CorpNet Interest Income Analysis - Fully Tax-Equivalent Basis - Sequential and Comparable Quarter			
+	Three Months Ended
+	September 30, 2023	June 30, 2023	September 30, 2022
+($ in thousands)	AverageBalance	InterestIncome /Expense	AverageYield /Rate	AverageBalance	InterestIncome /Expense	AverageYield /Rate	AverageBalance	InterestIncome /Expense	AverageYield /Rate
+Assets									
+Earning assets									
+Loans(a) (b) (c)									
+									
+									
+Commercial and business lending	$	10,985,584		$	194,956		7.04	%	$	10,899,337		$	184,080		6.77	%	$	10,192,463		$	110,215		4.29	%
+Commercial real estate lending	7,312,645		134,370		7.29	%	7,295,367		127,967		7.04	%	6,768,054		78,887		4.62	%
+Total commercial	18,298,229		329,326		7.14	%	18,194,703		312,047		6.88	%	16,960,517		189,101		4.42	%
+Residential mortgage	8,807,157		74,643		3.39	%	8,701,496		72,056		3.31	%	8,223,531		64,069		3.12	%
+Auto finance	1,884,540		24,074		5.07	%	1,654,523		19,701		4.78	%	969,918		9,170		3.75	%
+Other retail	894,685		20,534		9.15	%	887,574		20,135		9.08	%	901,738		13,868		6.13	%
+Total loans	29,884,611		448,577		5.96	%	29,438,297		423,939		5.77	%	27,055,703		276,209		4.06	%
+Investment securities									
+Taxable	5,407,299		38,210		2.83	%	5,304,381		35,845		2.70	%	4,328,586		19,221		1.78	%
+Tax-exempt(a)	2,300,488		20,085		3.49	%	2,314,825		20,152		3.48	%	2,435,957		20,838		3.42	%
+Other short-term investments	483,211		6,575		5.40	%	511,487		6,086		4.77	%	378,528		3,284		3.45	%
+Investments and other	8,190,998		64,870		3.16	%	8,130,693		62,083		3.05	%	7,143,071		43,342		2.42	%
+Total earning assets	38,075,608		$	513,447		5.36	%	37,568,991		$	486,022		5.18	%	34,198,774		$	319,551		3.72	%
+Other assets, net	3,000,371				2,989,321				3,073,005			
+Total assets	$	41,075,980				$	40,558,311				$	37,271,779			
+Liabilities and stockholders' equity									
+Interest-bearing liabilities									
+Interest-bearing deposits									
+Savings	$	4,814,499		$	18,592		1.53	%	$	4,749,808		$	15,160		1.28	%	$	4,735,285		$	516		0.04	%
+Interest-bearing demand	6,979,071		41,980		2.39	%	6,663,775		34,961		2.10	%	6,587,404		10,306		0.62	%
+Money market	6,294,083		45,034		2.84	%	6,743,810		43,529		2.59	%	7,328,165		9,474		0.51	%
+Network transaction deposits	1,639,619		22,008		5.33	%	1,468,006		18,426		5.03	%	873,168		4,716		2.14	%
+Time deposits	5,955,741		65,517		4.36	%	4,985,949		50,119		4.03	%	1,230,859		989		0.32	%
+Total interest-bearing deposits	25,683,013		193,131		2.98	%	24,611,348		162,196		2.64	%	20,754,882		26,000		0.50	%
+Federal funds purchased and securities sold under agreements to repurchase	320,518		3,100		3.84	%	285,754		2,261		3.17	%	380,674		756		0.79	%
+Commercial paper	5,041		—		0.01	%	12,179		—		0.01	%	18,308		1		0.01	%
+									
+									
+									
+FHLB advances	3,460,827		48,143		5.52	%	3,796,106		49,261		5.20	%	3,283,328		20,792		2.51	%
+Long-term funding	533,744		10,019		7.51	%	543,003		9,596		7.07	%	249,838		2,722		4.36	%
+Total short and long-term funding	4,320,130		61,263		5.63	%	4,637,042		61,118		5.28	%	3,932,149		24,270		2.45	%
+Total interest-bearing liabilities	30,003,143		$	254,394		3.36	%	29,248,389		$	223,314		3.06	%	24,687,031		$	50,270		0.81	%
+Noninterest-bearing demand deposits	6,318,781				6,669,787				8,119,475			
+Other liabilities	622,004				511,074				480,672			
+Stockholders’ equity	4,132,052				4,129,061				3,984,602			
+Total liabilities and stockholders’ equity	$	41,075,980				$	40,558,311				$	37,271,779			
+Interest rate spread			2.00	%			2.12	%			2.91	%
+Net free funds			0.71	%			0.68	%			0.22	%
+Fully tax-equivalent net interest income and net interest margin ("NIM")		$	259,053		2.71	%		$	262,708		2.80	%		$	269,281		3.13	%
+Fully tax-equivalent adjustment		4,810				4,791				4,843		
+Net interest income		$	254,244				$	257,917				$	264,439		
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+7
+
+
+
+
+																				
+Associated Banc-CorpNet Interest Income Analysis - Fully Tax-Equivalent Basis - Year Over Year
+	Nine Months Ended September 30,
+	2023	2022
+($ in thousands)	AverageBalance	InterestIncome /Expense	AverageYield / Rate	AverageBalance	InterestIncome /Expense	AverageYield / Rate
+Assets						
+Earning assets						
+Loans(a) (b) (c)						
+						
+						
+Commercial and business lending	$	10,835,003		$	546,210		6.74	%	$	9,623,927		$	236,971		3.29	%
+Commercial real estate lending	7,286,627		381,425		7.00	%	6,438,335		176,006		3.65	%
+Total commercial	18,121,629		927,634		6.84	%	16,062,262		412,977		3.44	%
+Residential mortgage	8,698,542		217,410		3.33	%	7,920,382		177,906		2.99	%
+Auto finance	1,677,838		60,233		4.80	%	657,150		17,837		3.63	%
+Other retail	895,371		59,163		8.82	%	888,241		35,900		5.40	%
+Total loans	29,393,380		1,264,441		5.75	%	25,528,036		644,621		3.37	%
+Investment securities						
+Taxable	5,209,845		104,197		2.67	%	4,371,244		54,009		1.65	%
+Tax-exempt(a)	2,314,838		60,429		3.48	%	2,416,064		61,771		3.41	%
+Other short-term investments	495,883		17,990		4.85	%	625,748		7,696		1.64	%
+Investments and other	8,020,566		182,616		3.03	%	7,413,056		123,477		2.22	%
+Total earning assets	37,413,946		$	1,447,057		5.17	%	32,941,092		$	768,098		3.11	%
+Other assets, net	3,005,220				3,134,678			
+Total assets	$	40,419,166				$	36,075,770			
+Liabilities and stockholders' equity						
+Interest-bearing liabilities						
+Interest-bearing deposits						
+Savings	$	4,743,526		$	43,611		1.23	%	$	4,650,105		$	1,427		0.04	%
+Interest-bearing demand	6,819,714		106,860		2.09	%	6,573,680		14,307		0.29	%
+Money market	6,853,545		130,201		2.54	%	7,090,960		12,642		0.24	%
+Network transaction deposits	1,420,042		53,259		5.01	%	795,059		6,460		1.09	%
+Time deposits	4,447,813		130,818		3.93	%	1,266,116		2,754		0.29	%
+Total interest-bearing deposits	24,284,640		464,749		2.56	%	20,375,920		37,590		0.25	%
+Federal funds purchased and securities sold under agreements to repurchase	344,950		8,504		3.30	%	376,687		1,200		0.43	%
+Commercial paper	11,475		1		0.01	%	23,106		2		0.01	%
+						
+						
+FHLB advances	3,834,247		147,365		5.14	%	2,445,486		38,663		2.11	%
+Long-term funding	495,434		25,895		6.97	%	249,759		8,182		4.37	%
+Total short and long-term funding	4,686,106		181,765		5.18	%	3,095,039		48,047		2.07	%
+Total interest-bearing liabilities	28,970,746		$	646,514		2.98	%	23,470,959		$	85,637		0.49	%
+Noninterest-bearing demand deposits	6,772,521				8,189,067			
+Other liabilities	567,938				446,249			
+Stockholders’ equity	4,107,961				3,969,495			
+Total liabilities and stockholders’ equity	$	40,419,166				$	36,075,770			
+Interest rate spread			2.19	%			2.62	%
+Net free funds			0.67	%			0.15	%
+Fully tax-equivalent net interest income and net interest margin ("NIM")		$	800,543		2.86	%		$	682,461		2.77	%
+Fully tax-equivalent adjustment		14,372				14,129		
+Net interest income		$	786,171				$	668,332		
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+8
+
+
+
+
+																							
+Associated Banc-CorpLoan and Deposit Composition							
+($ in thousands)							
+Period end loan composition	Sep 30, 2023	Jun 30, 2023	Seql Qtr % Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr % Change
+							
+Commercial and industrial	$	10,099,068		$	10,055,487		—	%	$	9,869,781		$	9,759,454		$	9,571,925		6	%
+Commercial real estate—owner occupied	1,054,969		1,058,237		—	%	1,050,236		991,722		999,786		6	%
+Commercial and business lending	11,154,037		11,113,724		—	%	10,920,017		10,751,176		10,571,711		6	%
+Commercial real estate—investor	5,218,980		5,312,928		(2)	%	5,094,249		5,080,344		5,064,289		3	%
+Real estate construction	2,130,719		2,009,060		6	%	2,147,070		2,155,222		1,835,159		16	%
+Commercial real estate lending	7,349,699		7,321,988		—	%	7,241,318		7,235,565		6,899,449		7	%
+Total commercial	18,503,736		18,435,711		—	%	18,161,335		17,986,742		17,471,159		6	%
+Residential mortgage	8,782,645		8,746,345		—	%	8,605,164		8,511,550		8,314,902		6	%
+Auto finance	2,007,164		1,777,974		13	%	1,551,538		1,382,073		1,117,136		80	%
+							
+							
+Home equity	623,650		615,506		1	%	609,787		624,353		612,608		2	%
+Other consumer	275,993		273,367		1	%	279,248		294,851		301,475		(8)	%
+Total consumer	11,689,451		11,413,193		2	%	11,045,737		10,812,828		10,346,121		13	%
+Total loans	$	30,193,187		$	29,848,904		1	%	$	29,207,072		$	28,799,569		$	27,817,280		9	%
+							
+							
+Period end deposit and customer funding composition	Sep 30, 2023	Jun 30, 2023	Seql Qtr % Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr % Change
+Noninterest-bearing demand	$	6,422,994		$	6,565,666		(2)	%	$	7,328,689		$	7,760,811		$	8,224,579		(22)	%
+Savings	4,836,735		4,777,415		1	%	4,730,472		4,604,848		4,708,720		3	%
+Interest-bearing demand	7,528,154		7,037,959		7	%	6,977,121		7,100,727		7,122,218		6	%
+Money market	7,268,506		7,521,930		(3)	%	8,357,625		8,239,610		7,909,232		(8)	%
+Brokered CDs	3,351,399		3,818,325		(12)	%	1,185,565		541,916		—		N/M
+Other time deposits	2,715,538		2,293,114		18	%	1,752,351		1,388,242		1,233,833		120	%
+Total deposits	32,123,326		32,014,409		—	%	30,331,824		29,636,154		29,198,581		10	%
+Other customer funding(a)	151,644		170,873		(11)	%	226,258		261,767		283,856		(47)	%
+Total deposits and other customer funding	$	32,274,971		$	32,185,282		—	%	$	30,558,081		$	29,897,921		$	29,482,437		9	%
+Network transaction deposits(b)	$	1,649,389		$	1,600,619		3	%	$	1,273,420		$	979,003		$	864,086		91	%
+							
+							
+Net deposits and other customer funding(c)	$	27,274,183		$	26,766,338		2	%	$	28,099,096		$	28,377,001		$	28,618,351		(5)	%
+							
+Quarter average loan composition	Sep 30, 2023	Jun 30, 2023	Seql Qtr % Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr % Change
+							
+Commercial and industrial	$	9,927,271		$	9,831,956		1	%	$	9,600,838		$	9,528,180		$	9,221,970		8	%
+Commercial real estate—owner occupied	1,058,313		1,067,381		(1)	%	1,015,187		1,001,805		970,493		9	%
+Commercial and business lending	10,985,584		10,899,337		1	%	10,616,026		10,529,984		10,192,463		8	%
+Commercial real estate—investor	5,205,626		5,206,430		—	%	5,093,122		5,048,419		4,891,530		6	%
+Real estate construction	2,107,018		2,088,937		1	%	2,158,072		2,013,986		1,876,524		12	%
+Commercial real estate lending	7,312,645		7,295,367		—	%	7,251,193		7,062,405		6,768,054		8	%
+Total commercial	18,298,229		18,194,703		1	%	17,867,219		17,592,389		16,960,517		8	%
+Residential mortgage	8,807,157		8,701,496		1	%	8,584,528		8,443,661		8,223,531		7	%
+Auto finance	1,884,540		1,654,523		14	%	1,490,115		1,244,436		969,918		94	%
+							
+							
+Home equity	619,423		612,045		1	%	618,724		619,044		601,821		3	%
+Other consumer	275,262		275,530		—	%	285,232		295,804		299,917		(8)	%
+Total consumer	11,586,382		11,243,594		3	%	10,978,599		10,602,945		10,095,186		15	%
+Total loans(d)	$	29,884,611		$	29,438,297		2	%	$	28,845,818		$	28,195,334		$	27,055,703		10	%
+							
+Quarter average deposit composition	Sep 30, 2023	Jun 30, 2023	Seql Qtr % Change	Mar 31, 2023	Dec 31, 2022	Sep 30, 2022	Comp Qtr % Change
+Noninterest-bearing demand	$	6,318,781		$	6,669,787		(5)	%	$	7,340,219		$	8,088,435		$	8,119,475		(22)	%
+Savings	4,814,499		4,749,808		1	%	4,664,624		4,660,696		4,735,285		2	%
+Interest-bearing demand	6,979,071		6,663,775		5	%	6,814,487		6,831,213		6,587,404		6	%
+Money market	6,294,083		6,743,810		(7)	%	7,536,393		7,382,793		7,328,165		(14)	%
+Network transaction deposits	1,639,619		1,468,006		12	%	1,147,089		901,168		873,168		88	%
+Brokered CDs	3,428,711		3,001,775		14	%	810,889		190,406		734		N/M
+Other time deposits	2,527,030		1,984,174		27	%	1,551,371		1,272,797		1,230,126		105	%
+Total deposits	32,001,794		31,281,134		2	%	29,865,072		29,327,509		28,874,357		11	%
+Other customer funding(a)	164,289		196,051		(16)	%	245,349		306,122		326,324		(50)	%
+Total deposits and other customer funding	$	32,166,082		$	31,477,186		2	%	$	30,110,421		$	29,633,631		$	29,200,680		10	%
+Net deposits and other customer funding(c)	$	27,097,752		$	27,007,405		—	%	$	28,152,443		$	28,542,056		$	28,326,779		(4)	%
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes repurchase agreements and commercial paper.
+(b) Included above in interest-bearing demand and money market.
+(c) Total deposits and other customer funding, excluding brokered CDs and network transaction deposits.
+(d) Nonaccrual loans and loans held for sale have been included in the average balances.
+9
+
+
+
+
+																							
+Associated Banc-CorpNon-GAAP Financial Measures Reconciliation	YTD	YTD					
+($ in millions, except per share data)	Sep 2023	Sep 2022	3Q23	2Q23	1Q23	4Q22	3Q22
+Selected equity and performance ratios(a)(b)(c)							
+Tangible common equity / tangible assets			6.88	%	6.94	%	7.03	%	6.97	%	7.06	%
+Return on average equity	8.91	%	8.67	%	7.99	%	8.47	%	10.32	%	10.81	%	9.59	%
+Return on average tangible common equity	13.07	%	12.96	%	11.67	%	12.38	%	15.26	%	16.15	%	14.32	%
+Return on average common equity Tier 1	11.41	%	11.60	%	10.08	%	10.88	%	13.38	%	14.04	%	12.69	%
+Return on average tangible assets	0.95	%	1.00	%	0.84	%	0.90	%	1.11	%	1.18	%	1.08	%
+Average stockholders' equity / average assets	10.16	%	11.00	%	10.06	%	10.18	%	10.26	%	10.40	%	10.69	%
+Tangible common equity reconciliation(a)							
+Common equity			$	3,934		$	3,929		$	3,932		$	3,821		$	3,760	
+Goodwill and other intangible assets, net			(1,148)		(1,150)		(1,152)		(1,154)		(1,156)	
+Tangible common equity			$	2,786		$	2,779		$	2,779		$	2,667		$	2,603	
+							
+							
+Tangible assets reconciliation(a)							
+Total assets			$	41,637		$	41,219		$	40,703		$	39,406		$	38,050	
+Goodwill and other intangible assets, net			(1,148)		(1,150)		(1,152)		(1,154)		(1,156)	
+Tangible assets			$	40,490		$	40,070		$	39,550		$	38,251		$	36,893	
+Average tangible common equity and average common equity Tier 1 reconciliation(a)							
+Common equity	$	3,914		$	3,776		$	3,938		$	3,935		$	3,868		$	3,798		$	3,791	
+Goodwill and other intangible assets, net	(1,151)		(1,160)		(1,149)		(1,151)		(1,153)		(1,155)		(1,158)	
+Tangible common equity	2,763		2,616		2,789		2,784		2,715		2,642		2,634	
+Modified CECL transitional amount	45		67		45		45		45		67		67	
+Accumulated other comprehensive loss	271		147		302		252		259		254		190	
+Deferred tax assets, net	28		36		28		28		28		29		30	
+Average common equity Tier 1	$	3,107		$	2,867		$	3,164		$	3,108		$	3,047		$	2,993		$	2,921	
+Average tangible assets reconciliation(a)							
+Total assets	$	40,419		$	36,076		$	41,076		$	40,558		$	39,607		$	38,385		$	37,272	
+Goodwill and other intangible assets, net	(1,151)		(1,160)		(1,149)		(1,151)		(1,153)		(1,155)		(1,158)	
+Tangible assets	$	39,268		$	34,916		$	39,927		$	39,407		$	38,454		$	37,230		$	36,114	
+Adjusted net income reconciliation(b)							
+Net income	$	274		$	257		$	83		$	87		$	103		$	109		$	96	
+Other intangible amortization, net of tax	5		5		2		2		2		2		2	
+Adjusted net income	$	279		$	262		$	85		$	89		$	105		$	110		$	98	
+Adjusted net income available to common equity reconciliation(b)							
+Net income available to common equity	$	265		$	249		$	80		$	84		$	100		$	106		$	93	
+Other intangible amortization, net of tax	5		5		2		2		2		2		2	
+Adjusted net income available to common equity	$	270		$	254		$	82		$	86		$	102		$	108		$	95	
+Selected trend information(d)							
+Wealth management fees	$	61		$	64		$	21		$	20		$	20		$	20		$	20	
+Service charges and deposit account fees	38		48		13		12		13		14		15	
+Card-based fees	33		33		12		11		11		11		11	
+Other fee-based revenue	13		13		5		4		4		3		4	
+Fee-based revenue	146		158		50		49		48		49		51	
+Other	48		63		17		17		14		13		20	
+Total noninterest income	$	194		$	221		$	67		$	66		$	62		$	62		$	71	
+Pre-tax pre-provision income(e)							
+Income before income taxes	$	344		$	326		$	103		$	111		$	131		$	134		$	122	
+Provision for credit losses	62		13		22		22		18		20		17	
+Pre-tax pre-provision income	$	406		$	339		$	125		$	133		$	149		$	154		$	139	
+							
+							
+							
+							
+							
+							
+Efficiency ratio reconciliation(f)							
+Federal Reserve efficiency ratio	58.17	%	62.32	%	60.06	%	58.49	%	56.07	%	55.47	%	60.32	%
+Fully tax-equivalent adjustment	(0.84)	%	(0.98)	%	(0.89)	%	(0.85)	%	(0.79)	%	(0.77)	%	(0.87)	%
+Other intangible amortization	(0.67)	%	(0.75)	%	(0.69)	%	(0.68)	%	(0.66)	%	(0.62)	%	(0.67)	%
+Fully tax-equivalent efficiency ratio	56.67	%	60.60	%	58.50	%	56.96	%	54.64	%	54.08	%	58.79	%
+							
+							
+							
+							
+Numbers may not sum due to rounding.
+(a)
+Tangible common equity and tangible assets exclude goodwill and other intangible assets, net.
+(b)
+Adjusted net income and adjusted net income available to common equity, which are used in the calculation of return on average tangible assets and return on average tangible common equity, respectively, add back other intangible amortization, net of tax.
+(c)
+These capital measurements are used by management, regulators, investors, and analysts to assess, monitor, and compare the quality and composition of our capital with the capital of other financial services companies.
+(d)
+These financial measures have been included as they provide meaningful supplemental information to assess trends in the Corporation’s results of operations.
+(e)
+Management believes this measure is meaningful because it reflects adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide greater understanding of ongoing operations, and enhance comparability of results with prior periods.
+(f)
+The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains (losses), net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net
+.
+10

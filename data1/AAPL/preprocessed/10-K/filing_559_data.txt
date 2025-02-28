@@ -40,10 +40,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Document
 
 
@@ -113,7 +110,6 @@ annual meeting of shareholders (the “
 Proxy Statement”) are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The
 Proxy Statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
 
-PAGE NUMBER: 2
 
 Apple Inc.
 Form 10-K
@@ -151,7 +147,6 @@ Part IV
 Item 15.	Exhibits, Financial Statement Schedules	74
 Item 16.	Form 10-K Summary	76
 
-PAGE NUMBER: 3
 
 This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors,” which are incorporated herein by reference. All information presented herein is based on the Company’s fiscal calendar. Unless otherwise stated, references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly-owned subsidiaries, unless otherwise stated. The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
 PART I
@@ -183,7 +178,6 @@ The Company manages its business primarily on a geographic basis. The Company’
 Apple Inc. | 2017 Form 10-K |
 1
 
-PAGE NUMBER: 4
 
 Products
 iPhone
@@ -216,7 +210,6 @@ tvOS is the Company’s operating system for Apple TV. The tvOS operating system
 Apple Inc. | 2017 Form 10-K |
 2
 
-PAGE NUMBER: 5
 
 Application Software
 The Company’s application software includes iWork
@@ -251,7 +244,6 @@ Apple TV connects to consumers’ TVs and enables them to access digital content
 Apple Inc. | 2017 Form 10-K |
 3
 
-PAGE NUMBER: 6
 
 Apple Watch
 Apple Watch is a personal electronic device that combines the watchOS user interface and technologies created specifically for a smaller device, including the Digital Crown™, a unique navigation tool that allows users to seamlessly scroll, zoom and navigate, and Force Touch, a technology that senses the difference between a tap and a press and allows users to access controls within apps. Apple Watch enables users to communicate in new ways from their wrist, track their health and fitness through activity and workout apps, and includes Siri and Apple Pay. In September 2017, the Company introduced Apple Watch Series 3, featuring health and fitness enhancements and built-in cellular capability on qualifying devices.
@@ -275,7 +267,6 @@ The Company is committed to delivering solutions to help educators teach and stu
 Apple Inc. | 2017 Form 10-K |
 4
 
-PAGE NUMBER: 7
 
 The Company also sells its hardware and software products to enterprise and government customers in each of its reportable segments. The Company’s products are deployed in these markets because of their performance, productivity, ease-of-use and seamless integration into information technology environments. The Company’s products are compatible with thousands of third-party business applications and services, and its tools enable the development and secure deployment of custom applications as well as remote device administration.
 No single customer accounted for more than 10% of net sales in
@@ -297,7 +288,6 @@ The Company has entered into agreements for the supply of many components; howev
 Apple Inc. | 2017 Form 10-K |
 5
 
-PAGE NUMBER: 8
 
 Substantially all of the Company’s hardware products are currently manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland. A significant concentration of this manufacturing is currently performed by a small number of outsourcing partners, often in single locations. Certain of these outsourcing partners are the sole-sourced suppliers of components and manufacturers for many of the Company’s products. Although the Company works closely with its outsourcing partners on manufacturing schedules, the Company’s operating results could be adversely affected if its outsourcing partners were unable to meet their production commitments. The Company’s manufacturing purchase obligations typically cover its requirements for periods up to
 150 days
@@ -332,7 +322,6 @@ The Company has historically experienced higher net sales in its first quarter c
 Apple Inc. | 2017 Form 10-K |
 6
 
-PAGE NUMBER: 9
 
 Warranty
 The Company offers a limited parts and labor warranty on its hardware products. The basic warranty period is typically one year from the date of purchase by the original end-user. The Company also offers a 90-day limited warranty on the service parts used to repair the Company’s hardware products. In certain jurisdictions, local law requires that manufacturers guarantee their products for a period prescribed by statute, typically at least two years. In addition, where available, consumers may purchase APP or AC+, which extends service coverage on many of the Company’s hardware products.
@@ -349,7 +338,6 @@ The Company’s Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Curr
 Apple Inc. | 2017 Form 10-K |
 7
 
-PAGE NUMBER: 10
 
 
 
@@ -367,7 +355,6 @@ The Company’s ability to compete successfully depends heavily on its ability t
 Apple Inc. | 2017 Form 10-K |
 8
 
-PAGE NUMBER: 11
 
 The Company markets certain mobile communication and media devices based on the iOS mobile operating system and also markets related services, including third-party digital content and applications. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software and digital content supplier relationships; and the Company has a minority market share in the global smartphone market. Additionally, the Company faces significant competition as competitors reduce their selling prices and attempt to imitate the Company’s product features and applications within their own products or, alternatively, collaborate with each other to offer solutions that are more competitive than those they currently offer. The Company competes with business models that provide content to users for free. The Company also competes with illegitimate means to obtain third-party digital content and applications. Some of the Company’s competitors have greater experience, product breadth and distribution channels than the Company. Because some current and potential competitors have substantial resources and/or experience and a lower cost structure, they may be able to provide products and services at little or no profit or even at a loss. The Company also expects competition to intensify as competitors attempt to imitate the Company’s approach to providing components seamlessly within their individual offerings or work collaboratively to offer integrated solutions. The Company’s financial condition and operating results depend substantially on the Company’s ability to continually improve iOS and iOS devices in order to maintain their functional and design advantages.
 The Company is the only authorized maker of hardware using macOS, which has a minority market share in the personal computer market. This market has been contracting and is dominated by computer makers using competing operating systems, most notably Windows. In the market for personal computers and accessories, the Company faces a significant number of competitors, many of which have broader product lines, lower-priced products and a larger installed customer base. Historically, consolidation in this market has resulted in larger competitors. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. An increasing number of internet-enabled devices that include software applications and are smaller and simpler than traditional personal computers compete for market share with the Company’s existing products. The Company’s financial condition and operating results also depend on its ability to continually improve the Mac platform to maintain its functional and design advantages.
@@ -381,7 +368,6 @@ The Company has invested and will continue to invest in programs to enhance rese
 Apple Inc. | 2017 Form 10-K |
 9
 
-PAGE NUMBER: 12
 
 The Company faces substantial inventory and other asset risk in addition to purchase commitment cancellation risk.
 The Company records a write-down for product and component inventories that have become obsolete or exceed anticipated demand or net realizable value and accrues necessary cancellation fee reserves for orders of excess products and components. The Company also reviews its long-lived assets, including capital assets held at its suppliers’ facilities and inventory prepayments, for impairment whenever events or circumstances indicate the carrying amount of an asset may not be recoverable. If the Company determines that impairment has occurred, it records a write-down equal to the amount by which the carrying value of the asset exceeds its fair value. Although the Company believes its provisions related to inventory, capital assets, inventory prepayments and other assets and purchase commitments are currently adequate, no assurance can be given that the Company will not incur additional related charges given the rapid and unpredictable pace of product obsolescence in the industries in which the Company competes.
@@ -402,7 +388,6 @@ The Company has invested in manufacturing process equipment, much of which is he
 Apple Inc. | 2017 Form 10-K |
 10
 
-PAGE NUMBER: 13
 
 The Company’s products and services may experience quality problems from time to time that can result in decreased sales and operating margin and harm to the Company’s reputation.
 The Company sells complex hardware and software products and services that can contain design and manufacturing defects. Sophisticated operating system software and applications, such as those sold by the Company, often contain “bugs” that can unexpectedly interfere with the software’s intended operation. The Company’s online services may from time to time experience outages, service slowdowns or errors. Defects may also occur in components and products the Company purchases from third parties. There can be no assurance the Company will be able to detect and fix all defects in the hardware, software and services it sells. Failure to do so could result in lost revenue, significant warranty and other expenses and harm to the Company’s reputation.
@@ -416,7 +401,6 @@ With respect to iOS devices, the Company relies on the continued availability an
 Apple Inc. | 2017 Form 10-K |
 11
 
-PAGE NUMBER: 14
 
 The Company relies on access to third-party intellectual property, which may not be available to the Company on commercially reasonable terms or at all.
 Many of the Company’s products include third-party intellectual property, which requires licenses from those third parties. Based on past experience and industry practice, the Company believes such licenses generally can be obtained on reasonable terms. There is, however, no assurance that the necessary licenses can be obtained on acceptable terms or at all. Failure to obtain the right to use third-party intellectual property, or to use such intellectual property on commercially reasonable terms, could preclude the Company from selling certain products or otherwise have a material adverse impact on the Company’s financial condition and operating results.
@@ -433,7 +417,6 @@ By way of example, laws and regulations related to mobile communications and med
 Apple Inc. | 2017 Form 10-K |
 12
 
-PAGE NUMBER: 15
 
 Compliance with these laws, regulations and similar requirements may be onerous and expensive, and they may be inconsistent from jurisdiction to jurisdiction, further increasing the cost of compliance and doing business. Any such costs, which may rise in the future as a result of changes in these laws and regulations or in their interpretation, could individually or in the aggregate make the Company’s products and services less attractive to the Company’s customers, delay the introduction of new products in one or more regions, or cause the Company to change or limit its business practices. The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance that the Company’s employees, contractors, or agents will not violate such laws and regulations or the Company’s policies and procedures.
 The Company’s business is subject to the risks of international operations.
@@ -449,7 +432,6 @@ The Company may be subject to information technology system failures or network 
 Apple Inc. | 2017 Form 10-K |
 13
 
-PAGE NUMBER: 16
 
 There may be losses or unauthorized access to or releases of confidential information, including personally identifiable information, that could subject the Company to significant reputational, financial, legal and operational consequences.
 The Company’s business requires it to use and store confidential information, including, among other things, personally identifiable information (“PII”) with respect to the Company’s customers and employees. The Company devotes significant resources to network and data security, including through the use of encryption and other security measures intended to protect its systems and data. But these measures cannot provide absolute security, and losses or unauthorized access to or releases of confidential information may still occur, which could materially adversely affect the Company’s reputation, financial condition and operating results.
@@ -466,7 +448,6 @@ The Company makes statements about its use and disclosure of PII through its pri
 Apple Inc. | 2017 Form 10-K |
 14
 
-PAGE NUMBER: 17
 
 The Company’s success depends largely on the continued service and availability of key personnel.
 Much of the Company’s future success depends on the continued availability and service of key personnel, including its Chief Executive Officer, executive team and other highly skilled employees. Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company’s key personnel are located.
@@ -480,7 +461,6 @@ The Company’s stock price has experienced substantial price volatility in the 
 Apple Inc. | 2017 Form 10-K |
 15
 
-PAGE NUMBER: 18
 
 The Company’s financial performance is subject to risks associated with changes in the value of the U.S. dollar versus local currencies.
 The Company’s primary exposure to movements in foreign currency exchange rates relates to non-U.S. dollar-denominated sales and operating expenses worldwide. Weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company’s foreign currency-denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company’s products. Margins on sales of the Company’s products in foreign countries and on sales of products that include components obtained from foreign suppliers, could be materially adversely affected by foreign currency exchange rate fluctuations. In some circumstances, for competitive or other reasons, the Company may decide not to raise local prices to fully offset the dollar’s strengthening, or at all, which would adversely affect the U.S. dollar value of the Company’s foreign currency-denominated sales and earnings. Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign currency-denominated sales and earnings, could cause the Company to reduce international pricing and incur losses on its foreign currency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may increase the Company’s cost of product components denominated in those currencies, thus adversely affecting gross margins.
@@ -502,7 +482,6 @@ None.
 Apple Inc. | 2017 Form 10-K |
 16
 
-PAGE NUMBER: 19
 
 
 
@@ -527,7 +506,6 @@ Not applicable.
 Apple Inc. | 2017 Form 10-K |
 17
 
-PAGE NUMBER: 20
 
 PART II
 
@@ -560,7 +538,6 @@ per common share each quarter, subject to declaration by the Board of Directors.
 Apple Inc. | 2017 Form 10-K |
 18
 
-PAGE NUMBER: 21
 
 Purchases of Equity Securities by the Issuer and Affiliated Purchasers
 Share repurchase activity during the three months ended
@@ -591,7 +568,6 @@ Total		48,652							$	44,023
 Apple Inc. | 2017 Form 10-K |
 19
 
-PAGE NUMBER: 22
 
 Company Stock Performance
 The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended
@@ -615,7 +591,6 @@ Dow Jones U.S. Technology Supersector Index		$	100			$	105			$	137			$	137			$	1
 Apple Inc. | 2017 Form 10-K |
 20
 
-PAGE NUMBER: 23
 
 
 
@@ -654,7 +629,6 @@ Total shareholders’ equity	$	134,047			$	128,249			$	119,355			$	111,547			$	1
 Apple Inc. | 2017 Form 10-K |
 21
 
-PAGE NUMBER: 24
 
 
 
@@ -682,7 +656,6 @@ Net sales declined 8% or $18.1 billion during 2016 compared to 2015, primarily d
 Apple Inc. | 2017 Form 10-K |
 22
 
-PAGE NUMBER: 25
 
 Sales Data
 The following table shows net sales by operating segment and net sales and unit sales by product for
@@ -726,7 +699,6 @@ Mac	19,251			4	%		18,484			(10	)%		20,587
 Apple Inc. | 2017 Form 10-K |
 23
 
-PAGE NUMBER: 26
 
 Product Performance
 iPhone
@@ -770,7 +742,6 @@ Mac net sales decreased during 2016 compared to 2015 primarily due to lower year
 Apple Inc. | 2017 Form 10-K |
 24
 
-PAGE NUMBER: 27
 
 Services
 The following table presents Services net sales information for
@@ -812,7 +783,6 @@ Europe net sales decreased during 2016 compared to 2015 driven primarily by the 
 Apple Inc. | 2017 Form 10-K |
 25
 
-PAGE NUMBER: 28
 
 Greater China
 The following table presents Greater China net sales information for
@@ -863,7 +833,6 @@ Gross margin percentage decreased in 2016 compared to 2015 due primarily to the 
 Apple Inc. | 2017 Form 10-K |
 26
 
-PAGE NUMBER: 29
 
 The Company anticipates gross margin percentage during the first quarter of
 2018
@@ -907,7 +876,6 @@ The year-over-year increase in other income/(expense), net during 2017 was due p
 Apple Inc. | 2017 Form 10-K |
 27
 
-PAGE NUMBER: 30
 
 Provision for Income Taxes
 Provision for income taxes and effective tax rates for
@@ -945,7 +913,6 @@ In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows (Topi
 Apple Inc. | 2017 Form 10-K |
 28
 
-PAGE NUMBER: 31
 
 Income Taxes
 In October 2016, the FASB issued ASU No. 2016-16, Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory (“ASU 2016-16”), which requires the recognition of the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs. The Company will adopt ASU 2016-16 in its first quarter of 2019 utilizing the modified retrospective transition method. Currently, the Company anticipates recording up to $9 billion of net deferred tax assets on its Consolidated Balance Sheets upon adoption. However, the ultimate impact of adopting ASU 2016-16 will depend on the balance of intellectual property transferred between its subsidiaries as of the adoption date. The Company will recognize incremental deferred income tax expense thereafter as these deferred tax assets are utilized.
@@ -965,7 +932,6 @@ The new revenue standards may be applied retrospectively to each prior period pr
 Apple Inc. | 2017 Form 10-K |
 29
 
-PAGE NUMBER: 32
 
 Liquidity and Capital Resources
 The following table presents selected financial information and statistics as of and for the years ended
@@ -1060,7 +1026,6 @@ nine months
 Apple Inc. | 2017 Form 10-K |
 30
 
-PAGE NUMBER: 33
 
 As of
 September 30, 2017
@@ -1113,7 +1078,6 @@ The Company has not entered into any transactions with unconsolidated entities w
 Apple Inc. | 2017 Form 10-K |
 31
 
-PAGE NUMBER: 34
 
 The following table presents certain payments due by the Company as of
 September 30, 2017
@@ -1162,7 +1126,6 @@ The Company has entered into indemnification agreements with its directors and e
 Apple Inc. | 2017 Form 10-K |
 32
 
-PAGE NUMBER: 35
 
 Critical Accounting Policies and Estimates
 The preparation of financial statements and related disclosures in conformity with U.S. generally accepted accounting principles (“GAAP”) and the Company’s discussion and analysis of its financial condition and operating results require the Company’s management to make judgments, assumptions and estimates that affect the amounts reported in its consolidated financial statements and accompanying notes. Note 1, “Summary of Significant Accounting Policies,” of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Form 10-K describes the significant accounting policies and methods used in the preparation of the Company’s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may be material.
@@ -1175,7 +1138,6 @@ The Company’s process for determining ESPs involves management’s judgment an
 Apple Inc. | 2017 Form 10-K |
 33
 
-PAGE NUMBER: 36
 
 The Company records reductions to revenue for estimated commitments related to price protection and other customer incentive programs. For transactions involving price protection, the Company recognizes revenue net of the estimated amount to be refunded, provided the refund amount can be reasonably and reliably estimated and the other conditions for revenue recognition have been met. The Company’s policy requires that, if refunds cannot be reliably estimated, revenue is not recognized until reliable estimates can be made or the price protection lapses. For the Company’s other customer incentive programs, the estimated cost is recognized at the later of the date at which the Company has sold the product or the date at which the program is offered. The Company also records reductions to revenue for expected future product returns based on the Company’s historical experience. Future market conditions and product transitions may require the Company to increase customer incentive programs that could result in reductions to future revenue. Additionally, certain customer incentive programs require management to estimate the number of customers who will actually redeem the incentive. Management’s estimates are based on historical experience and the specific terms and conditions of particular incentive programs. If a greater than estimated proportion of customers redeems such incentives, the Company would be required to record additional reductions to revenue, which would have an adverse impact on the Company’s operating results.
 Valuation and Impairment of Marketable Securities
@@ -1189,7 +1151,6 @@ The Company accrues for estimated purchase commitment cancellation fees related 
 Apple Inc. | 2017 Form 10-K |
 34
 
-PAGE NUMBER: 37
 
 Warranty Costs
 The Company accrues for the estimated cost of warranties in the period the related revenue is recognized based on historical and projected warranty claim rates, historical and projected cost per claim and knowledge of specific product failures that are outside of the Company’s typical experience. The Company regularly reviews these estimates and the current installed base of products subject to warranty protection to assess the appropriateness of its recorded warranty liabilities and adjusts the amounts as necessary. If actual product failure rates or repair costs differ from estimates, revisions to the estimated warranty liabilities could be required and could materially affect the Company’s financial condition and operating results.
@@ -1202,7 +1163,6 @@ As discussed in Part I, Item 3 of this Form 10-K under the heading “Legal Proc
 Apple Inc. | 2017 Form 10-K |
 35
 
-PAGE NUMBER: 38
 
 
 
@@ -1230,7 +1190,6 @@ The Company may enter into foreign currency forward and option contracts with fi
 Apple Inc. | 2017 Form 10-K |
 36
 
-PAGE NUMBER: 39
 
 To provide a meaningful assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands of random market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. The VAR model is not intended to represent actual losses but is used as a risk estimation and management tool. Forecasted transactions, firm commitments and assets and liabilities denominated in foreign currencies were excluded from the model. Based on the results of the model, the Company estimates with 95% confidence, a maximum one-day loss in fair value of $485 million as of
 September 30, 2017
@@ -1242,7 +1201,6 @@ due to the inherent limitations associated with predicting the timing and amount
 Apple Inc. | 2017 Form 10-K |
 37
 
-PAGE NUMBER: 40
 
 
 
@@ -1263,7 +1221,6 @@ All financial statement schedules have been omitted, since the required informat
 Apple Inc. | 2017 Form 10-K |
 38
 
-PAGE NUMBER: 41
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF OPERATIONS
@@ -1302,7 +1259,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2017 Form 10-K |
 39
 
-PAGE NUMBER: 42
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
@@ -1333,7 +1289,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2017 Form 10-K |
 40
 
-PAGE NUMBER: 43
 
 Apple Inc.
 CONSOLIDATED BALANCE SHEETS
@@ -1386,7 +1341,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2017 Form 10-K |
 41
 
-PAGE NUMBER: 44
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
@@ -1426,7 +1380,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2017 Form 10-K |
 42
 
-PAGE NUMBER: 45
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF CASH FLOWS
@@ -1483,7 +1436,6 @@ See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2017 Form 10-K |
 43
 
-PAGE NUMBER: 46
 
 Apple Inc.
 Notes to Consolidated Financial Statements
@@ -1504,7 +1456,6 @@ For the sale of most third-party products, the Company recognizes revenue based 
 Apple Inc. | 2017 Form 10-K |
 44
 
-PAGE NUMBER: 47
 
 The Company records deferred revenue when it receives payments in advance of the delivery of products or the performance of services. This includes amounts that have been deferred for unspecified and specified software upgrade rights and non-software services that are attached to hardware and software products. The Company sells gift cards redeemable at its retail and online stores, and also sells gift cards redeemable on iTunes Store, App Store, Mac App Store, TV App Store and iBooks Store for the purchase of digital content and software. The Company records deferred revenue upon the sale of the card, which is relieved upon redemption of the card by the customer. Revenue from AppleCare service and support contracts is deferred and recognized over the service coverage periods. AppleCare service and support contracts typically include extended phone support, repair services, web-based support resources and diagnostic tools offered under the Company’s standard limited warranty.
 The Company records reductions to revenue for estimated commitments related to price protection and other customer incentive programs. For transactions involving price protection, the Company recognizes revenue net of the estimated amount to be refunded. For the Company’s other customer incentive programs, the estimated cost of these programs is recognized at the later of the date at which the Company has sold the product or the date at which the program is offered. The Company also records reductions to revenue for expected future product returns based on the Company’s historical experience. Revenue is recorded net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded as current liabilities until remitted to the relevant government authority.
@@ -1521,7 +1472,6 @@ The Company generally provides for the estimated cost of hardware and software w
 Apple Inc. | 2017 Form 10-K |
 45
 
-PAGE NUMBER: 48
 
 Software Development Costs
 Research and development (“R&D”) costs are expensed as incurred. Development costs of computer software to be sold, leased, or otherwise marketed are subject to capitalization beginning when a product’s technological feasibility has been established and ending when a product is available for general release to customers. In most instances, the Company’s products are released soon after technological feasibility has been established and as a result software development costs were expensed as incurred.
@@ -1539,7 +1489,6 @@ Basic earnings per share is computed by dividing income available to common shar
 Apple Inc. | 2017 Form 10-K |
 46
 
-PAGE NUMBER: 49
 
 The following table shows the computation of basic and diluted earnings per share for
 2017
@@ -1576,7 +1525,6 @@ Derivatives that do not qualify as hedges are adjusted to fair value through ear
 Apple Inc. | 2017 Form 10-K |
 47
 
-PAGE NUMBER: 50
 
 Allowance for Doubtful Accounts
 The Company records its allowance for doubtful accounts based upon its assessment of various factors, including historical experience, age of the accounts receivable balances, credit quality of the Company’s customers, current economic conditions and other factors that may affect the customers’ abilities to pay.
@@ -1623,7 +1571,6 @@ Level 3
 Apple Inc. | 2017 Form 10-K |
 48
 
-PAGE NUMBER: 51
 
 The Company’s valuation techniques used to measure the fair value of money market funds and certain marketable equity securities were derived from quoted prices in active markets for identical assets or liabilities. The valuation techniques used to measure the fair value of the Company’s debt instruments and all other financial instruments, all of which have counterparties with high credit ratings, were valued based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
 In accordance with the fair value accounting requirements, companies may choose to measure eligible financial instruments and certain other items at fair value. The Company has not elected the fair value option for any eligible financial instruments.
@@ -1664,7 +1611,6 @@ Total	$	268,399			$	1,278			$	(782	)		$	268,895			$	20,289			$	53,892			$	194,71
 Apple Inc. | 2017 Form 10-K |
 49
 
-PAGE NUMBER: 52
 
 
 
@@ -1707,7 +1653,6 @@ To help protect the net investment in a foreign operation from adverse changes i
 Apple Inc. | 2017 Form 10-K |
 50
 
-PAGE NUMBER: 53
 
 The Company may also enter into non-designated foreign currency contracts to partially offset the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
 The Company may enter into interest rate swaps, options, or other instruments to manage interest rate risk. These instruments may offset a portion of changes in income or expense, or changes in fair value of the Company’s term debt or investments. The Company designates these instruments as either cash flow or fair value hedges. The Company’s hedged interest rate transactions as of
@@ -1753,7 +1698,6 @@ Interest rate contracts	$	303			$	—			$	303
 Apple Inc. | 2017 Form 10-K |
 51
 
-PAGE NUMBER: 54
 
 
 
@@ -1809,7 +1753,6 @@ Fixed-rate debt	$	810			$	(341	)		$	(337	)
 Apple Inc. | 2017 Form 10-K |
 52
 
-PAGE NUMBER: 55
 
 The following table shows the notional amounts of the Company’s outstanding derivative instruments and credit risk amounts associated with outstanding or unsettled derivative instruments as of
 September 30, 2017
@@ -1870,7 +1813,6 @@ vendors that individually represented 10% or more of total vendor non-trade rece
 Apple Inc. | 2017 Form 10-K |
 53
 
-PAGE NUMBER: 56
 
 Note 3 – Consolidated Financial Statement Details
 The following tables show the Company’s consolidated financial statement details as of
@@ -1922,7 +1864,6 @@ Total acquired intangible assets	$	7,607			$	(5,309	)		$	2,298			$	9,012			$	(5,
 Apple Inc. | 2017 Form 10-K |
 54
 
-PAGE NUMBER: 57
 
 Amortization expense related to acquired intangible assets was
 $1.2 billion
@@ -1992,7 +1933,6 @@ $216.0 billion
 Apple Inc. | 2017 Form 10-K |
 55
 
-PAGE NUMBER: 58
 
 A reconciliation of the provision for income taxes, with the amount computed by applying the statutory federal income tax rate (
 35%
@@ -2058,7 +1998,6 @@ $2.8 billion
 Apple Inc. | 2017 Form 10-K |
 56
 
-PAGE NUMBER: 59
 
 The aggregate changes in the balance of gross unrecognized tax benefits, which excludes interest and penalties, for
 2017
@@ -2103,7 +2042,6 @@ subsidiaries of the Company (the “State Aid Decision”). The State Aid Decisi
 Apple Inc. | 2017 Form 10-K |
 57
 
-PAGE NUMBER: 60
 
 Note 6 – Debt
 Commercial Paper
@@ -2167,7 +2105,6 @@ Fixed-rate 1.100% – 4.650% notes	2018	–	2046		23,645				1.13%	–	4.78	%		23
 Apple Inc. | 2017 Form 10-K |
 58
 
-PAGE NUMBER: 61
 
 
 
@@ -2231,7 +2168,6 @@ For further discussion regarding the Company’s use of derivative instruments s
 Apple Inc. | 2017 Form 10-K |
 59
 
-PAGE NUMBER: 62
 
 The effective interest rates for the Notes include the interest on the Notes, amortization of the discount or premium and, if applicable, adjustments related to hedging. The Company recognized
 $2.2 billion
@@ -2297,7 +2233,6 @@ The Company has entered, and in the future may enter, into accelerated share rep
 Apple Inc. | 2017 Form 10-K |
 60
 
-PAGE NUMBER: 63
 
 The following table shows the Company’s ASR activity and related information during the years ended
 September 30, 2017
@@ -2341,7 +2276,6 @@ Comprehensive income consists of two components, net income and OCI. OCI refers 
 Apple Inc. | 2017 Form 10-K |
 61
 
-PAGE NUMBER: 64
 
 The following table shows the pre-tax amounts reclassified from AOCI into the Consolidated Statements of Operations, and the associated financial statement line item, for
 2017
@@ -2395,7 +2329,6 @@ shares were reserved for future issuance under the 2014 Plan.
 Apple Inc. | 2017 Form 10-K |
 62
 
-PAGE NUMBER: 65
 
 2003 Employee Stock Plan
 The 2003 Plan is a shareholder approved plan that provided for broad-based equity grants to employees, including executive officers. The 2003 Plan permitted the granting of incentive stock options, nonstatutory stock options, RSUs, stock appreciation rights, stock purchase rights and performance-based awards. Options granted under the 2003 Plan generally expire
@@ -2445,7 +2378,6 @@ of the employee’s eligible earnings.
 Apple Inc. | 2017 Form 10-K |
 63
 
-PAGE NUMBER: 66
 
 Restricted Stock Units
 A summary of the Company’s RSU activity and related information for
@@ -2522,7 +2454,6 @@ Ending accrued warranty and related costs	$	3,834			$	3,702			$	4,780
 Apple Inc. | 2017 Form 10-K |
 64
 
-PAGE NUMBER: 67
 
 Agreements entered into by the Company sometimes include indemnification provisions which may subject the Company to costs and damages in the event of a claim against an indemnified third party. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to indemnification of third parties.
 The Company offers an iPhone Upgrade Program, which is available to customers who purchase a qualifying iPhone in the U.S., the U.K. and mainland China. The iPhone Upgrade Program provides customers the right to trade in that iPhone for a specified amount when purchasing a new iPhone, provided certain conditions are met. The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within revenue.
@@ -2546,7 +2477,6 @@ and generally contain multi-year renewal options.
 Apple Inc. | 2017 Form 10-K |
 65
 
-PAGE NUMBER: 68
 
 Rent expense under all operating leases, including both cancelable and noncancelable leases, was
 $1.1 billion
@@ -2598,7 +2528,6 @@ in damages. On February 7, 2017, the U.S. Court of Appeals for the Federal Circu
 Apple Inc. | 2017 Form 10-K |
 66
 
-PAGE NUMBER: 69
 
 Note 11 – Segment Information and Geographic Data
 The Company reports segment information based on the “management” approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
@@ -2647,7 +2576,6 @@ Total operating income	$	61,344			$	60,024			$	71,230
 Apple Inc. | 2017 Form 10-K |
 67
 
-PAGE NUMBER: 70
 
 The U.S. and China were the only countries that accounted for more than 10% of the Company’s net sales in 2017, 2016 and 2015. There was no single customer that accounted for more than 10% of net sales in 2017, 2016 and 2015. Net sales for
 2017
@@ -2712,7 +2640,6 @@ Diluted	$	2.07			$	1.67			$	2.10			$	3.36
 Apple Inc. | 2017 Form 10-K |
 68
 
-PAGE NUMBER: 71
 
 
 
@@ -2732,7 +2659,6 @@ Diluted	$	1.67			$	1.42			$	1.90			$	3.28
 Apple Inc. | 2017 Form 10-K |
 69
 
-PAGE NUMBER: 72
 
 Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
 The Board of Directors and Shareholders of Apple Inc.
@@ -2761,7 +2687,6 @@ San Jose, California
 Apple Inc. | 2017 Form 10-K |
 70
 
-PAGE NUMBER: 73
 
 Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
 The Board of Directors and Shareholders of Apple Inc.
@@ -2789,7 +2714,6 @@ San Jose, California
 Apple Inc. | 2017 Form 10-K |
 71
 
-PAGE NUMBER: 74
 
 
 
@@ -2824,7 +2748,6 @@ Not applicable.
 Apple Inc. | 2017 Form 10-K |
 72
 
-PAGE NUMBER: 75
 
 PART III
 
@@ -2856,7 +2779,6 @@ The information required by this Item is set forth under the subheadings “Fees
 Apple Inc. | 2017 Form 10-K |
 73
 
-PAGE NUMBER: 76
 
 PART IV
 
@@ -2900,7 +2822,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 Apple Inc. | 2017 Form 10-K |
 74
 
-PAGE NUMBER: 77
 
 
 
@@ -2935,7 +2856,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 Apple Inc. | 2017 Form 10-K |
 75
 
-PAGE NUMBER: 78
 
 
 
@@ -2980,7 +2900,6 @@ None.
 Apple Inc. | 2017 Form 10-K |
 76
 
-PAGE NUMBER: 79
 
 SIGNATURES
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -3034,10 +2953,7 @@ SUSAN L. WAGNER
 Apple Inc. | 2017 Form 10-K |
 77
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Exhibit
 Exhibit 10.8
 APPLE INC.
@@ -3057,7 +2973,6 @@ DEFINITIONS.
 (d) “Award Agreement” means any Stock Option Agreement, SAR Agreement, Stock Grant Agreement, Restricted Stock Unit Agreement or any written document that evidences a Cash Bonus Award granted under the Plan. Award Agreements shall consist of either (1) a written award agreement in a form approved by the Committee and executed by the Company by an officer duly authorized to act on its behalf, or (2) an electronic notice of award grant in a form approved by the Committee and recorded by the Company (or its designee) in an electronic recordkeeping system used for the purpose of tracking award grants under the Plan generally, as the Committee may provide and, in each case and if required by the Committee, executed or otherwise electronically accepted by the recipient of the Award in such form and manner as the Committee may require. The Committee may authorize any officer of the Company (other than the particular Award recipient) to execute any or all Award Agreements on behalf of the Company.
 1
 
-PAGE NUMBER: 2
 
 (e) “Board” means the Board of Directors of the Company, as constituted from time to time.
 (f) “Cash Bonus Award” means an Award granted pursuant to Section 10(b) of the Plan.
@@ -3076,7 +2991,6 @@ PAGE NUMBER: 2
 (r) “Exercise Price” means, in the case of an Option, the amount for which a Share may be purchased upon exercise of such Option, as specified in the applicable Stock Option Agreement. “Exercise Price,” in the case of a SAR, means an amount, as specified in the applicable SAR Agreement, which is subtracted from the Fair Market Value at the time such SAR is exercised in determining the amount payable upon exercise of such SAR.
 2
 
-PAGE NUMBER: 3
 
 (s) “Fair Market Value” means, unless otherwise determined or provided by the Committee in the circumstances, the closing price (in regular trading) for a Share on the Nasdaq Stock Market (the “Market”) for the date in question or, if no sales of Common Stock were reported on the Market on that date, the last price (in regular trading) for a Share on the Market for the next preceding day on which sales of Common Stock were reported on the Market. The Committee may, however, provide with respect to one or more Awards that the Fair Market Value shall equal the last price for a Share on the Market on the last trading day preceding the date in question or the average of the high and low trading prices of a Share on the Market for the date in question or the most recent trading day. If the Common Stock is no longer listed or is no longer actively traded on the Market as of the applicable date, the Fair Market Value of the Common Stock shall be the value as reasonably determined by the Committee for purposes of the Award in the circumstances. The Committee also may adopt a different methodology for determining Fair Market Value with respect to one or more Awards if a different methodology is necessary or advisable to secure any intended favorable tax, legal or other treatment for the particular Award(s) (for example, and without limitation, the Committee may provide that Fair Market Value for purposes of one or more Awards will be based on an average of closing prices (or the average of high and low daily trading prices) for a specified period preceding the relevant date).
 (t) “Fiscal Year” means the Company’s fiscal year.
@@ -3092,7 +3006,6 @@ PAGE NUMBER: 3
 (dd) “Performance Goals” means one or more objective measurable performance goals established by the Committee with respect to a Performance Period based upon one or more of the following criteria: (i) operating income; (ii) earnings before interest, taxes, depreciation and amortization; (iii) earnings; (iv) cash flow; (v) market share; (vi) sales or revenue; (vii) expenses; (viii) cost of goods sold; (ix) profit/loss or profit margin; (x) working capital; (xi) return on equity or assets; (xii) earnings per share; (xiii) total shareholder return; (xiv) price/earnings ratio; (xv) debt or debt-to-equity; (xvi) accounts receivable; (xvii) writeoffs; (xviii) cash; (xix) assets; (xx) liquidity; (xxi) operations; (xxii) intellectual property (e.g., patents); (xxiii) product
 3
 
-PAGE NUMBER: 4
 
 development; (xxiv) manufacturing, production or inventory; (xxv) mergers and acquisitions or divestitures; and/or (xxvi) stock price. Any criteria used may be measured, as applicable, (a) in absolute terms, (b) in relative terms (including but not limited to, the passage of time and/or against other companies or financial metrics), (c) on a per share and/or share per capita basis, (d) against the performance of the Company as a whole or against particular entities, segments, operating units or products of the Company and/or (e) on a pre-tax or after tax basis. Awards granted to persons who are not Covered Employees may take into account any other factors deemed appropriate by the Committee.
 (ee) “Performance Period” means any period not exceeding 120 months as determined by the Committee, in its sole discretion. The Committee may establish different Performance Periods for different Participants, and the Committee may establish concurrent or overlapping Performance Periods.
@@ -3111,7 +3024,6 @@ development; (xxiv) manufacturing, production or inventory; (xxv) mergers and ac
 (rr) “Stock Option Agreement” means the agreement described in Section 6 evidencing an Option.
 4
 
-PAGE NUMBER: 5
 
 (ss) “Subsidiary” means any corporation or other entity a majority of whose outstanding voting stock or voting power is beneficially owned directly or indirectly by the Company. An entity that attains the status of a Subsidiary on a date after the adoption of the Plan shall be considered a Subsidiary commencing as of such date.
 (tt) “10-Percent Stockholder” means an individual who owns more than 10% of the total combined voting power of all classes of outstanding stock of the Company or of its parent corporation or subsidiary corporation (as defined in Code Sections 424(e) and (f)). In determining stock ownership, the attribution rules of Code Section 424(d) shall be applied.
@@ -3122,7 +3034,6 @@ ADMINISTRATION.
 The Board and any Committee appointed to administer the Plan is referred to herein as the “Committee.”
 5
 
-PAGE NUMBER: 6
 
 (b) Authority of the Committee. Subject to the provisions of the Plan, the Committee shall have the full authority, in its sole discretion, to take any actions it deems necessary or advisable for the administration of the Plan. Such actions shall include:
 (i) selecting Participants who are to receive Awards under the Plan;
@@ -3141,7 +3052,6 @@ PAGE NUMBER: 6
 (xiv) making all other decisions relating to the operation of the Plan; and
 6
 
-PAGE NUMBER: 7
 
 (xv) adopting such plans or subplans as may be deemed necessary or appropriate to comply with the laws of other countries, allow for tax-preferred treatment of Awards or otherwise provide for the participation by Participants who reside outside of the U.S.
 In no event shall the Committee Re-Price any Option or SAR.
@@ -3155,7 +3065,6 @@ SECTION 4. GENERAL.
 (i) Unless otherwise expressly provided in (or pursuant to) this Section 4(c) or required by Applicable Law: (A) all Awards are non-transferable and shall not be subject in any manner to sale, transfer, anticipation, alienation, assignment, pledge, encumbrance or charge; (B) Awards that are Options or Stock Appreciation Rights shall be exercised only by the Participant; and (C) amounts payable or Shares issuable pursuant to any Award shall be delivered only to (or for the account of) the Participant.
 7
 
-PAGE NUMBER: 8
 
 (ii) The Committee may permit Awards to be exercised by and paid to, or otherwise transferred to, other persons or entities pursuant to such conditions and procedures, including limitations on subsequent transfers, as the Committee may, in its sole discretion, establish in writing. Any permitted transfer shall be subject to compliance with Applicable Laws and shall not be for value (other than nominal consideration, settlement of marital property rights, or for interests in an entity in which more than 50% of the voting interests are held by the Participant or by the Participant’s family members).
 (iii) The exercise and transfer restrictions in Section 4(c) shall not apply to:
@@ -3170,7 +3079,6 @@ PAGE NUMBER: 8
 (g) Consideration. The purchase price for any Award granted under the Plan or the Common Stock to be delivered pursuant to an award, as applicable, may be paid by means of any lawful consideration as determined by the Committee.
 8
 
-PAGE NUMBER: 9
 
 SECTION 5. SHARES SUBJECT TO PLAN AND SHARE LIMITS.
 (a) Basic Limitation. The stock issuable under the Plan shall be authorized but unissued Shares. The aggregate number of Shares that may be issued pursuant to Awards under the Plan, subject to adjustment pursuant to Section 11, is equal to:
@@ -3182,7 +3090,6 @@ provided that in no event shall the Shares available for issuance under the Plan
 (b) Share Count. Shares issued pursuant to Awards under the Plan other than Options or SARs will count against the Shares available for issuance under the Plan as two (2) Shares for every one (1) Share issued in connection with the Award. Shares issued pursuant to the exercise of Options or SARs under the Plan will count against the Shares available for issuance under the Plan as one (1) Share for every one Share to which such exercise relates. For purposes of clarity, the total number of Shares subject to SARs that are exercised and settled in Shares, and the total number of Shares subject to Options that are exercised, shall be counted in full on a one-for-one basis against the number of Shares available for issuance under the Plan, regardless of the number of Shares actually issued upon settlement of the SARs or Options. If Awards are settled in cash, the Shares that would have been delivered had there been no cash settlement shall not be counted against the Shares available for issuance under the Plan. Except as provided in the next sentence, Shares that are subject to Awards that are forfeited, are terminated, fail to vest or for any other reason are not paid or delivered, shall again become available for Awards under the Plan; provided that any one (1) Share issued pursuant to a Stock Grant or subject to a Restricted Stock Unit Award (including Shares subject to stock-settled dividend equivalent rights) that is forfeited or terminated shall be credited as two (2) Shares when determining the number of Shares that shall again become available for Awards under the Plan if upon
 9
 
-PAGE NUMBER: 10
 
 grant, the Shares underlying such forfeited or terminated Awards were counted as two (2) Shares against the Plan reserve. Shares that are exchanged by a Participant or withheld by the Company as full or partial payment in connection with any Option or SAR, as well as any Shares exchanged by a Participant or withheld by the Company or one of its Subsidiaries to satisfy the tax withholding obligations related to any Option or SAR, shall not be available for subsequent Awards under the Plan. Shares that are exchanged by a Participant or withheld by the Company as full or partial payment in connection with any Full-Value Award, as well as any Shares exchanged by a Participant or withheld by the Company or one of its Subsidiaries to satisfy the tax withholding obligations related to any Full-Value Award, shall be available for subsequent Awards under the Plan; provided that any one (1) Share so exchanged or withheld in connection with any Full-Value Award shall be credited as two (2) Shares when determining the number of Shares that shall again become available for Awards under the Plan if upon grant, the Shares underlying the related Full-Value Award were counted as two (2) Shares against the Plan reserve. Refer to Section 15(i) for application of the foregoing share limits with respect to substituted awards.
 (c) Share Limits
@@ -3194,7 +3101,6 @@ SECTION 6. TERMS AND CONDITIONS OF OPTIONS.
 (b) Number of Shares. Each Stock Option Agreement shall specify the number of Shares that are subject to the Option, which number is subject to adjustment in accordance with Section 11.
 10
 
-PAGE NUMBER: 11
 
 (c) Exercise Price. Each Stock Option Agreement shall specify the Option’s Exercise Price which shall be established by the Committee and is subject to adjustment in accordance with Section 11. The Exercise Price of an Option shall not be less than 100% of the Fair Market Value (110% for an ISO granted to a 10-Percent Stockholder) on the Grant Date.
 (d) Exercisability and Term. Each Stock Option Agreement shall specify the date when all or any installment of the Option is to become exercisable and/or any performance conditions or Performance Goals pursuant to Section 10 that must be satisfied before the Option may be exercised. The Stock Option Agreement shall also specify the maximum term of the Option; provided that the maximum term of an Option shall in no event exceed seven (7) years from the Grant Date. Notwithstanding any other provision of the Plan or the Stock Option Agreement, no Option can be exercised after the expiration date provided in the applicable Stock Option Agreement.
@@ -3208,7 +3114,6 @@ SECTION 7. TERMS AND CONDITIONS OF STOCK APPRECIATION RIGHTS.
 (b) Number of Shares. Each SAR Agreement shall specify the number of Shares to which the SAR pertains, which number is subject to adjustment in accordance with Section 11.
 11
 
-PAGE NUMBER: 12
 
 (c) Exercise Price. Each SAR Agreement shall specify the Exercise Price, which is subject to adjustment in accordance with Section 11. A SAR Agreement may specify an Exercise Price that varies in accordance with a predetermined formula while the SAR is outstanding, provided that in all cases and at all times the Exercise Price of a SAR shall not be less than 100% of the Fair Market Value on the Grant Date.
 (d) Exercisability and Term. Each SAR Agreement shall specify the date when all or any installment of the SAR is to become exercisable and/or any performance conditions or Performance Goals pursuant to Section 10 that must be satisfied before the SAR is exercised. The SAR Agreement shall also specify the maximum term of the SAR which shall not exceed seven (7) years from the Grant Date. SARs may be awarded in combination with Options or Stock Grants, and such an Award shall provide that the SARs will not be exercisable unless the related Options or Stock Grants are forfeited. A SAR may be included in an ISO only at the time of grant but may be included in an NSO at the time of grant or at any subsequent time. Notwithstanding any other provision of the Plan or the SAR Agreement, no SAR can be exercised after the expiration date provided in the applicable SAR Agreement.
@@ -3220,7 +3125,6 @@ SECTION 8. TERMS AND CONDITIONS FOR STOCK GRANTS.
 (d) Vesting Conditions. The Committee shall determine the vesting schedule of each Stock Grant. Vesting shall occur, in full or in installments, upon satisfaction of the conditions specified in the Stock Grant Agreement, which may include performance conditions or Performance Goals pursuant to Section 10.
 12
 
-PAGE NUMBER: 13
 
 (e) Voting and Dividend Rights. The holder of a Stock Grant awarded under the Plan shall have the same voting, dividend and other rights as the Company’s other shareholders, except as otherwise stated in the Stock Grant Agreement; provided, however, that any dividends as to the portion of a Stock Grant that is subject to performance-based vesting requirements will be subject to forfeiture and termination (or repayment, as applicable) to the same extent as the corresponding portion of the Stock Grant to which such dividends relate. A Stock Grant Agreement may require that the holder of such Stock Grant invest any cash dividends received in additional Shares subject to the Stock Grant. Such additional Shares and any Shares received as a dividend pursuant to the Stock Grant shall be subject to the same conditions and restrictions as the Stock Grant with respect to which the dividends were paid.
 SECTION 9. TERMS AND CONDITIONS OF RESTRICTED STOCK UNITS.
@@ -3231,7 +3135,6 @@ SECTION 9. TERMS AND CONDITIONS OF RESTRICTED STOCK UNITS.
 (e) Voting and Dividend Rights. The holders of Restricted Stock Units shall have no voting rights. Prior to settlement or forfeiture, any Restricted Stock Unit awarded under the Plan may, at the Committee’s discretion, carry with it a right to dividend equivalents. Such right entitles the holder to be credited with an amount equal to all cash dividends paid on one Share while the Restricted Stock Unit is outstanding. Dividend equivalents may be converted into additional Restricted Stock Units and may (and will, to the extent required below) be made subject to the same conditions and restrictions as the Restricted Stock Units to which they attach. Settlement of dividend equivalents may be made in the form of cash, in the form of Shares, or in a combination of both. Dividend equivalents as to Restricted Stock Units that are subject to performance-based vesting requirements will be subject to forfeiture and termination to the same extent as the corresponding Restricted Stock Units to which the dividend equivalents relate.
 13
 
-PAGE NUMBER: 14
 
 (f) Creditors’ Rights. A holder of Restricted Stock Units shall have no rights other than those of a general creditor of the Company. Restricted Stock Units represent an unfunded and unsecured obligation of the Company, subject to the terms and conditions of the applicable Restricted Stock Unit Agreement.
 SECTION 10. PERFORMANCE-BASED AWARDS; CASH BONUS AWARDS.
@@ -3240,7 +3143,6 @@ SECTION 10. PERFORMANCE-BASED AWARDS; CASH BONUS AWARDS.
 (c) Expiration of Grant Authority. As required pursuant to Code Section 162(m) and the regulations promulgated thereunder, the Committee’s authority to grant new Awards that are intended to qualify as “performance-based compensation” within the meaning of Section 162(m) of the Code (other than Options and SARs) shall terminate upon the first meeting of the Company’s shareholders that occurs in 2021, subject to extension upon shareholder re-approval of the “material terms of the performance goal” under the Plan, as described in the regulations promulgated under Code Section 162(m).
 14
 
-PAGE NUMBER: 15
 
 SECTION 11. PROTECTION AGAINST DILUTION.
 (a) Adjustments. Subject to Section 12, upon (or, as may be necessary to effect the adjustment, immediately prior to): any reclassification, recapitalization, stock split (including a stock split in the form of a stock dividend) or reverse stock split; any merger, combination, consolidation, or other reorganization; any spin-off, split-up, or extraordinary dividend distribution in respect of the Common Stock; or any exchange of Common Stock or other securities of the Company, or any similar, unusual or extraordinary corporate transaction in respect of the Common Stock, then the Committee shall equitably and proportionately adjust (1) the number and type of Shares (or other securities) that thereafter may be made the subject of Awards (including the specific Share limits, maximums and numbers of Shares set forth elsewhere in the Plan), (2) the number, amount and type of Shares (or other securities or property) subject to any outstanding Awards, (3) the grant, purchase, or Exercise Price of any outstanding Awards, and/or (4) the securities, cash or other property deliverable upon exercise or payment of any outstanding Awards, in each case to the extent necessary to preserve (but not increase) the level of incentives intended by the Plan and the then-outstanding Awards.
@@ -3252,7 +3154,6 @@ SECTION 12. CORPORATE TRANSACTIONS.
 Upon the occurrence of any of the following: any merger, combination, consolidation, or other reorganization in which the Company does not survive (or does not survive as a public company in respect of its Common Stock); any exchange of Common Stock or other securities of the Company in which the Company does not survive (or does not survive as a public company in respect of its Common Stock); a sale of all or substantially all the business, stock or assets of the Company; a dissolution of the Company; or any other event in which
 15
 
-PAGE NUMBER: 16
 
 the Company does not survive (or does not survive as a public company in respect of its Common Stock); then the Committee may make provision for a cash payment in settlement of, or for the assumption, substitution or exchange of any or all outstanding Share-based Awards or the cash, securities or property deliverable to the holder of any or all outstanding Share-based Awards, based upon, to the extent relevant under the circumstances, the distribution or consideration payable to holders of the Common Stock upon or in respect of such event. Upon the occurrence of any event described in the preceding sentence, then, unless the Committee has made a provision for the substitution, assumption, exchange or other continuation or settlement of the Award or the Award would otherwise continue in accordance with its terms in the circumstances, each Award shall terminate upon the related event; provided that the holder of an Option or SAR shall be given reasonable advance notice of the impending termination and a reasonable opportunity to exercise his or her outstanding vested Options and SARs in accordance with their terms before the termination of such Awards (except that in no case shall more than ten days’ notice of the impending termination be required).
 The Committee may adopt such valuation methodologies for outstanding Awards as it deems reasonable in the event of a cash or property settlement and, in the case of Options, SARs or similar rights, but without limitation on other methodologies, may base such settlement solely upon the excess if any of the per share amount payable upon or in respect of such event over the Exercise Price of the Award.
@@ -3263,7 +3164,6 @@ SECTION 13. LIMITATIONS ON RIGHTS.
 Neither the Plan nor any Award granted under the Plan shall be deemed to give any individual a right to remain an Employee, Consultant or director of the Company, a Parent, or any Subsidiary. The Company and its Parent and Subsidiaries reserve the right to terminate the service of any person at any time, and for any reason, subject to applicable laws, the Company’s Articles of Incorporation and Bylaws and any applicable written employment agreement (if any), and such terminated person shall be deemed irrevocably to have waived any claim to damages or specific performance for breach of contract or dismissal, compensation for loss of office, tort or otherwise with respect to the Plan or any outstanding Award that is forfeited and/or is terminated by its terms or to any future Award.
 16
 
-PAGE NUMBER: 17
 
 (b) Shareholders’ Rights. Except as provided in Section 8(e), a Participant shall have no dividend rights, voting rights or other rights as a shareholder with respect to any Shares covered by his or her Award prior to the issuance of such Shares (as evidenced by an appropriate entry on the books of the Company or a duly authorized transfer agent of the Company). No adjustment shall be made for cash dividends or other rights for which the record date is prior to the date when such Shares are issued, except as expressly provided in Sections 8(e), 9(e) and 11.
 (c) Regulatory Requirements. Any other provision of the Plan notwithstanding, the obligation of the Company to issue Shares or other securities under the Plan shall be subject to all Applicable Laws and such approval by any regulatory body as may be required. The Company reserves the right to restrict, in whole or in part, the delivery of Shares or other securities pursuant to any Award prior to the satisfaction of all legal requirements relating to the issuance of such Shares or other securities, to their registration, qualification or listing or to an exemption from registration, qualification or listing. The person acquiring any securities under the Plan will, if requested by the Company or one of its Subsidiaries, provide such assurances and representations to the Company or one of its Subsidiaries as the Committee may deem necessary or desirable to assure compliance with all applicable legal, tax, and accounting requirements.
@@ -3273,7 +3173,6 @@ SECTION 14. WITHHOLDING TAXES; SECTION 409A.
 (c) Section 409A. This Plan is intended to comply with the requirements of Code Section 409A or an exemption or exclusion therefrom and, with respect to amounts that are subject to Code Section 409A, it is intended that this Plan be administered in all respects in accordance with Code Section 409A. Each payment under any Award that constitutes nonqualified deferred compensation subject to Code Section 409A shall be treated as a separate payment for purposes of Code Section 409A. In no event may a Participant, directly or indirectly, designate the calendar year of any payment to be made under any Award that constitutes nonqualified deferred compensation subject to Code Section 409A. Notwithstanding any other provision of this Plan or any Award Agreement to the contrary, if a Participant is a “specified employee” within the meaning of Code Section 409A (as determined in accordance with the methodology established by the Company), amounts in respect of an Award that constitute “nonqualified deferred compensation” within the meaning of
 17
 
-PAGE NUMBER: 18
 
 Code Section 409A that would otherwise be payable by reason of a Participant’s Separation from Service during the six-month period immediately following such Separation from Service shall instead be paid or provided on the first business day following the date that is six months following the Participant’s Separation from Service. If the Participant dies following the Separation from Service and prior to the payment of any amounts delayed on account of Code Section 409A, such amounts shall be paid to the personal representative of the Participant’s estate within 30 days following the date of the Participant’s death.
 SECTION 15. DURATION AND AMENDMENTS; MISCELLANEOUS.
@@ -3287,7 +3186,6 @@ SECTION 15. DURATION AND AMENDMENTS; MISCELLANEOUS.
 (h) No Corporate Action Restriction. The existence of the Plan, the Award Agreements and the Awards granted hereunder shall not limit, affect or restrict in any way the right or power of the Board or the shareholders
 18
 
-PAGE NUMBER: 19
 
 of the Company to make or authorize: (i) any adjustment, recapitalization, reorganization or other change in the capital structure or business of the Company or any Subsidiary, (ii) any merger, amalgamation, consolidation or change in the ownership of the Company or any Subsidiary, (iii) any issue of bonds, debentures, capital, preferred or prior preference stock ahead of or affecting the capital stock (or the rights thereof) of the Company or any Subsidiary, (iv) any dissolution or liquidation of the Company or any Subsidiary, (v) any sale or transfer of all or any part of the assets or business of the Company or any Subsidiary, (vi) the payment at the discretion of the Board or the Committee of any type or form of compensation that may be made at law and without contravention of any requirement of the principal exchange upon which the Shares are traded; or (vii) any other corporate act or proceeding by the Company or any Subsidiary. No Participant, beneficiary or any other person shall have any claim under any Award or Award Agreement against any member of the Board or the Committee, or the Company or any Employees, officers or agents of the Company or any Subsidiary, as a result of any such action.
 (i) Stock-Based Awards in Substitution for Stock Options or Awards Granted by Other Company
@@ -3296,10 +3194,7 @@ Awards may be granted under the Plan in substitution for or in connection with a
 (j) An Award granted under the Plan will be subject to any provisions of Applicable Laws providing for the recoupment or clawback of incentive compensation; the terms of any Company recoupment, clawback or similar policy in effect at the time of grant of the Award; and any recoupment, clawback or similar provisions that may be included in the applicable Award Agreement.
 19
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Exhibit
 Exhibit 10.20
 APPLE INC.
@@ -3321,7 +3216,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification within thirty (30) days after the Award Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -3370,7 +3264,6 @@ Limitations on Rights Associated with Stock Units
 . The Participant shall have no rights as a shareholder of the Company, no dividend rights (except as expressly provided in Section 5(b) with respect to Dividend Equivalent Rights) and no voting rights, with respect to the Stock Units or any Shares
 1
 
-PAGE NUMBER: 3
 
 underlying or issuable in respect of such Stock Units until such Shares are actually issued to and held of record by the Participant. No adjustments will be made for dividends or other rights of a holder for which the record date is prior to the date of issuance of the stock certificate or book entry evidencing such Shares.
 (b)
@@ -3393,7 +3286,6 @@ t
 he number of days between the Vesting Date that immediately preceded the Severance Date (or, in the case of a Termination of Service prior to the initial Vesting Date, the Vesting Commencement Date) and the next Vesting Date following the Severance Date that would have occurred but for such Termination of Service; and (b) any Stock Units (as well as the related Dividend Equivalent Rights) that are not vested after giving effect to the foregoing clause (a) shall terminate on the Severance Date. Further, in the event the Participant’s Termination of Service is due to the Participant’s death, any then-outstanding and unvested Stock Units subject to the Award shall be fully vested as of the Severance Date,
 2
 
-PAGE NUMBER: 4
 
 and any Dividend Equivalent Rights credited to the Participant shall be paid. If any unvested Stock Units are terminated hereunder, such Stock Units (as well as the related Dividend Equivalent Rights) shall automatically terminate and be cancelled as of the applicable Severance Date without payment of any consideration by the Company and without any other action by the Participant or the Participant’s personal representative, as the case may be.
 9.
@@ -3419,7 +3311,6 @@ Tax-Related Items
 ”), the ultimate liability for all Tax-Related Items is and remains the Participant’s responsibility and may exceed the amount actually withheld by the Company or the Employer. The Participant further acknowledges that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Award, including the grant of the Stock Units, the vesting of the Stock Units, the delivery of Shares, the subsequent sale of any Shares acquired at vesting and the receipt of any dividends and/or Dividend Equivalent Rights; and (ii) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Award to reduce or eliminate the Participant’s liability for Tax-Related Items or achieve any particular tax result. Further, if the Participant is or becomes subject to tax in more than one jurisdiction, the Participant acknowledges that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
 3
 
-PAGE NUMBER: 5
 
 Prior to the relevant taxable or tax withholding event, as applicable, the Participant shall pay or make arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, the Participant authorizes the Company and/or the Employer, or their respective agents, at their discretion and pursuant to such procedures as they may specify from time to time, to satisfy any applicable withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
 (a)
@@ -3437,7 +3328,6 @@ Electronic Delivery and Acceptance
 . The Company may, in its sole discretion, deliver any documents related to the Award by electronic means or request the Participant’s consent to participate in the Plan by electronic means. The Participant hereby consents to receive all applicable documentation by electronic delivery and to participate in the Plan through an on-line (and/or voice activated) system established and maintained by the Company or a third party vendor designated by the Company.
 4
 
-PAGE NUMBER: 6
 
 13.
 Data Privacy
@@ -3461,7 +3351,6 @@ confers no
 rights or interests other than as herein provided. This Award Agreement creates only a contractual obligation on the part of the Company as to amounts payable and shall not be construed as creating a trust. Neither the Plan nor any underlying program, in and of itself, has any assets. The Participant shall have only the rights of a general unsecured creditor of the Company with respect to amounts credited and benefits payable, if any, with respect to the Stock Units, and rights no greater than the right to receive the Common Stock as a general unsecured creditor with respect to Stock Units, as and when payable hereunder.
 5
 
-PAGE NUMBER: 7
 
 18.
 Counterparts
@@ -3486,10 +3375,7 @@ Imposition of Other Requirements
 . The Company reserves the right to impose other requirements on the Participant’s participation in the Plan, on the Stock Units and on any Shares acquired under the Plan, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require the Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
 6
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2017 Workiva
 Exhibit
 Exhibit 10.21
 APPLE INC.
@@ -3517,7 +3403,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification within thirty (30) days after the Award Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -3564,7 +3449,6 @@ Continuance of Employment
 Nothing contained in this Award Agreement or the Plan constitutes an employment or service commitment by the Company, affects the Participant’s status as an employee at will who is subject to termination with or without cause, confers upon the Participant any right to remain employed by or in service to the Company or any Subsidiary, interferes in any way with the right of the Company or any Subsidiary at any time to terminate such employment or services, or affects the right of the Company or any Subsidiary to increase or decrease the Participant’s other compensation or benefits. Nothing in this Section 4, however, is intended to adversely affect any independent contractual right of the Participant without his or her consent thereto.
 1
 
-PAGE NUMBER: 3
 
 5.
 Dividend and Voting Rights
@@ -3592,7 +3476,6 @@ Severance Date
 ”), regardless of the reason for the Participant’s Termination of Service, whether with or without cause, voluntarily or involuntarily or whether the Participant was employed or provided services for a portion of the vesting period prior to a Vesting Date. In the event the Participant’s Severance Date is the result of the Participant’s Termination of Service due to the Participant’s death or Disability, and the Severance Date occurs prior to the Vesting Date, on the Vesting Date the Award shall vest with respect to a number of Stock Units determined by multiplying (i) the Stock Units subject to the Award that would have otherwise vested pursuant to the Award on such Vesting Date but for the Termination of Service and to the extent the applicable performance-based vesting requirement is satisfied, by (ii) the Severance Fraction (determined as set forth below). Any Stock Units that are unvested on the Severance Date and that are not eligible to vest on the Vesting Date following the Severance Date pursuant to the preceding sentence shall terminate as of the
 2
 
-PAGE NUMBER: 4
 
 Severance Date, and any Stock Units that remain outstanding and unvested after giving effect to the preceding sentence shall terminate as of the Vesting Date. The “
 Severance Fraction
@@ -3622,7 +3505,6 @@ Tax-Related Items
 ”), the ultimate liability for all Tax-Related Items is and remains the Participant’s responsibility and may exceed the amount actually withheld by the Company or the Employer. The Participant further acknowledges that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Award, including the grant of the Stock Units, the vesting of the Stock Units, the delivery of Shares, the subsequent sale of any Shares acquired at vesting and the receipt of any dividends and/or Dividend Equivalent Rights; and (ii) do not commit to and are under no obligation to structure the
 3
 
-PAGE NUMBER: 5
 
 terms of the grant or any aspect of the Award to reduce or eliminate the Participant’s liability for Tax-Related Items or achieve any particular tax result. Further, if the Participant is or becomes subject to tax in more than one jurisdiction, the Participant acknowledges that the Company and/or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction.
 Prior to the relevant taxable or tax withholding event, as applicable, the Participant shall pay or make arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, the Participant authorizes the Company and/or the Employer, or their respective agents, at their discretion and pursuant to such procedures as they may specify from time to time, to satisfy any applicable withholding obligations with regard to all Tax-Related Items by one or a combination of the following:
@@ -3638,7 +3520,6 @@ Notwithstanding the foregoing, if the Participant is an officer of the Company w
 Depending on the withholding method, the Company may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates, including maximum applicable rates. If the maximum rate is used, any over-withheld amount will be refunded to the Participant in cash by the Company or Employer (with no entitlement to the Common Stock equivalent) or if not refunded, the Participant may seek a refund from the local tax authorities. If the obligation for Tax-Related Items is satisfied by withholding a number of Shares as described herein, for tax purposes, the Participant is deemed to have been issued the full number of Shares subject to the vested Stock Units, notwithstanding that a number of the Shares are held back solely for the purpose of paying the Tax-Related Items. The Participant shall pay to the Company and/or the Employer any amount of Tax-Related Items that the Company and/or the Employer may be required to withhold or account for as a result of the Participant’s participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver to the Participant any Shares or the proceeds of the sale of Shares if the Participant fails to comply with the Participant’s obligations in connection with the Tax-Related Items.
 4
 
-PAGE NUMBER: 6
 
 12.
 Electronic Delivery and Acceptance
@@ -3659,7 +3540,6 @@ Entire Agreement
 . This Award Agreement and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Award Agreement may be amended pursuant to Section 15 of the Plan. Such amendment must be in writing and signed by the Company. The Company may, however, unilaterally waive any provision hereof in writing to the extent such waiver does not adversely affect the interests of the Participant hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof.
 5
 
-PAGE NUMBER: 7
 
 17.
 Limitation on the Participant’s Rights
@@ -3691,7 +3571,6 @@ Imposition of Other Requirements
 * * * * *
 6
 
-PAGE NUMBER: 8
 
 PERFORMANCE AWARD
 EXHIBIT A
@@ -3720,7 +3599,6 @@ For purposes of the Award, the following definitions will apply:
 •	“Comparison Group” means the Company and each other company included in the Standard & Poor’s 500 index on the first day of the Performance Period and, except as provided below, the common stock (or similar equity security) of which continues to be listed or traded on a national securities exchange through the last trading day of the Performance Period. In the event a member of the Comparison Group files for bankruptcy or liquidates due to an insolvency, such company shall continue to be treated as a Comparison Group member, and such company’s Ending Price will be treated as $0 if the common stock (or similar equity security) of such company is no longer listed or traded on a national securities
 A-1
 
-PAGE NUMBER: 9
 
 exchange on the last trading day of the Performance Period. In the event of a formation of a new parent company by a Comparison Group member, substantially all of the assets and liabilities of which consist immediately after the transaction of the equity interests in the original Comparison Group member or the assets and liabilities of such Comparison Group member immediately prior to the transaction, such new parent company shall be substituted for the Comparison Group member to the extent (and for such period of time) as its common stock (or similar equity securities) are listed or traded on a national securities exchange but the common stock (or similar equity securities) of the original Comparison Group member are not. In the event of a merger or other business combination of two Comparison Group members (including, without limitation, the acquisition of one Comparison Group member, or all or substantially all of its assets, by another Comparison Group member), the surviving, resulting or successor entity, as the case may be, shall continue to be treated as a member of the Comparison Group, provided that the common stock (or similar equity security) of such entity is listed or traded on a national securities exchange through the last trading day of the Performance Period. With respect to the preceding two sentences, the applicable stock prices shall be equitably and proportionately adjusted to the extent (if any) necessary to preserve the intended incentives of the awards and mitigate the impact of the transaction.
 
@@ -3734,7 +3612,6 @@ exchange on the last trading day of the Performance Period. In the event of a fo
 With respect to the computation of TSR, Beginning Price, and Ending Price, there shall also be an equitable and proportionate adjustment to the extent (if any) necessary to preserve the intended incentives of the awards and mitigate the impact of any stock split, stock dividend or reverse stock split occurring during the Performance Period (or during the applicable 20-day period in determining Beginning Price or Ending Price, as the case may be).
 A-2
 
-PAGE NUMBER: 10
 
 In the event of any ambiguity or discrepancy, the determination of the Committee shall be final and binding.
 * * * * *

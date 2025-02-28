@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 8-K
 UNITED STATES
@@ -73,7 +72,6 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -88,7 +86,6 @@ ExhibitNumber		Exhibit Description
 	
 3.2		Amended and Restated Bylaws of Apple Inc., effective as of December 21, 2015.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -100,7 +97,6 @@ Date: December 22, 2015				Apple Inc.
 				By:		/s/ D. Bruce Sewell
 						D. Bruce SewellSenior Vice President,General Counsel and Secretary
 
-PAGE NUMBER: 4
 
 Exhibit Index
 
@@ -110,7 +106,6 @@ ExhibitNumber		Exhibit Description
 	
 3.2		Amended and Restated Bylaws of Apple Inc., effective as of December 21, 2015.
 
-PAGE NUMBER: 1
 
 EX-3.2
 Exhibit 3.2
@@ -119,7 +114,6 @@ OF
 APPLE INC.
 (as of December 21, 2015)
 
-PAGE NUMBER: 2
 
 APPLE INC.
 AMENDED AND RESTATED BYLAWS
@@ -145,7 +139,6 @@ Bylaws
 ”) relating to action required to be approved by the shareholders or by the outstanding shares, the business and affairs of the Corporation shall be managed and all corporate powers shall be exercised under the direction of the Board of Directors. The Board of Directors may delegate the management of the day-to-day operation of the business of the Corporation to a management company or other person provided that the business and affairs of the Corporation shall be managed and all corporate powers shall be exercised under the ultimate direction of the Board of Directors.
 1
 
-PAGE NUMBER: 3
 
 
 
@@ -169,7 +162,6 @@ Section 5.15
 regarding proxy access, the number of candidates for election does not exceed the number of directors to be elected by the shareholders at that election.
 2
 
-PAGE NUMBER: 4
 
 
 
@@ -184,7 +176,6 @@ Section 2.7
 (d) Any director may resign effective upon giving written notice to the General Counsel and Secretary of the Corporation, unless the notice specifies a later time for the effectiveness of such resignation. If the resignation of a director is effective at a future time, the Board of Directors may elect a successor to take office when the resignation becomes effective. A reduction of the authorized number of directors shall not remove any director prior to the expiration of such director’s term of office.
 3
 
-PAGE NUMBER: 5
 
 
 
@@ -202,7 +193,6 @@ Section 3.3
 . Any number of offices may be held by the same person.
 4
 
-PAGE NUMBER: 6
 
 
 
@@ -219,7 +209,6 @@ The term of office and salary of each of said officers and the manner and time o
 (b) Any officer may resign at any time upon written notice to the Corporation, without prejudice to the rights, if any, of the Corporation under any contract to which the officer is a party. Any resignation shall take effect at the date of the receipt of that notice or at any later time specified in that notice, and, unless otherwise necessary to make it effective, the acceptance of the resignation shall not be necessary to make it effective.
 5
 
-PAGE NUMBER: 7
 
 
 
@@ -233,7 +222,6 @@ The powers and duties of the Chief Executive Officer are:
 (d) To affix the signature of the Corporation to all deeds, conveyances, mortgages, leases, obligations, bonds, certificates and other papers and instruments in writing which have been authorized by the Board of Directors or which, in the judgment of the Chief Executive Officer, should be executed on behalf of the Corporation; to sign certificates for shares of stock of the Corporation; and, subject to the direction of the Board of Directors, to have general charge of the property of the Corporation and to supervise and control all officers, agents and employees of the Corporation.
 6
 
-PAGE NUMBER: 8
 
 
 
@@ -248,7 +236,6 @@ If none of the Chairman of the Board of Directors, any Lead Director, the Chief 
 The titles, powers and duties of the Vice President or Vice Presidents shall be prescribed by the Board of Directors. In case of the absence, disability or death of the Chief Executive Officer, the President, the Vice President, or one of the Vice Presidents, shall exercise all of his or her powers and perform all of his or her duties. If there is more than one Vice President, the order in which the Vice Presidents shall succeed to the powers and duties of the Chief Executive Officer or the President shall be as fixed by the Board of Directors.
 7
 
-PAGE NUMBER: 9
 
 
 
@@ -265,7 +252,6 @@ Section 7.4
 .
 8
 
-PAGE NUMBER: 10
 
 (f) To make service and publication of all notices that may be necessary or proper and without command or direction from anyone. In case of the absence, disability, refusal or neglect of the Secretary to make service or publication of any notices, then such notices may be served and/or published by the Chief Executive Officer, the President or a Vice President, or by any person thereunto authorized by either of them or by the Board of Directors or by the holders of a majority of the outstanding shares of the Corporation.
 (g) Generally to do and perform all such duties as pertain to such office and as may be required by the Board of Directors or these Bylaws.
@@ -279,7 +265,6 @@ The powers and duties of the Chief Financial Officer are:
 (d) To disburse, or cause to be disbursed, all funds of the Corporation as may be directed by the Chief Executive Officer, the President or the Board of Directors, taking proper vouchers for such disbursements.
 9
 
-PAGE NUMBER: 11
 
 (e) To render to the Chief Executive Officer, the President or to the Board of Directors, whenever either may require, accounts of all transactions as Chief Financial Officer and of the financial condition of the Corporation.
 (f) Generally to do and perform all such duties as pertain to such office and as may be required by the Board of Directors or these Bylaws.
@@ -298,7 +283,6 @@ Exchange Act
 ”) or an “executive officer” of the Corporation for the purposes of Rule 3b-7 promulgated under the Exchange Act, and similarly shall not be considered an “officer” of the Corporation for the purposes of Rule 16a-1(f) promulgated under the Exchange Act or an “executive officer” of the Corporation for the purposes of Section 14 of the Exchange Act or (2) a “corporate officer” for the purposes of Section 312 of the Code, except in any such case as otherwise required by law, and (iii) shall be empowered to represent himself or herself to third parties as a divisional or group vice president or other title permitted by this paragraph (b), as applicable, only, and shall be empowered to execute documents, bind the Corporation or otherwise act on behalf of the Corporation only as authorized by the Chief Executive Officer or the President or by resolution of the Board of Directors.
 10
 
-PAGE NUMBER: 12
 
 (c) An elected officer of the Corporation may also serve as a divisional officer hereunder.
 ARTICLE IV
@@ -313,7 +297,6 @@ The Board of Directors may, by resolution adopted by a majority of the authorize
 (d) the amendment or repeal of these Bylaws or the adoption of new bylaws;
 11
 
-PAGE NUMBER: 13
 
 (e) the amendment or repeal of any resolution of the Board of Directors which by its express terms is not so amendable or repealable;
 (f) a distribution to the shareholders of the Corporation, except at a rate, in a periodic amount or within a price range set forth in the Articles of Incorporation or determined by the Board of Directors; and
@@ -330,7 +313,6 @@ MEETINGS OF SHAREHOLDERS
 Any request by the Corporation to a shareholder under Section 20(b) of the Code for consent to conduct a meeting of shareholders by electronic transmission must include a notice that absent consent of the shareholder, the meeting will be held at a physical location.
 12
 
-PAGE NUMBER: 14
 
 
 
@@ -347,7 +329,6 @@ Section 5.3
 shall be construed as limiting, fixing or affecting the time when a meeting of shareholders called by action of the Board of Directors may be held.
 13
 
-PAGE NUMBER: 15
 
 
 
@@ -359,7 +340,6 @@ Section 5.5
 , executed by the Secretary, any Assistant Secretary or any transfer agent, shall be prima facie evidence of the giving of the notice. If any notice addressed to the shareholder at the address of such shareholder appearing on the books of the Corporation is returned to the Corporation by the United States Postal Service marked to indicate that the United States Postal Service is unable to deliver the notice to the shareholder at such address, all future notices shall be deemed to have been duly given without further mailing if the same shall be available for the shareholder upon written demand of the shareholder at the principal executive office of the Corporation for a period of one (1) year from the date of the giving of the notice to all other shareholders. Notice shall not be given by electronic transmission by the Corporation after either one of the following: (i) the Corporation is unable to deliver two (2) consecutive notices to the shareholder by that means or (ii) the inability to so deliver such notices to the shareholder becomes known to the Secretary, any Assistant Secretary, the transfer agent, or other person responsible for the giving of the notice.
 14
 
-PAGE NUMBER: 16
 
 
 
@@ -369,7 +349,6 @@ The transactions of any meeting of shareholders, however called and noticed, and
 The presence in person or by proxy of the holders of a majority of the shares entitled to vote at any meeting of shareholders shall constitute a quorum for the transaction of business. Shares shall not be counted to make up a quorum for a meeting if voting of such shares at the meeting has been enjoined or if for any reason they cannot be lawfully voted at the meeting. The shareholders present at a duly called or held meeting at which a quorum is present may continue to transact business until adjournment, notwithstanding the withdrawal of enough shareholders to leave less than a quorum, if any action taken (other than adjournment) is approved by at least a majority of the shares required to constitute a quorum.
 15
 
-PAGE NUMBER: 17
 
 
 
@@ -381,7 +360,6 @@ Section 5.7
 (a) In order that the Corporation may determine the shareholders entitled to notice of any meeting or to vote, the Board of Directors may fix, in advance, a record date, which shall not be more than sixty (60) days nor less than ten (10) days prior to the date of such meeting nor more than sixty (60) days before any other action. Only shareholders of record at the close of business on the record date are entitled to notice of, and to vote at, a meeting of shareholders, notwithstanding any transfer of any shares on the books of the Corporation after the record date, except as otherwise provided in the Articles of Incorporation or the Code. In the absence of any contrary provision in the Articles of Incorporation or in any applicable statute relating to the election of directors or to other particular matters, each such person shall be entitled to one (1) vote for each share.
 16
 
-PAGE NUMBER: 18
 
 (b) A determination of the shareholders of record entitled to notice of, and to vote at, a meeting of shareholders shall apply to any adjournment of the meeting unless the Board of Directors fixes a new record date for the adjourned meeting, but the Board of Directors shall fix a new record date if the meeting is adjourned for more than forty-five (45) days from the date set for the original meeting.
 (c) If the Board of Directors does not so fix a record date:
@@ -396,7 +374,6 @@ Section 5.5
 and applicable law.
 17
 
-PAGE NUMBER: 19
 
 (c) In the case of approval of (i) a contract or transaction in which a director has a direct or indirect financial interest, pursuant to Section 310 of the Code, (ii) an amendment of the Articles of Incorporation, pursuant to Section 902 of the Code, (iii) a reorganization of the Corporation, pursuant to Section 1201 of the Code, (iv) a voluntary dissolution of the Corporation, pursuant to Section 1900 of the Code or (v) a distribution in dissolution other than in accordance with the rights of any outstanding preferred shares, pursuant to Section 2007 of the Code, the notice shall be given at least ten (10) days before the consummation of any action authorized by that approval, unless the consents of all shareholders entitled to vote have been solicited in writing.
 (d) Any shareholder giving a written consent, or the shareholder’s proxy holder, or a transferee of the shares or a personal representative of the shareholder or their respective proxy holders, may revoke the consent by a writing received by the Corporation prior to the time that written consents of the number of shares required to authorize the proposed action have been filed with the Secretary, but may not do so thereafter. Such revocation is effective upon its receipt by the Secretary.
@@ -407,7 +384,6 @@ PAGE NUMBER: 19
 “Approval of the shareholders” (as defined in Section 153 of the Code) is required to elect a director in any Uncontested Election of directors. In any other election of directors by the shareholders, the candidates receiving the highest number of affirmative votes of the shares entitled to be voted for them up to the number of directors to be elected by such shares are elected; votes against the directors and votes withheld with respect to the election of the directors shall have no legal effect. Elections of directors need not be by ballot except upon demand made by a shareholder at the meeting and before the voting begins.
 18
 
-PAGE NUMBER: 20
 
 
 
@@ -418,7 +394,6 @@ and applicable law, or (ii) after the expiration of eleven (11) months from the 
 (b) A proxy which states that it is irrevocable is irrevocable for the period specified therein when it is held by any of the following or a nominee of any of the following: (i) a pledgee, (ii) a person who has purchased or agreed to purchase or holds an option to purchase the shares or a person who has sold a portion of such person’s shares in the Corporation to the maker of the proxy, (iii) a creditor or creditors of the Corporation or the shareholder who extended or continued credit to the Corporation or the shareholder in consideration of the proxy if the proxy states that it was given in consideration of such extension or continuation of credit and the name of the person extending or continuing the credit, (iv) a person who has contracted to perform services as an employee of the Corporation, if a proxy is required by the contract of employment and if the proxy states that it was given in consideration of such contract of employment, the name of the employee and the period of employment contracted for, or (v) a person designated by or under a close corporation shareholder agreement or a voting trust agreement. In addition, a proxy may be made irrevocable if it is given to secure the performance of a duty or to protect a title, either legal or equitable, until the happening of events which, by its terms, discharge the obligation secured by it.
 19
 
-PAGE NUMBER: 21
 
 (c) Notwithstanding the period of irrevocability specified, the proxy becomes revocable when the pledge is redeemed, the option or agreement to purchase is terminated or the seller no longer owns any shares of the Corporation or dies, the debt of the Corporation or the shareholder is paid, the period of employment provided for in the contract of employment has terminated or the close corporation shareholder agreement or the voting trust agreement has terminated. In addition, a proxy may be revoked, notwithstanding a provision making it irrevocable, by a purchaser of shares without knowledge of the existence of the provision unless the existence of the proxy and its irrevocability appears on the certificate representing such shares or, in the case of uncertificated shares, on the initial transaction statement and written statements.
 (d) Every form of proxy or written consent, which provides an opportunity to specify approval or disapproval with respect to any proposal, shall also contain an appropriate space marked “abstain,” whereby a shareholder may indicate a desire to abstain from voting his or her shares on the proposal. A proxy marked “abstain” by the shareholder with respect to a particular proposal shall not be voted either for or against such proposal. In any election of directors, any form of proxy in which the directors to be voted upon are named therein as candidates and which is marked by a shareholder “withhold” or otherwise marked in a manner indicating that the authority to vote for the election of directors is withheld shall not be voted either for or against the election of a director.
@@ -429,7 +404,6 @@ Before any meeting of shareholders, the Board of Directors may appoint any perso
 (a) determine the number of shares outstanding and the voting power of each, the shares represented at the meeting, the existence of a quorum, and the authenticity, validity, and effect of proxies;
 20
 
-PAGE NUMBER: 22
 
 (b) receive votes, ballots, or consents;
 (c) hear and determine all challenges and questions in any way arising in connection with the right to vote;
@@ -449,7 +423,6 @@ Section 5.15
 .
 21
 
-PAGE NUMBER: 23
 
 (ii) For nominations (other than a nomination for director pursuant to
 Section 5.15
@@ -463,7 +436,6 @@ and other than a nomination for director pursuant to
 (2) if the notice relates to any business (other than the nomination of persons for election as directors) that the shareholder proposes to bring before the meeting, (A) a brief description of the business desired to be brought before the meeting, (B) the text of the proposal or business (including the text of any resolutions proposed for consideration and in the event that such business includes a proposal to amend the Bylaws of the Corporation, the language of the proposed amendment), (C) the reasons for conducting such business at the meeting, and (D) any material interest in such business of such shareholder and the beneficial owner, if any, on whose behalf the proposal is made; and
 22
 
-PAGE NUMBER: 24
 
 (3) as to the shareholder giving the notice and the beneficial owner, if any, on whose behalf the nomination or proposal is made (A) the name and address of such shareholder, as they appear on the Corporation’s books, and of such beneficial owner, (B) the class or series and number of shares of capital stock of the Corporation that are, directly or indirectly, owned beneficially and of record by such shareholder and by such beneficial owner, (C) any derivative positions with respect to shares of capital stock of the Corporation held or beneficially held by or on behalf of such shareholder and by or on behalf of such beneficial owner, the extent to which any hedging or other transaction or series of transactions has been entered into with respect to the shares of capital stock of the Corporation by or on behalf of such shareholder and by or on behalf of such beneficial owner, and the extent to which any other agreement, arrangement or understanding has been made, the effect or intent of which is to increase or decrease the voting power of such shareholder and such beneficial owner with respect to shares of capital stock of the Corporation, (D) a representation that the shareholder is a holder of record of stock of the Corporation entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to propose such business or nomination, and (E) a representation whether the shareholder or the beneficial owner, if any, intends or is part of a group that intends (aa) to deliver a proxy statement and/or form of proxy to holders of at least the percentage of the Corporation’s outstanding capital stock required to approve or adopt the proposal or elect the nominee or (bb) otherwise to solicit proxies from shareholders in support of such proposal or nomination.
 The Corporation may require any proposed nominee to furnish such other information as it may reasonably require to determine (x) the eligibility of such proposed nominee to serve as a director of the Corporation, and (y) whether such nominee qualifies as an “independent director” or “audit committee financial expert” for purposes of membership of the Board of Directors or any committee thereof under applicable law, the rules of the principal U.S. exchange upon which the shares of the Corporation are listed, or any publicly-disclosed corporate governance guidelines or committee charter of the Corporation.
@@ -473,7 +445,6 @@ to the contrary, in the event that the number of directors to be elected to the 
 shall also be considered timely, but only with respect to nominees for any new positions created by such increase, if it shall be delivered to the Secretary at the principal executive offices of the Corporation not later than the close of business on the tenth (10th) day following the day on which such public announcement is first made by the Corporation.
 23
 
-PAGE NUMBER: 25
 
 (b) Special Meetings of Shareholders.
 Only such business shall be conducted at a special meeting of shareholders as shall have been brought before the meeting pursuant to the Corporation’s notice of meeting. Nominations of persons for election to the Board of Directors may be made at a special meeting of shareholders at which directors are to be elected pursuant to the Corporation’s notice of meeting (i) by or at the direction of the Board of Directors or any duly authorized committee thereof or (ii) provided that the Board of Directors or any duly authorized committee thereof has determined that directors shall be elected at such meeting, by any shareholder of the Corporation who is a shareholder of record at the time the notice provided for in this
@@ -483,7 +454,6 @@ is delivered to the Secretary, who is entitled to vote at the meeting and upon s
 shall be delivered to the Secretary at the principal executive offices of the Corporation not earlier than the close of business on the one hundred twentieth (120th) day prior to such special meeting and not later than the close of business on the later of the ninetieth (90th) day prior to such special meeting or the tenth (10th) day following the day on which public announcement is first made of the date of the special meeting and of the nominees proposed by the Board of Directors to be elected at such meeting. In no event shall the public announcement of an adjournment or postponement of a special meeting commence a new time period (or extend any time period) for the giving of a shareholder’s notice as described above.
 24
 
-PAGE NUMBER: 26
 
 (c) General.
 (i) Only such persons who are nominated in accordance with the procedures set forth in this
@@ -506,7 +476,6 @@ shall be deemed to affect any rights of shareholders to request inclusion of pro
 ).
 25
 
-PAGE NUMBER: 27
 
 
 
@@ -544,7 +513,6 @@ Statement
 ”) of the Eligible Shareholder, not to exceed 500 words, in support of each Shareholder Nominee, which must be provided at the same time as the Shareholder Notice for inclusion in the Corporation’s proxy materials for the annual meeting of shareholders.
 26
 
-PAGE NUMBER: 28
 
 (c) Ownership Requirements.
 (i) A shareholder or beneficial owner shall be deemed to “
@@ -564,7 +532,6 @@ Section 5.12
 .
 27
 
-PAGE NUMBER: 29
 
 (iii) A shareholder or beneficial owner’s Ownership of shares shall be deemed to continue during any period in which the person has loaned such shares; provided that the person has the power to recall such loaned shares on no more than five (5) business days’ notice, the person recalls the loaned shares within five (5) business days of being notified that its Shareholder Nominee will be included in the Corporation’s proxy materials for the relevant annual meeting of shareholders, and the person holds the recalled shares through such annual meeting of shareholders.
 (d) Eligible Shareholders.
@@ -580,7 +547,6 @@ The Shareholder Notice shall include:
 (ii) a copy of the Schedule 14N that has been or concurrently is filed with the SEC under Exchange Act Rule 14a-18;
 28
 
-PAGE NUMBER: 30
 
 (iii) the details of any relationship that existed within the past three (3) years and that would have been described pursuant to Item 6(e) of Schedule 14N if it existed on the date of submission of the Schedule 14N;
 (iv) the written agreement of the Eligible Shareholder (in the case of a group, each shareholder or beneficial owner whose shares are aggregated for purposes of constituting an Eligible Shareholder) addressed to the Corporation, setting forth the following:
@@ -595,7 +561,6 @@ Section 5.15
 , (C) has not engaged and will not engage in, and has not been and will not be a participant (as defined in Item 4 of Exchange Act Schedule 14A) in, a solicitation within the meaning of Exchange Act Rule 14a-1(l), in support of the election of any individual as a director at the annual meeting of shareholders other than its Shareholder Nominee or a nominee of the Board of Directors, and (D) will not distribute any form of proxy for the annual meeting of shareholders other than the form distributed by the Corporation;
 29
 
-PAGE NUMBER: 31
 
 (4) the Eligible Shareholder’s agreement to (A) assume all liability stemming from any legal or regulatory violation arising out of the Eligible Shareholder’s communications with the shareholders of the Corporation or out of the information that the Eligible Shareholder provided to the Corporation, (B) indemnify and hold harmless (jointly with all other group members, in the case of a group member) the Corporation and each of its directors, officers and employees individually against any liability, loss, damages, expenses or other costs (including attorney’s fees) in connection with any threatened or pending action, suit or proceeding, whether legal, administrative or investigative, against the Corporation or any of its directors, officers or employees arising out of any nomination submitted by the Eligible Shareholder pursuant to this
 Section 5.15
@@ -609,7 +574,6 @@ To be timely under this
 , the Shareholder Notice must be delivered by a shareholder to the Secretary at the principal executive offices of the Corporation not earlier than the close of business on the one hundred fiftieth (150th) day prior to the first anniversary of the date (as stated in the Corporation’s proxy materials) the definitive proxy statement was first sent to shareholders in connection with the preceding year’s annual meeting of shareholders nor later than the close of business on the one hundred twentieth (120th) day prior to such anniversary date; provided, however, that in the event that the date of the annual meeting is more than thirty (30) days before or more than sixty (60) days after the first anniversary of the preceding year’s annual meeting, or if no annual meeting was held in the preceding year, to be timely the Shareholder Notice must be so delivered not earlier than the close of business on the one hundred fiftieth (150th) day prior to such annual meeting and not later than the close of business on the later of the one hundred twentieth (120th) day prior to such annual meeting or the tenth (10th) day following the day on which public announcement of the date of such annual meeting is first made by the Corporation. In no event shall the public announcement of an adjournment or postponement of an annual meeting of shareholders commence a new time period (or extend any time period) for the giving of a Shareholder Notice.
 30
 
-PAGE NUMBER: 32
 
 (g) Agreements of the Eligible Shareholder.
 (i) An Eligible Shareholder shall:
@@ -626,7 +590,6 @@ Section 5.15(g)
 shall be deemed part of the Shareholder Notice for purposes of this
 31
 
-PAGE NUMBER: 33
 
 (h) Agreements of the Shareholder Nominee.
 (i) Within the time period prescribed in
@@ -648,7 +611,6 @@ Section 5.14
 , and (4) directors in office or director candidates that in either case will be included in the Corporation’s proxy materials with respect to such annual meeting as an unopposed (by the Corporation) nominee pursuant to any agreement, arrangement or other understanding with any shareholder or group of shareholders (other than any such agreement, arrangement or understanding entered into in connection with an acquisition of shares of capital stock of the Corporation, by such shareholder or group of shareholders, from the Corporation), other than any such director referred to in this clause (4) who at the time of such annual meeting will have served as a director continuously, as a nominee of the Board of Directors, for at least two (2) annual terms.
 32
 
-PAGE NUMBER: 34
 
 (ii) In the event that one or more vacancies for any reason occurs after the deadline in
 Section 5.15(f)
@@ -661,7 +623,6 @@ is thereafter nominated by the Board of Directors, thereafter is otherwise not i
 ), no other nominee or nominees shall be included in the Corporation’s proxy materials or otherwise submitted for director election in substitution thereof.
 33
 
-PAGE NUMBER: 35
 
 (v) Any Shareholder Nominee who is included in the Corporation’s proxy materials for a particular annual meeting of shareholders but either (1) withdraws from or becomes ineligible or unavailable for election at the annual meeting of shareholders for any reason, including for the failure to comply with any provision of these Bylaws; provided that in no event shall any such withdrawal, ineligibility or unavailability commence a new time period (or extend any time period) for the giving of a Shareholder Notice, or (2) does not receive a number of votes cast in favor of his or her election at least equal to twenty-five percent (25%) of the shares present in person or represented by proxy and entitled to vote in the election of directors, will be ineligible to be a Shareholder Nominee pursuant to this
 Section 5.15
@@ -674,7 +635,6 @@ for the next two (2) annual meetings of shareholders.
 have otherwise not been met;
 34
 
-PAGE NUMBER: 36
 
 (2) the Shareholder Nominee (A) is not an “independent director” for purposes of membership of the Board of Directors or any committee thereof under applicable law, the rules of the principal U.S. exchange upon which the shares of the Corporation are listed, or any
 publicly-disclosed
@@ -693,7 +653,6 @@ Section 5.14
 ) have been satisfied; provided that, if any determination must be made at the annual meeting of shareholders, the Chairman of the meeting shall have the power and authority to make such determination, unless otherwise determined by the Board of Directors. Any such interpretation or determination adopted in good faith by the Board of Directors (or any other person or body authorized by the Board of Directors) or the Chairman of the meeting, as the case may be, shall be binding on all persons, including the Corporation and its shareholders (including any beneficial owners).
 35
 
-PAGE NUMBER: 37
 
 (ii) Notwithstanding the foregoing provisions of this
 Section 5.15
@@ -706,7 +665,6 @@ Section 5.15
 shall limit the ability of the Corporation to solicit proxies against any Shareholder Nominee or to include in its proxy materials its own statements or any other additional information relating to any Eligible Shareholder or Shareholder Nominee.
 36
 
-PAGE NUMBER: 38
 
 ARTICLE VI
 MEETINGS OF DIRECTORS
@@ -728,7 +686,6 @@ Regular Annual Meeting
 . Regular meetings of the Board of Directors may be held without notice if the time and place of such meetings are fixed by the Board of Directors.
 37
 
-PAGE NUMBER: 39
 
 
 
@@ -746,7 +703,6 @@ A majority of the directors present, whether or not a quorum is present, may adj
 Notice of a meeting need not be given to a director who provides a waiver of notice or a consent to holding the meeting, or who attends the meeting without protesting, prior thereto or at its commencement, the lack of notice to such director. All such waivers, consents and approvals shall be filed with the corporate records or made a part of the minutes of the meeting.
 38
 
-PAGE NUMBER: 40
 
 
 
@@ -764,7 +720,6 @@ For purposes of determining the shareholders entitled to receive payment of any 
 All checks, drafts, other orders for payments of money, notes or other evidences of indebtedness of the Corporation, and all written contracts of the Corporation, shall be signed by such officer or officers, agent or agents, as the Board of Directors may from time to time designate. No officer, agent, or employee of the Corporation shall have the power to bind the Corporation by contract or otherwise unless authorized to do so by these Bylaws or by the Board of Directors.
 39
 
-PAGE NUMBER: 41
 
 
 
@@ -775,7 +730,6 @@ Shares in other corporations standing in the name of the Corporation may be vote
 (b) Unless otherwise required by applicable law or authorized by the Secretary or any Assistant Secretary, shares of the Corporation shall be issued, recorded and transferred exclusively in uncertificated book-entry form in accordance with a direct registration program operated by a clearing agency registered under Section 17A of the Exchange Act. Shares of the Corporation represented by certificates that were issued prior to November 17, 2010 shall continue to be certificated securities of the Corporation until the certificates therefor have been surrendered to the Corporation.
 40
 
-PAGE NUMBER: 42
 
 
 
@@ -793,7 +747,6 @@ Reference in these Bylaws to any provision of the Code shall be deemed to includ
 Unless the context requires otherwise, the general provisions, rules of construction and definitions in the Code shall govern the construction of these Bylaws. Without limiting the generality of the provision, the singular number includes the plural, the plural number includes the singular, and the term “person” includes both a corporation and a natural person. The term “Chief Executive Officer” shall be equivalent to the term “President” under the Code.
 41
 
-PAGE NUMBER: 43
 
 ARTICLE VIII
 CONSTRUCTION OF BYLAWS WITH REFERENCE TO PROVISIONS OF LAW
@@ -811,7 +764,6 @@ ADOPTION, AMENDMENT OR REPEAL OF BYLAWS
 These Bylaws may be adopted, amended or repealed by the vote or written consent of holders of a majority of the outstanding shares entitled to vote. Any bylaws specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa may only be adopted by the shareholders; provided, however, that a bylaw or amendment of the Articles of Incorporation reducing the number or the minimum number of directors to a number less than five (5) cannot be adopted if the votes cast against its adoption at a meeting or the shares not consenting in the case of action by written consent are equal to more than sixteen and two-thirds percent (16-2/3%) of the outstanding shares entitled to vote.
 42
 
-PAGE NUMBER: 44
 
 
 
@@ -828,7 +780,6 @@ The Corporation shall have the power, to the extent and in the manner permitted 
 , an “employee” or “agent” of the Corporation (other than a director or officer) includes any person (a) who is or was an employee or agent of the Corporation, (b) who is or was serving at the request of the Corporation as an employee or agent of another foreign or domestic corporation, partnership, limited liability company, joint venture, trust or other enterprise, or (c) who was an employee or agent of a corporation which was a predecessor corporation of the Corporation or of another enterprise at the request of such predecessor corporation.
 43
 
-PAGE NUMBER: 45
 
 
 
@@ -847,7 +798,6 @@ for acts, omissions or transactions while acting in the capacity of, or while se
 The Corporation shall have the power to purchase and maintain insurance on behalf of any agent of the Corporation against any liability asserted against or incurred by the agent in that capacity or arising out of that agent’s status as such, whether or not the Corporation would have the power to indemnify the agent against that liability under the provisions of this
 44
 
-PAGE NUMBER: 46
 
 
 
@@ -859,7 +809,6 @@ Article X
 (b) that it would be inconsistent with any condition expressly imposed by a court in approving a settlement.
 45
 
-PAGE NUMBER: 47
 
 CERTIFICATE OF ADOPTION OF
 AMENDED AND RESTATED BYLAWS

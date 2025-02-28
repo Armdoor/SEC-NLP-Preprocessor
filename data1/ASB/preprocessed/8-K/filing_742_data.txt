@@ -1,0 +1,107 @@
+0000007789-21-000086.hdr.sgml : 20211108
+20211108161620
+ACCESSION NUMBER:		0000007789-21-000086
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20211108
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20211108
+DATE AS OF CHANGE:		20211108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		211388174
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20211108
+
+
+					
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, DC 20549
+FORM	8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+					
+Date of Report (Date of earliest event reported)	November 8, 2021
+		
+Associated Banc-Corp
+(Exact name of registrant as specified in its chapter)
+								
+Wisconsin	001-31343	39-1098068
+(State or other jurisdiction of incorporation)	(Commission File Number)	(IRS Employer Identification No.)
+											
+433 Main Street	Green Bay	Wisconsin	54301
+(Address of principal executive offices)	(Zip code)
+								
+Registrant’s telephone number, including area code	920	491-7500
+					
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered Pursuant to Section 12(b) of the act:
+								
+Title of each class	Trading symbol	Name of each exchange on which registered
+Common stock, par value $0.01 per share	ASB	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.875% Non-Cum. Perp Pref Stock, Srs E	ASB PrE	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.625% Non-Cum. Perp Pref Stock, Srs F	ASB PrF	New York Stock Exchange
+					
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐	Emerging growth company
+☐	If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+
+
+		
+Item 7.01. Regulation FD DisclosureAssociated Banc-Corp is furnishing the investor presentation, included as Exhibit 99.1 to this Report on Form 8-K, which will be used, in whole or in part, from time to time by executives of the Registrant in one or more meetings with investors and analysts.Item 9.01. Financial Statements and Exhibits.The following exhibit is furnished as part of this Report on Form 8-K.(d) Exhibits99.1Associated Banc-Corp Investor Presentation104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+
+
+								
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	Associated Banc-Corp
+	(Registrant)
+	
+	
+Date: November 8, 2021	/s/ Christopher J. Del Moral-Niles
+	Christopher J. Del Moral-Niles
+	Chief Financial Officer

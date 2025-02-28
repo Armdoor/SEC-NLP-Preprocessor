@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -84,7 +83,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -123,7 +121,6 @@ For		Against		Abstained		Broker Non-Vote
 For		Against		Abstained		Broker Non-Vote
 163,401,335		2,775,484,108		85,938,871		1,361,688,394
 
-PAGE NUMBER: 3
 
 
 
@@ -134,7 +131,6 @@ ExhibitNumber		Exhibit Description
 	
 10.1		Apple Inc.Non-EmployeeDirector Stock Plan, as amended and restated as of February 13, 2018.
 
-PAGE NUMBER: 4
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -148,7 +144,6 @@ Date: February 14, 2018				Apple Inc.
 						Senior Vice President,
 						General Counsel
 
-PAGE NUMBER: 1
 
 EX-10.1
 Exhibit 10.1
@@ -176,7 +171,6 @@ Director Stock Plan (formerly known as the 1997 Director Stock Option Plan and t
 Each interpretation, determination, or other action made or taken by the Administrator pursuant to the Plan shall be final and binding on all persons, and the Administrator’s determinations under the Plan need not be the same for all persons. The Administrator shall not be liable for any action or determination made in good faith, and shall be entitled to indemnification and reimbursement in the manner provided in the Company’s Articles of Incorporation and Bylaws as such documents may be amended from time to time.
 1
 
-PAGE NUMBER: 2
 
 
 
@@ -189,7 +183,6 @@ PAGE NUMBER: 2
 	(b)	INITIAL GRANTS. EachNon-EmployeeDirector who first becomes aNon-EmployeeDirector at any time other than on the date of an Annual Meeting shall be automatically granted, on the date he or she first becomes aNon-EmployeeDirector, an Award of a number of Restricted Stock Units determined by multiplying (i) the quotient obtained by dividing (A) the dollar amount applied under Section 4(a) with respect to Awards granted at the immediately preceding Annual Meeting by (B) the Fair Market Value of the Shares on the date of grant, by (ii) a fraction (A) the numerator of which shall be the number of days remaining in the365-dayperiod following the most recent Annual Meeting, and (B) the denominator of which shall be 365 (but in no event shall such fraction be greater than one (1)), such number to be rounded to the nearest whole number of Restricted Stock Units (each, an “Initial RSU Award”); provided, however, that aNon-EmployeeDirector shall not be eligible to receive an Initial RSU Award if either (x) he or she was an employee of the Company or any of its Subsidiaries immediately prior to first becoming aNon-EmployeeDirector, or (y) he or she first becomes aNon-EmployeeDirector at any time on or after the February 1 following the last preceding Annual Meeting.
 2
 
-PAGE NUMBER: 3
 
 
 
@@ -201,7 +194,6 @@ PAGE NUMBER: 3
 	(a)	NO ADDITIONAL GRANTS. No Options shall be granted under the Plan unless and until the Board determines that the grant of Options is in the best interests of the Company and its shareholders.
 3
 
-PAGE NUMBER: 4
 
 
 
@@ -216,7 +208,6 @@ PAGE NUMBER: 4
 	ii.	METHOD OF EXERCISE. The consideration to be paid for the Shares to be issued upon exercise of an Option may consist of (A) cash, (B) check, (C) other Shares that have a Fair Market Value on the date of surrender equal to the aggregate exercise price of the Shares as to which the Option shall be exercised, (D) delivery of a properly executed exercise notice together with irrevocable instructions to a broker to sell Shares and promptly deliver to the Company the amount of proceeds required to pay the exercise price, or (E) any combination of the foregoing methods of payment. Without limiting the generality of the foregoing, any vested and exercisable Options may also be Net Exercised, to the extent permitted by the Administrator.
 4
 
-PAGE NUMBER: 5
 
 
 
@@ -228,7 +219,6 @@ PAGE NUMBER: 5
 	(b)	It is intended that, unless otherwise determined by the Administrator, any adjustments contemplated by Section 7(a) be made in a manner that satisfies applicable legal, tax (including, without limitation and as applicable in the circumstances, Code Section 409A) and accounting (so as to not trigger any charge to earnings with respect to such adjustment) requirements.
 5
 
-PAGE NUMBER: 6
 
 
 
@@ -244,7 +234,6 @@ PAGE NUMBER: 6
 	(b)	GENERAL POWER OF BOARD. Notwithstanding anything herein to the contrary, the Board may at any time and from time to time terminate, modify, suspend or amend the Plan in whole or in part (including amend the Plan at any time and from time to time, without shareholder approval, to prospectively change the value and relative mixture of Restricted Stock Units and Options subject to Awards granted toNon-EmployeeDirectors on the date of each Annual Meeting or upon becoming aNon-EmployeeDirector and the methodology for determining the number of Shares to be subject to such Awards, each within the Share Limit and the individual limit set forth in Section 3, and the other terms and conditions applicable to such Awards) or, subject to Sections 10(c) and 10(d), amend the terms of any outstanding Award; provided, however, that no such termination, modification, suspension or amendment shall be effective without shareholder approval if such approval is required to comply with any applicable law or stock exchange rule; and provided further that the Board may not, without shareholder approval, increase the maximum number of Shares issuable under the Plan except as provided in Section 7. For avoidance of doubt, the Board may, without shareholder approval, provide on a prospective basis for grants under the Plan to consist of Options only, Restricted Stock Units only, or a combination of Options and Restricted Stock Units on such terms and conditions, subject to the Share Limit and the other express limits of the Plan, as may be established by the Board.
 6
 
-PAGE NUMBER: 7
 
 
 
@@ -259,7 +248,6 @@ PAGE NUMBER: 7
 	(f)	SECTION HEADINGS; INTERPRETATION. Captions and headings are given to the sections and subsections of the Plan solely as a convenience to facilitate reference. Such headings shall not be deemed in any way material or relevant to the construction or interpretation of the Plan or any provision thereof.
 7
 
-PAGE NUMBER: 8
 
 
 
@@ -284,7 +272,6 @@ Director.
 “BOARD” means the Board of Directors of the Company.
 8
 
-PAGE NUMBER: 9
 
 “CHANGE OF CONTROL” means the occurrence of any one or more of the following events:
 
@@ -294,7 +281,6 @@ PAGE NUMBER: 9
 	(iii)	The consummation of a reorganization, merger, statutory share exchange or consolidation or similar transaction involving the Company or any of its Subsidiaries or sale or other disposition of all or substantially all of the assets of the Company, or the acquisition of assets or securities of another entity by the Company or any of its Subsidiaries (a “Business Combination”), in each case, unless, following such Business Combination (1) all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Outstanding Company Common Stock and Outstanding Company Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than 50% of, respectively, the then outstanding shares of common stock (or, for a noncorporate entity, equivalent securities) and the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors (or, for a noncorporate entity, equivalent securities), as the case may be, of the entity resulting from such Business Combination (including an entity that, as a result of such transaction, owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination of the Outstanding Company Common Stock and Outstanding Company Voting Securities, as the case may be, (2) no Acquirer (excluding any entity resulting from such Business Combination or any employee benefit plan (or related trust) of the Company or such entity resulting from such Business Combination) beneficially owns, directly or indirectly, 50% or more of, respectively, the then outstanding shares of common stock (or, for a noncorporate entity, equivalent securities) of the entity resulting from such Business Combination or the combined voting power of the then outstanding voting securities of such entity except to the extent that such ownership existed prior to the Business Combination, and (3) at least a majority of the members of the board of directors (or, for a noncorporate entity, equivalent body or committee) of the entity resulting from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement, or of the action of the Board, providing for such Business Combination; or
 9
 
-PAGE NUMBER: 10
 
 
 
@@ -315,7 +301,6 @@ Director under the Plan.
 “SUBSIDIARY” means any corporation or other entity a majority of whose outstanding voting stock or voting power is beneficially owned directly or indirectly by the Company. An entity that attains the status of a Subsidiary on a date after the adoption of the Plan shall be considered a Subsidiary commencing as of such date.
 10
 
-PAGE NUMBER: 11
 
 “VESTING DATE” means, with respect to a particular Award, the date on which the Award vests in whole or in part.
 “VOTING SECURITIES” means, with respect to any corporation, securities of such corporation that are entitled to vote generally in the election of directors of such corporation.

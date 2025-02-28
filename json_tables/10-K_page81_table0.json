@@ -1,0 +1,51 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "December 31, 2023",
+    "December 31, 2022"
+  ],
+  [
+    "Instantaneous Rate Change",
+    "",
+    ""
+  ],
+  [
+    "100 bp increase in interest rates",
+    "(10.1)",
+    "%",
+    "(4.2)",
+    "%"
+  ],
+  [
+    "200 bp increase in interest rates",
+    "(20.1)",
+    "%",
+    "(8.2)",
+    "%"
+  ],
+  [
+    "100 bp decrease in interest rates",
+    "9.7",
+    "%",
+    "4.3",
+    "%"
+  ],
+  [
+    "200 bp decrease in interest rates",
+    "18.5",
+    "%",
+    "8.0",
+    "%"
+  ]
+]

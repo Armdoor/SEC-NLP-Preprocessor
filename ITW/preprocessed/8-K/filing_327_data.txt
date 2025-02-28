@@ -1,0 +1,151 @@
+0000049826-21-000002.hdr.sgml : 20210119
+20210119084337
+ACCESSION NUMBER:		0000049826-21-000002
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		16
+CONFORMED PERIOD OF REPORT:	20210119
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20210119
+DATE AS OF CHANGE:		20210119
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		21534054
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+
+itw-20210119
+
+
+		
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+January 19, 2021
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+																										
+Delaware		1-4797		36-1258310
+(State or other jurisdiction of incorporation)		(Commission File No.)		(I.R.S. Employer Identification No.)
+								
+	155 Harlem Avenue	Glenview	IL					60025
+(Address of principal executive offices)				(Zip Code)
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+					
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+								
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Common Stock	ITW	New York Stock Exchange
+1.75% Euro Notes due 2022	ITW22	New York Stock Exchange
+1.25% Euro Notes due 2023	ITW23	New York Stock Exchange
+0.250% Euro Notes due 2024	ITW24A	New York Stock Exchange
+0.625% Euro Notes due 2027	ITW27	New York Stock Exchange
+2.125% Euro Notes due 2030	ITW30	New York Stock Exchange
+1.00% Euro Notes due 2031	ITW31	New York Stock Exchange
+3.00% Euro Notes due 2034	ITW34	New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+Item 7.01 Regulation FD Disclosure
+On January 19, 2021, Illinois Tool Works Inc. (the “Company”) issued a press release announcing the entry into an agreement with Amphenol Corporation (“Amphenol”), whereby the Company will acquire the Test & Simulation business of MTS Systems Corporation (“MTS”) following the closing of Amphenol’s acquisition of MTS. A copy of the press release is attached hereto as Exhibit 99.1 and incorporated by reference herein.
+This information, including Exhibit 99.1, will not be deemed “filed” for any purpose, including for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities under that section and it will not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+Item 9.01 Financial Statements and Exhibits
+
+
+											
+(d)	Exhibits		
+			
+	Exhibit Number		Exhibit Description
+			
+	99.1		Press Release issued by Illinois Tool Works Inc., dated January 19, 2021
+	104		Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+								
+		
+		ILLINOIS TOOL WORKS INC.
+		
+		
+Dated: January 19, 2021		By:/s/ Randall J. Scheuneman
+		Randall J. Scheuneman
+		Vice President & Chief Accounting Officer
+
+
+Document
+Exhibit 99.1
+ITW TO ACQUIRE MTS TEST & SIMULATION
+BUSINESS FROM AMPHENOL
+GLENVIEW, Illinois and WALLINGFORD, Connecticut, January 19, 2021
+(GLOBE NEWSWIRE) – Illinois Tool Works Inc. (NYSE: ITW), a global multi-industrial manufacturing leader, and Amphenol Corporation (NYSE: APH), a leading global provider of high-technology interconnect, antenna and sensor solutions, today announced that they have entered into an agreement under which ITW will acquire MTS Systems Corporation’s (Nasdaq: MTSC) Test & Simulation business, following the closing of Amphenol’s acquisition of MTS.
+“MTS’s Test & Simulation business is highly complementary to our existing Test & Measurement and Electronics business and positions us in new and attractive industry verticals,” said E. Scott Santi, ITW’s Chairman and CEO. “This acquisition continues our strategy of driving solid growth and best-in-class returns in businesses where highly innovative, customer-focused solutions are required. We look forward to welcoming the MTS Test & Simulation team to ITW.”
+R. Adam Norwitt, Amphenol’s President and CEO, said, “After reviewing the MTS Test & Simulation business and evaluating a range of options to ensure its future success while maximizing value for Amphenol shareholders, we determined that selling it to ITW, with ITW’s complementary capabilities and strategic focus, is the best outcome for all parties. We look forward to completing the acquisition of MTS in the coming months, welcoming the talented MTS Sensors team to the Amphenol organization, and completing the sale of MTS’s Test & Simulation business to ITW.”
+Amphenol’s acquisition of MTS is expected to close by the middle of 2021, subject to certain regulatory approvals, approval from MTS’s shareholders and other customary closing conditions. ITW’s acquisition of the MTS Test & Simulation business from Amphenol is expected to close following the closing of Amphenol’s MTS acquisition, subject to certain regulatory approvals and other customary closing conditions. Terms of the transaction were not disclosed.
+
+
+								
+Media ContactIllinois Tool WorksTrisha KnychTel: 224.661.7566mediarelations@itw.com	Investor RelationsIllinois Tool WorksKaren FletcherTel: 224.661.7433investorrelations@itw.com	Strategy and Investor RelationsAmphenolSherri ScribnerTel: 203-265-8820IR@amphenol.com
+
+
+Financial Advisors
+Centerview Partners LLC is serving as Amphenol’s financial advisor for the transaction. Goldman Sachs & Co. LLC is serving as ITW’s financial advisor for the transaction.
+About Illinois Tool Works
+ITW (NYSE: ITW) is a Fortune 200 global multi-industrial manufacturing leader with revenues totaling $14.1 billion in 2019. The company’s seven industry-leading segments leverage the unique ITW Business Model to drive solid growth with best-in-class margins and returns in markets where highly innovative, customer-focused solutions are required. ITW’s approximately 45,000 dedicated colleagues around the world thrive in the company’s decentralized and entrepreneurial culture. www.itw.com
+About Amphenol
+Amphenol Corporation is one of the world’s largest designers, manufacturers and marketers of electrical, electronic and fiber optic connectors and interconnect systems, antennas, sensors and sensor-based products and coaxial and high-speed specialty cable. Amphenol designs, manufactures and assembles its products at facilities in the Americas, Europe, Asia, Australia and Africa and sells its products through its own global sales force, independent representatives and a global network of electronics distributors. Amphenol has a diversified presence as a leader in high-growth areas of the interconnect market including: Automotive, Broadband Communications, Commercial Aerospace, Industrial, Information Technology and Data Communications, Military, Mobile Devices and Mobile Networks.
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such forward-looking statements may contain words and terms such as: “anticipate,” “could,” “believe,” “continue,” “expect,” “estimate,” “forecast,” “ongoing,” “project,” “seek,” “predict,” “target,” “will,” “intend,” “plan,” “look ahead,” “optimistic,” “potential,” “guidance,” “may,” “should,” or “would” and other words and terms of similar meaning. These statements are only predictions, and such forward-looking statements are based on current expectations and involve inherent risks and uncertainties, including factors that could delay, divert or change any of them, and could cause actual outcomes and results to differ materially from current expectations. No forward-looking statement can be guaranteed. Risks and uncertainties include, but are not limited to: (i) the risk that the proposed merger between Amphenol and MTS, or the proposed subsequent sale of the MTS Test & Simulation business to ITW, may not be completed in a timely manner or at all, and (ii) unanticipated difficulties or expenditures relating to the proposed transaction, the response of business partners and competitors to the announcement of the proposed transaction, potential disruptions to current plans and operations and/or potential difficulties in employee retention as a result of the announcement and pendency of the proposed transaction. The foregoing list of risk factors is not exhaustive. Forward-looking statements in this press release should be evaluated together with the many uncertainties that affect Amphenol’s and ITW’s respective businesses, particularly those identified in the risk factor discussion in Amphenol’s Annual Report on Form 10-K for the year ended December 31, 2019, and its subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8-K and in ITW’s most recent Annual Report on Form 10-K for the year ended December 31, 2019 and its subsequent Quarterly Reports filed on Form 10-Q with the SEC, as well as other documents that may be filed by Amphenol and/or ITW from time to time with the SEC. Neither Amphenol nor ITW undertakes any obligation to publicly update any forward-looking statement, whether as a result of new information, future events or otherwise. The forward-looking statements made in this communication relate only to events as of the date on which the statements are made.
+
+
+								
+Media ContactIllinois Tool WorksTrisha KnychTel: 224.661.7566mediarelations@itw.com	Investor RelationsIllinois Tool WorksKaren FletcherTel: 224.661.7433investorrelations@itw.com	Strategy and Investor RelationsAmphenolSherri ScribnerTel: 203-265-8820IR@amphenol.com

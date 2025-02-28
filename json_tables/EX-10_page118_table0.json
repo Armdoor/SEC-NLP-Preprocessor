@@ -1,0 +1,54 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "FACILITY",
+    "Level IStatus",
+    "Level IIStatus",
+    "Level IIIStatus",
+    "Level IVStatus"
+  ],
+  [
+    "Applicable Margin(Term Benchmark)",
+    "62.5 bps",
+    "75.0 bps",
+    "87.5 bps",
+    "100.0 bps"
+  ],
+  [
+    "Applicable Margin(RFR)",
+    "62.5 bps",
+    "75.0 bps",
+    "87.5 bps",
+    "100.0 bps"
+  ],
+  [
+    "Applicable Margin(Floating Rate)",
+    "0 bps",
+    "0 bps",
+    "0 bps",
+    "0 bps"
+  ],
+  [
+    "Commitment Fee Rate",
+    "4.5 bps",
+    "5.0 bps",
+    "7.0 bps",
+    "9.0 bps"
+  ]
+]

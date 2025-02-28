@@ -46,12 +46,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-?xml version="1.0" ?
-XBRL Document Created with Wdesk from Workiva
-Copyright 2023 Workiva
-r:9c8300bd-427b-4e39-9b0b-9b244fa8ee99,g:483e5c0d-9eff-4fa7-80f6-c69c1f6fba9d,d:b844338d87454b728861ce0d8dd6ce78
 aapl-20230504
 
 
@@ -111,7 +106,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 Item 2.02 Results of Operations and Financial Condition.
 On May 4, 2023, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its second fiscal quarter ended April 1, 2023. A copy of Apple’s press release is attached hereto as Exhibit 99.1.
@@ -127,7 +121,6 @@ ExhibitNumber		Exhibit Description
 99.1		Press release issued by Apple Inc. on May 4, 2023.
 104		Inline XBRL for the cover page of this Current Report on Form 8-K.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -140,10 +133,7 @@ Date:	May 4, 2023		Apple Inc.
 					Luca Maestri
 					Senior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2023 Workiva
 Document
 Exhibit 99.1
 Apple reports second quarter results
@@ -158,7 +148,6 @@ Apple’s board of directors has declared a cash dividend of $0.24 per share of 
 Apple will provide live streaming of its Q2 2023 financial results conference call beginning at 2:00 p.m. PT on May 4, 2023 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter.
 Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.
 
-PAGE NUMBER: 2
 
 This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about the Company’s plans for return of capital, the payment of its quarterly dividend, its installed base growth, and its investment plans and environmental initiatives. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or implied by the forward-looking statements. Risks and uncertainties include without limitation: effects of global and regional economic conditions, including as a result of government policies, war, terrorism, natural disasters, and public health issues; risks relating to the design, manufacture, introduction, and transition of products and services in highly competitive and rapidly changing markets, including from reliance on third parties for components, technology, manufacturing, applications, and content; risks relating to information technology system failures, network disruptions, and failure to protect, loss of, or unauthorized access to, or release of, data; and effects of unfavorable legal proceedings, government investigations, and complex and changing laws and regulations. More information on these risks and other potential factors that could affect the Company’s business, reputation, results of operations, financial condition, and stock price is included in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, and Apple TV. Apple’s five software platforms — iOS, iPadOS, macOS, watchOS, and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, and iCloud. Apple’s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.
@@ -174,7 +163,6 @@ suhasini@apple.com
 NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or email Apple’s Media Helpline at media.help@apple.com.
 © 2023 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
 
-PAGE NUMBER: 3
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
@@ -228,7 +216,6 @@ Wearables, Home and Accessories	8,757			8,806			22,239			23,507
 Services	20,907			19,821			41,673			39,337	
 Total net sales	$	94,836			$	97,278			$	211,990			$	221,223	
 
-PAGE NUMBER: 4
 
 Apple Inc.
 CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
@@ -278,7 +265,6 @@ Accumulated other comprehensive income/(loss)	(11,746)			(11,109)
 Total shareholders’ equity	62,158			50,672	
 Total liabilities and shareholders’ equity	$	332,160			$	352,755	
 
-PAGE NUMBER: 5
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)

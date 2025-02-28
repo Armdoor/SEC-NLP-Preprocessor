@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -73,14 +72,12 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
 Item 5.03	Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
 Effective on June 6, 2014, Apple Inc. (“Apple”) amended its Amended and Restated Articles of Incorporation to increase the number of shares of common stock, par value $0.00001 per share, that Apple is authorized to issue from 1,800,000,000 to 12,600,000,000 and to provide that as of 5 p.m., Pacific Daylight Time, on June 6, 2014, each share of common stock outstanding shall be automatically, and with no further action by the holder of such share, split into seven shares of common stock. The foregoing description is qualified in its entirety by reference to the full text of the Restated Articles of Incorporation, a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference.
 
-PAGE NUMBER: 3
 
 
 
@@ -91,7 +88,6 @@ ExhibitNumber		Description
 	
 3.1		Restated Articles of Incorporation of Apple Inc. effective as of June 6, 2014
 
-PAGE NUMBER: 4
 
 SIGNATURES
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -104,7 +100,6 @@ Date: June 6, 2014				By:		/s/ D. Bruce Sewell
 						D. Bruce Sewell
 						Senior Vice President,General Counsel and Secretary
 
-PAGE NUMBER: 5
 
 INDEX TO EXHIBITS
 

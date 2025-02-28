@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -73,7 +72,6 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -87,7 +85,6 @@ ExhibitNumber		Description
 	
 99.1		Text of press release issued by Apple Inc. on April 23, 2014.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -99,7 +96,6 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registr
 				By:		/s/ Peter Oppenheimer
 Date: April 23, 2014						Peter OppenheimerSenior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 4
 
 EXHIBIT INDEX
 
@@ -109,7 +105,6 @@ ExhibitNumber		Description
 	
 99.1		Text of press release issued by Apple Inc. on April 23, 2014.
 
-PAGE NUMBER: 1
 
 EX-99.1
 Exhibit 99.1
@@ -125,7 +120,6 @@ To assist in funding the program, the Company expects to access the public debt 
 “We are announcing a significant increase to our capital return program,” said Tim Cook, Apple’s CEO. “We’re confident in Apple’s future and see tremendous value in Apple’s stock, so we’re continuing to allocate the majority of our program to share repurchases. We’re also happy to be increasing our dividend for the second time in less than two years.”
 The Board of Directors has also announced a seven-for-one stock split. Each Apple shareholder of record at the close of business on June 2, 2014 will receive six additional shares for every share held on the record date, and trading will begin on a split-adjusted basis on June 9, 2014.
 
-PAGE NUMBER: 2
 
 This press release contains forward-looking statements including without limitation those regarding future business outlook and plans for dividends, share repurchases, and public debt issuance. These statements involve risks and uncertainties, and actual results may differ. Risks and uncertainties include without limitation the effect of competitive and economic factors, and the Company’s reaction to those factors, on consumer and business buying decisions with respect to the Company’s products; continued competitive pressures in the marketplace; the ability of the Company to deliver to the marketplace and stimulate customer demand for new programs, products, and technological innovations on a timely basis; the effect that product introductions and transitions, changes in product pricing or mix, and/or increases in component costs could have on the Company’s gross margin; the inventory risk associated with the Company’s need to order or commit to order product components in advance of customer orders; the continued availability on acceptable terms, or at all, of certain components and services essential to the Company’s business currently obtained by the Company from sole or limited sources; the effect that the Company’s dependency on manufacturing and logistics services provided by third parties may have on the quality, quantity or cost of products manufactured or services rendered; risks associated with the Company’s international operations; the Company’s reliance on third-party intellectual property and digital content; the potential impact of a finding that the Company has infringed on the intellectual property rights of others; the Company’s dependency on the performance of distributors, carriers and other resellers of the Company’s products; the effect that product and service quality problems could have on the Company’s sales and operating profits; the continued service and availability of key executives and employees; war, terrorism, public health issues, natural disasters, and other circumstances that could disrupt supply, delivery, or demand of products; and unfavorable results of other legal proceedings. More information on potential factors that could affect the Company’s financial results is included from time to time in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s public reports filed with the SEC, including the Company’s Form 10-K for the fiscal year ended September 28, 2013, its Form 10-Q for the quarter ended December 28, 2013, and its Form 10-Q for the quarter ended March 29, 2014 to be filed with the SEC. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple designs Macs, the best personal computers in the world, along with OS X, iLife, iWork and professional software. Apple leads the digital music revolution with its iPods and iTunes online store. Apple has reinvented the mobile phone with its revolutionary iPhone and App Store, and is defining the future of mobile media and computing devices with iPad.

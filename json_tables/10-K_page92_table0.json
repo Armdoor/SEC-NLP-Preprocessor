@@ -1,0 +1,645 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "For the Years Ended December 31,"
+  ],
+  [
+    "($ in thousands)",
+    "2023",
+    "2022",
+    "2021"
+  ],
+  [
+    "",
+    ""
+  ],
+  [
+    "Cash flows from operating activities",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Net income",
+    "$",
+    "182,956",
+    "",
+    "$",
+    "366,122",
+    "",
+    "$",
+    "350,994",
+    ""
+  ],
+  [
+    "Adjustments to reconcile net income to net cash provided by operating activities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Provision for credit losses",
+    "83,021",
+    "",
+    "32,998",
+    "",
+    "(88,011)",
+    ""
+  ],
+  [
+    "Depreciation and amortization",
+    "46,989",
+    "",
+    "45,088",
+    "",
+    "46,508",
+    ""
+  ],
+  [
+    "Change in MSRs valuation(a)",
+    "(10,660)",
+    "",
+    "(22,264)",
+    "",
+    "(16,186)",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Amortization of other intangible assets",
+    "8,811",
+    "",
+    "8,811",
+    "",
+    "8,844",
+    ""
+  ],
+  [
+    "Amortization and accretion on earning assets, funding, and other, net",
+    "38,508",
+    "",
+    "14,980",
+    "",
+    "15,088",
+    ""
+  ],
+  [
+    "Net amortization of tax credit investments",
+    "34,246",
+    "",
+    "34,684",
+    "",
+    "34,070",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Losses on sales of investment securities, net",
+    "64,864",
+    "",
+    "1,674",
+    "",
+    "16",
+    ""
+  ],
+  [
+    "Asset (gains), net",
+    "(454)",
+    "",
+    "(1,338)",
+    "",
+    "(11,009)",
+    ""
+  ],
+  [
+    "(Gains) on sale of branches, net",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "(1,038)",
+    ""
+  ],
+  [
+    "(Gain) loss on mortgage banking activities, net",
+    "2,919",
+    "",
+    "3,654",
+    "",
+    "(39,106)",
+    ""
+  ],
+  [
+    "Loss on mortgage portfolio sale",
+    "136,239",
+    "",
+    "\u2014",
+    "",
+    "\u2014",
+    ""
+  ],
+  [
+    "Mortgage loans originated and acquired for sale",
+    "(395,834)",
+    "",
+    "(600,114)",
+    "",
+    "(1,749,556)",
+    ""
+  ],
+  [
+    "Proceeds from sales of mortgage loans held for sale",
+    "367,707",
+    "",
+    "715,035",
+    "",
+    "1,774,791",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Changes in certain assets and liabilities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "(Increase) decrease in interest receivable",
+    "(25,120)",
+    "",
+    "(63,921)",
+    "",
+    "9,735",
+    ""
+  ],
+  [
+    "(Increase) decrease in net tax position",
+    "(77,849)",
+    "",
+    "40,611",
+    "",
+    "(6,177)",
+    ""
+  ],
+  [
+    "(Decrease) increase in interest payable",
+    "78,539",
+    "",
+    "12,608",
+    "",
+    "(10,675)",
+    ""
+  ],
+  [
+    "(Decrease) increase in expense payable",
+    "16,329",
+    "",
+    "(5,297)",
+    "",
+    "24,645",
+    ""
+  ],
+  [
+    "(Decrease) increase in net derivative position",
+    "(93,916)",
+    "",
+    "269,774",
+    "",
+    "120,418",
+    ""
+  ],
+  [
+    "Net change in other assets and other liabilities",
+    "(14,556)",
+    "",
+    "(6,539)",
+    "",
+    "66,201",
+    ""
+  ],
+  [
+    "Net cash provided by operating activities",
+    "442,740",
+    "",
+    "846,566",
+    "",
+    "529,551",
+    ""
+  ],
+  [
+    "Cash flows from investing activities",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Net decrease (increase) in loans",
+    "(1,546,391)",
+    "",
+    "(4,579,431)",
+    "",
+    "198,631",
+    ""
+  ],
+  [
+    "Purchases of:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "AFS securities",
+    "(1,936,635)",
+    "",
+    "(959,977)",
+    "",
+    "(2,744,244)",
+    ""
+  ],
+  [
+    "HTM securities",
+    "(38,677)",
+    "",
+    "(301,052)",
+    "",
+    "(622,485)",
+    ""
+  ],
+  [
+    "FHLB and Federal Reserve Bank stocks and equity securities",
+    "(146,308)",
+    "",
+    "(128,620)",
+    "",
+    "(2,760)",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Proceeds from:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Sales of AFS securities",
+    "715,066",
+    "",
+    "110,177",
+    "",
+    "158,708",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Sales of FHLB and Federal Reserve Bank stocks and equity securities",
+    "202,451",
+    "",
+    "528",
+    "",
+    "35",
+    ""
+  ],
+  [
+    "Prepayments, calls, and maturities of AFS securities",
+    "397,675",
+    "",
+    "494,197",
+    "",
+    "1,216,657",
+    ""
+  ],
+  [
+    "Prepayments, calls, and maturities of HTM securities",
+    "143,001",
+    "",
+    "196,605",
+    "",
+    "299,761",
+    ""
+  ],
+  [
+    "Sales, prepayments, calls and maturities of other assets",
+    "21,267",
+    "",
+    "33,795",
+    "",
+    "29,833",
+    ""
+  ],
+  [
+    "Net cash received in business segment sale",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "2,415",
+    ""
+  ],
+  [
+    "Sale of mortgage portfolio",
+    "844,362",
+    "",
+    "\u2014",
+    "",
+    "\u2014",
+    ""
+  ],
+  [
+    "Premises, equipment, and software, net of disposals",
+    "(61,813)",
+    "",
+    "(62,711)",
+    "",
+    "(52,281)",
+    ""
+  ],
+  [
+    "Net change in tax credit and alternative investments",
+    "(30,255)",
+    "",
+    "(58,323)",
+    "",
+    "(68,455)",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Net cash (used in) investing activities",
+    "(1,436,257)",
+    "",
+    "(5,254,811)",
+    "",
+    "(1,584,186)",
+    ""
+  ],
+  [
+    "Cash flows from financing activities",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Net increase in deposits",
+    "3,809,948",
+    "",
+    "1,169,983",
+    "",
+    "2,015,423",
+    ""
+  ],
+  [
+    "Net decrease in deposits due to branch sales",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "(31,083)",
+    ""
+  ],
+  [
+    "Net increase (decrease) in short-term funding",
+    "(279,157)",
+    "",
+    "251,674",
+    "",
+    "101,946",
+    ""
+  ],
+  [
+    "Net increase (decrease) in short-term FHLB advances",
+    "(2,385,000)",
+    "",
+    "3,125,000",
+    "",
+    "\u2014",
+    ""
+  ],
+  [
+    "Repayment of long-term FHLB advances",
+    "(599)",
+    "",
+    "(413,558)",
+    "",
+    "(18,437)",
+    ""
+  ],
+  [
+    "Proceeds from long-term FHLB advances",
+    "1,369",
+    "",
+    "1,775",
+    "",
+    "6,950",
+    ""
+  ],
+  [
+    "Proceeds from issuance of long-term funding",
+    "292,740",
+    "",
+    "\u2014",
+    "",
+    "\u2014",
+    ""
+  ],
+  [
+    "(Repayment) proceeds of finance lease principal",
+    "(86)",
+    "",
+    "306",
+    "",
+    "(965)",
+    ""
+  ],
+  [
+    "Repayment of senior notes",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "(300,000)",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Proceeds from issuance of common stock for stock-based compensation plans",
+    "4,297",
+    "",
+    "11,061",
+    "",
+    "25,702",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Redemption of preferred shares",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "(164,458)",
+    ""
+  ],
+  [
+    "Purchase of treasury stock, open market purchases",
+    "\u2014",
+    "",
+    "\u2014",
+    "",
+    "(132,955)",
+    ""
+  ],
+  [
+    "Purchase of treasury stock, stock-based compensation plans",
+    "(6,593)",
+    "",
+    "(6,480)",
+    "",
+    "(4,847)",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Cash dividends on common stock",
+    "(129,534)",
+    "",
+    "(123,137)",
+    "",
+    "(116,061)",
+    ""
+  ],
+  [
+    "Cash dividends on preferred stock",
+    "(11,500)",
+    "",
+    "(11,500)",
+    "",
+    "(17,111)",
+    ""
+  ],
+  [
+    "Other",
+    "\u2014",
+    "",
+    "(938)",
+    "",
+    "\u2014",
+    ""
+  ],
+  [
+    "Net cash provided by financing activities",
+    "1,295,885",
+    "",
+    "4,004,185",
+    "",
+    "1,364,102",
+    ""
+  ],
+  [
+    "Net increase (decrease) in cash and cash equivalents",
+    "302,368",
+    "",
+    "(404,060)",
+    "",
+    "309,467",
+    ""
+  ],
+  [
+    "Cash and cash equivalents at beginning of period",
+    "621,455",
+    "",
+    "1,025,515",
+    "",
+    "716,048",
+    ""
+  ],
+  [
+    "Cash and cash equivalents at end of period(b)",
+    "$",
+    "923,823",
+    "",
+    "$",
+    "621,455",
+    "",
+    "$",
+    "1,025,515",
+    ""
+  ]
+]

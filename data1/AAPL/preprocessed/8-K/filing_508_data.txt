@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -84,7 +83,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -102,7 +100,6 @@ ExhibitNumber		Exhibit Description
 	
 99.1		Notice of Proposed Settlement and Settlement Hearing
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -115,7 +112,6 @@ Date: May 7, 2018				Apple Inc.
 						Gene D. Levoff
 						Secretary
 
-PAGE NUMBER: 1
 
 EX-99.1
 Exhibit 99.1
@@ -149,7 +145,6 @@ e-book
 prices, and that Apple played a central role in facilitating and executing that conspiracy. On September 5, 2013, the District Court entered the Final Judgment and Order Entering Permanent Injunction requiring, among other things, the appointment of an external compliance monitor to review and evaluate Apple’s internal antitrust compliance policies and procedures. The Second Circuit affirmed the liability ruling, and its ruling regarding the appointment of the external monitor, and the U.S. Supreme Court denied Apple’s petition for writ of certiorari. In April 2016, Apple paid $450 million to settle the claims.
 1	The Stipulation is also available on the websites of Plaintiffs’Co-LeadCounsel, at www.robbinsarroyo.com/category/notices and www.grantfirm.com.
 
-PAGE NUMBER: 2
 
 
 
@@ -191,7 +186,6 @@ On April 26, 2016, Apple’s Board of Directors formed a Special Litigation Comm
 On July 17, 2016, Apple’s Board approved a resolution confirming the SLC’s authority over the Action. The SLC is composed of two Apple directors, Wagner and James A. Bell. Shortly after the SLC was formed, its members retained the law firm of Shartsis Friese LLP to assist in conducting its investigation and evaluation. On June 22, 2016, the SLC filed the Motion to Stay all proceedings in this Action until completion of its investigation. On August 1, 2016, the Court entered an Order denying the SLC’s Motion to Stay.
 2
 
-PAGE NUMBER: 3
 
 
 
@@ -223,7 +217,6 @@ mediation and drafting, reviewing, and exchanging briefs and other documents out
 Based on Plaintiffs’ Counsel’s thorough investigation, review, analysis, and evaluation of the relevant facts and difficult circumstances, allegations, defenses, and controlling legal principles, Plaintiffs and Plaintiffs’ Counsel have determined that it is desirable to settle the Action upon the terms and subject to the conditions set forth in the Stipulation. Plaintiffs’ Counsel believe that the Settlement set forth in the Stipulation is fair, reasonable, and adequate and confers substantial benefits upon Apple and its shareholders.
 3
 
-PAGE NUMBER: 4
 
 
 
@@ -258,7 +251,6 @@ AFC meetings and advise the AFC regarding significant antitrust issues and legal
 	i.	the status of the Implementation Plan;
 4
 
-PAGE NUMBER: 5
 
 
 
@@ -284,7 +276,6 @@ PAGE NUMBER: 5
 (o) On an annual basis, the ACO shall retain an independent consultant to update the antitrust compliance program review conducted by PricewaterhouseCoopers in 2015. The independent consultant shall identify material deficiencies, if any, in the Corporation’s antitrust compliance program. The independent consultant shall provide a report to the AFC, which shall consider the recommendations in the report.
 5
 
-PAGE NUMBER: 6
 
 (p) The Corporation shall add language to its proxy statement indicating that antitrust compliance experience will be one of the factors considered by the Nominating & Corporate Governance Committee in identifying candidates for the next open position for director.
 (q) The Chief Compliance Officer shall meet annually with the AFC to discuss the performance of the ACO.
@@ -311,7 +302,6 @@ Additionally, Apple has agreed that its Board will formally adopt the current an
 16.	The ACO communicates annually to Apple’s employees that they may disclose to the ACO, without reprisal, information concerning any potential violation of the antitrust laws.
 6
 
-PAGE NUMBER: 7
 
 
 
@@ -337,7 +327,6 @@ The following defined terms are used in the Settlement releases summarized below
 	•		“Related Persons” means (i) as to Apple, Apple’s officers, directors, employees, and subsidiaries, any entity in which Apple has a controlling interest, any of Apple’s accountants and auditors, solely in their capacity as agents of Apple or while acting as agents of Apple, and Apple’s lawyers, solely in their capacity as counsel for Apple, and (ii) as to the Defendants, (1) each spouse, immediate family member, heir, executor, or estate of any of them, and (2) any trust in respect of which any of the Defendants, or any spouse or immediate family member thereof serves as a settlor, beneficiary, or trustee.
 7
 
-PAGE NUMBER: 8
 
 
 
@@ -355,7 +344,6 @@ out-of-pocket
 expenses. Plaintiffs’ prosecution of the Action and participation in the settlement negotiations were substantial factors in obtaining the Antitrust Resolutions described above. Accordingly, Apple has agreed, through its SLC, subject to Court approval, to pay Plaintiffs’ Counsel $2,750,000, inclusive of expenses in recognition of the substantial benefits conferred upon Apple as a result of the Action and the Settlement (“Attorney Fee Award”). Plaintiffs’ Counsel further intend to apply to the Court for a fee of up to $5,000 for each named plaintiff (the “Service Awards”) to be paid from the Attorney Fee Award. Neither the Individual Defendants nor Apple’s shareholders are personally liable for the payment of the Attorney Fee Award or the Service Awards.
 8
 
-PAGE NUMBER: 9
 
 
 
@@ -379,7 +367,6 @@ Edward W. SwansonSWANSON & McNAMARA LLP300 Montgomery Street, Suite 1100San Fran
 Seth AronsonO’MELVENY & MYERS LLP400 S. Hope Street, 18th FloorLos Angeles, CA 90071saronson@omm.comCounsel for Nominal Defendant Apple Inc.		Gilbert R. SerotaARNOLD & PORTER KAYE SCHOLER LLP3000 El Camino RealFive Palo Alto Square, Suite 500Palo Alto, CA 94306gilbert.serota@apks.comCounsel for Defendant Susan Wagner
 9
 
-PAGE NUMBER: 10
 
 You may also appear and object at the Settlement Hearing, with or without having submitted a written objection. Unless the Court orders otherwise, your written objection will not be considered unless it is timely filed with the Court and delivered to the above-referenced counsel for the Settling Parties.
 Any Person or entity who fails to object or appear in the manner prescribed above will be deemed to have waived the right to object to any aspect of the Settlement or the agreed-upon Attorney Fee Award or otherwise request to be heard (including the right to appeal) and will be forever barred from raising such objection or request to be heard in this or any other action or proceeding.

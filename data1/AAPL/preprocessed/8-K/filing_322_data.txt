@@ -46,12 +46,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-?xml version="1.0" ?
-XBRL Document Created with Wdesk from Workiva
-Copyright 2021 Workiva
-r:aecb3073-232c-4c2c-b6a4-e38cf69e262b,g:566e4613-8dfa-4b6c-8d91-931e0fbbce3c,d:5ef4da257cd74749a2d034a3a4eb0532
 aapl-20210127
 
 
@@ -112,7 +107,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 Item 2.02 Results of Operations and Financial Condition.
 On January 27, 2021, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its first fiscal quarter ended December 26, 2020. A copy of Apple’s press release is attached hereto as Exhibit 99.1.
@@ -128,7 +122,6 @@ ExhibitNumber		Exhibit Description
 99.1		Press release issued by Apple Inc. on January 27, 2021.
 104		Inline XBRL for the cover page of this Current Report on Form 8-K.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -141,10 +134,7 @@ Date:	January 27, 2021		Apple Inc.
 					Luca Maestri
 					Senior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2021 Workiva
 Document
 Exhibit 99.1
 Apple Reports First Quarter Results
@@ -159,7 +149,6 @@ Apple’s Board of Directors has declared a cash dividend of $0.205 per share of
 Apple will provide live streaming of its Q1 2021 financial results conference call beginning at 2:00 p.m. PT on January 27, 2021 at apple.com/investor/earnings-call/. This webcast will also be available for replay for approximately two weeks thereafter.
 Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.
 
-PAGE NUMBER: 2
 
 This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about the Company’s expectations regarding the impact of the COVID-19 pandemic; anticipated revenue, gross margin, operating expenses, other income/(expense), and tax rate; plans for return of capital; our goal of maintaining a net cash neutral position; and our investment plans and initiatives. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or implied by the forward-looking statements. Risks and uncertainties include without limitation: the effect of the COVID-19 pandemic on the Company’s business, results of operations, financial condition, and stock price; the effect of global and regional economic conditions on the Company’s business, including effects on purchasing decisions by consumers and businesses; the ability of the Company to compete in markets that are highly competitive and subject to rapid technological change; the ability of the Company to manage frequent introductions and transitions of products and services, including delivering to the marketplace, and stimulating customer demand for, new products, services, and technological innovations on a timely basis; the effect that shifts in the mix of products and services and in the geographic, currency, or channel mix, component cost increases, increases in the cost of acquiring and delivering content for the Company’s services, price competition, or the introduction of new products or services, including new products or services with higher cost structures, could have on the Company’s gross margin; the dependency of the Company on the performance of distributors of the Company’s products, including cellular network carriers and other resellers; the risk of write-downs on the value of inventory and other assets and purchase commitment cancellation risk; the continued availability on acceptable terms, or at all, of certain components, services, and new technologies essential to the Company’s business, including components and technologies that may only be available from single or limited sources; the dependency of the Company on manufacturing and logistics services provided by third parties, many of which are located outside of the US and which may affect the quality, quantity, or cost of products manufactured or services rendered to the Company; the effect of product and services design and manufacturing defects on the Company’s financial performance and reputation; the dependency of the Company on third-party intellectual property and digital content, which may not be available to the Company on commercially reasonable terms or at all; the dependency of the Company on support from third-party software developers to develop and maintain software applications and services for the Company’s products; the impact of unfavorable legal proceedings or government investigations; the impact of complex and changing laws and regulations worldwide, which expose the Company to potential liabilities, increased costs, and other adverse effects on the Company’s business; the ability of the Company to manage risks associated with the Company’s retail stores; the ability of the Company to manage risks associated with the Company’s investments in new business strategies and acquisitions; the impact on the Company’s business and reputation from information technology system failures, network disruptions, or losses or unauthorized access to, or release of, confidential information; the ability of the Company to comply with laws and regulations regarding data protection; the continued service and availability of key executives and employees; political events, international trade disputes, war, terrorism, natural disasters, public health issues, and other business interruptions that could disrupt supply or delivery of, or demand for, the Company’s products; financial risks, including risks relating to currency fluctuations, credit risks, and fluctuations in the market value of the Company’s investment portfolio; and changes in tax rates and exposure to additional tax liabilities. More information on these risks and other potential factors that could affect the Company’s business and financial results is included in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, and Apple TV. Apple’s five software platforms — iOS, iPadOS, macOS, watchOS, and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, and iCloud. Apple’s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.
@@ -175,7 +164,6 @@ tgala@apple.com
 NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or call Apple’s Media Helpline at (408) 974-2042.
 © 2021 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
 
-PAGE NUMBER: 3
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
@@ -229,7 +217,6 @@ Wearables, Home and Accessories	12,971			10,010
 Services	15,761			12,715					
 Total net sales	$	111,439			$	91,819					
 
-PAGE NUMBER: 4
 
 Apple Inc.
 CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
@@ -279,7 +266,6 @@ Accumulated other comprehensive income/(loss)	179			(406)
 Total shareholders’ equity	66,224			65,339	
 Total liabilities and shareholders’ equity	$	354,054			$	323,888	
 
-PAGE NUMBER: 5
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)

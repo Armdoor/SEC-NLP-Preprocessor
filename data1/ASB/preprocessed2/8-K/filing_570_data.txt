@@ -1,0 +1,280 @@
+0000007789-22-000036.hdr.sgml : 20220721
+20220721161646
+ACCESSION NUMBER:		0000007789-22-000036
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20220721
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20220721
+DATE AS OF CHANGE:		20220721
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		221097224
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20220721
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table6.json]
+Securities Registered Pursuant to Section 12(b) of the act:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table8.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page2_table0.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page3_table0.json]
+
+
+Document
+Exhibit 99.1
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table1.json]
+Associated Banc-Corp Reports Second Quarter 2022 Net Income Available to Common Equity of $84 Million, or $0.56 per Common Share.
+Results driven by robust loan growth, expanding margins, stable deposits and resilient credit.
+GREEN BAY, Wis. -- July 21, 2022 -- Associated Banc-Corp (NYSE: ASB) ("Associated" or "Company") today reported net income available to common equity ("earnings") of $84 million, or $0.56 per common share, for the quarter ended June 30, 2022. These amounts compare to earnings of $71 million, or $0.47 per common share, for the quarter ended March 31, 2022 and earnings of $86 million, or $0.56 per common share, for the quarter ended June 30, 2021.
+“Employment trends and business confidence within our core footprint markets remain strong," said President and CEO Andy Harmening. "During the second quarter, we saw line utilization revert to normalized pre-pandemic levels and we supported commercial customers as they continued to grow and expand. We also continued to support consumer households in their purchases of homes and autos across our markets. The combination of commercial and consumer growth led to one of our strongest and more diversified loan growth quarters in the company's history. We complemented this growth with net deposit growth and further improving credit trends. Margins expanded, reflecting our core asset sensitivity, and we remain well-positioned to further support our customers in the quarters ahead."
+“While we are pleased with the progress we've made on our strategic initiatives, we are mindful of the shifting economic environment and have continued our disciplined focus on credit quality," Harmening continued. "Our recent growth and profit expansion affords us the option to be selective in our growth strategies as we move forward."
+Second Quarter 2022 Highlights (all comparisons to the first quarter of 2022)
+•
+End of period total commercial loans were up $1.2 billion to $16.8 billion
+End of period total consumer loans were up $766 million to $9.7 billion
+End of period total deposits were up $171 million to $28.6 billion
+Quarterly net interest margin was up 29 basis points to 2.71%
+Noninterest income was up $1 million to $75 million
+Noninterest expense was up $8 million to $181 million
+Provision for credit losses on loans was zero, compared to a negative provision of $4 million
+Net income available to common equity was up $13 million to $84 million
+
+
+Loans
+Second quarter 2022 average total loans of $25.4 billion were up 5%, or $1.3 billion, from the prior quarter and were up 5%, or $1.3 billion, from the same period last year. With respect to second quarter 2022 average balances by loan category:
+•
+Commercial and business lending (excluding PPP) increased $572 million from the prior quarter and increased $1.2 billion compared to the same period last year to $9.6 billion.
+Commercial real estate lending increased $186 million from the prior quarter and increased $204 million from the same period last year to $6.4 billion.
+Consumer lending was $9.4 billion, up $572 million from the prior quarter and up $630 million from the same period last year.
+PPP loans decreased $30 million from the prior quarter and decreased $687 million from the same period last year to $14 million.
+Second quarter 2022 period-end total loans of $26.5 billion were up 8%, or $2.0 billion, from the prior quarter and were up 11%, or $2.5 billion, from the same period last year. With respect to second quarter 2022 period-end balances by loan category:
+Commercial and business lending (excluding PPP) increased $868 million from the prior quarter and increased $1.4 billion from the same period last year to $10.2 billion.
+Commercial real estate lending increased $337 million from the prior quarter and increased $384 million from the same period last year to $6.6 billion.
+Consumer lending was $9.7 billion, up $766 million from the prior quarter and up $1.2 billion from the same period last year.
+PPP loans decreased $8 million from the prior quarter and decreased $396 million from the same period last year to $10 million.
+In 2022, we now expect full-year total commercial loan growth of approximately $1.7 billion and auto finance loan growth of approximately $1.3 billion.
+
+
+Deposits
+Second quarter 2022 average deposits of $28.2 billion were down 2%, or $477 million, compared to the prior quarter and were up 3%, or $700 million, from the same period last year. With respect to second quarter 2022 average balances by deposit category:
+•
+Noninterest-bearing demand deposits decreased $183 million from the prior quarter and increased $64 million from the same period last year to $8.1 billion.
+Savings increased $153 million from the prior quarter and increased $561 million from the same period last year to $4.7 billion.
+Interest-bearing demand deposits decreased $309 million from the prior quarter and increased $534 million from the same period last year to $6.4 billion.
+Money market deposits decreased $120 million from the prior quarter and decreased $71 million from the same period last year to $6.9 billion.
+Time deposits decreased $58 million from the prior quarter and decreased $254 million from the same period last year to $1.3 billion.
+Network transaction deposits increased $41 million from the prior quarter and decreased $133 million from the same period last year to $776 million.
+Second quarter 2022 period-end deposits of $28.6 billion were up 1%, or $171 million, compared to the prior quarter and were up 5%, or $1.3 billion, from the same period last year. Low-cost core deposits (interest-bearing demand, noninterest-bearing demand and savings) made up 67% of deposit balances as of June 30, 2022. With respect to second quarter 2022 period-end balances by deposit category:
+Noninterest-bearing demand deposits decreased $230 million from the prior quarter and increased $87 million from the same period last year to $8.1 billion.
+Savings increased $47 million from the prior quarter and increased $526 million from the same period last year to $4.7 billion.
+Interest-bearing demand deposits increased $173 million from the prior quarter and increased $820 million from the same period last year to $6.8 billion.
+Money market deposits increased $247 million from the prior quarter and increased $129 million from the same period last year to $7.8 billion.
+Time deposits decreased $65 million from the prior quarter and decreased $249 million from the same period last year to $1.2 billion.
+Network transaction deposits (included in money market and interest-bearing deposits) increased $129 million from the prior quarter and increased $20 million from the same period last year to $892 million.
+
+
+Net Interest Income and Net Interest Margin
+Second quarter 2022 net interest income of $216 million increased
+$37 million, or 20%, from the same period last year and increased
+$28 million, or 15%, from the prior quarter. The net interest margin increased to
+2.71%, reflecting a 34 basis point increase from the same period last year and a
+29 basis point improvement from the prior quarter.
+•
+The average yield on total loans for the second quarter of 2022 increased 26 basis points from the same period last year and increased 35 basis points from the prior quarter to 3.16%.
+The average cost of total interest-bearing liabilities for the second quarter of 2022 was flat to the same period last year and increased 10 basis points from the prior quarter to 0.36%.
+The net free funds benefit for the second quarter of 2022 decreased 1 basis point compared to the same period last year and increased 2 basis points from the prior quarter to 0.10%.
+We now expect short-term interest rates to rise by 75 basis points following the Federal Open Market Committee (FOMC) meeting in July and expect a 25 basis point increase at each remaining FOMC meeting this year. Based on these assumptions, we now expect our 2022 net interest income to exceed $890 million.
+Noninterest Income
+Second quarter 2022 total noninterest income of $75 million increased $2 million, or 3%, from the same period last year and increased $1 million, or 1%, from the prior quarter. With respect to second quarter 2022 noninterest income line items:
+Mortgage Banking, net was $6 million for the second quarter, down $2 million from the same period last year and down $2 million from the prior quarter, driven by slowing refinance activity and higher retention of mortgages on our balance sheet.
+Card-based fees increased slightly from the same period last year and increased $2 million from the prior quarter.
+Service charges and deposit account fees increased $1 million from the same period last year and decreased slightly from the prior quarter.
+Wealth management fees decreased $1 million from the same period last year and decreased $1 million from the prior quarter.
+We continue to expect total noninterest income for the year of between $290 million and $300 million.
+Noninterest Expense
+Second quarter 2022 total noninterest expense of $181 million increased $7 million, or 4%, from the same period last year and increased $8 million, or 5%, from the prior quarter. With respect to second quarter 2022 noninterest expense line items:
+Personnel expense increased $6 million from the same period last year and increased $8 million from the prior quarter.
+
+
+•
+Occupancy expense decreased $1 million from the same period last year and decreased $2 million from the prior quarter.
+We now expect total noninterest expense of approximately $730 million to $740 million for 2022.
+Taxes
+The second quarter 2022 tax expense was $23 million compared to $22 million of tax expense in the same period last year and $19 million of tax expense in the prior quarter.
+The effective tax rate for second quarter of 2022 was 21.2% compared to an effective tax rate of 20.1% in the prior quarter.
+We expect the 2022 effective tax rate to be approximately 21%, assuming no change in the statutory corporate tax rate.
+Credit
+The second quarter 2022 provision for credit losses on loans was zero, compared to a negative provision of $4 million in the prior quarter and a negative provision of $35 million in the same period last year. With respect to second quarter 2022 credit quality:
+Nonaccrual loans of $108 million were down $39 million from the same period last year and down $35 million from the prior quarter. The nonaccrual loans to total loans ratio was 0.41% in the second quarter, down from 0.61% in the same period last year and down from 0.58% in the prior quarter.
+Second quarter net charge offs were negligible compared to net charge offs of $5 million in the same period last year and net recoveries of $2 million in the prior quarter.
+The allowance for credit losses on loans (ACLL) of $318 million was down $47 million compared to the same period last year and flat to the prior quarter. The ACLL to total loans ratio was 1.20% in the second quarter, down from 1.52% in the same period last year and down from 1.30% in the prior quarter.
+Throughout the remainder of 2022, we expect to adjust provision to reflect changes to risk grades, economic conditions, other indications of credit quality, and loan volume.
+Capital
+The Company’s capital position remains strong, with a CET1 capital rat
+i
+o of 9.7%
+at
+June 30
+, 2022. The Company’s capital ratios continue to be in excess of the Basel III “well-capitalized” regulatory benchmarks on a fully phased in basis.
+
+
+SECOND QUARTER 2022 EARNINGS RELEASE CONFERENCE CALL
+The Company will host a conference call for investors and analysts at 4:00 p.m. Central Time (CT) today, July 21, 2022. Interested parties can access the live webcast of the call through the Investor Relations section of the Company's website, http://investor.associatedbank.com. Parties may also dial into the call at 877-407-8037 (domestic) or 201-689-8037 (international) and request the Associated Banc-Corp second quarter 2022 earnings call. The second quarter 2022 financial tables with an accompanying slide presentation will be available on the Company's website just prior to the call. An audio archive of the webcast will be available on the Company's website approximately fifteen minutes after the call is over.
+ABOUT ASSOCIATED BANC-CORP
+Associated Banc-Corp (NYSE: ASB) has total assets of $37 billion and is Wisconsin's largest bank holding company. Headquartered in Green Bay, Wisconsin, Associated is a leading Midwest banking franchise, offering a full range of financial products and services from more than 200 banking locations serving more than 100 communities throughout Wisconsin, Illinois and Minnesota. The company also operates loan production offices in Indiana, Michigan, Missouri, New York, Ohio and Texas. Associated Bank, N.A. is an Equal Housing Lender, Equal Opportunity Lender and Member FDIC. More information about Associated Banc-Corp is available at www.associatedbank.com.
+FORWARD-LOOKING STATEMENTS
+Statements made in this document which are not purely historical are forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995. This includes any statements regarding management’s plans, objectives, or goals for future operations, products or services, and forecasts of its revenues, earnings, or other measures of performance. Such forward-looking statements may be identified by the use of words such as “believe,” “expect,” “anticipate,” “plan,” “estimate,” “should,” “will,” “intend,” "target," “outlook,” "project," "guidance," or similar expressions. Forward-looking statements are based on current management expectations and, by their nature, are subject to risks and uncertainties. Actual results may differ materially from those contained in the forward-looking statements. Factors which may cause actual results to differ materially from those contained in such forward-looking statements include those identified in the Company’s most recent Form 10-K and subsequent SEC filings. Such factors are incorporated herein by reference.
+NON-GAAP FINANCIAL MEASURES
+This press release and related materials may contain references to measures which are not defined in generally accepted accounting principles (“GAAP”). Information concerning these non-GAAP financial measures can be found in the financial tables. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+# # #
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page7_table0.json]
+Numbers may not sum due to rounding.
+(a) On January 1, 2022, the Corporation made the irrevocable election to account for mortgage servicing rights, net at fair value. For all prior periods, mortgage servicing rights, net were carried at lower of cost or market.
+1
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page8_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes the deposit premium on the sale of branches net of miscellaneous costs to sell.
+2
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page9_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes the deposit premium on the sale of branches net of miscellaneous costs to sell
+3
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page10_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Ratio is based upon basic earnings per common share.
+(b)
+Average full time equivalent employees without overtime.
+(c)
+Excludes assets held in brokerage accounts.
+(d)
+On January 1, 2022, the Corporation made the irrevocable election to account for mortgage servicing rights at fair value. For all prior periods, mortgage servicing rights were carried at lower of cost or market.
+(e)
+Does not include repurchases related to tax withholding on equity compensation.
+(f)
+The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The regulatory capital requirements effective for the Corporation follow Basel III, subject to certain transition provisions.
+(g)
+June 30, 2022 data is estimated.
+(h)
+Includes mortgage origination and servicing fees, net of mortgage servicing rights amortization/decay.
+4
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page11_table0.json]
+N/M = Not meaningful
+5
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page12_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Periods prior to Mar 31, 2022 do not include equipment finance.
+(b) The Corporation's policy is to assign risk ratings at the borrower level. PPP loans are 100% guaranteed by the SBA and therefore the Corporation considers these loans to have a risk profile similar to pass rated loans.
+6
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page13_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+(d) Periods prior to March 31, 2022 do not include equipment finance.
+7
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page14_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+(d) Periods prior to 2022 do not include equipment finance.
+8
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page15_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Periods prior to Mar 31, 2022 do not include equipment finance.
+(b) Includes repurchase agreements and commercial paper.
+(c) Included above in interest-bearing demand and money market.
+(d) Nonaccrual loans and loans held for sale have been included in the average balances.
+9
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page16_table0.json]
+Numbers may not sum due to rounding.
+(a)
+Tangible common equity and tangible assets exclude goodwill and other intangible assets, net.
+(b)
+Adjusted net income and adjusted net income available to common equity, which are used in the calculation of return on average tangible assets and return on average tangible common equity, respectively, add back other intangible amortization, net of tax.
+(c)
+These capital measurements are used by management, regulators, investors, and analysts to assess, monitor and compare the quality and composition of our capital with the capital of other financial services companies.
+(d)
+These financial measures have been included as they provide meaningful supplemental information to assess trends in the Corporation’s results of operations.
+(e)
+Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings and provide greater understanding of ongoing operations and enhanced comparability of results with prior periods.
+(f)
+The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains (losses), net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net
+. The adjusted efficiency ratio is noninterest expense, which excludes the provision for unfunded commitments, other intangible amortization, acquisition related costs, and announced initiatives, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net, asset gains (losses), net, and gain on sale of branches, net.
+Management believes the adjusted efficiency ratio is a meaningful measure as it enhances the comparability of net interest income arising from taxable and tax-exempt sources and provides a better measure as to how the Corporation is managing its expenses by adjusting for acquisition related costs, provision for unfunded commitments, asset gains (losses), net, branch sales, and announced initiatives.
+10

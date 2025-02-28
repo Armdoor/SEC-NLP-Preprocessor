@@ -47,12 +47,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-?xml version='1.0' encoding='ASCII'?
-XBRL Document Created with the Workiva Platform
-Copyright 2024 Workiva
-r:35e8f5e6-1155-4f60-b89f-1abd93303493,g:ee0513e0-9070-4bd4-a2dd-7dd15e2eae85,d:e2e05e16eecc49b3ac5bd31039de3a66
 aapl-20241031
 
 
@@ -111,7 +106,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 Item 2.02 Results of Operations and Financial Condition.
 On October 31, 2024, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its fourth fiscal quarter ended September 28, 2024. A copy of Apple’s press release is attached hereto as Exhibit 99.1.
@@ -127,7 +121,6 @@ ExhibitNumber		Exhibit Description
 99.1		Press release issued by Apple Inc. on October 31, 2024.
 104		Inline XBRL for the cover page of this Current Report on Form 8-K.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -140,10 +133,7 @@ Date:	October 31, 2024		Apple Inc.
 					Luca Maestri
 					Senior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2024 Workiva
 Document
 Exhibit 99.1
 Apple reports fourth quarter results
@@ -160,7 +150,6 @@ Apple’s board of directors has declared a cash dividend of $0.25 per share of 
 Apple will provide live streaming of its Q4 2024 financial results conference call beginning at 2:00 p.m. PT on October 31, 2024 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter.
 1. Non-GAAP measure. See the section titled “Reconciliation of Non-GAAP to GAAP Results of Operations” at the end of the accompanying financial statements.
 
-PAGE NUMBER: 2
 
 Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.
 This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about payment of the Company’s quarterly dividend and future business plans. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or implied by the forward-looking statements. Risks and uncertainties include without limitation: effects of global and regional economic conditions, including as a result of government policies, geopolitical tensions, conflict, terrorism, natural disasters, and public health issues; risks relating to the design, manufacture, introduction, and transition of products and services in highly competitive and rapidly changing markets, including from reliance on third parties for components, technology, manufacturing, applications, support, and content; risks relating to information technology system failures, network disruptions, and failure to protect, loss of, or unauthorized access to, or release of, data; and effects of unfavorable legal proceedings, government investigations, and complex and changing laws and regulations. More information on these risks and other potential factors that could affect the Company’s business, reputation, results of operations, financial condition, and stock price is included in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements, which speak only as of the date they are made.
@@ -177,7 +166,6 @@ suhasini@apple.com
 NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or email Apple’s Media Helpline at media.help@apple.com.
 © 2024 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
 
-PAGE NUMBER: 3
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
@@ -231,7 +219,6 @@ Wearables, Home and Accessories	9,042			9,322			37,005			39,845
 Services	24,972			22,314			96,169			85,200	
 Total net sales	$	94,930			$	89,498			$	391,035			$	383,285	
 
-PAGE NUMBER: 4
 
 Apple Inc.
 CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
@@ -281,7 +268,6 @@ Accumulated other comprehensive loss	(7,172)			(11,452)
 Total shareholders’ equity	56,950			62,146	
 Total liabilities and shareholders’ equity	$	364,980			$	352,583	
 
-PAGE NUMBER: 5
 
 Apple Inc.
 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
@@ -334,7 +320,6 @@ Cash, cash equivalents, and restricted cash and cash equivalents, ending balance
 Supplemental cash flow disclosure:			
 Cash paid for income taxes, net	$	26,102			$	18,679	
 
-PAGE NUMBER: 6
 
 Apple Inc.
 RECONCILIATION OF NON-GAAP TO GAAP RESULTS OF OPERATIONS (Unaudited)

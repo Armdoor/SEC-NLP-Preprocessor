@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 FORM 8-K
 UNITED STATES
@@ -72,7 +71,6 @@ Check the appropriate box below if the Form 8-K filing is intended to simultaneo
 ¨	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -86,7 +84,6 @@ ExhibitNumber		Description
 	
 99.1		Description of Common Stock.
 
-PAGE NUMBER: 3
 
 SIGNATURES
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -98,7 +95,6 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, the registr
 Date: July 23, 2014				By:		/s/ D. Bruce Sewell
 								D. Bruce SewellSenior Vice President, General Counseland Secretary
 
-PAGE NUMBER: 4
 
 EXHIBIT INDEX
 
@@ -108,7 +104,6 @@ ExhibitNumber		Description
 	
 99.1		Description of Common Stock.
 
-PAGE NUMBER: 1
 
 EX-99.1
 Exhibit 99.1
@@ -128,7 +123,6 @@ Upon liquidation, dissolution or winding-up, the holders of shares of Common Sto
 No Preemptive or Similar Rights
 The Common Stock has no preemptive or other subscription rights, and there are no conversion rights or redemption or sinking fund provisions with respect to such shares of Common Stock.
 
-PAGE NUMBER: 2
 
 Anti-Takeover Provisions of the Articles, Bylaws and California Law
 Provisions of the Articles and Bylaws may delay or discourage transactions involving an actual or potential change in the Company’s control or change in its management, including transactions in which shareholders might otherwise receive a premium for their shares, or transactions that its shareholders might otherwise deem to be in their best interests. Among other things, the Articles and Bylaws:
@@ -143,7 +137,6 @@ Section 317 of the CGCL authorizes a court to award, or a corporation’s board 
 Section 204 of the CGCL provides that a corporation’s articles of incorporation may not limit the liability of directors (i) for acts or omissions that involve intentional misconduct or a knowing and culpable violation of law, (ii) for acts or omissions that a director believes to be contrary to the best interests of the corporation or its shareholders or that involve the absence of good faith on the part of the director, (iii) for any transaction from which a director derived an improper personal benefit, (iv) for acts or omissions that show a reckless disregard for the director’s duty to the corporation or its shareholders in circumstances in which the director was aware, or should have been aware, in the ordinary course of performing a director’s duties, of a risk of a serious injury to the corporation or its shareholders, (v) for acts or omissions that constitute an unexcused pattern of inattention that amounts to an abdication of the director’s duty to the corporation or its shareholders, (vi) under Section 310 of the CGCL (concerning transactions between corporations and directors or corporations having interrelated directors) or (vii) under Section 316 of the CGCL (concerning directors’ liability for distributions, loans, and guarantees).
 Section 204 further provides that a corporation’s articles of incorporation may not limit the liability of directors for any act or omission occurring prior to the date when the provision became effective or any act or omission as an officer, notwithstanding that the officer is also a director or that his or her actions, if negligent or improper, have been ratified by the directors. Further, Section 317 has no effect on claims arising under federal or state securities laws and does not affect the availability of injunctions and other equitable remedies available to a corporation’s shareholders for any violation of a director’s fiduciary duty to the corporation or its shareholders.
 
-PAGE NUMBER: 3
 
 In accordance with Section 317, the Articles of the Company limit the liability of a director to the Company or its shareholders for monetary damages to the fullest extent permissible under California law. The Articles further authorize the Company to provide indemnification to its agents (including officers and directors), subject to the limitations set forth above. The Bylaws also provide the Company with the power to indemnify corporate agents in accordance with the CGCL.
 Pursuant to the authority provided in the Articles and Bylaws, the Company has entered into indemnification agreements with each of its executive officers and directors, indemnifying them against certain potential liabilities that may arise as a result of their service to the Company, and providing for certain other protection. The Company also maintains insurance policies which insure its officers and directors against certain liabilities.

@@ -1,0 +1,59 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "December 31, 2020",
+    "Valuation Technique",
+    "Significant Unobservable Input",
+    "Range of Inputs",
+    "Weighted Average Input Applied"
+  ],
+  [
+    "Mortgage servicing rights",
+    "Discounted cash flow",
+    "Discount rate",
+    "9%",
+    "-",
+    "14%",
+    "9%"
+  ],
+  [
+    "Mortgage servicing rights",
+    "Discounted cash flow",
+    "Constant prepayment rate",
+    "8%",
+    "-",
+    "47%",
+    "20%"
+  ],
+  [
+    "Individually evaluated loans",
+    "Appraisals / Discounted cash flow",
+    "Collateral / Discount factor",
+    "0%",
+    "-",
+    "40%",
+    "34%"
+  ]
+]

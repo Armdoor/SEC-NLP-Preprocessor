@@ -1,0 +1,845 @@
+0000007789-21-000038.hdr.sgml : 20210422
+20210422161730
+ACCESSION NUMBER:		0000007789-21-000038
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		37
+CONFORMED PERIOD OF REPORT:	20210422
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20210422
+DATE AS OF CHANGE:		20210422
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		21845017
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20210422
+
+
+					
+UNITED STATESSECURITIES AND EXCHANGE COMMISSIONWASHINGTON, DC 20549
+FORM	8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the Securities Exchange Act of 1934
+					
+Date of Report (Date of earliest event reported)	April 22, 2021
+		
+Associated Banc-Corp
+(Exact name of registrant as specified in its chapter)
+								
+Wisconsin	001-31343	39-1098068
+(State or other jurisdiction of incorporation)	(Commission File Number)	(IRS Employer Identification No.)
+											
+433 Main Street	Green Bay	Wisconsin	54301
+(Address of principal executive offices)	(Zip code)
+								
+Registrant’s telephone number, including area code	920	491-7500
+					
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities Registered Pursuant to Section 12(b) of the act:
+								
+Title of each class	Trading symbol	Name of each exchange on which registered
+Common stock, par value $0.01 per share	ASB	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 6.125% Non-Cum. Perp Pref Stock, Srs C	ASB PrC	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.375% Non-Cum. Perp Pref Stock, Srs D	ASB PrD	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.875% Non-Cum. Perp Pref Stock, Srs E	ASB PrE	New York Stock Exchange
+Depositary Shrs, each representing 1/40th intrst in a shr of 5.625% Non-Cum. Perp Pref Stock, Srs F	ASB PrF	New York Stock Exchange
+					
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+☐	Emerging growth company
+☐	If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+
+
+		
+Item 2.02 Results of Operations and Financial Condition.
+
+On April 22, 2021, Associated Banc-Corp announced its earnings for the quarter ended March 31, 2021. A copy of the registrant’s press release containing this information and the slide presentation discussed on the conference call for investors and analysts on April 22, 2021, are being furnished as Exhibit 99.1 and Exhibit 99.2, respectively, to this Report on Form 8-K and are incorporated herein by reference.
+
+Item 9.01 Financial Statements and Exhibits.
+
+(d) Exhibits.
+
+The following exhibits are furnished as part of this Report on Form 8-K:
+99.1 Press release of the registrant datedApril22, 2021, containing financial information for the quarter endedMarch31, 2021.
+
+99.2 Slide presentation discussed on the conference call for investors and analysts onApril22, 2021.
+
+
+
+
+								
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	Associated Banc-Corp
+	(Registrant)
+	
+	
+Date: April 22, 2021	By: /s/ Christopher J. Del Moral-Niles
+	Christopher J. Del Moral-Niles
+	Chief Financial Officer
+
+
+Document
+
+
+					
+	NEWS RELEASEInvestor Contact:Ben McCarville, Vice President, Director of Investor Relations920-491-7059Media Contact:Jennifer Kaminski, Vice President, Public Relations Senior Manager920-491-7576
+		
+
+Associated Banc-Corp Reports First Quarter 2021 Net Income Available to Common Equity of $89 million, or $0.58 Per Common Share.
+GREEN BAY, Wis. -- April 22, 2021 -- Associated Banc-Corp (NYSE: ASB) ("Associated" or "Company") today reported net income available to common equity ("earnings") of $89 million, or $0.58 per common share, for the quarter ended March 31, 2021. These amounts compare to earnings of $62 million, or $0.40 per common share for the quarter ended December 31, 2020 and earnings of $42 million, or $0.27 per common share for the quarter ended March 31, 2020.
+“Driven by strong credit dynamics and the benefit of the ongoing mortgage refinance wave, we’ve delivered one of our strongest quarters ever,” said President and CEO Philip B. Flynn. “The improving credit outlook, complemented by strong fee income trends and record deposit activity drove this quarter’s earnings. The recovery has proven much stronger than we anticipated and we are optimistic about the growth we expect to come later this year. With customer activity at record levels, we are leveraging our digital capabilities and investing in our teams to meet the expanding needs of our customers across our footprint.”
+First Quarter 2021 Highlights (all comparisons to the first quarter of 2020)
+•
+Average loans of $24.5 billion were up 5%, or $1.2 billion
+Average deposits of $26.8 billion were up 10%, or $2.5 billion
+Noninterest expense of $175 million decreased 9%, or $17 million
+Noninterest income of $95 million decreased 3%, or $3 million
+Net interest income of $176 million decreased 13%, or $27 million
+Net negative provision for credit losses of $23 million, down $76 million
+Net income available to common equity of $89 million increased 112%, or $47 million
+Earnings per common share of $0.58 increased 115%, or $0.31 per common share
+Tangible book value per share was $16.95, up 16% from $14.64
+Facilitated $293 million of new PPP loans for over 4,100 customers
+
+
+Loans
+First quarter 2021 average loans of $24.5 billion were up 5%, or $1.2 billion from the same period last year and were down 1%, or $218 million from the fourth quarter 2020. With respect to first quarter 2021 average balances by loan category:
+•
+Commercial and business lending decreased $100 million from the prior quarter, driven by PPP forgiveness, and increased $964 million compared to the same period last year to $9.3 billion.
+Commercial real estate lending increased $14 million from the prior quarter and $842 million from the same period last year to $6.2 billion.
+Consumer lending was $8.9 billion, down $132 million from the prior quarter and down $651 million from the same period last year.
+First quarter 2021 period-end loans of $24.2 billion were down 1%, or $203 million from the same period last year and 1%, or $289 million from the fourth quarter 2020. With respect to first quarter 2021 period-end balances by loan category:
+Commercial and business lending increased $14 million from the prior quarter and decreased $74 million from the same period last year to $9.4 billion.
+Commercial real estate lending decreased $40 million from the prior quarter and increased $560 million from the same period last year to $6.1 billion.
+Consumer lending was $8.6 billion, down $264 million from the prior quarter and $689 million from the same period last year.
+We continue to expect full-year commercial loan growth of 2% to 4% in 2021, driven by an expected 4% to 6% increase in CRE balances and an expected 1% to 2% increase in C&BL outstandings, excluding PPP.
+
+
+Deposits
+First quarter 2021 average deposits of $26.8 billion were up 10%, or $2.5 billion from the same period last year and $66 million compared to the fourth quarter 2020. With respect to first quarter 2021 average balances by deposit category:
+•
+Noninterest-bearing demand deposits decreased $10 million from the prior quarter and increased $2.2 billion from the same period last year to $7.7 billion.
+Savings increased $182 million from the prior quarter and $941 million from the same period last year to $3.8 billion.
+Interest-bearing demand deposits decreased $27 million from the prior quarter and increased $406 million from the same period last year to $5.7 billion.
+Money market deposits increased $336 million from the prior quarter and $337 million from the same period last year to $6.9 billion.
+Network transaction deposits decreased $186 million from the prior quarter and $354 million from the same period last year to $1.1 billion.
+Time deposits decreased $230 million from the prior quarter and $978 million from the same period last year to $1.7 billion.
+First quarter 2021 period-end deposits of $27.7 billion were up 8%, or $2 billion from the same period last year and 5%, or $1.2 billion compared to the fourth quarter 2020. Low-cost core deposits (interest-bearing demand, noninterest-bearing demand and savings) made up 65% of deposit balances as of March 31, 2021. With respect to first quarter 2021 period-end balances by deposit category:
+Noninterest-bearing demand deposits increased $834 million from the prior quarter and $2.4 billion from the same period last year to $8.5 billion.
+Savings increased $383 million from the prior quarter and $1 billion from the same period last year to $4.0 billion.
+Interest-bearing demand deposits decreased $343 million from the prior quarter and $422 million from the same period last year to $5.7 billion.
+Money market deposits increased $516 million from the prior quarter and increased $121 million from the same period last year to $7.8 billion.
+Time deposits decreased $196 million from the prior quarter and $1 billion from the same period last year to $1.6 billion.
+Network transaction deposits (included in money market and interest-bearing deposits) decreased $142 million from the prior quarter and $677 million from the same period last year to $1.1 billion.
+
+
+Net Interest Income and Net Interest Margin
+First quarter 2021 net interest income of $176 million was down 6%, or $12 million from the prior quarter and the net interest margin decreased 10 basis points from the prior quarter to
+2.39%
+. Compared to the same period last year,
+net interest income decreased 13%, or $27 million, and the net interest margin decreased 45 basis points.
+•
+The average yield on total earning assets for the first quarter of 2021 decreased 13 basis points from the prior quarter and decreased 100 basis points from the same period last year to 2.67%.
+The average cost of total interest-bearing liabilities for the first quarter of 2021 decreased 3 basis points from the prior quarter and decreased 66 basis points from the same period last year to 0.40%.
+The net free funds benefit for the first quarter of 2021 was flat to the prior quarter and compressed 11 basis points compared to the same period last year.
+We expect the full year’s margin to be approximately 2.45% to 2.55% in 2021.
+Noninterest Income
+First quarter 2021 total noninterest income of $95 million increased $10 million from the prior quarter and decreased by only $3 million from the same period last year, despite the loss of $23 million of Associated Benefits & Risk Consulting-related income.
+With respect to first quarter 2021 noninterest income line items:
+Gain on previously disclosed sale of Whitnell & Co. was $2 million.
+Gains on previously disclosed sale of branches were $1 million.
+Mortgage Banking, net was $24 million for the first quarter, up $9 million from the previous quarter and up $18 million from the same period last year, driven by continued refinancing volumes and mortgage servicing rights recoveries.
+We expect noninterest income of $310 million to $330 million in 2021.
+Noninterest Expense
+First quarter 2021 total noninterest expense of $175 million increased $2 million from the prior quarter and decreased $17 million compared to the same period last year.
+With respect to first quarter 2021 noninterest expense line items:
+Personnel expense increased $6 million from the prior quarter, primarily driven by increased compensation, incentives and mortgage commissions, and decreased $10 million from the same period last year, primarily driven by reduced staffing as a result of corporate restructurings in third quarter 2020 and the sale of ABRC.
+Other expense decreased $2 million from the prior quarter and $4 million from the same period last year.
+We expect 2021 noninterest expense to be approximately $690 million to $695 million.
+
+
+Taxes
+The first quarter 2021 tax expense was $25 million compared to $17 million of tax expense in the prior quarter and $10 million of tax expense in the same period last year.
+The effective tax rate for first quarter 2021 was 20.7% compared to an effective tax rate of 20.1% in the prior quarter and an effective tax rate of 18.2% in the same period last year.
+We expect the annual 2021 tax rate to be between 19% to 21%, assuming no change in the corporate tax rate.
+Credit
+The first quarter 2021 provision for credit losses was negative $23 million, down from provision of $17 million in the prior quarter and provision of $53 million in the same period last year.
+With respect to first quarter 2021 credit quality:
+•
+Potential problem loans of $264 million were down $17 million, or 6%, from the prior quarter and up $31 million, or 13%, from the same period last year.
+Nonaccrual loans of $163 million were down $48 million, or 23%, from the prior quarter and up $27 million, or 19% from the same period last year. The nonaccrual loans to total loans ratio was 0.68% in the first quarter, down from 0.86% in the prior quarter and up from 0.56% in the same period last year.
+Net charge offs of $5 million were down $23 million, or 83%, from the prior quarter and down $12 million, or 72%, from the same period last year.
+The allowance for credit losses on loans (ACLL) of $404 million was down $28 million from the prior quarter and up $10 million compared to the same period last year. The ACLL to total loans ratio was 1.67% in the first quarter, down from 1.76% in the prior quarter and up from 1.62% in the same period last year.
+We expect our full year 2021 provision to be nominal.
+Capital
+The Company’s capital position remains strong, with a CET1 capital rat
+io of
+10.8%
+at March
+31, 2021. The Company’s capital ratios continue to be in excess of the Basel III “well-capitalized” regulatory benchmarks on a fully phased in basis.
+
+
+FIRST QUARTER 2021 EARNINGS RELEASE CONFERENCE CALL
+The Company will host a conference call for investors and analysts at 4:00 p.m. Central Time (CT) today, April 22, 2021. Interested parties can access the live webcast of the call through the Investor Relations section of the Company's website, http://investor.associatedbank.com. Parties may also dial into the call at 877-407-8037 (domestic) or 201-689-8037 (international) and request the Associated Banc-Corp first quarter 2021 earnings call. The first quarter 2021 financial tables with an accompanying slide presentation will be available on the Company's website just prior to the call. An audio archive of the webcast will be available on the Company's website approximately fifteen minutes after the call is over.
+ABOUT ASSOCIATED BANC-CORP
+Associated Banc-Corp (NYSE: ASB) has total assets of $35 billion and is one of the top 50 publicly traded U.S. bank holding companies. Headquartered in Green Bay, Wisconsin, Associated is a leading Midwest banking franchise, offering a full range of financial products and services from more than 220 banking locations serving more than 120 communities throughout Wisconsin, Illinois and Minnesota, and commercial financial services in Indiana, Michigan, Missouri, Ohio and Texas. Associated Bank, N.A. is an Equal Housing Lender, Equal Opportunity Lender and Member FDIC. More information about Associated Banc-Corp is available at www.associatedbank.com.
+FORWARD-LOOKING STATEMENTS
+Statements made in this document which are not purely historical are forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995. This includes any statements regarding management’s plans, objectives, or goals for future operations, products or services, and forecasts of its revenues, earnings, or other measures of performance. Such forward-looking statements may be identified by the use of words such as “believe,” “expect,” “anticipate,” “plan,” “estimate,” “should,” “will,” “intend,” "target," “outlook,” "guidance," or similar expressions. Forward-looking statements are based on current management expectations and, by their nature, are subject to risks and uncertainties. Actual results may differ materially from those contained in the forward-looking statements. Factors which may cause actual results to differ materially from those contained in such forward-looking statements include those identified in the Company’s most recent Form 10-K and subsequent SEC filings. Such factors are incorporated herein by reference.
+NON-GAAP FINANCIAL MEASURES
+This press release and related materials may contain references to measures which are not defined in generally accepted accounting principles (“GAAP”). Information concerning these non-GAAP financial measures can be found in the financial tables. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+# # #
+
+
+
+
+																							
+Associated Banc-CorpConsolidated Balance Sheets (Unaudited)							
+($ in thousands)	March 31, 2021	December 31, 2020	Seql Qtr $ Change	September 30, 2020	June 30, 2020	March 31, 2020	Comp Qtr $ Change
+Assets							
+Cash and due from banks	$	356,285		$	416,154		$	(59,869)		$	401,151		$	443,500		$	480,337		$	(124,052)	
+Interest-bearing deposits in other financial institutions	1,590,494		298,759		1,291,735		712,416		1,569,006		176,440		1,414,054	
+Federal funds sold and securities purchased under agreements to resell	—		1,135		(1,135)		95		185		22,455		(22,455)	
+Investment securities available for sale, at fair value	3,356,949		3,085,441		271,508		3,258,360		3,149,773		2,928,787		428,162	
+Investment securities held to maturity, net, at amortized cost	1,857,087		1,878,938		(21,851)		1,990,870		2,077,225		2,149,373		(292,286)	
+Equity securities	15,673		15,106		567		15,090		15,091		15,063		610	
+Federal Home Loan Bank and Federal Reserve Bank stocks, at cost	168,281		168,280		1		168,280		206,281		222,922		(54,641)	
+Residential loans held for sale	153,151		129,158		23,993		130,139		196,673		366,330		(213,179)	
+Commercial loans held for sale	—		—		—		19,360		3,565		—		—	
+Loans	24,162,328		24,451,724		(289,396)		25,003,753		24,832,671		24,365,633		(203,305)	
+Allowance for loan losses	(352,938)		(383,702)		30,764		(384,711)		(363,803)		(337,793)		(15,145)	
+Loans, net	23,809,389		24,068,022		(258,633)		24,619,041		24,468,868		24,027,841		(218,452)	
+Tax credit and other investments	303,701		297,232		6,469		314,066		303,132		315,909		(12,208)	
+Premises and equipment, net	398,671		418,914		(20,243)		422,222		434,042		438,469		(39,798)	
+Bank and corporate owned life insurance	680,831		679,647		1,184		679,257		676,196		674,026		6,805	
+Goodwill	1,104,992		1,109,300		(4,308)		1,107,902		1,107,902		1,191,388		(86,396)	
+Other intangible assets, net	64,701		68,254		(3,553)		70,507		72,759		92,723		(28,022)	
+Mortgage servicing rights, net	49,500		41,961		7,539		45,261		49,403		58,289		(8,789)	
+							
+Interest receivable	86,466		90,263		(3,797)		91,612		87,097		92,377		(5,911)	
+Other assets	579,084		653,219		(74,135)		653,117		640,765		655,328		(76,244)	
+Total assets	$	34,575,255		$	33,419,783		$	1,155,472		$	34,698,746		$	35,501,464		$	33,908,056		$	667,199	
+Liabilities and stockholders’ equity							
+Noninterest-bearing demand deposits	$	8,496,194		$	7,661,728		$	834,466		$	7,489,048		$	7,573,942		$	6,107,386		$	2,388,808	
+Interest-bearing deposits	19,180,972		18,820,753		360,219		19,223,500		18,977,502		19,554,194		(373,222)	
+Total deposits	27,677,166		26,482,481		1,194,685		26,712,547		26,551,444		25,661,580		2,015,586	
+Federal funds purchased and securities sold under agreements to repurchase	138,507		192,971		(54,464)		155,329		142,293		133,007		5,500	
+Commercial paper	51,171		59,346		(8,175)		50,987		39,535		33,647		17,524	
+PPPLF	—		—		—		1,022,217		1,009,760		—		—	
+FHLB advances	1,629,966		1,632,723		(2,757)		1,706,763		2,657,016		3,214,194		(1,584,228)	
+Other long-term funding	549,729		549,465		264		549,201		548,937		549,644		85	
+Allowance for unfunded commitments	50,776		47,776		3,000		57,276		64,776		56,276		(5,500)	
+Accrued expenses and other liabilities	350,160		364,088		(13,928)		398,991		463,245		469,236		(119,076)	
+Total liabilities	30,447,474		29,328,850		1,118,624		30,653,313		31,477,007		30,117,584		329,890	
+Stockholders’ equity							
+Preferred equity	353,512		353,512		—		353,637		353,846		256,716		96,796	
+							
+							
+							
+							
+							
+							
+Common equity	3,774,268		3,737,421		36,847		3,691,796		3,670,612		3,533,755		240,513	
+Total stockholders’ equity	4,127,780		4,090,933		36,847		4,045,433		4,024,457		3,790,471		337,309	
+Total liabilities and stockholders’ equity	$	34,575,255		$	33,419,783		$	1,155,472		$	34,698,746		$	35,501,464		$	33,908,056		$	667,199	
+Numbers may not sum due to rounding.
+1
+
+
+
+
+																													
+Associated Banc-CorpConsolidated Statements of Income (Unaudited) - Quarterly Trend
+($ in thousands, except per share data)			Seql Qtr				Comp Qtr
+1Q21	4Q20	$ Change	% Change	3Q20	2Q20	1Q20	$ Change	% Change
+Interest income									
+Interest and fees on loans	$	174,049		$	185,934		$	(11,885)		(6)	%	$	182,625		$	191,895		$	224,786		$	(50,737)		(23)	%
+Interest and dividends on investment securities									
+Taxable	7,014		9,746		(2,732)		(28)	%	13,689		16,103		20,272		(13,258)		(65)	%
+Tax-exempt	14,162		14,296		(134)		(1)	%	14,523		14,616		14,882		(720)		(5)	%
+Other interest	1,694		1,699		(5)		—	%	2,238		2,231		3,304		(1,610)		(49)	%
+Total interest income	196,920		211,675		(14,755)		(7)	%	213,075		224,845		263,244		(66,324)		(25)	%
+Interest expense									
+Interest on deposits	5,909		7,762		(1,853)		(24)	%	10,033		13,178		36,666		(30,757)		(84)	%
+Interest on federal funds purchased and securities sold under agreements to repurchase	26		32		(6)		(19)	%	34		51		368		(342)		(93)	%
+Interest on other short-term funding	6		5		1		20	%	5		5		36		(30)		(83)	%
+Interest on PPPLF	—		410		(410)		(100)	%	899		676		—		—		N/M
+Interest on FHLB Advances	9,493		9,888		(395)		(4)	%	14,375		15,470		17,626		(8,133)		(46)	%
+Interest on long-term funding	5,585		5,585		—		—	%	5,580		5,593		5,607		(22)		—	%
+Total interest expense	21,018		23,682		(2,664)		(11)	%	30,925		34,973		60,303		(39,285)		(65)	%
+Net interest income	175,902		187,993		(12,091)		(6)	%	182,150		189,872		202,942		(27,040)		(13)	%
+Provision for credit losses	(23,004)		16,997		(40,001)		N/M	43,009		61,000		53,001		(76,005)		N/M
+Net interest income after provision for credit losses	198,906		170,996		27,910		16	%	139,141		128,872		149,941		48,965		33	%
+Noninterest income									
+Wealth management fees	22,414		22,073		341		2	%	21,152		20,916		20,816		1,598		8	%
+Service charges and deposit account fees	14,855		15,318		(463)		(3)	%	14,283		11,484		15,222		(367)		(2)	%
+Card-based fees	9,743		9,848		(105)		(1)	%	10,195		8,893		9,597		146		2	%
+Other fee-based revenue	4,596		4,998		(402)		(8)	%	4,968		4,774		4,497		99		2	%
+Capital markets, net	8,118		5,898		2,220		38	%	7,222		6,910		7,935		183		2	%
+Mortgage banking, net	23,925		14,537		9,388		65	%	12,636		12,263		6,143		17,782		N/M
+Bank and corporate owned life insurance	2,702		3,978		(1,276)		(32)	%	3,074		3,625		3,094		(392)		(13)	%
+Insurance commissions and fees	76		92		(16)		(17)	%	114		22,430		22,608		(22,532)		(100)	%
+Asset gains (losses), net	4,809		(1,356)		6,165		N/M	(339)		157,361		(77)		4,886		N/M
+Investment securities gains (losses), net	(39)		—		(39)		N/M	7		3,096		6,118		(6,157)		N/M
+Gains on sale of branches, net(a)	1,002		7,449		(6,447)		(87)	%	—		—		—		1,002		N/M
+Other	3,141		2,879		262		9	%	2,232		2,737		2,352		789		34	%
+Total noninterest income	95,343		85,714		9,629		11	%	75,545		254,490		98,306		(2,963)		(3)	%
+Noninterest expense									
+Personnel	104,026		98,033		5,993		6	%	108,567		111,350		114,200		(10,174)		(9)	%
+Technology	20,740		19,574		1,166		6	%	19,666		21,174		20,799		(59)		—	%
+Occupancy	16,156		15,678		478		3	%	17,854		14,464		16,069		87		1	%
+Business development and advertising	4,395		5,421		(1,026)		(19)	%	3,626		3,556		5,826		(1,431)		(25)	%
+Equipment	5,518		5,555		(37)		(1)	%	5,399		5,312		5,439		79		1	%
+Legal and professional	6,530		5,737		793		14	%	5,591		5,058		5,160		1,370		27	%
+Loan and foreclosure costs	2,220		3,758		(1,538)		(41)	%	2,118		3,605		3,120		(900)		(29)	%
+FDIC assessment	4,750		5,700		(950)		(17)	%	3,900		5,250		5,500		(750)		(14)	%
+Other intangible amortization	2,236		2,253		(17)		(1)	%	2,253		2,872		2,814		(578)		(21)	%
+Loss on prepayments of FHLB advances	—		—		—		N/M	44,650		—		—		—		N/M
+Other	8,775		11,141		(2,366)		(21)	%	13,963		10,766		13,263		(4,488)		(34)	%
+Total noninterest expense	175,347		172,850		2,497		1	%	227,587		183,407		192,191		(16,844)		(9)	%
+Income (loss) before income taxes	118,903		83,860		35,043		42	%	(12,900)		199,955		56,056		62,847		112	%
+Income tax expense (benefit)	24,602		16,858		7,744		46	%	(58,114)		51,238		10,219		14,383		141	%
+Net income	94,301		67,002		27,299		41	%	45,214		148,718		45,838		48,463		106	%
+Preferred stock dividends	5,207		5,207		—		—	%	5,207		4,144		3,801		1,406		37	%
+Net income available to common equity	$	89,094		$	61,795		$	27,299		44	%	$	40,007		$	144,573		$	42,037		$	47,057		112	%
+Earnings per common share									
+Basic	$	0.58		$	0.40		$	0.18		45	%	$	0.26		$	0.94		$	0.27		$	0.31		115	%
+Diluted	$	0.58		$	0.40		$	0.18		45	%	$	0.26		$	0.94		$	0.27		$	0.31		115	%
+Average common shares outstanding									
+Basic	152,355		152,497		(142)		—	%	152,440		152,393		154,701		(2,346)		(2)	%
+Diluted	153,688		153,262		426		—	%	153,194		153,150		155,619		(1,931)		(1)	%
+
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)Includes the deposit premium on the sale of branches net of miscellaneous costs to sell
+2
+
+
+
+
+																			
+Associated Banc-CorpSelected Quarterly Information							
+($ in millions except per share data and COVID-19 loan forbearances; shares repurchased and outstanding in thousands)			1Q21	4Q20	3Q20	2Q20	1Q20
+Per common share data							
+Dividends			$	0.18		$	0.18		$	0.18		$	0.18		$	0.18	
+Market value:							
+High			23.14		17.17		14.25		17.03		21.94	
+Low			17.20		12.68		11.86		11.48		10.85	
+Close			21.34		17.05		12.62		13.68		12.79	
+Book value			24.56		24.34		24.04		23.89		22.99	
+Tangible book value / share			16.95		16.67		16.37		16.21		14.64	
+Performance ratios (annualized)							
+Return on average assets			1.14	%	0.78	%	0.51	%	1.72	%	0.57	%
+Noninterest expense / average assets			2.11	%	2.02	%	2.55	%	2.12	%	2.37	%
+Effective tax rate			20.69	%	20.10	%	N/M	25.62	%	18.23	%
+Dividend payout ratio(a)			31.03	%	45.00	%	69.23	%	19.15	%	66.67	%
+Net interest margin			2.39	%	2.49	%	2.31	%	2.49	%	2.84	%
+Selected trend information							
+Average full time equivalent employees(b)			4,020		4,134		4,374		4,701		4,631	
+Branch count			227		228		249		249		249	
+Assets under management, at market value(c)			$	12,553		$	13,314		$	12,195		$	11,755		$	10,454	
+Mortgage loans originated for sale during period			$	413		$	323		$	458		$	550		$	310	
+Mortgage loan settlements during period			$	400		$	339		$	599		$	725		$	297	
+Mortgage portfolio loans transferred to held for sale during period			$	—		$	—		$	70		$	—		$	200	
+Mortgage portfolio serviced for others			$	7,313		$	7,744		$	8,219		$	8,454		$	8,549	
+Mortgage servicing rights, net / mortgage portfolio serviced for others			0.68	%	0.54	%	0.55	%	0.58	%	0.68	%
+Shares repurchased during period(d)			966		—		—		—		4,264	
+Shares outstanding, end of period			153,685		153,540		153,552		153,616		153,690	
+							
+							
+							
+Paycheck Protection Program fees, net							
+Deferred fees, beginning of period			$	12		$	21		$	24		$	—		N/A
+Fees received			12		—		1		27		N/A
+Fees recognized			(7)		(9)		(4)		(3)		N/A
+Deferred fees, end of period			$	18		$	12		$	21		$	24		N/A
+COVID-19 impacted loans in forbearances ($ in thousands)							
+Commercial and industrial			$	1,126		$	5,640		$	19,414		$	45,415		$	345	
+Commercial real estate—owner occupied			4,395		6,737		42,121		142,293		—	
+Commercial and business lending			5,521		12,377		61,535		187,708		345	
+Commercial real estate—investor			12,115		18,345		246,833		643,168		595	
+Real estate construction			—		22		2,009		32,214		—	
+Commercial real estate lending			12,115		18,368		248,842		675,382		595	
+Total commercial			17,636		30,744		310,377		863,090		940	
+Residential mortgage			18,696		45,851		364,593		692,307		428	
+Home equity			850		1,762		10,068		30,554		—	
+Other consumer			179		222		1,132		2,060		—	
+Total consumer			19,724		47,835		375,794		724,921		428	
+Total COVID-19 impacted loans in forbearance			$	37,360		$	78,579		$	686,171		$	1,588,011		$	1,368	
+Selected quarterly ratios							
+Loans / deposits			87.30	%	92.33	%	93.60	%	93.53	%	94.95	%
+Stockholders’ equity / assets			11.94	%	12.24	%	11.66	%	11.34	%	11.18	%
+Risk-based capital(e)(f)							
+Total risk-weighted assets			$	25,640		$	25,903		$	26,142		$	25,864		$	25,866	
+Common equity Tier 1			$	2,759		$	2,706		$	2,672		$	2,651		$	2,421	
+Common equity Tier 1 capital ratio			10.76	%	10.45	%	10.22	%	10.25	%	9.36	%
+Tier 1 capital ratio			12.14	%	11.81	%	11.57	%	11.62	%	10.35	%
+Total capital ratio			14.36	%	14.02	%	13.78	%	13.83	%	12.56	%
+Tier 1 leverage ratio			9.53	%	9.37	%	9.02	%	9.08	%	8.50	%
+							
+							
+							
+							
+							
+Mortgage banking, net							
+Mortgage servicing fees, net(g)			$	(1)		$	(1)		$	(1)		$	(1)		$	2	
+Gains (losses) and fair value adjustments on loans held for sale			15		15		15		21		10	
+Fair value adjustment on portfolio loans transferred to held for sale			—		—		1		—		3	
+Mortgage servicing rights (impairment) recovery			11		1		(1)		(8)		(9)	
+Mortgage banking, net			$	24		$	15		$	13		$	12		$	6	
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Ratio is based upon basic earnings per common share.
+(b)
+Average full time equivalent employees without overtime.
+(c)
+Excludes assets held in brokerage accounts.
+(d)
+Does not include repurchases related to tax withholding on equity compensation.
+(e)
+The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The regulatory capital requirements effective for the Corporation follow Basel III, subject to certain transition provisions.
+(f)
+March 31, 2021 data is estimated.
+(g)
+Includes mortgage origination and servicing fees, net of mortgage servicing rights amortization.
+3
+
+
+
+
+																													
+Associated Banc-CorpSelected Asset Quality Information						
+($ in thousands)		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Allowance for loan losses									
+Balance at beginning of period		$	383,702		$	384,711		—	%		$	363,803		$	337,793		$201,371	91	%
+Cumulative effect of ASU 2016-13 adoption (CECL)		N/A	N/A			N/A	N/A	112,457		
+January 1, 2020		N/A	N/A			N/A	N/A	313,828		
+Provision for loan losses		(26,000)		26,500		N/M		50,500		52,500		37,500		N/M
+Allowance for PCD loans for bank acquisition		N/A	N/A			N/A	N/A	3,504		
+Charge offs		(13,174)		(30,315)		(57)	%		(34,079)		(28,351)		(19,308)		(32)	%
+Recoveries		8,410		2,805		N/M		4,488		1,861		2,268		N/M
+Net charge offs		(4,764)		(27,510)		(83)	%		(29,592)		(26,490)		(17,040)		(72)	%
+Balance at end of period		$	352,938		$	383,702		(8)	%		$	384,711		$	363,803		$	337,793		4	%
+Allowance for unfunded commitments									
+Balance at beginning of period		$	47,776		$	57,276		(17)	%		$	64,776		$	56,276		$	21,907		118	%
+Cumulative effect of ASU 2016-13 adoption (CECL)		N/A	N/A			N/A	N/A	18,690		
+January 1, 2020		N/A	N/A			N/A	N/A	40,597		
+Provision for unfunded commitments		3,000		(9,500)		N/M		(7,500)		8,500		15,500		(81)	%
+Amount recorded at acquisition		—		—		N/M		—		—		179		(100)	%
+Balance at end of period		$	50,776		$	47,776		6	%		$	57,276		$	64,776		$	56,276		(10)	%
+Allowance for credit losses on loans (ACLL)		$	403,714		$	431,478		(6)	%		$	441,988		$	428,579		$	394,069		2	%
+Provision for credit losses on loans		$	(23,000)		$	17,000		N/M		$	43,000		$	61,000		$	53,000		N/M
+($ in thousands)		Mar 31, 2021	Dec 31, 2020	Seql Qtr % Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Net (charge offs) recoveries									
+PPP Loans		$	—		$	—		N/M		$	—		$	—		$	—		N/M
+Commercial and industrial		1,367		(8,514)		N/M		(24,834)		(24,919)		(15,049)		N/M
+Commercial real estate—owner occupied		4		143		(97)	%		(416)		1		—		N/M
+Commercial and business lending		1,370		(8,371)		N/M		(25,249)		(24,919)		(15,048)		N/M
+Commercial real estate—investor		(5,886)		(18,696)		(69)	%		(3,609)		28		—		N/M
+Real estate construction		29		43		(33)	%		(21)		(3)		11		164	%
+Commercial real estate lending		(5,857)		(18,653)		(69)	%		(3,630)		25		11		N/M
+Total commercial		(4,487)		(27,024)		(83)	%		(28,879)		(24,893)		(15,037)		(70)	%
+Residential mortgage		(109)		(162)		(33)	%		(79)		(215)		(912)		(88)	%
+Home equity		344		335		3	%		156		(303)		71		N/M
+Other consumer		(511)		(659)		(22)	%		(790)		(1,078)		(1,162)		(56)	%
+Total consumer		(277)		(486)		(43)	%		(712)		(1,596)		(2,003)		(86)	%
+Total net (charge offs) recoveries		$	(4,764)		$	(27,510)		(83)	%		$	(29,592)		$	(26,490)		$	(17,040)		(72)	%
+									
+(In basis points)		Mar 31, 2021	Dec 31, 2020			Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	
+Net charge offs to average loans (annualized)									
+PPP Loans		—		—				—		—		—		
+Commercial and industrial		7		(45)				(126)		(121)		(81)		
+Commercial real estate—owner occupied		—		6				(18)		—		—		
+Commercial and business lending		6		(35)				(103)		(100)		(72)		
+Commercial real estate—investor		(55)		(173)				(34)		—		—		
+Real estate construction		1		1				—		—		—		
+Commercial real estate lending		(38)		(121)				(24)		—		—		
+Total commercial		(12)		(69)				(73)		(64)		(44)		
+Residential mortgage		(1)		(1)				—		(1)		(4)		
+Home equity		21		18				8		(15)		3		
+Other consumer		(68)		(83)				(98)		(128)		(134)		
+Total consumer		(1)		(2)				(3)		(7)		(8)		
+Total net charge offs		(8)		(44)				(47)		(42)		(29)		
+									
+($ in thousands)		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Credit Quality									
+Nonaccrual loans		$	163,292		$	210,854		(23)	%		$	231,590		$	171,607		$	136,717		19	%
+Other real estate owned (OREO)		24,588		14,269		72	%		18,983		20,264		22,530		9	%
+Other nonperforming assets		—		—		N/M		909		909		6,004		(100)	%
+Total nonperforming assets		$	187,880		$	225,123		(17)	%		$	251,481		$	192,780		$	165,251		14	%
+									
+Loans 90 or more days past due and still accruing		$	1,675		$	1,598		5	%		$	1,854		$	1,466		$	2,255		(26)	%
+									
+Allowance for credit losses on loans to total loans		1.67	%	1.76	%			1.77	%	1.73	%	1.62	%	
+									
+Allowance for credit losses on loans to nonaccrual loans		247.23	%	204.63	%			190.85	%	249.74	%	288.24	%	
+Nonaccrual loans to total loans		0.68	%	0.86	%			0.93	%	0.69	%	0.56	%	
+Nonperforming assets to total loans plus OREO		0.78	%	0.92	%			1.01	%	0.78	%	0.68	%	
+Nonperforming assets to total assets		0.54	%	0.67	%			0.72	%	0.54	%	0.49	%	
+Year-to-date net charge offs to year-to-date average loans (annualized)		0.08	%	0.41	%			0.40	%	0.36	%	0.29	%	
+									
+									
+									
+N/M = Not meaningful
+N/A = Not applicable
+4
+
+
+
+
+																													
+Associated Banc-CorpSelected Asset Quality Information (continued)
+(In thousands)		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Nonaccrual loans									
+Commercial and industrial		$	33,192		$	61,859		(46)	%		$	105,899		$	80,239		$	58,854		(44)	%
+Commercial real estate—owner occupied		7		1,058		(99)	%		2,043		1,932		1,838		(100)	%
+Commercial and business lending		33,200		62,917		(47)	%		107,941		82,171		60,692		(45)	%
+Commercial real estate—investor		58,485		78,220		(25)	%		50,458		11,172		1,091		N/M
+Real estate construction		327		353		(7)	%		392		503		486		(33)	%
+Commercial real estate lending		58,813		78,573		(25)	%		50,850		11,675		1,577		N/M
+Total commercial		92,012		141,490		(35)	%		158,792		93,846		62,269		48	%
+Residential mortgage		61,256		59,337		3	%		62,331		66,656		64,855		(6)	%
+Home equity		9,792		9,888		(1)	%		10,277		10,829		9,378		4	%
+Other consumer		231		140		65	%		190		276		215		7	%
+Total consumer		71,280		69,364		3	%		72,798		77,761		74,448		(4)	%
+Total nonaccrual loans		$	163,292		$	210,854		(23)	%		$	231,590		$	171,607		$	136,717		19	%
+									
+		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Restructured loans (accruing)(a)									
+Commercial and industrial		$	11,985		$	12,713		(6)	%		$	16,002		$	16,321		$	16,056		(25)	%
+Commercial real estate—owner occupied		1,488		1,711		(13)	%		1,389		1,441		2,091		(29)	%
+Commercial and business lending		13,473		14,424		(7)	%		17,391		17,762		18,146		(26)	%
+Commercial real estate—investor		13,627		26,435		(48)	%		635		114		281		N/M
+Real estate construction		256		260		(2)	%		382		313		339		(24)	%
+Commercial real estate lending		13,884		26,695		(48)	%		1,016		427		620		N/M
+Total commercial		27,356		41,119		(33)	%		18,407		18,189		18,767		46	%
+Residential mortgage		10,462		7,825		34	%		5,378		4,178		4,654		125	%
+Home equity		1,929		1,957		(1)	%		1,889		1,717		1,719		12	%
+Other consumer		1,073		1,191		(10)	%		1,218		1,219		1,245		(14)	%
+Total consumer		13,464		10,973		23	%		8,485		7,114		7,618		77	%
+Total restructured loans (accruing)		$	40,820		$	52,092		(22)	%		$	26,891		$	25,303		$	26,384		55	%
+Nonaccrual restructured loans (included in nonaccrual loans)		$	17,624		$	20,190		(13)	%		$	23,844		$	25,362		$	24,204		(27)	%
+		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Accruing Loans 30-89 Days Past Due									
+Commercial and industrial		$	526		$	6,119		(91)	%		$	298		$	716		$	976		(46)	%
+Commercial real estate—owner occupied		—		373		(100)	%		870		199		51		(100)	%
+Commercial and business lending		526		6,492		(92)	%		1,167		916		1,027		(49)	%
+Commercial real estate—investor		5,999		12,793		(53)	%		409		13,874		14,462		(59)	%
+Real estate construction		977		991		(1)	%		111		385		179		N/M
+Commercial real estate lending		6,976		13,784		(49)	%		520		14,260		14,641		(52)	%
+Total commercial		7,502		20,276		(63)	%		1,687		15,175		15,668		(52)	%
+Residential mortgage		3,973		10,385		(62)	%		6,185		3,023		10,102		(61)	%
+Home equity		2,352		4,802		(51)	%		5,609		3,108		7,001		(66)	%
+Other consumer		1,270		1,599		(21)	%		1,351		1,482		1,777		(29)	%
+Total consumer		7,594		16,786		(55)	%		13,144		7,613		18,879		(60)	%
+Total accruing loans 30-89 days past due		$	15,097		$	37,062		(59)	%		$	14,831		$	22,788		$	34,547		(56)	%
+									
+		Mar 31, 2021	Dec 31, 2020	Seql Qtr %Change		Sep 30, 2020	Jun 30, 2020	Mar 31, 2020	Comp Qtr %Change
+Potential Problem Loans									
+PPP Loans(b)		$	22,398		$	18,002		24	%		$	19,161		$	19,161		$	—		N/M
+Commercial and industrial		122,143		121,487		1	%		144,159		176,270		149,747		(18)	%
+Commercial real estate—owner occupied		15,965		26,179		(39)	%		22,808		15,919		15,802		1	%
+Commercial and business lending		160,506		165,668		(3)	%		186,129		211,350		165,550		(3)	%
+Commercial real estate—investor		85,752		91,396		(6)	%		100,459		88,237		61,030		41	%
+Real estate construction		13,977		19,046		(27)	%		2,178		2,170		1,753		N/M
+Commercial real estate lending		99,728		110,442		(10)	%		102,637		90,407		62,783		59	%
+Total commercial		260,234		276,111		(6)	%		288,766		301,758		228,333		14	%
+Residential mortgage		2,524		3,749		(33)	%		2,396		3,157		3,322		(24)	%
+Home equity		1,729		2,068		(16)	%		1,632		1,921		2,238		(23)	%
+									
+Total consumer		4,254		5,817		(27)	%		4,028		5,078		5,559		(23)	%
+Total potential problem loans		$	264,488		$	281,928		(6)	%		$	292,794		$	306,836		$	233,892		13	%
+									
+N/M = Not meaningful
+N/A = Not applicable
+Numbers may not sum due to rounding.
+(a) Does not include any restructured loans related to the COVID-19 pandemic in accordance with Section 4013 of the CARES Act
+(b) The Corporation's policy is to assign risk ratings at the borrower level. PPP loans are 100% guaranteed by the SBA and therefore the Corporation considers these loans to have a risk profile similar to pass rated loans.
+5
+
+
+
+
+																																			
+Associated Banc-CorpNet Interest Income Analysis - Fully Tax-Equivalent Basis - Sequential and Comparable Quarter				
+	Three Months Ended
+	March 31, 2021		December 31, 2020		March 31, 2020
+($ in thousands)	AverageBalance	InterestIncome /Expense	AverageYield /Rate		AverageBalance	InterestIncome /Expense	AverageYield /Rate		AverageBalance	InterestIncome /Expense	AverageYield /Rate
+Assets											
+Earning assets											
+Loans(a) (b) (c)											
+Commercial PPP lending	$	806,699		$	8,900		4.47	%		$	929,859		$	10,854		4.64	%		$	—		$	—		—	%
+Commercial and business lending (excl PPP loans)	8,537,301		54,091		2.57	%		8,513,750		57,473		2.69	%		8,380,113		80,217		3.85	%
+Commercial real estate lending	6,171,202		44,315		2.91	%		6,157,622		44,636		2.88	%		5,329,568		57,499		4.34	%
+Total commercial	15,515,202		107,307		2.80	%		15,601,230		112,963		2.88	%		13,709,681		137,716		4.04	%
+Residential mortgage	7,962,691		55,504		2.79	%		8,029,585		60,292		3.00	%		8,404,351		69,961		3.33	%
+Retail	985,456		11,630		4.75	%		1,051,022		13,035		4.95	%		1,194,586		17,473		5.86	%
+Total loans	24,463,349		174,442		2.88	%		24,681,837		186,290		3.01	%		23,308,618		225,149		3.88	%
+Investment securities											
+Taxable	2,976,469		7,014		0.94	%		3,155,508		9,746		1.24	%		3,460,224		20,272		2.34	%
+Tax-exempt(a)	1,900,346		17,844		3.76	%		1,909,512		17,870		3.74	%		1,974,247		18,603		3.77	%
+Other short-term investments	991,844		1,694		0.69	%		985,091		1,699		0.69	%		473,604		3,304		2.81	%
+Investments and other	5,868,659		26,553		1.81	%		6,050,111		29,315		1.94	%		5,908,075		42,179		2.86	%
+Total earning assets	30,332,008		$	200,994		2.67	%		30,731,948		$	215,605		2.80	%		29,216,693		$	267,329		3.67	%
+Other assets, net	3,352,135					3,343,844					3,360,311			
+Total assets	$	33,684,143					$	34,075,792					$	32,577,005			
+Liabilities and stockholders' equity											
+Interest-bearing liabilities											
+Interest-bearing deposits											
+Savings	$	3,810,321		$	332		0.04	%		$	3,628,458		$	356		0.04	%		$	2,868,840		$	1,800		0.25	%
+Interest-bearing demand	5,713,270		1,178		0.08	%		5,739,983		1,215		0.08	%		5,307,230		8,755		0.66	%
+Money market	6,875,730		1,059		0.06	%		6,539,583		1,121		0.07	%		6,538,658		10,806		0.66	%
+Network transaction deposits	1,080,109		327		0.12	%		1,265,748		468		0.15	%		1,434,128		4,601		1.29	%
+Time deposits	1,658,568		3,014		0.74	%		1,888,074		4,602		0.97	%		2,636,231		10,703		1.63	%
+Total interest-bearing deposits	19,137,998		5,909		0.13	%		19,061,847		7,762		0.16	%		18,785,088		36,666		0.79	%
+Federal funds purchased and securities sold under agreements to repurchase	136,144		26		0.08	%		164,091		32		0.08	%		194,406		368		0.76	%
+Commercial Paper	42,774		6		0.05	%		40,128		5		0.05	%		34,282		25		0.29	%
+PPPLF	—		—		—	%		464,119		410		0.35	%		—		—		—	%
+											
+Other short-term funding	—		—		—	%		—		—		—	%		16,997		11		0.25	%
+FHLB advances	1,631,895		9,493		2.36	%		1,660,274		9,888		2.37	%		3,231,999		17,626		2.19	%
+Long-term funding	549,585		5,585		4.07	%		549,307		5,585		4.07	%		549,465		5,607		4.08	%
+Total short and long-term funding	2,360,397		15,109		2.58	%		2,877,919		15,920		2.20	%		4,027,149		23,637		2.36	%
+Total interest-bearing liabilities	21,498,395		$	21,018		0.40	%		21,939,766		$	23,682		0.43	%		22,812,237		$	60,303		1.06	%
+Noninterest-bearing demand deposits	7,666,561					7,677,003					5,506,861			
+Other liabilities	415,195					405,430					416,107			
+Stockholders’ equity	4,103,991					4,053,593					3,841,800			
+Total liabilities and stockholders’ equity	$	33,684,143					$	34,075,792					$	32,577,005			
+Interest rate spread			2.27	%				2.37	%				2.61	%
+Net free funds			0.12	%				0.12	%				0.23	%
+Fully tax-equivalent net interest income and net interest margin ("NIM")		$	179,976		2.39	%			$	191,923		2.49	%			$	207,026		2.84	%
+Fully tax-equivalent adjustment		4,074					3,930					4,084		
+Net interest income		$	175,902					$	187,993					$	202,942		
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+6
+
+
+
+
+																																												
+Associated Banc-CorpLoan and Deposit Composition														
+($ in thousands)														
+Period end loan composition		Mar 31, 2021		Dec 31, 2020		Seql Qtr % Change		Sep 30, 2020		Jun 30, 2020		Mar 31, 2020		Comp Qtr % Change
+PPP Loans		$	836,566			$	767,757			9	%		$	1,022,217			$	1,012,033			$	—			N/M
+Commercial and industrial		7,664,501			7,701,422			—	%		7,933,404			7,968,709			8,517,974			(10)	%
+Commercial real estate—owner occupied		883,237			900,912			(2)	%		904,997			914,385			940,687			(6)	%
+Commercial and business lending		9,384,303			9,370,091			—	%		9,860,618			9,895,127			9,458,661			(1)	%
+Commercial real estate—investor		4,260,706			4,342,584			(2)	%		4,320,926			4,174,125			4,038,036			6	%
+Real estate construction		1,882,299			1,840,417			2	%		1,859,609			1,708,189			1,544,858			22	%
+Commercial real estate lending		6,143,004			6,183,001			(1)	%		6,180,536			5,882,314			5,582,894			10	%
+Total commercial		15,527,307			15,553,091			—	%		16,041,154			15,777,441			15,041,555			3	%
+Residential mortgage		7,685,218			7,878,324			(2)	%		7,885,523			7,933,518			8,132,417			(5)	%
+														
+														
+Home equity		651,647			707,255			(8)	%		761,593			795,671			844,901			(23)	%
+Other consumer		298,156			313,054			(5)	%		315,483			326,040			346,761			(14)	%
+Total consumer		8,635,020			8,898,632			(3)	%		8,962,599			9,055,230			9,324,079			(7)	%
+Total loans		$	24,162,328			$	24,451,724			(1)	%		$	25,003,753			$	24,832,671			$	24,365,633			(1)	%
+														
+														
+Period end deposit and customer funding composition		Mar 31, 2021		Dec 31, 2020		Seql Qtr % Change		Sep 30, 2020		Jun 30, 2020		Mar 31, 2020		Comp Qtr % Change
+Noninterest-bearing demand		$	8,496,194			$	7,661,728			11	%		$	7,489,048			$	7,573,942			$	6,107,386			39	%
+Savings		4,032,830			3,650,085			10	%		3,529,423			3,394,930			3,033,039			33	%
+Interest-bearing demand		5,748,353			6,090,869			(6)	%		5,979,449			5,847,349			6,170,071			(7)	%
+Money market		7,838,437			7,322,769			7	%		7,687,775			7,486,319			7,717,739			2	%
+Brokered CDs		—			—			N/M		—			4,225			65,000			(100)	%
+Other time		1,561,352			1,757,030			(11)	%		2,026,852			2,244,680			2,568,345			(39)	%
+Total deposits		27,677,166			26,482,481			5	%		26,712,547			26,551,444			25,661,580			8	%
+Customer funding(a)		182,228			245,247			(26)	%		198,741			178,398			142,174			28	%
+Total deposits and customer funding		$	27,859,394			$	26,727,727			4	%		$	26,911,289			$	26,729,842			$	25,803,754			8	%
+Network transaction deposits(b)		$	1,054,634			$	1,197,093			(12)	%		$	1,390,778			$	1,496,958			$	1,731,996			(39)	%
+														
+														
+Net deposits and customer funding (Total deposits and customer funding, excluding Brokered CDs and network transaction deposits)		$	26,804,761			$	25,530,634			5	%		$	25,520,511			$	25,228,660			$	24,006,758			12	%
+														
+Quarter average loan composition		Mar 31, 2021		Dec 31, 2020		Seql Qtr % Change		Sep 30, 2020		Jun 30, 2020		Mar 31, 2020		Comp Qtr % Change
+PPP Loans		$	806,699			$	929,859			(13)	%		$	1,019,808			$	848,761			$	—			N/M
+Commercial and industrial		7,631,274			7,609,185			—	%		7,844,209			8,263,270			7,455,528			2	%
+Commercial real estate—owner occupied		906,027			904,565			—	%		906,874			929,640			924,585			(2)	%
+Commercial and business lending		9,344,000			9,443,609			(1)	%		9,770,891			10,041,671			8,380,113			12	%
+Commercial real estate—investor		4,303,365			4,289,703			—	%		4,255,473			4,113,895			3,857,277			12	%
+Real estate construction		1,867,836			1,867,919			—	%		1,776,835			1,606,367			1,472,292			27	%
+Commercial real estate lending		6,171,202			6,157,622			—	%		6,032,308			5,720,262			5,329,568			16	%
+Total commercial		15,515,202			15,601,230			(1)	%		15,803,199			15,761,933			13,709,681			13	%
+Residential mortgage		7,962,691			8,029,585			(1)	%		8,058,283			8,271,757			8,404,351			(5)	%
+														
+														
+Home equity		680,738			736,059			(8)	%		780,202			819,680			845,422			(19)	%
+Other consumer		304,718			314,963			(3)	%		321,387			337,436			349,164			(13)	%
+Total consumer		8,948,147			9,080,607			(1)	%		9,159,872			9,428,873			9,598,937			(7)	%
+Total loans(c)		$	24,463,349			$	24,681,837			(1)	%		$	24,963,071			$	25,190,806			$	23,308,618			5	%
+														
+Quarter average deposit composition		Mar 31, 2021		Dec 31, 2020		Seql Qtr % Change		Sep 30, 2020		Jun 30, 2020		Mar 31, 2020		Comp Qtr % Change
+Noninterest-bearing demand		$	7,666,561			$	7,677,003			—	%		$	7,412,186			$	6,926,401			$	5,506,861			39	%
+Savings		3,810,321			3,628,458			5	%		3,462,942			3,260,040			2,868,840			33	%
+Interest-bearing demand		5,713,270			5,739,983			—	%		5,835,597			5,445,267			5,307,230			8	%
+Money market		6,875,730			6,539,583			5	%		6,464,784			6,496,841			6,538,658			5	%
+Network transaction deposits		1,080,109			1,265,748			(15)	%		1,528,199			1,544,737			1,434,128			(25)	%
+Time deposits		1,658,568			1,888,074			(12)	%		2,135,870			2,469,899			2,636,231			(37)	%
+Total deposits		$	26,804,559			$	26,738,850			—	%		$	26,839,578			$	26,143,186			$	24,291,949			10	%
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Includes repurchase agreements and commercial paper.
+(b)
+Included above in interest-bearing demand and money market.
+(c)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+7
+
+
+
+
+																			
+Associated Banc-CorpNon-GAAP Financial Measures Reconciliation							
+($ in millions, except per share data)			1Q21	4Q20	3Q20	2Q20	1Q20
+Tangible common equity reconciliation(a)							
+Common equity			$	3,774		$	3,737		$	3,692		$	3,671		$	3,534	
+Goodwill and other intangible assets, net			(1,170)		(1,178)		(1,178)		(1,181)		(1,284)	
+Tangible common equity			$	2,605		$	2,560		$	2,513		$	2,490		$	2,250	
+							
+							
+Tangible assets reconciliation(a)							
+Total assets			$	34,575		$	33,420		$	34,699		$	35,501		$	33,908	
+Goodwill and other intangible assets, net			(1,170)		(1,178)		(1,178)		(1,181)		(1,284)	
+Tangible assets			$	33,406		$	32,242		$	33,520		$	34,321		$	32,624	
+Average tangible common equity and average common equity tier 1 reconciliation(a)							
+Common equity			$	3,750		$	3,700		$	3,681		$	3,566		$	3,585	
+Goodwill and other intangible assets, net			(1,175)		(1,178)		(1,180)		(1,281)		(1,272)	
+Tangible common equity			2,576		2,522		2,501		2,285		2,313	
+Modified CECL transitional amount			116		123		120		115		101	
+Accumulated other comprehensive loss (income)			(5)		(4)		(4)		8		10	
+Deferred tax assets (liabilities), net			41		42		42		45		47	
+Average common equity tier 1			$	2,727		$	2,683		$	2,660		$	2,453		$	2,471	
+Average tangible assets reconciliation(a)							
+Total assets			$	33,684		$	34,076		$	35,550		$	34,846		$	32,577	
+Goodwill and other intangible assets, net			(1,175)		(1,178)		(1,180)		(1,281)		(1,272)	
+Tangible assets			$	32,510		$	32,898		$	34,371		$	33,565		$	31,305	
+Selected trend information(b)							
+							
+Wealth management fees			22		22		21		21		21	
+Service charges and deposit account fees			15		15		14		11		15	
+Card-based fees			10		10		10		9		10	
+Other fee-based revenue			5		5		5		5		4	
+Fee-based revenue			52		52		51		46		50	
+Other			44		33		25		208		48	
+Total noninterest income			$	95		$	86		$	76		$	254		$	98	
+Pre-tax pre-provision income(c)							
+Income before income taxes			$	119		$	84		$	(13)		$	200		$	56	
+Provision for credit losses			(23)		17		43		61		53	
+Pre-tax pre-provision income			$	96		$	101		$	30		$	261		$	109	
+							
+							
+							
+							
+							
+							
+Selected equity and performance ratios(a)(d)							
+Tangible common equity / tangible assets			7.80	%	7.94	%	7.50	%	7.25	%	6.90	%
+Return on average equity			9.32	%	6.58	%	4.46	%	15.55	%	4.80	%
+Return on average tangible common equity			14.03	%	9.75	%	6.36	%	25.45	%	7.31	%
+Return on average common equity Tier 1			13.25	%	9.16	%	5.98	%	23.71	%	6.84	%
+Return on average tangible assets			1.18	%	0.81	%	0.52	%	1.78	%	0.59	%
+Efficiency ratio reconciliation(e)							
+Federal Reserve efficiency ratio			65.74	%	59.68	%	85.41	%	43.49	%	70.37	%
+Fully tax-equivalent adjustment			(0.97)	%	(0.84)	%	(1.29)	%	(0.39)	%	(0.96)	%
+Other intangible amortization			(0.82)	%	(0.82)	%	(0.87)	%	(0.65)	%	(0.95)	%
+Fully tax-equivalent efficiency ratio			63.96	%	58.02	%	83.25	%	42.46	%	68.47	%
+Acquisition related costs adjustment			(0.01)	%	—	%	(0.08)	%	(0.12)	%	(0.58)	%
+Provision for unfunded commitments adjustment			(1.09)	%	3.42	%	2.87	%	(1.91)	%	(5.18)	%
+Asset gains (losses), net adjustment			1.12	%	(0.30)	%	(0.11)	%	22.10	%	(0.02)	%
+Branch Sales			0.24	%	1.68	%	—	%	—	%	—	%
+3Q 2020 Initiatives			—	%	—	%	(22.90)	%	—	%	—	%
+Adjusted efficiency ratio			64.21	%	62.83	%	63.02	%	62.53	%	62.70	%
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+Numbers may not sum due to rounding.
+(a)
+The ratio tangible common equity to tangible assets excludes goodwill and other intangible assets, net. This financial measure has been included as it is considered to be a critical metric with which to analyze and evaluate financial condition and capital strength.
+(b)
+These financial measures have been included as they provide meaningful supplemental information to assess trends in the Corporation’s results of operations.
+(c)
+Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings and provide greater understanding of ongoing operations and enhanced comparability of results with prior periods.
+(d)
+These capital measurements are used by management, regulators, investors, and analysts to assess, monitor and compare the quality and composition of our capital with the capital of other financial services companies.
+(e)
+The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains / losses, net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains / losses, net
+. The adjusted efficiency ratio is noninterest expense, which excludes the provision for unfunded commitments, other intangible amortization, acquisition related costs, and 3Q 2020 initiatives, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net, acquisition related costs, asset gains (losses), net, and gain on sale of branches.
+Management believes the adjusted efficiency ratio is a meaningful measure as it enhances the comparability of net interest income arising from taxable and tax-exempt sources and provides a better measure as to how the Corporation is managing its expenses by adjusting for acquisition related costs, provision for unfunded commitments, asset gains (losses), net, branch sales, and 3Q 2020 initiatives.
+8

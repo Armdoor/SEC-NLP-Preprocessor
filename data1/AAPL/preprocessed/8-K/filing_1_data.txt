@@ -43,17 +43,7 @@ FILER:
 		FORMER CONFORMED NAME:	TPI COMPOSITES INC
 		DATE OF NAME CHANGE:	20090206
 
-PAGE NUMBER: 1
 
-?xml version='1.0' encoding='ASCII'?
-Field: Set; Name: xdx; ID: xdx_02D_US%2DGAAP%2D2024
-Field: Set; Name: xdx; ID: xdx_03E_TPIC_tpicomposites.com_20241226
-Field: Set; Name: xdx; ID: xdx_048_20241226_20241226
-Field: Set; Name: xdx; ID: xdx_059_edei%2D%2DAmendmentFlag_false
-Field: Set; Name: xdx; ID: xdx_058_edei%2D%2DEntityCentralIndexKey_0001455684
-Field: Set; Name: xdx; ID: xdx_06B_USD_1_iso4217%2D%2DUSD
-Field: Set; Name: xdx; ID: xdx_062_Shares_2_xbrli%2D%2Dshares
-Field: Set; Name: xdx; ID: xdx_06D_USDPShares_3_iso4217%2D%2DUSD_xbrli%2D%2Dshares
 UNITED STATES
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
@@ -94,15 +84,12 @@ Indicate by check mark whether the registrant is an emerging growth company as d
 Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
-Field: Page; Sequence: 1
-Field: /Page
 Item 2.05	Costs Associated with Exit or Disposal Activities.
 In December 2024, TPI Composites, Inc. (the Company) committed to a restructuring plan in order to rationalize its workforce in Türkiye in response to lower forecasted demand in 2025 for wind blades primarily exported by the Company’s customers to the European market. This decline in forecasted demand is primarily attributed to the hyperinflationary environment in Türkiye, as previously disclosed in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.
 The Company is reducing its headcount at its Turkish manufacturing facilities by approximately 20%. The Company currently estimates that it will recognize pre-tax charges for severance and other one-time termination benefits in the range of $9 million to $11 million. These charges are expected to be paid in January 2025.
 The Company may incur other charges or cash expenditures not currently contemplated due to unanticipated events that may occur as a result of or in connection with the implementation of the restructuring plan. The Company intends to exclude the charges associated with the restructuring plan from its non-GAAP financial measures.
 Forward-Looking Statements
 This Current Report on Form 8-K contains forward-looking statements within the meaning of the federal securities laws. All statements other than statements of historical facts contained in this Current Report on Form 8-K are forward-looking statements. In many cases, you can identify forward-looking statements by terms such as “may,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential” or “continue” or the negative of these terms or other similar words. Forward-looking statements may involve known and unknown risks, uncertainties and other factors that may cause the Company’s actual results, performance or achievements to be materially different from those expressed or implied by the forward-looking statements. These statements include, but are not limited to, the size and scope of the restructuring plan; the number of employee positions that will be affected; the estimate and timing of the charges that we expect to incur in connection with the plan; and the impact on the Company’s financial results. Except as required by law, the Company assumes no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in the forward-looking statements, even if new information becomes available in the future. Further information on factors that could cause the Company’s actual results to differ materially from the results anticipated by the Company’s forward-looking statements is included in the reports the Company has filed with the U.S. Securities and Exchange Commission, including the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2024 and Annual Report on Form 10-K for the year ended December 31, 2023.
-Field: Page; Sequence: 2
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
 	TPI Composites, Inc.
@@ -110,5 +97,3 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, the registr
 Date: December 31, 2024	By:	/s/ Ryan Miller
 		Ryan Miller
 		Chief Financial Officer
-Field: Set; Name: xdx; ID: xdx_08B_extensions
-eJxFjdEKgkAQRb/Afxj2WUq3IvAxsYgsQiJ6XXKMJd2R2a30k/rLNiUaBobh3nOvEKHY0FrXyHBZFTmcsGlr5RAKrJDRXNE70u0uAX8LvGnrWBk3vD8wJc+gZxYTOb96YbA+tcUygVhOZ/FUziFaJnIJx70IvnpKptIlGqdVDcqUcGRqWaNT3I8JJ9WRoaYfqs7IVpPxcZNolN8go1jCgZ7qRXy3kOepCMJhArFherTelXUOzZeErMbG19mR/m/wAQqnSpM=

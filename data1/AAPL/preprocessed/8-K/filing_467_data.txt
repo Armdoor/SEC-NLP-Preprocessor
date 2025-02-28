@@ -42,10 +42,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2019 Workiva
 Document
 
 
@@ -91,7 +88,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 Item 2.02 Results of Operations and Financial Condition.
 On January 2, 2019, Apple Inc. (“Apple”) issued a public letter to investors revising its guidance for its first fiscal quarter ending December 29, 2018. A copy of Apple’s letter is attached hereto as Exhibit 99.1.
@@ -107,7 +103,6 @@ ExhibitNumber		Exhibit Description
 	
 99.1		Letter to investors issued by Apple Inc. on January 2, 2019.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -121,10 +116,7 @@ Date:	January 2, 2019		Apple Inc.
 					Luca Maestri
 					Senior Vice President,Chief Financial Officer
 
-PAGE NUMBER: 1
 
-Document created using Wdesk 1
-Copyright 2019 Workiva
 Exhibit
 Exhibit 99.1
 Letter from Tim Cook to Apple Investors
@@ -156,7 +148,6 @@ Fourth, we expected economic weakness in some emerging markets. This turned out 
 In addition, these and other factors resulted in fewer iPhone upgrades than we had anticipated.
 These last two points have led us to reduce our revenue guidance. I’d like to go a bit deeper on both.
 
-PAGE NUMBER: 2
 
 Emerging Market Challenges
 While we anticipated some challenges in key emerging markets, we did not foresee the magnitude of the economic deceleration, particularly in Greater China. In fact, most of our revenue shortfall to our guidance, and over 100 percent of our year-over-year worldwide revenue decline, occurred in Greater China across iPhone, Mac and iPad.
@@ -174,7 +165,6 @@ Wearables grew by almost 50 percent year-over-year, as Apple Watch and AirPods w
 We also expect to set all-time revenue records in several developed countries, including the United States, Canada, Germany, Italy, Spain, the Netherlands and Korea. And, while we saw challenges in some emerging markets, others set records, including Mexico, Poland, Malaysia and Vietnam.
 Finally, we also expect to report a new all-time record for Apple’s earnings per share.
 
-PAGE NUMBER: 3
 
 Looking Ahead
 Our profitability and cash flow generation are strong, and we expect to exit the quarter with approximately $130 billion in net cash. As we have stated before, we plan to become net-cash neutral over time.
@@ -188,7 +178,6 @@ Tim
 The information presented in this letter is preliminary and our actual results may differ. Apple plans to discuss final results during our first quarter conference call on Tuesday, January 29, 2019 at 2:00 p.m. PST / 5:00 p.m. EST.
 This letter contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about Apple’s estimated revenue, gross margin, operating expenses, other income/(expense), tax rate, net cash, share count and plans for return of capital. These statements involve risks and uncertainties, and actual results may differ. Risks and uncertainties include without limitation: the effect of global and regional economic conditions on Apple’s business, including effects on purchasing decisions by consumers and businesses; the ability of Apple to compete in markets that are highly competitive and subject to rapid technological change; the ability of Apple to manage frequent introductions and transitions of products and services, including delivering to the marketplace, and stimulating customer demand for, new products, services and technological innovations on a timely basis; the effect that shifts in the mix of products and services and in the geographic, currency or channel mix, component cost increases, price competition, or the introduction of new products, including new products with higher cost structures, could have on Apple’s gross margin; the dependency of Apple on the performance of distributors of Apple’s products, including cellular network carriers and other resellers; the inventory and other asset risks associated with Apple’s need to order, or commit to order, product components in advance of customer orders; the continued availability on acceptable terms, or at all, of certain components, services and new technologies essential to Apple’s business, including components and technologies that may only be available from single or limited sources; the dependency of Apple on manufacturing and logistics services provided by third parties, many of which are located outside of the US and which may affect the quality, quantity or cost of products manufactured or services rendered to Apple; the effect of product and services design and manufacturing defects on Apple’s financial performance and reputation; the dependency of Apple on third-party intellectual property and digital content, which may not be available to Apple on commercially reasonable terms or at all; the dependency of Apple on support from third-party software developers to develop and maintain software applications and services for Apple’s products; the impact of unfavorable legal proceedings, such as a potential finding that Apple has infringed on the intellectual property rights of others; the impact of changes to laws and regulations that affect Apple’s activities, including Apple’s ability to offer products or services to customers in different regions; the ability of Apple to manage risks associated with its international activities, including complying with laws and regulations affecting Apple’s international operations; the ability of Apple to manage risks
 
-PAGE NUMBER: 4
 
 associated with Apple’s retail stores; the ability of Apple to manage risks associated with Apple’s investments in new business strategies and acquisitions; the impact on Apple’s business and reputation from information technology system failures, network disruptions or losses or unauthorized access to, or release of, confidential information; the ability of Apple to comply with laws and regulations regarding data protection; the continued service and availability of key executives and employees; political events, international trade disputes, war, terrorism, natural disasters, public health issues, and other business interruptions that could disrupt supply or delivery of, or demand for, Apple’s products; financial risks, including risks relating to currency fluctuations, credit risks and fluctuations in the market value of Apple’s investment portfolio; and changes in tax rates and exposure to additional tax liabilities. More information on these risks and other potential factors that could affect Apple’s financial results is included in Apple’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of Apple’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. Apple assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
 Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch and Apple TV. Apple’s four software platforms — iOS, macOS, watchOS and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay and iCloud. Apple’s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.

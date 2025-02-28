@@ -1,0 +1,318 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "($ in thousands)",
+    "Fair Value Hierarchy",
+    "December 31, 2023",
+    "December 31, 2022"
+  ],
+  [
+    "Assets",
+    "",
+    "",
+    ""
+  ],
+  [
+    "AFS investment securities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "U.S. Treasury securities",
+    "Level 1",
+    "$",
+    "35,902",
+    "",
+    "$",
+    "109,378",
+    ""
+  ],
+  [
+    "Agency securities",
+    "Level 2",
+    "\u2014",
+    "",
+    "13,532",
+    ""
+  ],
+  [
+    "Obligations of state and political subdivisions (municipal securities)",
+    "Level 2",
+    "91,817",
+    "",
+    "230,714",
+    ""
+  ],
+  [
+    "Residential mortgage-related securities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "FNMA/FHLMC",
+    "Level 2",
+    "1,120,794",
+    "",
+    "1,604,610",
+    ""
+  ],
+  [
+    "GNMA",
+    "Level 2",
+    "2,042,675",
+    "",
+    "497,596",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Commercial mortgage-related securities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "FNMA/FHLMC",
+    "Level 2",
+    "16,937",
+    "",
+    "17,142",
+    ""
+  ],
+  [
+    "GNMA",
+    "Level 2",
+    "154,793",
+    "",
+    "110,462",
+    ""
+  ],
+  [
+    "Asset backed securities:",
+    "",
+    "",
+    ""
+  ],
+  [
+    "FFELP",
+    "Level 2",
+    "133,975",
+    "",
+    "151,191",
+    ""
+  ],
+  [
+    "SBA",
+    "Level 2",
+    "1,051",
+    "",
+    "4,477",
+    ""
+  ],
+  [
+    "Other debt securities",
+    "Level 2",
+    "2,950",
+    "",
+    "2,922",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Total AFS investment securities",
+    "Level 1",
+    "$",
+    "35,902",
+    "",
+    "$",
+    "109,378",
+    ""
+  ],
+  [
+    "Total AFS investment securities",
+    "Level 2",
+    "3,564,990",
+    "",
+    "2,632,647",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Equity securities with readily determinable fair values",
+    "Level 1",
+    "6,883",
+    "",
+    "5,991",
+    ""
+  ],
+  [
+    "Residential loans held for sale",
+    "Level 2",
+    "33,011",
+    "",
+    "20,383",
+    ""
+  ],
+  [
+    "Mortgage servicing rights, net",
+    "Level 3",
+    "84,390",
+    "",
+    "77,351",
+    ""
+  ],
+  [
+    "Interest rate-related instruments designated as hedging instruments(a)",
+    "Level 2",
+    "8,075",
+    "",
+    "4,349",
+    ""
+  ],
+  [
+    "Foreign currency exchange forwards designated as hedging instruments(a)",
+    "Level 2",
+    "632",
+    "",
+    "416",
+    ""
+  ],
+  [
+    "Interest rate-related and other instruments not designated as hedging instruments(a)",
+    "Level 2",
+    "111,623",
+    "",
+    "62,401",
+    ""
+  ],
+  [
+    "Foreign currency exchange forwards not designated as hedging instruments(a)",
+    "Level 2",
+    "2,954",
+    "",
+    "437",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Interest rate lock commitments to originate residential mortgage loans held for sale",
+    "Level 3",
+    "439",
+    "",
+    "86",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Liabilities",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Interest rate-related instruments designated as hedging instruments(a)",
+    "Level 2",
+    "$",
+    "930",
+    "",
+    "$",
+    "1,260",
+    ""
+  ],
+  [
+    "Foreign currency exchange forwards designated as hedging instruments(a)",
+    "Level 2",
+    "2,946",
+    "",
+    "972",
+    ""
+  ],
+  [
+    "Interest rate-related and other instruments not designated as hedging instruments(a)",
+    "Level 2",
+    "195,662",
+    "",
+    "251,398",
+    ""
+  ],
+  [
+    "Foreign currency exchange forwards not designated as hedging instruments(a)",
+    "Level 2",
+    "2,746",
+    "",
+    "402",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Forward commitments to sell residential mortgage loans",
+    "Level 3",
+    "673",
+    "",
+    "46",
+    ""
+  ]
+]

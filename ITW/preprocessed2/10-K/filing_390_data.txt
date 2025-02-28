@@ -1,0 +1,623 @@
+0000049826-20-000020.hdr.sgml : 20200214
+20200214151614
+ACCESSION NUMBER:		0000049826-20-000020
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		117
+CONFORMED PERIOD OF REPORT:	20191231
+FILED AS OF DATE:		20200214
+DATE AS OF CHANGE:		20200214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		20618598
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+
+Exhibit
+Exhibit 4(j)
+Description of the Company’s Common Stock
+Registered Pursuant to Section 12
+of the Securities Exchange Act of 1934
+The following description of the Company’s capital stock is intended as a summary only. This description is based upon, and is qualified by reference to, the Company’s Amended and Restated Certificate of Incorporation (“certificate of incorporation”) and By-laws, each as filed with the Company’s Annual Report on Form 10-K, and the applicable provisions of Delaware corporation law.
+General
+As of January 31, 2020, the authorized capital stock of Illinois Tool Works Inc. (“ITW”) consists of 700,000,000 shares of common stock, par value $0.01 per share, and 300,000 shares of preferred stock, no par value. As of January 31, 2020, there were 318,864,237 shares of common stock issued and outstanding. No preferred stock is issued and outstanding.
+Common Stock
+Holders of common stock are entitled to one vote for each share held of record, in person or by proxy, at all meetings of the stockholders and on all propositions presented to such meetings (other than the election of any directors who may be elected by vote of the preferred stock voting as a class). The common stock does not entitle holders to cumulative voting rights in the election of directors. Holders of common stock do not have preemptive rights.
+All outstanding shares of common stock are fully paid and nonassessable. Dividends may be paid on the common stock when and if declared by the Board of Directors out of funds legally available therefor. Upon liquidation, dissolution, or winding up of the affairs of ITW, its assets remaining, after provision for payment of creditors and holders of any preferred stock, are distributable pro rata among holders of its common stock.
+The common stock is listed and traded on the NYSE under the symbol “ITW.” The transfer agent and registrar of the common stock is Broadridge Corporate Issuer Solutions, Inc., Philadelphia, PA.
+Preferred Stock
+ITW’s preferred stock is issuable in series. The preferred stock is senior to the common stock, both as to payment of dividends and distribution of assets. The designation, preferences and rights of each series may be established by the Board of Directors, including voting rights, dividends, redemption features, payments on liquidation and sinking fund provisions, if any. The preferred stock may be utilized for a variety of corporate purposes, including future public offerings to raise additional capital or to finance acquisitions. The preferred stock also could be issued to persons friendly to current management with terms that could render more difficult or discourage attempts to gain control of ITW by means of a merger, tender offer, proxy contest or otherwise and thereby protect the continuity of current management. The preferred stock also could be used to dilute the stock ownership of persons seeking to obtain control of ITW.
+Special Charter and By-law Provisions
+ITW’s Amended and Restated Certificate of Incorporation and By-laws, as amended and restated, contain provisions that could render more difficult a merger, tender offer, proxy contest or attempt to gain control of the Board of Directors. The Amended and Restated Certificate of Incorporation prohibits stockholder action by written consent. The Amended and Restated Certificate of Incorporation and By-laws permit only the Board of Directors to fill vacancies on the Board of Directors, whether created by an increase in the number of directors or otherwise, and permit special meetings of stockholders to be called only by the chairman, the president or a majority of the Board of Directors, or, subject to procedural requirements set forth in the By‑laws, by stockholders that own at least 20%
+
+
+of the Company’s outstanding common stock. The By-laws provide advance notice procedures for stockholders seeking to bring business before an annual meeting of stockholders or to nominate candidates for election as directors at any meeting of stockholders. Under the By-laws, up to 20 stockholders owning at least 3% of the Company’s outstanding common stock for at least 3 years may include nominations in the Company’s proxy materials for up to the greater of 25% of the Board of Directors or 2 directors, provided the stockholder(s) and nominee(s) satisfy the requirements specified in the By-laws. The By-laws also specify certain requirements regarding the form and content of a stockholder’s notice.
+
+
+Exhibit
+Exhibit 4(k)
+Description of 1.75% Euro Notes due 2022 and 3.00% Euro Notes due 2034
+Registered Pursuant to Section 12
+of the Securities Exchange Act of 1934
+The following summary of the Company’s above referenced debt securities, each issued as a separate class thereof, is based on and qualified by the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between Illinois Tool Works and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”), and the 1.75% Euro Notes due 2022 and the 3.00% Euro Notes due 2034 (collectively, the “Notes”). For a complete description of the terms and provisions of the Notes, refer to the Indenture and to the Officers’ Certificate establishing the terms, and setting forth the forms, of the Notes, each of which is filed as an exhibit to this Annual Report on Form 10-K. Throughout this exhibit, references to “we,” “our,” and “us” refer to Illinois Tool Works Inc.
+General
+On May 12, 2014, we registered €500,000,000 aggregate principal amount of 1.750% notes due 2022 (the “2022 notes”) and €500,000,000 aggregate principal amount of 3.000% notes due 2034 (the “2034 notes,” and together with the 2022 notes referred to in this section, the “notes”). The notes were issued each as a separate series of debt securities under the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between us and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”).
+The 2022 notes are traded on the New York Stock Exchange under the symbol “ITW22.” The 2034 notes are traded on the New York Stock Exchange under the symbol “ITW34.”
+We have issued a significant amount of other debt securities under the Indenture that have neither been registered pursuant to Section 12 of the Securities Exchange Act of 1934 nor listed on the NYSE. You should refer to our description of the amount of debt outstanding as disclosed in our Annual Report on Form 10-K and in other filings with the Securities and Exchange Commission.
+Ranking
+The notes are our direct, unsecured obligations. They rank equally with all of our other unsecured and unsubordinated indebtedness from time to time outstanding. The notes are effectively subordinated to all of our existing and future secured indebtedness to the extent of the value of the collateral securing such indebtedness and structurally subordinated to all of the existing and future indebtedness and other liabilities of our subsidiaries.
+Payments in Euros
+All payments of interest and principal, including payments made upon any redemption of the notes, will be payable in euros. If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. In such circumstances, the amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default under the notes or the indenture governing the notes. Neither the trustee nor the paying agent shall have any responsibility for any calculation or conversion in connection with the foregoing.
+Investors are subject to foreign exchange risks as to payments of principal and interest that may have important economic and tax consequences to them.
+
+
+Principal, Interest Payments and Maturity
+The 2022 notes are limited to €500,000,000 aggregate principal amount and will mature on May 20, 2022. The 2034 notes are limited to €500,000,000 aggregate principal amount and will mature on May 19, 2034.
+The notes of each series will bear interest at a rate of 1.750% and 3.000%, respectively, accruing from May 20, 2014 or the most recent interest payment date to which interest has been paid or provided for. We pay interest on the 2022 notes annually in arrears on May 20 of each year, beginning on May 20, 2015, and we pay interest on the 2034 notes annually in arrears on May 19 of each year, beginning on May 19, 2015, in each case, to persons in whose names the notes are registered at the close of business on the preceding May 1. With respect to each series of notes, we compute the amount of interest payable on the basis of (i) the actual number of days in the period for which interest is being calculated and (ii) the actual number of days from (and including) the last date on which interest was paid on the notes of such series (or May 20, 2014, if no interest has been paid on the notes of such series) to (but excluding) the next scheduled interest payment date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Market Association.
+The notes may be registered for transfer or exchanged without payment of any charge (other than any tax or other governmental charge payable in connection therewith).
+The notes do not have the benefit of any sinking fund and are not convertible or exchangeable.
+Optional Redemption
+We may redeem the notes of each series, in whole or in part, on any date that is not less than three months prior to the stated maturity thereof, at our option, at a redemption price (calculated by us) equal to the greater of:
+(1) 100% of the principal amount of the notes to be redeemed; or
+(2) the sum of the present values of the Remaining Scheduled Payments (as defined below) of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued as of the date of redemption) discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below) plus 15 basis points plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+At any time on or after the date that is three months prior to the maturity date of the 2022 notes or the 2034 notes, as applicable, we may also redeem some or all of the maturing notes, at our option, at a redemption price equal to 100% of the principal amount of the applicable notes being redeemed plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+“Comparable Government Bond Rate” means, with respect to any redemption date, the price, expressed as a percentage (rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the notes to be redeemed, if they were to be purchased at such price on the third business day prior to the date fixed for redemption, would be equal to the gross redemption yield on such business day of the Comparable Government Bond (as defined below) on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such business day as determined by an independent investment bank selected by us.
+“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an independent investment bank selected by us, a German government bond whose maturity is closest to the maturity of the notes to be redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by us, determine to be appropriate for determining the Comparable Government Bond Rate.
+
+
+“Remaining Scheduled Payments” means, with respect to each note to be redeemed, the remaining scheduled payments of the principal thereof and interest thereon that would be due after the related redemption date but for such redemption; provided, however, that, if such redemption date is not an interest payment date with respect to such note, the amount of the next succeeding scheduled interest payment thereon will be deemed to be reduced by the amount of interest accrued thereon to such redemption date.
+We will, or will cause the trustee on our behalf to, mail notice of a redemption to holders of the applicable notes to be redeemed by first-class mail (or otherwise transmit in accordance with applicable procedures of Euroclear/Clearstream) at least 30 and not more than 60 days prior to the date fixed for redemption. Unless we default in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the applicable notes or portions thereof called for redemption. On or before the redemption date, we will deposit with the paying agent or set aside, segregate and hold in trust (if we are acting as paying agent), funds sufficient to pay the redemption price of, and accrued and unpaid interest on, such notes to be redeemed on that redemption date. If fewer than all of the notes of the applicable series are to be redeemed, the trustee will select, not more than 60 days prior to the redemption date, the particular notes of such series or portions thereof for redemption from the outstanding notes of such series not previously called by such method as the trustee deems fair and appropriate and in accordance with the applicable procedures of the depositary; provided, however, that no notes of a principal amount of €100,000 or less shall be redeemed in part.
+Payment of Additional Amounts
+All payments of principal and interest on the notes by us are made free and clear of and without withholding or deduction for or on account of any present or future tax, assessment or other governmental charge imposed by the United States (or any political subdivision or taxing authority thereof or therein having power to tax) (a “Relevant Taxing Jurisdiction”), unless the withholding of such taxes, assessments or other governmental charge is required by law or the official interpretation or administration thereof. Subject to the exceptions and limitations set forth below, we pay as additional interest on notes such additional amounts (the “additional amounts”) as are necessary in order that the net payment by us of the principal of and interest on such notes to a holder who is not a United States person (as defined below), after withholding or deduction for any present or future tax, assessment or other governmental charge imposed by any Relevant Taxing Jurisdiction, will not be less than the amount provided in such notes to be then due and payable; provided, however, that the foregoing obligation to pay additional amounts shall not apply:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page3_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page3_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page3_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page3_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page3_table4.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page4_table9.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page5_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page5_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page5_table2.json]
+The notes are subject in all cases to any tax, fiscal or other law or regulation or administrative or judicial interpretation applicable to the notes. Except as specifically provided under this heading “—Payment of Additional Amounts,” we will not be required to make any payment for any tax, assessment or other governmental charge imposed by any government or a political subdivision or taxing authority of or in any government or political subdivision.
+As used under this heading “—Payment of Additional Amounts” and under the heading “—Redemption for Tax Reasons,” the term “United States” means the United States of America, the states of the United States, and the District of Columbia, and the term “United States person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia, or any estate or trust the income of which is subject to United States federal income taxation regardless of its source.
+Redemption for Tax Reasons
+If, (a) as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of any Relevant Taxing Jurisdiction, or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings (including by virtue of a holding, judgment or order by a court of competent jurisdiction or a change in published administrative practice), which change or amendment is announced or becomes effective on or after the date of this prospectus supplement, we become or, based on a written opinion of independent counsel selected by us, are likely to become obligated to pay additional amounts as described herein under the heading “—Payment of Additional Amounts” with respect to the notes of either series, or (b) any act is taken by a Relevant Taxing Jurisdiction on or after the date of this prospectus supplement whether or not such act is taken with respect to us or any affiliate, that results in us being required or, based upon a written opinion of independent counsel selected by us, being likely to be required to pay such additional amounts, then we may at any time at our option redeem, in whole, but not in part, the notes of such series on not less than 15 nor more than 60 days’ prior notice, at a redemption price equal to 100% of their principal amount, together with accrued and unpaid interest on the notes being redeemed to, but excluding, the redemption date.
+Covenants
+The following covenants apply to the notes. Each of the covenants is subject to the provision for exempted indebtedness described below.
+For your reference, we have provided below definitions of the capitalized terms used in the description of the covenants.
+
+
+Limitation on Liens
+We will not, nor will we permit any Restricted Subsidiary to, issue, assume or guarantee any debt for money borrowed if such debt is secured by a mortgage, security interest, lien, pledge or other encumbrance (referred to in this prospectus supplement as a “lien”) on any Principal Property, or on any shares of stock or indebtedness of any Restricted Subsidiary, without in any such case effectively providing that the notes (and if we so choose, any other debt or obligation that ranks equally with the notes) are secured equally and ratably with, or prior to, such debt. These restrictions do not apply to debt secured by:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table7.json]
+Limitation on Sale and Lease-Back
+We will not, nor will we permit any Restricted Subsidiary to, engage in a sale and lease-back transaction of any Principal Property (except for certain temporary leases and leases with a Restricted Subsidiary) unless:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page6_table9.json]
+Exempted Indebtedness
+We and our Restricted Subsidiaries may incur debt and enter into sale and lease-back transactions without regard to the two covenants described above if the sum of such debt and the value of such sale and lease-back transactions on a cumulative basis does not exceed 10% of the Consolidated Net Tangible Assets (which is total assets less current liabilities, goodwill and other intangibles) as shown on our audited consolidated balance sheet in our latest annual report to our stockholders.
+
+
+Definitions
+“Principal Property” means any manufacturing plant or other facility within the United States that we or a subsidiary own or lease, unless our Board of Directors determines that the plant or facility, together with any others so determined, is not of material importance to the total business of us and our Restricted Subsidiaries.
+“Restricted Subsidiary” means any subsidiary (other than a subsidiary principally engaged in leasing or financing installment receivables or financing operations outside the United States) that owns or leases a Principal Property if:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table2.json]
+Consolidation or Merger
+Under the terms of the indenture, we may consolidate or merge with another corporation or sell, convey or lease all or substantially all of our assets to another corporation or entity. The successor or acquiring corporation or entity must expressly assume all of our responsibilities and liabilities under the indenture, including the payment of all amounts due on the notes and performance of the covenants (it being understood that any obligation to pay Additional Amounts shall be determined
+mutatis mutandis
+, by treating the jurisdiction under the laws of which such successor or acquiring corporation or entity is organized and any political subdivision or taxing authority as therein having the power to tax, as a Relevant Taxing Jurisdiction). If, upon any such consolidation, merger, sale, conveyance or lease, or upon any such consolidation, merger, sale, conveyance or lease with respect to a Restricted Subsidiary, any Principal Property or shares of stock or indebtedness of a Restricted Subsidiary would become subject to a lien that is not in favor of us, a Restricted Subsidiary or any such successor or acquiring corporation or entity, we must, before or at the time of such transaction, effectively provide that the notes will be secured (if we so choose, equally and ratably with any other obligation of us or a Restricted Subsidiary that ranks equally with the notes) by a direct lien on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary that is prior to all liens other than pre-existing liens on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary, and that will continue as long as such Principal Property, shares of stock or indebtedness is subject to the lien arising in such transaction.
+Events of Default
+An event of default for any series of the notes includes the following:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page7_table6.json]
+
+
+An event of default with respect to a particular series of notes issued under the indenture does not necessarily constitute an event of default with respect to any other series. The indenture provides that the trustee will, with certain exceptions, notify the holders of the affected series of notes of the occurrence of any of the events of default listed above (not including any applicable grace period and irrespective of the giving of notice as described in the third bullet) known to the trustee within 90 days after the occurrence thereof. Except in the case of a default in the payment of principal of, or premium, if any, or interest on a series of the notes, the trustee may withhold notice if it determines in good faith that withholding notice is in the interest of the holders.
+If an event of default is continuing for any series of the notes, the trustee or the holders of not less than 25% in aggregate principal amount of the affected series of notes then outstanding may declare the principal amount of that series of the notes to be due and payable immediately. In such a case, subject to certain conditions, the holders of a majority in aggregate principal amount of that series of the notes then outstanding can annul the declaration and waive past defaults.
+We are required to provide an annual officers’ certificate to the trustee concerning our compliance with certain covenants we make in the indenture. Subject to the provisions of the indenture relating to the duties of the trustee, the trustee is not obligated to exercise any of its rights or powers at the request or direction of any of the holders of notes unless the holders have offered the trustee security or indemnity reasonably satisfactory to the trustee. The holders of a majority in principal amount of the outstanding notes of each series affected by an event of default may direct the time, method and place of conducting any proceeding for any remedy available to the trustee under the indenture or exercising any of the trustee’s trusts or powers with respect to that series of the notes; however, the trustee may decline to follow such direction in certain circumstances.
+If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. The amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default. Neither the trustee nor the paying agent shall have any responsibility for effecting such currency conversions.
+Modification and Amendment of the Indenture
+We may enter into supplemental indentures with the trustee without the consent of the holders of the notes to, among other things:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page8_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page8_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page8_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.K_page8_table3.json]
+With the consent of the holders of a majority in aggregate principal amount of the notes of each affected series issued under the indenture at the time outstanding, we may execute supplemental indentures with the trustee to add provisions or change or eliminate any provision of the indenture or any supplemental indenture relating to such series or to modify the rights of the holders of those notes. However, no such supplemental indenture will (1) extend the fixed maturity of any notes, reduce the principal amount (including in the case of discounted notes the amount payable upon acceleration of the maturity thereof), reduce the rate or extend the time of payment of any interest, reduce any premium payable upon redemption, or change the currency in which any notes are payable, without the
+
+
+consent of each holder of affected notes, or (2) reduce the aforesaid majority in principal amount of the notes of any series, the consent of the holders of which is required for any such supplemental indenture, without the consent of the holders of all notes of such series.
+Defeasance and Discharge of Indenture or Certain Obligations; Satisfaction and Discharge
+At our option, we (1) will be discharged from all obligations under the indenture in respect of the notes of a series (except for certain obligations to register the transfer of or to exchange such notes, replace stolen, lost or mutilated notes, maintain paying agencies and hold monies for payment in trust) or (2) need not comply with certain covenants of the indenture that are applicable to each series of notes (including the limitation on liens and the limitation on sale and lease-back) and will not be limited by the restrictions in the indenture with respect to merger, consolidation or sale, conveyance or lease of substantially all of our assets, in each case if we irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due and satisfy other conditions in the indenture. In order to select either option, we must provide the trustee, among other things, an opinion of counsel based on a ruling from or published by the Internal Revenue Service (in the case of option (1)), or an opinion of counsel (in the case of option (2)), in each case to the effect that beneficial owners of the applicable notes will not recognize income, gain or loss for U.S. federal income tax purposes as a result of our exercise of the option, and will be subject to U.S. federal income tax on the same amounts and in the same manner and at the same times as if we had not exercised such option.
+In the event we exercise our option under (2) above with respect to any series of notes and the notes of such series are declared due and payable because of the occurrence of any event of default other than default with respect to such obligations, the amount of money and Federal Republic of Germany obligations on deposit with the trustee will be sufficient to pay amounts due on the notes of that series at the time of their stated maturity but may not be sufficient to pay amounts due on the notes of that series at the time of the acceleration resulting from such event of default. We would remain liable, however, for such payments.
+In addition to the foregoing, at our option, we will be discharged from all our obligations under the indenture (except for certain obligations to register the transfer of or to exchange such notes and provide compensation and reimbursement of expenses to the trustee) in respect of the notes of a series of which all of the notes have been delivered to the trustee for cancellation (other than destroyed, lost or stolen notes that have been replaced or paid) or that have matured or will mature or be redeemed within one year (where arrangements satisfactory to the trustee for giving notice of redemption have been made), if we, among other things, irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due.
+“Federal Republic of Germany obligations” means direct noncallable obligations of the Federal Republic of Germany, noncallable obligations the payment of the principal of and interest on which is fully guaranteed by the Federal Republic of Germany, and noncallable obligations on which the full faith and credit of the Federal Republic of Germany is pledged to the payment of the principal thereof and interest thereon.
+Governing Law
+The indenture and the notes will be governed by, and construed and enforced in accordance with, the laws of the State of Illinois applicable to agreements made or instruments entered into and, in each case, performed in said state.
+Relationship with Trustee
+The Bank of New York Mellon Trust Company, N.A. currently serves as the trustee with respect to certain of our other outstanding debt securities.
+
+
+Open Market Purchases
+We may at any time and from time to time purchase notes in the open market or otherwise.
+
+
+Exhibit
+Exhibit 4(l)
+Description of 1.25% Euro Notes due 2023 and 2.125% Euro Notes due 2030
+Registered Pursuant to Section 12
+of the Securities Exchange Act of 1934
+The following summary of the Company’s above referenced debt securities, each issued as a separate class thereof, is based on and qualified by the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between Illinois Tool Works Inc. and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”), and the
+1.25% Euro Notes due 2023 and the 2.125% Euro Notes due 2030 (collectively, the “Notes”)
+.
+For a complete description of the terms and provisions of the Notes, refer to the Indenture and to the Officers’ Certificate establishing the terms, and setting forth the forms, of the Notes, each of, which is filed as an exhibit to this Annual Report on Form 10-K. Throughout this exhibit, references to “we,” “our,” and “us” refer to Illinois Tool Works Inc.
+General
+On May 19, 2015, we registered
+€500,000,000 aggregate principal amount of 1.250% notes due 2023 (the “2023 notes”) and €500,000,000 aggregate principal amount of 2.125% notes due 2030 (the “2030 notes,” and together with the 2023 notes referred to in this section, the “notes”). The notes were issued each as a separate series of debt securities under the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between us and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”).
+The 2023 notes are traded on the New York Stock Exchange under the symbol “ITW23.” The 2030 notes are traded on the New York Stock Exchange under the symbol “ITW30.”
+We have issued a significant amount of other debt securities under the Indenture that have neither been registered pursuant to Section 12 of the Securities Exchange Act of 1934 nor listed on the NYSE. You should refer to our description of the amount of debt outstanding as disclosed in our Annual Report on Form 10-K and in other filings with the Securities and Exchange Commission.
+Ranking
+The notes are our direct, unsecured obligations. They rank equally with all of our other unsecured and unsubordinated indebtedness from time to time outstanding. The notes are effectively subordinated to all of our existing and future secured indebtedness to the extent of the value of the collateral securing such indebtedness and structurally subordinated to all of the existing and future indebtedness and other liabilities of our subsidiaries.
+Payments in Euros
+All payments of interest and principal, including payments made upon any redemption of the notes, will be payable in euros. If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. In such circumstances, the amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default under the notes or the indenture governing the notes. Neither the trustee nor the paying agent shall have any responsibility for any calculation or conversion in connection with the foregoing.
+Investors are subject to foreign exchange risks as to payments of principal and interest that may have important economic and tax consequences to them.
+
+
+Principal, Interest Payments and Maturity
+The 2023 notes are limited to €500,000,000 aggregate principal amount and will mature on May 22, 2023. The 2030 notes are limited to €500,000,000 aggregate principal amount and will mature on May 22, 2030.
+The notes of each series bear interest at a rate of 1.25% and 2.125%, respectively, accruing from May 22, 2015 or the most recent interest payment date to which interest has been paid or provided for. We pay interest on the notes annually in arrears on May 22 of each year, beginning on May 22, 2016, to persons in whose names the notes are registered at the close of business on the preceding May 1. With respect to each series of notes, we compute the amount of interest payable on the basis of (i) the actual number of days in the period for which interest is being calculated and (ii) the actual number of days from (and including) the last date on which interest was paid on the notes of such series (or May 22, 2015, if no interest has been paid on the notes of such series) to (but excluding) the next scheduled interest payment date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Market Association.
+The notes may be registered for transfer or exchanged without payment of any charge (other than any tax or other governmental charge payable in connection therewith).
+The notes do not have the benefit of any sinking fund and are not convertible or exchangeable.
+Optional Redemption
+We may redeem the notes of each series, in whole or in part, on any date that is not less than three months prior to the stated maturity thereof, at our option, at a redemption price (calculated by us) equal to the greater of:
+(1) 100% of the principal amount of the notes to be redeemed; or
+(2) the sum of the present values of the Remaining Scheduled Payments (as defined below) of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued as of the date of redemption) discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below) plus 15 basis points for the 2023 notes and 25 basis points for the 2030 notes, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+At any time on or after the date that is three months prior to the maturity date of the 2023 notes or the 2030 notes, if applicable, we may also redeem some or all of the maturing 2023 notes or 2030 notes, as applicable, at our option, at a redemption price equal to 100% of the principal amount of the applicable notes being redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+“Comparable Government Bond Rate” means, with respect to any redemption date, the price, expressed as a percentage (rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the notes to be redeemed, if they were to be purchased at such price on the third business day prior to the date fixed for redemption, would be equal to the gross redemption yield on such business day of the Comparable Government Bond (as defined below) on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such business day as determined by an independent investment bank selected by us.
+“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an independent investment bank selected by us, a German government bond whose maturity is closest to the maturity of the notes to be redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by us, determine to be appropriate for determining the Comparable Government Bond Rate.
+
+
+“Remaining Scheduled Payments” means, with respect to each note to be redeemed, the remaining scheduled payments of the principal thereof and interest thereon that would be due after the related redemption date but for such redemption; provided, however, that, if such redemption date is not an interest payment date with respect to such note, the amount of the next succeeding scheduled interest payment thereon will be deemed to be reduced by the amount of interest accrued thereon to such redemption date.
+We will, or will cause the trustee on our behalf to, mail notice of a redemption to holders of the applicable notes to be redeemed by first-class mail (or otherwise transmit in accordance with applicable procedures of Euroclear/Clearstream) at least 30 and not more than 60 days prior to the date fixed for redemption. Unless we default in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the applicable notes or portions thereof called for redemption. On or before the redemption date, we will deposit with the paying agent or set aside, segregate and hold in trust (if we are acting as paying agent), funds sufficient to pay the redemption price of, and accrued and unpaid interest on, such notes to be redeemed on that redemption date. If fewer than all of the notes of the applicable series are to be redeemed, the trustee will select, not more than 60 days prior to the redemption date, the particular notes of such series or portions thereof for redemption from the outstanding notes of such series not previously called by such method as the trustee deems fair and appropriate and in accordance with the applicable procedures of the depositary; provided, however, that no notes of a principal amount of €100,000 or less shall be redeemed in part.
+Payment of Additional Amounts
+All payments of principal and interest on the notes by us are made free and clear of and without withholding or deduction for or on account of any present or future tax, assessment or other governmental charge imposed by the United States (or any political subdivision or taxing authority thereof or therein having power to tax) (a “Relevant Taxing Jurisdiction”), unless the withholding of such taxes, assessments or other governmental charge is required by law or the official interpretation or administration thereof. Subject to the exceptions and limitations set forth below, we pay as additional interest on notes such additional amounts (the “additional amounts”) as are necessary in order that the net payment by us of the principal of and interest on such notes to a holder who is not a United States person (as defined below), after withholding or deduction for any present or future tax, assessment or other governmental charge imposed by any Relevant Taxing Jurisdiction, will not be less than the amount provided in such notes to be then due and payable; provided, however, that the foregoing obligation to pay additional amounts shall not apply:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page3_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page3_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page3_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page3_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page3_table4.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page4_table8.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page5_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page5_table1.json]
+The notes are subject in all cases to any tax, fiscal or other law or regulation or administrative or judicial interpretation applicable to the notes. Except as specifically provided under this heading “— Payment of Additional Amounts,” we will not be required to make any payment for any tax, assessment or other governmental charge imposed by any government or a political subdivision or taxing authority of or in any government or political subdivision.
+As used under this heading “— Payment of Additional Amounts” and under the heading “— Redemption for Tax Reasons,” the term “United States” means the United States of America, the states of the United States, and the District of Columbia, and the term “United States person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia, or any estate the income of which is subject to United States federal income taxation regardless of its source, or a trust that (1) is subject to the primary supervision of a United States court and the control of one or more “United States persons” (within the meaning of section 7701(a)(30) of the Code), or (2) has a valid election in effect to be treated as a United States person for U.S. federal income tax purposes.
+Redemption for Tax Reasons
+If, (a) as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of any Relevant Taxing Jurisdiction, or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings (including by virtue of a holding, judgment or order by a court of competent jurisdiction or a change in published administrative practice), which change or amendment is announced or becomes effective on or after the date of this prospectus supplement, we become or, based on a written opinion of independent counsel selected by us, are likely to become obligated to pay additional amounts as described herein under the heading “— Payment of Additional Amounts” with respect to the notes of either series, or (b) any act is taken by a Relevant Taxing Jurisdiction on or after the date of this prospectus supplement whether or not such act is taken with respect to us or any affiliate, that results in us being required or, based upon a written opinion of independent counsel selected by us, being likely to be required to pay such additional amounts, then we may at any time at our option redeem, in whole, but not in part, the notes of such series on not less than 15 nor more than 60 days’ prior notice, at a redemption price equal to 100% of their principal amount, together with accrued and unpaid interest on the notes being redeemed to, but excluding, the redemption date.
+Covenants
+The following covenants apply to the notes. Each of the covenants is subject to the provision for exempted indebtedness described below.
+For your reference, we have provided below definitions of the capitalized terms used in the description of the covenants.
+Limitation on Liens
+We will not, nor will we permit any Restricted Subsidiary to, issue, assume or guarantee any debt for money borrowed if such debt is secured by a mortgage, security interest, lien, pledge or other encumbrance (referred
+
+
+to in this prospectus supplement as a “lien”) on any Principal Property, or on any shares of stock or indebtedness of any Restricted Subsidiary, without in any such case effectively providing that the notes (and if we so choose, any other debt or obligation that ranks equally with the notes) are secured equally and ratably with, or prior to, such debt. These restrictions do not apply to debt secured by:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table7.json]
+Limitation on Sale and Lease-Back
+We will not, nor will we permit any Restricted Subsidiary to, engage in a sale and lease-back transaction of any Principal Property (except for certain temporary leases and leases with a Restricted Subsidiary) unless:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page6_table9.json]
+Exempted Indebtedness
+We and our Restricted Subsidiaries may incur debt and enter into sale and lease-back transactions without regard to the two covenants described above if the sum of such debt and the value of such sale and lease-back transactions on a cumulative basis does not exceed 10% of the Consolidated Net Tangible Assets (which is total assets less current liabilities, goodwill and other intangibles) as shown on our audited consolidated balance sheet in our latest annual report to our stockholders.
+
+
+Definitions
+“Principal Property” means any manufacturing plant or other facility within the United States that we or a subsidiary own or lease, unless our Board of Directors determines that the plant or facility, together with any others so determined, is not of material importance to the total business of us and our Restricted Subsidiaries.
+“Restricted Subsidiary” means any subsidiary (other than a subsidiary principally engaged in leasing or financing installment receivables or financing operations outside the United States) that owns or leases a Principal Property if:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table2.json]
+Consolidation or Merger
+Under the terms of the indenture, we may consolidate or merge with another corporation or sell, convey or lease all or substantially all of our assets to another corporation or entity. The successor or acquiring corporation or entity must expressly assume all of our responsibilities and liabilities under the indenture, including the payment of all amounts due on the notes and performance of the covenants (it being understood that any obligation to pay Additional Amounts shall be determined mutatis mutandis, by treating the jurisdiction under the laws of which such successor or acquiring corporation or entity is organized and any political subdivision or taxing authority as therein having the power to tax, as a Relevant Taxing Jurisdiction). If, upon any such consolidation, merger, sale, conveyance or lease, or upon any such consolidation, merger, sale, conveyance or lease with respect to a Restricted Subsidiary, any Principal Property or shares of stock or indebtedness of a Restricted Subsidiary would become subject to a lien that is not in favor of us, a Restricted Subsidiary or any such successor or acquiring corporation or entity, we must, before or at the time of such transaction, effectively provide that the notes will be secured (if we so choose, equally and ratably with any other obligation of us or a Restricted Subsidiary that ranks equally with the notes) by a direct lien on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary that is prior to all liens other than pre-existing liens on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary, and that will continue as long as such Principal Property, shares of stock or indebtedness is subject to the lien arising in such transaction.
+Events of Default
+An event of default for any series of the notes includes the following:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page7_table6.json]
+
+
+An event of default with respect to a particular series of notes issued under the indenture does not necessarily constitute an event of default with respect to any other series. The indenture provides that the trustee will, with certain exceptions, notify the holders of the affected series of notes of the occurrence of any of the events of default listed above (not including any applicable grace period and irrespective of the giving of notice as described in the third bullet) known to the trustee within 90 days after the occurrence thereof. Except in the case of a default in the payment of principal of, or premium, if any, or interest on a series of the notes, the trustee may withhold notice if it determines in good faith that withholding notice is in the interest of the holders.
+If an event of default is continuing for any series of the notes, the trustee or the holders of not less than 25% in aggregate principal amount of the affected series of notes then outstanding may declare the principal amount of that series of the notes to be due and payable immediately. In such a case, subject to certain conditions, the holders of a majority in aggregate principal amount of that series of the notes then outstanding can annul the declaration and waive past defaults.
+We are required to provide an annual officers’ certificate to the trustee concerning our compliance with certain covenants we make in the indenture. Subject to the provisions of the indenture relating to the duties of the trustee, the trustee is not obligated to exercise any of its rights or powers at the request or direction of any of the holders of notes unless the holders have offered the trustee security or indemnity reasonably satisfactory to the trustee. The holders of a majority in principal amount of the outstanding notes of each series affected by an event of default may direct the time, method and place of conducting any proceeding for any remedy available to the trustee under the indenture or exercising any of the trustee’s trusts or powers with respect to that series of the notes; however, the trustee may decline to follow such direction in certain circumstances.
+If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. The amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default. Neither the trustee nor the paying agent shall have any responsibility for effecting such currency conversions.
+Modification and Amendment of the Indenture
+We may enter into supplemental indentures with the trustee without the consent of the holders of the notes to, among other things:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page8_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page8_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page8_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.L_page8_table3.json]
+With the consent of the holders of a majority in aggregate principal amount of the notes of each affected series issued under the indenture at the time outstanding, we may execute supplemental indentures with the trustee to add provisions or change or eliminate any provision of the indenture or any supplemental indenture relating to such series or to modify the rights of the holders of those notes. However, no such supplemental indenture will (1) extend the fixed maturity of any notes, reduce the principal amount (including in the case of discounted notes the amount payable upon acceleration of the maturity thereof), reduce the rate or extend the time of payment of any interest, reduce any premium payable upon redemption, or change the currency in which any notes are payable,
+
+
+without the consent of each holder of affected notes, or (2) reduce the aforesaid majority in principal amount of the notes of any series, the consent of the holders of which is required for any such supplemental indenture, without the consent of the holders of all notes of such series.
+Defeasance and Discharge of Indenture or Certain Obligations; Satisfaction and Discharge
+At our option, we (1) will be discharged from all obligations under the indenture in respect of the notes of a series (except for certain obligations to register the transfer of or to exchange such notes, replace stolen, lost or mutilated notes, maintain paying agencies and hold monies for payment in trust) or (2) need not comply with certain covenants of the indenture that are applicable to each series of notes (including the limitation on liens and the limitation on sale and lease-back) and will not be limited by the restrictions in the indenture with respect to merger, consolidation or sale, conveyance or lease of substantially all of our assets, in each case if we irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due and satisfy other conditions in the indenture. In order to select either option, we must provide the trustee, among other things, an opinion of counsel based on a ruling from or published by the Internal Revenue Service (in the case of option (1)), or an opinion of counsel (in the case of option (2)), in each case to the effect that beneficial owners of the applicable notes will not recognize income, gain or loss for U.S. federal income tax purposes as a result of our exercise of the option, and will be subject to U.S. federal income tax on the same amounts and in the same manner and at the same times as if we had not exercised such option.
+In the event we exercise our option under (2) above with respect to any series of notes and the notes of such series are declared due and payable because of the occurrence of any event of default other than default with respect to such obligations, the amount of money and Federal Republic of Germany obligations on deposit with the trustee will be sufficient to pay amounts due on the notes of that series at the time of their stated maturity but may not be sufficient to pay amounts due on the notes of that series at the time of the acceleration resulting from such event of default. We would remain liable, however, for such payments.
+In addition to the foregoing, at our option, we will be discharged from all our obligations under the indenture (except for certain obligations to register the transfer of or to exchange such notes and provide compensation and reimbursement of expenses to the trustee) in respect of the notes of a series of which all of the notes have been delivered to the trustee for cancellation (other than destroyed, lost or stolen notes that have been replaced or paid) or that have matured or will mature or be redeemed within one year (where arrangements satisfactory to the trustee for giving notice of redemption have been made), if we, among other things, irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due.
+“Federal Republic of Germany obligations” means direct noncallable obligations of the Federal Republic of Germany, noncallable obligations the payment of the principal of and interest on which is fully guaranteed by the Federal Republic of Germany, and noncallable obligations on which the full faith and credit of the Federal Republic of Germany is pledged to the payment of the principal thereof and interest thereon.
+Governing Law
+The indenture and the notes will be governed by, and construed and enforced in accordance with, the laws of the State of Illinois applicable to agreements made or instruments entered into and, in each case, performed in said state.
+Relationship with Trustee and Paying Agent
+The Bank of New York Mellon Trust Company, N.A. currently serves as the trustee with respect to certain of our other outstanding debt securities, and The Bank of New York Mellon, London Branch currently serves as the paying agent with respect to certain of our other outstanding debt securities.
+
+
+Open Market Purchases
+We may at any time and from time to time purchase notes in the open market or otherwise.
+
+
+Exhibit
+Exhibit 4(m)
+Description of 0.250% Euro Notes due 2024, 0.625% Euro Notes due 2027 and 1.00% Euro Notes due 2031
+Registered Pursuant to Section 12
+of the Securities Exchange Act of 1934
+The following summary of the Company’s above referenced debt securities, each issued as a separate class thereof, is based on and qualified by the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between Illinois Tool Works Inc. and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”), and the
+0.250% Euro Notes due 2024, the 0.625% Euro Notes due 2027 and the 1.00% Euro Notes due 2031 (collectively, the “Notes”)
+.
+For a complete description of the terms and provisions of the Notes, refer to the Indenture and to the Officers’ Certificate establishing the terms, and setting forth the forms, of the Notes, each of which is filed as an exhibit to this Annual Report on Form 10-K. Throughout this exhibit, references to “we,” “our,” and “us” refer to Illinois Tool Works Inc.
+General
+On May 29, 2019, we registered €600,000,000 aggregate principal amount of 0.250% Notes due 2024 (the “2024 notes”), €500,000,000 aggregate principal amount of 0.625% Notes due 2027 (the “2027 notes”) and €500,000,000 aggregate principal amount of 1.000% Notes due 2031 (the “2031 notes,” and together with the 2024 notes and the 2027 notes referred to in this section, the “notes”). The notes were issued each as a separate series of debt securities under the Indenture, dated November 1, 1986, as supplemented by a First Supplemental Indenture, dated May 1, 1990, between us and The Bank of New York Mellon Trust Company, N.A., as successor trustee (the “trustee”), with certain terms of each series of notes being set forth in an officers’ certificate (together, the “indenture”).
+The 2024 notes are traded on the New York Stock Exchange under the symbol “ITW24A.” The 2027 notes are traded on the New York Stock Exchange under the symbol “ITW27.” The 2031 notes are traded on the New York Stock Exchange under the symbol “ITW31.”
+We have issued a significant amount of other debt securities under the Indenture that have neither been registered pursuant to Section 12 of the Securities Exchange Act of 1934 nor listed on the NYSE. You should refer to our description of the amount of debt outstanding as disclosed in our Annual Report on Form 10-K and in other filings with the Securities and Exchange Commission.
+Ranking
+The notes are our direct, unsecured obligations. They rank equally with all of our other unsecured and unsubordinated indebtedness from time to time outstanding. The notes are effectively subordinated to all of our existing and future secured indebtedness to the extent of the value of the collateral securing such indebtedness and structurally subordinated to all of the existing and future indebtedness and other liabilities of our subsidiaries.
+Payments in Euros
+All payments of interest and principal, including payments made upon any redemption of the notes, will be payable in euros. If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. In such circumstances, the amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default under the notes or the indenture governing the notes. Neither the trustee nor the paying agent shall have any responsibility for any calculation or conversion in connection with the foregoing.
+
+
+Investors are subject to foreign exchange risks as to payments of principal and interest that may have important economic and tax consequences to them.
+Principal, Interest Payments and Maturity
+The 2024 notes are limited to €600,000,000 aggregate principal amount and will mature on December 5, 2024. The 2027 notes are limited to €500,000,000 aggregate principal amount and will mature on December 5, 2027. The 2031 notes are limited to €500,000,000 aggregate principal amount and will mature on June 5, 2031.
+The notes of each series bear interest at a rate of 0.250%, 0.625% and 1.000%, respectively, accruing from June 5, 2019. We pay interest on the 2024 notes and the 2027 notes annually in arrears on December 5 of each year, beginning on December 5, 2019, to persons in whose names the notes are registered at the close of business on the preceding December 1. We will pay interest on the 2031 notes annually in arrears on June 5 of each year, beginning on June 5, 2020, to persons in whose names the notes are registered at the close of business on the preceding June 1. With respect to each series of notes, we compute the amount of interest payable on the basis of (i) the actual number of days in the period for which interest is being calculated and (ii) the actual number of days from (and including) the last date on which interest was paid on the notes of such series (or June 5, 2019, if no interest has been paid on the notes of such series) to (but excluding) the next scheduled interest payment date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Market Association.
+The notes may be registered for transfer or exchanged without payment of any charge (other than any tax or other governmental charge payable in connection therewith).
+The notes do not have the benefit of any sinking fund and are not convertible or exchangeable.
+Optional Redemption
+We may redeem the notes of each series, in whole or in part, on any date that is not less than three months prior to the stated maturity thereof, at our option, at a redemption price (calculated by us) equal to the greater of:
+(1) 100% of the principal amount of the notes to be redeemed; or
+(2) the sum of the present values of the Remaining Scheduled Payments (as defined below) of principal and interest on the notes to be redeemed (not including any portion of such payments of interest accrued as of the date of redemption) discounted to the date of redemption on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as defined below) plus 15 basis points for the 2024 notes, 20 basis points for the 2027 notes and 20 basis points for the 2031 notes, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+At any time on or after the date that is three months prior to the maturity date of the 2024 notes, the 2027 notes or the 2031 notes, as applicable, we may also redeem some or all of the maturing 2024 notes, 2027 notes or 2031 notes, as applicable, at our option, at a redemption price equal to 100% of the principal amount of the applicable notes being redeemed, plus accrued and unpaid interest on the principal amount being redeemed to, but excluding, the redemption date.
+“Comparable Government Bond Rate” means, with respect to any redemption date, the price, expressed as a percentage (rounded to three decimal places, with 0.0005 being rounded upwards), at which the gross redemption yield on the notes to be redeemed, if they were to be purchased at such price on the third business day prior to the date fixed for redemption, would be equal to the gross redemption yield on such business day of the Comparable Government Bond (as defined below) on the basis of the middle market price of the Comparable Government Bond prevailing at 11:00 a.m. (London time) on such business day as determined by an independent investment bank selected by us.
+
+
+“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation, at the discretion of an independent investment bank selected by us, a German government bond whose maturity is closest to the maturity of the notes to be redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by us, determine to be appropriate for determining the Comparable Government Bond Rate.
+“Remaining Scheduled Payments” means, with respect to each note to be redeemed, the remaining scheduled payments of the principal thereof and interest thereon that would be due after the related redemption date but for such redemption; provided, however, that, if such redemption date is not an interest payment date with respect to such note, the amount of the next succeeding scheduled interest payment thereon will be deemed to be reduced by the amount of interest accrued thereon to such redemption date.
+We will, or will cause the trustee on our behalf to, mail notice of a redemption to holders of the applicable notes to be redeemed by first-class mail (or otherwise transmit in accordance with applicable procedures of Euroclear/Clearstream) at least 30 and not more than 60 days prior to the date fixed for redemption. Unless we default in payment of the redemption price, on and after the redemption date, interest will cease to accrue on the applicable notes or portions thereof called for redemption. On or before the redemption date, we will deposit with the paying agent or set aside, segregate and hold in trust (if we are acting as paying agent), funds sufficient to pay the redemption price of, and accrued and unpaid interest on, such notes to be redeemed on that redemption date. If fewer than all of the notes of the applicable series are to be redeemed, the notes to be redeemed shall be selected in accordance with the procedures of the clearing systems, and in the case the notes are no longer in global form or the clearing systems have no procedures, the trustee will select, not more than 60 days prior to the redemption date, the particular notes of such series or portions thereof for redemption from the outstanding notes of such series not previously called by such method as the trustee deems fair and appropriate and in accordance with the applicable procedures of the depositary; provided, however, that no notes of a principal amount of €100,000 or less shall be redeemed in part.
+Payment of Additional Amounts
+All payments of principal and interest on the notes by us are made free and clear of and without withholding or deduction for or on account of any present or future tax, assessment or other governmental charge imposed by the United States (or any political subdivision or taxing authority thereof or therein having power to tax) (a “Relevant Taxing Jurisdiction”), unless the withholding of such taxes, assessments or other governmental charge is required by law or the official interpretation or administration thereof. Subject to the exceptions and limitations set forth below, we pay as additional interest on notes such additional amounts (the “additional amounts”) as are necessary in order that the net payment by us of the principal of and interest on such notes to a holder who is not a United States person (as defined below), after withholding or deduction for any present or future tax, assessment or other governmental charge imposed by any Relevant Taxing Jurisdiction, will not be less than the amount provided in such notes to be then due and payable; provided, however, that the foregoing obligation to pay additional amounts shall not apply:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page3_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page3_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page4_table8.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page5_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page5_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page5_table2.json]
+The notes are subject in all cases to any tax, fiscal or other law or regulation or administrative or judicial interpretation applicable to the notes. Except as specifically provided under this heading “— Payment of Additional Amounts,” we will not be required to make any payment for any tax, assessment or other governmental charge imposed by any government or a political subdivision or taxing authority of or in any government or political subdivision.
+As used under this heading “— Payment of Additional Amounts” and under the heading “— Redemption for Tax Reasons,” the term “United States” means the United States of America, the states of the United States, and the District of Columbia, and the term “United States person” means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia, or any estate the income of which is subject to United States federal income taxation regardless of its source, or a trust that (1) is subject to the primary supervision of a United States court and the control of one or more “United States persons” (within the meaning of section 7701(a)(30) of the Code), or (2) has a valid election in effect to be treated as a United States person for U.S. federal income tax purposes.
+Redemption for Tax Reasons
+If, (a) as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of any Relevant Taxing Jurisdiction, or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings (including by virtue of a holding, judgment or order by a court of competent jurisdiction or a change in published administrative practice), which change or amendment is announced or becomes effective on or after the date of this prospectus supplement, we become or, based on a written opinion of independent counsel selected by us, are likely to become obligated to pay additional amounts as described herein under the heading “— Payment of Additional Amounts” with respect to the notes of either series, or (b) any act is taken by a Relevant Taxing Jurisdiction on or after the date of this prospectus supplement whether or not such act is taken with respect to us or any affiliate, that results in us being required or, based upon a written opinion of independent counsel selected by us, being likely to be required to pay such additional amounts, then we may at any time at our option redeem, in whole, but not in part, the notes of such series on not less than 15 nor more than 60 days’ prior notice, at a redemption price equal to 100% of their principal amount, together with accrued and unpaid interest on the notes being redeemed to, but excluding, the redemption date.
+Covenants
+The following covenants apply to the notes. Each of the covenants is subject to the provision for exempted indebtedness described below.
+For your reference, we have provided below definitions of the capitalized terms used in the description of the covenants.
+
+
+Limitation on Liens
+We will not, nor will we permit any Restricted Subsidiary to, issue, assume or guarantee any debt for money borrowed if such debt is secured by a mortgage, security interest, lien, pledge or other encumbrance (referred to in this prospectus supplement as a “lien”) on any Principal Property, or on any shares of stock or indebtedness of any Restricted Subsidiary, without in any such case effectively providing that the notes (and if we so choose, any other debt or obligation that ranks equally with the notes) are secured equally and ratably with, or prior to, such debt. These restrictions do not apply to debt secured by:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table7.json]
+Limitation on Sale and Lease-Back
+We will not, nor will we permit any Restricted Subsidiary to, engage in a sale and lease-back transaction of any Principal Property (except for certain temporary leases and leases with a Restricted Subsidiary) unless:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page6_table9.json]
+Exempted Indebtedness
+We and our Restricted Subsidiaries may incur debt and enter into sale and lease-back transactions without regard to the two covenants described above if the sum of such debt and the value of such sale and lease-back transactions on a cumulative basis does not exceed 10% of the Consolidated Net Tangible Assets (which is total assets less current liabilities, goodwill and other intangibles) as shown on our audited consolidated balance sheet in our latest annual report to our stockholders.
+
+
+Definitions
+“Principal Property” means any manufacturing plant or other facility within the United States that we or a subsidiary own or lease, unless our Board of Directors determines that the plant or facility, together with any others so determined, is not of material importance to the total business of us and our Restricted Subsidiaries.
+“Restricted Subsidiary” means any subsidiary (other than a subsidiary principally engaged in leasing or financing installment receivables or financing operations outside the United States) that owns or leases a Principal Property if:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table2.json]
+Consolidation or Merger
+Under the terms of the indenture, we may consolidate or merge with another corporation or sell, convey or lease all or substantially all of our assets to another corporation or entity. The successor or acquiring corporation or entity must expressly assume all of our responsibilities and liabilities under the indenture, including the payment of all amounts due on the notes and performance of the covenants (it being understood that any obligation to pay additional amounts shall be determined mutatis mutandis, by treating the jurisdiction under the laws of which such successor or acquiring corporation or entity is organized and any political subdivision or taxing authority as therein having the power to tax, as a Relevant Taxing Jurisdiction). If, upon any such consolidation, merger, sale, conveyance or lease, or upon any such consolidation, merger, sale, conveyance or lease with respect to a Restricted Subsidiary, any Principal Property or shares of stock or indebtedness of a Restricted Subsidiary would become subject to a lien that is not in favor of us, a Restricted Subsidiary or any such successor or acquiring corporation or entity, we must, before or at the time of such transaction, effectively provide that the notes will be secured (if we so choose, equally and ratably with any other obligation of us or a Restricted Subsidiary that ranks equally with the notes) by a direct lien on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary that is prior to all liens other than pre-existing liens on such Principal Property or shares of stock or indebtedness of a Restricted Subsidiary, and that will continue as long as such Principal Property, shares of stock or indebtedness is subject to the lien arising in such transaction.
+Events of Default
+An event of default for any series of the notes includes the following:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page7_table6.json]
+
+
+An event of default with respect to a particular series of notes issued under the indenture does not necessarily constitute an event of default with respect to any other series. The indenture provides that the trustee will, with certain exceptions, notify the holders of the affected series of notes of the occurrence of any of the events of default listed above (not including any applicable grace period and irrespective of the giving of notice as described in the third bullet) known to the trustee within 90 days after the occurrence thereof. Except in the case of a default in the payment of principal of, or premium, if any, or interest on a series of the notes, the trustee may withhold notice if it determines in good faith that withholding notice is in the interest of the holders.
+If an event of default is continuing for any series of the notes, the trustee or the holders of not less than 25% in aggregate principal amount of the affected series of notes then outstanding may declare the principal amount of that series of the notes to be due and payable immediately. In such a case, subject to certain conditions, the holders of a majority in aggregate principal amount of that series of the notes then outstanding can annul the declaration and waive past defaults.
+We are required to provide an annual officers’ certificate to the trustee concerning our compliance with certain covenants we make in the indenture. Subject to the provisions of the indenture relating to the duties of the trustee, the trustee is not obligated to exercise any of its rights or powers at the request or direction of any of the holders of notes unless the holders have offered the trustee security or indemnity reasonably satisfactory to the trustee. The holders of a majority in principal amount of the outstanding notes of each series affected by an event of default may direct the time, method and place of conducting any proceeding for any remedy available to the trustee under the indenture or exercising any of the trustee’s trusts or powers with respect to that series of the notes; however, the trustee may decline to follow such direction in certain circumstances.
+If the euro is unavailable to us due to the imposition of exchange controls or other circumstances beyond our control or if the euro is no longer being used by the then-member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the notes will be made in U.S. dollars until the euro is again available to us or so used. The amount payable on any date in euros will be converted into U.S. dollars on the basis of the most recently available market exchange rate for euros. Any payment in respect of the notes so made in U.S. dollars will not constitute an event of default. Neither the trustee nor the paying agent shall have any responsibility for effecting such currency conversions.
+Modification and Amendment of the Indenture
+We may enter into supplemental indentures with the trustee without the consent of the holders of the notes to, among other things:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page8_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page8_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page8_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-4.M_page8_table3.json]
+With the consent of the holders of a majority in aggregate principal amount of the notes of each affected series issued under the indenture at the time outstanding, we may execute supplemental indentures with the trustee to add provisions or change or eliminate any provision of the indenture or any supplemental indenture relating to such series or to modify the rights of the holders of those notes. However, no such supplemental indenture will (1) extend the fixed maturity of any notes, reduce the principal amount (including in the case of discounted notes the amount payable upon acceleration of the maturity thereof), reduce the rate or extend the time of payment of any
+
+
+interest, reduce any premium payable upon redemption, or change the currency in which any notes are payable, without the consent of each holder of affected notes, or (2) reduce the aforesaid majority in principal amount of the notes of any series, the consent of the holders of which is required for any such supplemental indenture, without the consent of the holders of all notes of such series.
+Defeasance and Discharge of Indenture or Certain Obligations; Satisfaction and Discharge
+At our option, we (1) will be discharged from all obligations under the indenture in respect of the notes of a series (except for certain obligations to register the transfer of or to exchange such notes, replace stolen, lost or mutilated notes, maintain paying agencies and hold monies for payment in trust) or (2) need not comply with certain covenants of the indenture that are applicable to each series of notes (including the limitation on liens and the limitation on sale and lease-back) and will not be limited by the restrictions in the indenture with respect to merger, consolidation or sale, conveyance or lease of substantially all of our assets, in each case if we irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due and satisfy other conditions in the indenture. In order to select either option, we must provide the trustee, among other things, an opinion of counsel based on a ruling from or published by the Internal Revenue Service (in the case of option (1)), or an opinion of counsel (in the case of option (2)), in each case to the effect that beneficial owners of the applicable notes will not recognize income, gain or loss for U.S. federal income tax purposes as a result of our exercise of the option, and will be subject to U.S. federal income tax on the same amounts and in the same manner and at the same times as if we had not exercised such option.
+In the event we exercise our option under (2) above with respect to any series of notes and the notes of such series are declared due and payable because of the occurrence of any event of default other than default with respect to such obligations, the amount of money and Federal Republic of Germany obligations on deposit with the trustee will be sufficient to pay amounts due on the notes of that series at the time of their stated maturity but may not be sufficient to pay amounts due on the notes of that series at the time of the acceleration resulting from such event of default. We would remain liable, however, for such payments.
+In addition to the foregoing, at our option, we will be discharged from all our obligations under the indenture (except for certain obligations to register the transfer of or to exchange such notes and provide compensation and reimbursement of expenses to the trustee) in respect of the notes of a series of which all of the notes have been delivered to the trustee for cancellation (other than destroyed, lost or stolen notes that have been replaced or paid) or that have matured or will mature or be redeemed within one year (where arrangements satisfactory to the trustee for giving notice of redemption have been made), if we, among other things, irrevocably deposit with the trustee, in trust, money or Federal Republic of Germany obligations (or a combination thereof) sufficient to pay the principal of and any premium or interest on the applicable notes when due.
+“Federal Republic of Germany obligations” means direct noncallable obligations of the Federal Republic of Germany, noncallable obligations the payment of the principal of and interest on which is fully guaranteed by the Federal Republic of Germany, and noncallable obligations on which the full faith and credit of the Federal Republic of Germany is pledged to the payment of the principal thereof and interest thereon.
+Governing Law
+The indenture and the notes will be governed by, and construed and enforced in accordance with, the laws of the State of Illinois applicable to agreements made or instruments entered into and, in each case, performed in said state.
+Relationship with Trustee and Paying Agent
+The Bank of New York Mellon Trust Company, N.A. currently serves as the trustee with respect to certain of our other outstanding debt securities, and The Bank of New York Mellon, London Branch currently serves as the paying agent with respect to certain of our other outstanding debt securities.
+
+
+Open Market Purchases
+We may at any time and from time to time purchase notes in the open market or otherwise.
+
+
+Exhibit
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page1_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page2_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page2_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page3_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page3_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page4_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page4_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page5_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page5_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page6_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page6_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page7_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page7_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page8_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page8_table1.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page9_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-21_page9_table1.json]
+
+
+Exhibit
+Exhibit 24
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page1_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page2_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page3_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page4_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page5_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page6_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page7_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page8_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page9_table0.json]
+
+
+ILLINOIS TOOL WORKS INC.
+Form 10-K Annual Report
+POWER OF ATTORNEY
+KNOW ALL MEN BY THESE PRESENTS, that the undersigned whose signature appears below constitutes and appoints E. Scott Santi and Michael M. Larsen, and each of them, his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution for her or him and in his or her name, place and stead, in any and all capacities, to sign the Company's Form 10-K Annual Report and to file the same, with all exhibits thereto, and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents full power and authority to do and perform each and every act and thing requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that said attorneys-in-fact and agents, or their substitute or substitutes, may lawfully do or cause to be done by virtue thereof.
+IN WITNESS WHEREOF, the undersigned has executed this power of attorney this 14th day of February,
+2020
+.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-24_page10_table0.json]
+
+
+Exhibit
+Exhibit 31
+Rule 13a-14(a) Certification
+I, E. Scott Santi, certify that:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table9.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table10.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page1_table11.json]
+
+
+Exhibit 31
+Rule 13a-14(a) Certification
+I, Michael M. Larsen, certify that:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table6.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table8.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table9.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table10.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-31_page2_table11.json]

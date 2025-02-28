@@ -1,0 +1,105 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "RAP",
+    "PostretirementPlan",
+    "RAP",
+    "PostretirementPlan"
+  ],
+  [
+    "",
+    "2023",
+    "2023",
+    "2022",
+    "2022"
+  ],
+  [
+    "Weighted average assumptions used to determine benefit obligations",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Discount rate",
+    "5.40",
+    "%",
+    "5.40",
+    "%",
+    "5.40",
+    "%",
+    "5.40",
+    "%"
+  ],
+  [
+    "Rate of increase in compensation levels",
+    "2.50",
+    "%",
+    "N/A",
+    "2.50",
+    "%",
+    "N/A"
+  ],
+  [
+    "Interest crediting rate",
+    "3.77",
+    "%",
+    "N/A",
+    "3.46",
+    "%",
+    "N/A"
+  ],
+  [
+    "Weighted average assumptions used to determine net periodic benefit costs",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "Discount rate",
+    "5.40",
+    "%",
+    "5.40",
+    "%",
+    "2.80",
+    "%",
+    "2.80",
+    "%"
+  ],
+  [
+    "Rate of increase in compensation levels",
+    "2.50",
+    "%",
+    "N/A",
+    "2.50",
+    "%",
+    "N/A"
+  ],
+  [
+    "Expected long-term rate of return on plan assets",
+    "7.30",
+    "%",
+    "N/A",
+    "6.00",
+    "%",
+    "N/A"
+  ]
+]

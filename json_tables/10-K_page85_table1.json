@@ -1,0 +1,365 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "December 31,"
+  ],
+  [
+    "(In Thousands, except share and per share data)",
+    "2020",
+    "2019"
+  ],
+  [
+    "Assets",
+    "",
+    ""
+  ],
+  [
+    "Cash and due from banks",
+    "$",
+    "416,154",
+    "",
+    "$",
+    "373,380",
+    ""
+  ],
+  [
+    "Interest-bearing deposits in other financial institutions",
+    "298,759",
+    "",
+    "207,624",
+    ""
+  ],
+  [
+    "Federal funds sold and securities purchased under agreements to resell",
+    "1,135",
+    "",
+    "7,740",
+    ""
+  ],
+  [
+    "Investment securities AFS, at fair value",
+    "3,085,441",
+    "",
+    "3,262,586",
+    ""
+  ],
+  [
+    "Investment securities HTM, net, at amortized cost(a)",
+    "1,878,938",
+    "",
+    "2,205,083",
+    ""
+  ],
+  [
+    "Equity securities",
+    "15,106",
+    "",
+    "15,090",
+    ""
+  ],
+  [
+    "Federal Home Loan Bank and Federal Reserve Bank stocks, at cost",
+    "168,280",
+    "",
+    "227,347",
+    ""
+  ],
+  [
+    "Residential loans held for sale",
+    "129,158",
+    "",
+    "136,280",
+    ""
+  ],
+  [
+    "Commercial loans held for sale",
+    "\u2014",
+    "",
+    "15,000",
+    ""
+  ],
+  [
+    "Loans",
+    "24,451,724",
+    "",
+    "22,821,440",
+    ""
+  ],
+  [
+    "Allowance for loan losses(a)",
+    "(383,702)",
+    "",
+    "(201,371)",
+    ""
+  ],
+  [
+    "Loans, net",
+    "24,068,022",
+    "",
+    "22,620,068",
+    ""
+  ],
+  [
+    "Tax credit and other investments",
+    "297,232",
+    "",
+    "279,969",
+    ""
+  ],
+  [
+    "Premises and equipment, net",
+    "418,914",
+    "",
+    "435,284",
+    ""
+  ],
+  [
+    "Bank and corporate owned life insurance",
+    "679,647",
+    "",
+    "671,948",
+    ""
+  ],
+  [
+    "Goodwill",
+    "1,109,300",
+    "",
+    "1,176,230",
+    ""
+  ],
+  [
+    "Other intangible assets, net",
+    "68,254",
+    "",
+    "88,301",
+    ""
+  ],
+  [
+    "Mortgage servicing rights, net",
+    "41,961",
+    "",
+    "67,306",
+    ""
+  ],
+  [
+    "Interest receivable",
+    "90,263",
+    "",
+    "91,196",
+    ""
+  ],
+  [
+    "Other assets",
+    "653,219",
+    "",
+    "506,046",
+    ""
+  ],
+  [
+    "Total assets",
+    "$",
+    "33,419,783",
+    "",
+    "$",
+    "32,386,478",
+    ""
+  ],
+  [
+    "Liabilities and Stockholders' Equity",
+    "",
+    ""
+  ],
+  [
+    "Noninterest-bearing demand deposits",
+    "$",
+    "7,661,728",
+    "",
+    "$",
+    "5,450,709",
+    ""
+  ],
+  [
+    "Interest-bearing deposits",
+    "18,820,753",
+    "",
+    "18,328,355",
+    ""
+  ],
+  [
+    "Total deposits",
+    "26,482,481",
+    "",
+    "23,779,064",
+    ""
+  ],
+  [
+    "Federal funds purchased and securities sold under agreements to repurchase",
+    "192,971",
+    "",
+    "433,097",
+    ""
+  ],
+  [
+    "Commercial paper",
+    "59,346",
+    "",
+    "32,016",
+    ""
+  ],
+  [
+    "FHLB advances",
+    "1,632,723",
+    "",
+    "3,180,967",
+    ""
+  ],
+  [
+    "Other long-term funding",
+    "549,465",
+    "",
+    "549,343",
+    ""
+  ],
+  [
+    "Allowance for unfunded commitments(a)",
+    "47,776",
+    "",
+    "21,907",
+    ""
+  ],
+  [
+    "Accrued expenses and other liabilities",
+    "364,088",
+    "",
+    "467,961",
+    ""
+  ],
+  [
+    "Total liabilities",
+    "29,328,850",
+    "",
+    "28,464,355",
+    ""
+  ],
+  [
+    "Stockholders\u2019 Equity",
+    "",
+    ""
+  ],
+  [
+    "Preferred equity",
+    "353,512",
+    "",
+    "256,716",
+    ""
+  ],
+  [
+    "Common equity",
+    "",
+    ""
+  ],
+  [
+    "Common stock",
+    "1,752",
+    "",
+    "1,752",
+    ""
+  ],
+  [
+    "Surplus",
+    "1,720,329",
+    "",
+    "1,716,431",
+    ""
+  ],
+  [
+    "Retained earnings(a)",
+    "2,458,920",
+    "",
+    "2,380,867",
+    ""
+  ],
+  [
+    "Accumulated other comprehensive income (loss)",
+    "12,618",
+    "",
+    "(33,183)",
+    ""
+  ],
+  [
+    "Treasury stock, at cost",
+    "(456,198)",
+    "",
+    "(400,460)",
+    ""
+  ],
+  [
+    "Total common equity",
+    "3,737,421",
+    "",
+    "3,665,407",
+    ""
+  ],
+  [
+    "Total stockholders\u2019 equity",
+    "4,090,933",
+    "",
+    "3,922,124",
+    ""
+  ],
+  [
+    "Total liabilities and stockholders\u2019 equity",
+    "$",
+    "33,419,783",
+    "",
+    "$",
+    "32,386,478",
+    ""
+  ],
+  [
+    "Preferred shares authorized (par value $1.00 per share)",
+    "750,000",
+    "",
+    "750,000",
+    ""
+  ],
+  [
+    "Preferred shares issued and outstanding",
+    "364,458",
+    "",
+    "264,458",
+    ""
+  ],
+  [
+    "Common shares authorized (par value $0.01 per share)",
+    "250,000,000",
+    "",
+    "250,000,000",
+    ""
+  ],
+  [
+    "Common shares issued",
+    "175,216,409",
+    "",
+    "175,216,409",
+    ""
+  ],
+  [
+    "Common shares outstanding",
+    "153,540,224",
+    "",
+    "157,171,247",
+    ""
+  ]
+]

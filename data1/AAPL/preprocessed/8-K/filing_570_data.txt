@@ -41,7 +41,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -83,7 +82,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -91,7 +89,6 @@ Item 5.02	Departure of Directors or Certain Officers; Election of Directors; App
 (b)
 On October 6, 2017, Apple Inc. announced that Bruce Sewell, Apple’s Senior Vice President, General Counsel and Secretary, would retire from the company, effective at the end of the year. Mr. Sewell will be succeeded by Katherine Adams, who will assume the role of General Counsel and Senior Vice President of the company, effective November 13, 2017.
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.

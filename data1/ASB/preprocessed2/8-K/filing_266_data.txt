@@ -1,0 +1,312 @@
+0000007789-24-000004.hdr.sgml : 20240125
+20240125152456
+ACCESSION NUMBER:		0000007789-24-000004
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20240125
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20240125
+DATE AS OF CHANGE:		20240125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ASSOCIATED BANC-CORP
+		CENTRAL INDEX KEY:			0000007789
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				391098068
+		STATE OF INCORPORATION:			WI
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31343
+		FILM NUMBER:		24561823
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+		BUSINESS PHONE:		920-491-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		433 MAIN STREET
+		CITY:			GREEN BAY
+		STATE:			WI
+		ZIP:			54301
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASSOCIATED BANK SERVICES INC
+		DATE OF NAME CHANGE:	19770626
+
+
+asb-20240125
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table2.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table3.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table4.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table5.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table6.json]
+Securities Registered Pursuant to Section 12(b) of the act:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table7.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table8.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page2_table0.json]
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page3_table0.json]
+
+
+Document
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page1_table1.json]
+Associated Banc-Corp Reports Full Year 2023 Earnings of $1.13 Per Common Share, or $2.27 Per Common Share
+1
+Excluding One Time Items Recognized During the Fourth Quarter
+GREEN BAY, Wis. -- January 25, 2024 -- Associated Banc-Corp (NYSE: ASB) ("Associated" or "Company") today reported net income available to common equity ("earnings") of $171 million, or $1.13 per common share. These amounts compare to earnings of $355 million, or $2.34 per common share, for the year ended December 31, 2022. For the quarter ended December 31, 2023, the Company reported a loss of $94 million, or $(0.62) per common share. These amounts compare to earnings of $106 million, or $0.70 per common share for the quarter ended December 31, 2022 and earnings of $80 million, or $0.53 per common share for the quarter ended September 30, 2023.
+"2023 was an extraordinary year for regional banking," said President and CEO Andy Harmening. "Over the course of the year, the industry was tested in several new ways amid an uncertain macro environment. We addressed the immediate risks, while our colleagues remained forward looking, taking great care of our customers while continuing to execute our people-led, digitally enabled strategy. The results of these efforts were clearly visible in the back half of the year, with diversified loan growth, improving household growth metrics, and 3% core customer deposit
+growth."
+"To capitalize on this momentum, we announced the next phase of our strategic plan during the fourth quarter," Harmening continued. "This plan advances our strategy by accelerating the impacts of our initiatives, and importantly, we've already made significant progress as we enter 2024. We look forward to sharing additional updates on our progress throughout the year."
+2023 SUMMARY (all comparisons to 2022)
+•
+End of period total commercial loans increased $202 million to $18.2 billion
+End of period total consumer loans increased $214 million to $11.0 billion
+End of period total deposits increased $3.8 billion to $33.4 billion
+Net interest income increased $82 million to $1.0 billion
+Noninterest income decreased $219 million to $63 million, including one time items recognized in 4Q 2023
+2
+Noninterest expense increased $67 million to $814 million, including one time items recognized in 4Q 2023
+3
+Provision for credit losses was $83 million, compared to a provision of $33 million in 2022
+Net income available to common equity decreased $183 million to $171 million, including one time items recognized in 4Q 2023
+2,3
+Earnings per common share decreased $1.21 to $1.13, including one time items recognized in 4Q 2023
+This is a non-GAAP financial measure. See pages 10 and 11 of the attached tables for a reconciliation of non-GAAP financial measures to GAAP financial measures.
+Noninterest income one time items include a $136 million loss on a mortgage portfolio sale and $65 million in investment securities losses associated with the balance sheet repositioning announced during 4Q 2023.
+Noninterest expense one time items reflect a $31 million expense for the FDIC special assessment.
+
+
+Loans
+Fourth quarter 2023 period end total loans of $29.2 billion decreased 3%, or $977 million, from the prior quarter, driven primarily by a sale of $969 million in residential mortgages associated with the balance sheet repositioning announced during the fourth quarter of 2023. Compared to the same period last year, period end total loans were up 1%, or $417 million. With respect to fourth quarter 2023 period end balances by loan category:
+•
+Commercial and business lending decreased $361 million from the prior quarter and increased $42 million from the same period last year to $10.8 billion.
+Commercial real estate lending increased $46 million from the prior quarter and increased $160 million from the same period last year to $7.4 billion.
+Total consumer lending decreased $662 million from the prior quarter and increased $214 million from the same period last year to $11.0 billion.
+Fourth quarter 2023 average total loans of $30.0 billion were up $68 million from the prior quarter and were up 6%, or $1.8 billion, from the same period last year. With respect to fourth quarter 2023 average balances by loan category:
+Commercial and business lending decreased $165 million from the prior quarter and increased $290 million from the same period last year to $10.8 billion.
+Commercial real estate lending increased $85 million from the prior quarter and increased $335 million from the same period last year to $7.4 billion.
+Total consumer lending increased $148 million from the prior quarter and increased $1.1 billion from the same period last year to $11.7 billion.
+Full year 2023 average loans of $29.5 billion were up 13%, or $3.3 billion, from 2022. With respect to full year 2023 average balances by loan category:
+Commercial and business lending increased $979 million to $10.8 billion.
+Commercial real estate lending increased $719 million to $7.3 billion.
+Total consumer lending increased $1.6 billion to $11.4 billion.
+In 2024, we expect total loan growth of 4% to 6% on an end of period basis as compared to the year ended December 31, 2023.
+Deposits
+Fourth quarter 2023 period end deposits of $33.4 billion were up 4%, or $1.3 billion, from the prior quarter and were up 13%, or $3.8 billion from the same period last year. With respect to fourth quarter 2023 period end balances by deposit category:
+Noninterest-bearing demand deposits decreased $303 million from the prior quarter and decreased $1.6 billion from the same period last year to $6.1 billion.
+
+
+•
+Savings decreased $1 million from the prior quarter and increased $231 million from the same period last year to $4.8 billion.
+Interest-bearing demand deposits increased $1.3 billion from the prior quarter and increased $1.7 billion from the same period last year to $8.8 billion.
+Money market deposits decreased $938 million from the prior quarter and decreased $1.9 billion from the same period last year to $6.3 billion.
+Total time deposits increased $1.2 billion from the prior quarter and increased $5.4 billion from the same period last year to $7.3 billion.
+Network transaction deposits (included in money market and interest-bearing deposits) decreased $83 million from the prior quarter and increased $587 million from the same period last year to $1.6 billion.
+Fourth quarter 2023 average deposits of $32.2 billion were up 1%, or $190 million, from the prior quarter and were up 10%, or $2.9 billion from the same period last year. With respect to fourth quarter 2023 average balances by deposit category:
+Noninterest-bearing demand deposits decreased $148 million from the prior quarter and decreased $1.9 billion from the same period last year to $6.2 billion.
+Savings increased $47 million from the prior quarter and increased $201 million from the same period last year to $4.9 billion.
+Interest-bearing demand deposits increased $177 million from the prior quarter and increased $325 million from the same period last year to $7.2 billion.
+Money market deposits decreased $173 million from the prior quarter and decreased $1.3 billion from the same period last year to $6.1 billion.
+Total time deposits increased $309 million from the prior quarter and increased $4.8 billion from the same period last year to $6.3 billion.
+Network transaction deposits decreased $23 million from the prior quarter and increased $716 million from the same period last year to $1.6 billion.
+Full year 2023 average deposits of $31.3 billion were up 9%, or $2.6 billion from 2022. With respect to full year 2023 average balances by deposit category:
+Noninterest-bearing demand deposits decreased $1.5 billion to $6.6 billion.
+Savings increased $121 million to $4.8 billion.
+Interest-bearing demand deposits increased $266 million to $6.9 billion.
+Money market deposits decreased $496 million to $6.7 billion.
+Network transaction deposits increased $648 million to $1.5 billion.
+Total time deposits increased $3.6 billion to $4.9 billion.
+
+
+In 2024, we expect core customer deposit growth of 3% to 5% on an end of period basis as compared to the year ended December 31, 2023.
+Net Interest Income and Net Interest Margin
+Full year 2023 net interest income of $1.0 billion was up 9%, or $82 million, from 2022. Net interest margin of
+2.81% decreased 10 basis points from the prior year.
+•
+The average yield on total earning assets increased 178 basis points from the prior year to 5.25%.
+The average cost of interest-bearing liabilities increased 235 basis points from the prior year to 3.13%.
+The net free funds benefit increased 47 basis points from the prior year to 0.69%.
+Fourth quarter 2023 net interest income of $253 million decreased $1 million from the prior quarter. Net interest margin of 2.69% decreased 2 basis points from the prior quarter. Compared to the same period last year, net interest income decreased 12%, or $36 million, and the net interest margin decreased 62 basis points.
+The average yield on total earning assets for the fourth quarter of 2023 increased 15 basis points from the prior quarter and increased 105 basis points from the same period last year to 5.51%.
+The average cost of total interest-bearing liabilities for the fourth quarter of 2023 increased 19 basis points from the prior quarter and increased 197 basis points from the same period last year to 3.55%.
+The net free funds benefit for the fourth quarter of 2023 increased 2 basis points from the prior quarter and increased 30 basis points from the same period last year to 0.73%.
+We expect total net interest income growth of 2% to 4% in 2024.
+Noninterest Income
+Full year 2023 noninterest income of $63 million decreased $219 million from the prior year. The decrease was primarily driven by one time items associated with the balance sheet repositioning announced during the fourth quarter of 2023, including a $136 million loss on a mortgage portfolio sale and a $65 million net loss on a sale of investments. With respect to 2023 noninterest income line items:
+Investment securities gains (losses), net decreased $63 million from the prior year, driven primarily by a $65 million net loss on a sale of investments associated with the balance sheet repositioning announced during the fourth quarter of 2023.
+Service charges and deposit account fees decreased $13 million from the prior year.
+Capital markets, net decreased $5 million from the prior year, driven primarily by lower market activity levels.
+Mortgage banking, net increased $1 million from the prior year.
+
+
+Fourth quarter 2023 total noninterest income of negative $131 million decreased $198 million from the prior quarter and decreased $193 million from the same period last year. The decrease was primarily driven by one time items associated with the balance sheet repositioning announced during the fourth quarter of 2023, including a $136 million loss on a mortgage portfolio sale and a $65 million net loss on a sale of investments. With respect to fourth quarter 2023 noninterest income line items:
+•
+Investment securities gains (losses) decreased $59 million from the prior quarter and decreased $57 million from the same period last year, driven primarily by a $65 million net loss on a sale of investments associated with the balance sheet repositioning announced during the fourth quarter of 2023.
+Mortgage banking, net was $2 million for the fourth quarter, down $5 million from the prior quarter and down $1 million from the same period last year.
+Service charges and deposit account fees decreased $2 million from the prior quarter and decreased $3 million from the same period last year.
+Capital markets, net increased $4 million from the prior quarter and increased $4 million from the same period last year.
+After adjusting to exclude the impact of one time items associated with the balance sheet repositioning announced during the fourth quarter of 2023, we expect total noninterest income to decrease by 0% to 2% in 2024.
+Noninterest Expense
+Full year 2023 noninterest expense of $814 million increased 9%, or $67 million, from the prior year, including a $31 million expense for the FDIC special assessment that was finalized during the fourth quarter of 2023. With respect to full year 2023 noninterest expense line items:
+FDIC assessment expense increased $44 million from the prior year, driven primarily by a $31 million expense for the special assessment finalized during the fourth quarter of 2023.
+Personnel expense increased $14 million from the prior year, largely driven by increased merit and benefits expense.
+Technology expense increased $11 million from the prior year, driven by digital investments tied to our strategic initiatives.
+Business development and advertising increased $3 million from the prior year as business activity picked up throughout the year.
+Fourth quarter 2023 noninterest expense of $239 million increased $43 million from the prior quarter and increased $43 million from the same period last year, driven primarily by a $31 million expense for the FDIC special assessment finalized during the fourth quarter of 2023. With respect to fourth quarter 2023 noninterest expense line items:
+FDIC assessment expense increased $32 million from the prior quarter and $35 million from the same period last year, primarily driven by the $31 million special assessment finalized during the fourth quarter of 2023.
+
+
+•
+Personnel expense increased $4 million from the prior quarter and increased $2 million from the same period last year.
+Technology expense increased $2 million from the prior quarter and increased $3 million from the same period last year.
+After adjusting to exclude the impact of the FDIC special assessment, we expect total noninterest expense to grow by 2% to 3% in 2024.
+Taxes
+The fourth quarter 2023 had tax benefit of $47 million compared to $19 million of tax expense in the prior quarter and $25 million of tax expense in the same period last year, driven primarily by the previously announced one time items impacting financial results during the fourth quarter of 2023.
+In 2024, we expect the annual effective tax rate to be between 19% and 21%, assuming no change in the corporate tax rate.
+Credit
+Full year 2023 provision for credit losses was $83 million, compared to a provision of $33 million in the prior year. The increase in provision in 2023 was primarily driven by loan growth related to our strategic initiatives.
+The fourth quarter 2023 provision for credit losses was $21 million, compared to a provision of $22 million in the prior quarter and a provision of $20 million in the same period last year. With respect to fourth quarter 2023 credit quality:
+Nonaccrual loans of $149 million decreased $20 million, or 12%, from the prior quarter and increased $38 million, or 34%, from the same period last year. The nonaccrual loans to total loans ratio was 0.51% in the fourth quarter, down from 0.56% in the prior quarter and up from 0.39% in the same period last year.
+Net charge offs of $16 million decreased $3 million, or 15%, from the prior quarter and increased $15 million from the same period last year as we began to see limited credit migration during 2023.
+The allowance for credit losses on loans (ACLL) of $386 million increased $5 million from the prior quarter and increased $34 million from the same period last year. The ACLL to total loans ratio was 1.32% in the fourth quarter, up from 1.26% in the prior quarter and up from 1.22% in the same period last year.
+In 2024, we expect to adjust provision to reflect changes to risk grades, economic conditions, loan volumes, and other indications of credit quality.
+
+
+Capital
+The Company’s capital position remains strong, with a CET1 capital ratio of 9.39%
+at December 31, 2023. The Company’s capital ratios continue to be in excess of the Basel III “well-capitalized” regulatory benchmarks on a fully phased in basis.
+
+
+FOURTH QUARTER 2023 EARNINGS RELEASE CONFERENCE CALL
+The Company will host a conference call for investors and analysts at 4:00 p.m. Central Time (CT) today, January 25, 2024. Interested parties can access the live webcast of the call through the Investor Relations section of the Company's website, http://investor.associatedbank.com. Parties may also dial into the call at 877-407-8037 (domestic) or 201-689-8037 (international) and request the Associated Banc-Corp fourth quarter 2023 earnings call. The fourth quarter 2023 financial tables with an accompanying slide presentation will be available on the Company's website just prior to the call. An audio archive of the webcast will be available on the Company's website approximately fifteen minutes after the call is over.
+ABOUT ASSOCIATED BANC-CORP
+Associated Banc-Corp (NYSE: ASB) has total assets of $41 billion and is the largest bank holding company based in Wisconsin. Headquartered in Green Bay, Wisconsin, Associated is a leading Midwest banking franchise, offering a full range of financial products and services from nearly 200 banking locations serving more than 100 communities throughout Wisconsin, Illinois and Minnesota. The Company also operates loan production offices in Indiana, Michigan, Missouri, New York, Ohio and Texas. Associated Bank, N.A. is an Equal Housing Lender, Equal Opportunity Lender and Member FDIC. More information about Associated Banc-Corp is available at www.associatedbank.com.
+FORWARD-LOOKING STATEMENTS
+Statements made in this document which are not purely historical are forward-looking statements, as defined in the Private Securities Litigation Reform Act of 1995. This includes any statements regarding management’s plans, objectives, or goals for future operations, products or services, and forecasts of its revenues, earnings, or other measures of performance. Such forward-looking statements may be identified by the use of words such as “believe,” “expect,” “anticipate,” “plan,” “estimate,” “should,” “will,” “intend,” "target," “outlook,” "project," "guidance," or similar expressions. Forward-looking statements are based on current management expectations and, by their nature, are subject to risks and uncertainties. Actual results may differ materially from those contained in the forward-looking statements. Factors which may cause actual results to differ materially from those contained in such forward-looking statements include those identified in the Company’s most recent Form 10-K and subsequent SEC filings. Such factors are incorporated herein by reference.
+NON-GAAP FINANCIAL MEASURES
+This press release and related materials may contain references to measures which are not defined in generally accepted accounting principles (“GAAP”). Information concerning these non-GAAP financial measures can be found in the financial tables. Management believes these measures are meaningful because they reflect adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide a greater understanding of ongoing operations and enhance comparability of results with prior periods.
+# # #
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page9_table0.json]
+Numbers may not sum due to rounding.
+1
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page10_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+2
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page11_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+3
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page12_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a)
+Ratio is based upon basic earnings per common share.
+(b)
+Average full time equivalent employees without overtime.
+(c)
+Excludes assets held in brokerage accounts.
+(d)
+During the fourth quarter of 2023, the Corporation transferred $969 million of residential mortgages into held for sale and subsequently sold them for $844 million. After sale, the servicing has been retained for a short period until full servicing can be transferred to the purchaser.
+(e)
+The Federal Reserve establishes regulatory capital requirements, including well-capitalized standards for the Corporation. The regulatory capital requirements effective for the Corporation follow Basel III, subject to certain transition provisions.
+(f)
+December 31, 2023 data is estimated.
+4
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page13_table0.json]
+N/M = Not meaningful
+5
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page14_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) On January 1, 2023, the Corporation adopted ASU 2022-02. Under this update, troubled debt restructurings were eliminated and replaced with a modified loan classification. As a result, amounts reported for 2023 periods will not be comparable to amounts reported for 2022 periods.
+6
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page15_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+7
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page16_table0.json]
+Numbers may not sum due to rounding.
+(a)
+The yield on tax-exempt loans and securities is computed on a fully tax-equivalent basis using a tax rate of 21% and is net of the effects of certain disallowed interest deductions.
+(b)
+Nonaccrual loans and loans held for sale have been included in the average balances.
+(c)
+Interest income includes amortization of net deferred loan origination costs and net accreted purchase loan discount.
+8
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page17_table0.json]
+N/M = Not meaningful
+Numbers may not sum due to rounding.
+(a) Includes repurchase agreements and commercial paper.
+(b) Included above in interest-bearing demand and money market.
+(c) Total deposits and other customer funding, excluding brokered CDs and network transaction deposits.
+(d) Nonaccrual loans and loans held for sale have been included in the average balances.
+9
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page18_table0.json]
+Numbers may not sum due to rounding.
+(a)
+Tangible common equity and tangible assets exclude goodwill and other intangible assets, net.
+(b)
+Adjusted net income and adjusted net income available to common equity, which are used in the calculation of return on average tangible assets and return on average tangible common equity, respectively, add back other intangible amortization, net of tax.
+(c)
+These capital measurements are used by management, regulators, investors, and analysts to assess, monitor, and compare the quality and composition of our capital with the capital of other financial services companies.
+(d)
+These financial measures have been included as they provide meaningful supplemental information to assess trends in the Corporation’s results of operations.
+(e)
+Management believes this measure is meaningful because it reflects adjustments commonly made by management, investors, regulators, and analysts to evaluate the adequacy of earnings per common share, provide greater understanding of ongoing operations, and enhance comparability of results with prior periods.
+10
+
+
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page19_table0.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page19_table1.json]
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/EX-99.1_page19_table2.json]
+(a)
+The efficiency ratio as defined by the Federal Reserve guidance is noninterest expense (which includes the provision for unfunded commitments) divided by the sum of net interest income plus noninterest income, excluding investment securities gains (losses), net. The fully tax-equivalent efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net
+.
+The adjusted efficiency ratio is noninterest expense (which includes the provision for unfunded commitments), excluding other intangible amortization, FDIC special assessment costs, and announced initiatives, divided by the sum of fully tax-equivalent net interest income plus noninterest income, excluding investment securities gains (losses), net and announced initiatives. Management believes the adjusted efficiency ratio is a meaningful measure as it enhances the comparability of net interest income arising from taxable and tax-exempt sources and provides a better measure as to how the Corporation is managing its expenses by adjusting for one time costs like the FDIC special assessment and announced initiatives.
+(b)
+The mortgage portfolio sale and investments sold that are classified as one time items are the result of a balance sheet repositioning that the Corporation announced in fourth quarter of 2023.
+(c)
+Loss on mortgage portfolio sale, net takes into account the provision for loan losses that was reversed as a result of the sale of the mortgages.
+11

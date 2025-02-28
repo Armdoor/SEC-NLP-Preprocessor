@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 8-K
 UNITED STATES
@@ -75,7 +74,6 @@ filing is intended to simultaneously satisfy the filing obligation of the regist
 ¨	Pre-commencementcommunications pursuant to Rule14d-2(b)under the Exchange Act (17 CFR 240.14d-2(b))
 ¨	Pre-commencementcommunications pursuant to Rule13e-4(c)under the Exchange Act (17 CFR 240.13e-4(c))
 
-PAGE NUMBER: 2
 
 
 
@@ -85,7 +83,6 @@ In fiscal year 2015, management began reporting business performance and making 
 Pursuant to guidance prepared by the staff of the Securities and Exchange Commission, the Company has updated the applicable items that were contained in the Form 10-K reflecting the above mentioned changes in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Item 8, “Financial Statements and Supplementary Data” in Exhibits 99.1 and 99.2 filed in this Current Report on Form 8-K (the “Form 8-K”), respectively. The information included in this Form 8-K is presented for information purposes only in connection with the changes in the Company’s reportable operating segment data and categorization of product-level net sales reporting. There is no change to the Company’s previously reported Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity and Consolidated Statements of Cash Flows included in the Form 10-K. This Form 8-K does not reflect events occurring after the Company filed the Form 10-K and does not modify or update the disclosures therein in any way, other than as noted above. The Company began to report comparative results reflective of the above mentioned changes with the filing of the Company’s Quarterly Report on Form 10-Q for the quarter ended December 27, 2014.
 2
 
-PAGE NUMBER: 3
 
 Item 9.01 Financial Statements and Exhibits.
 
@@ -114,7 +111,6 @@ ExhibitNumber		Exhibit Description
 101.PRE		XBRL Taxonomy Extension Presentation Linkbase Document.
 3
 
-PAGE NUMBER: 4
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -127,7 +123,6 @@ Date: January 28, 2015				By:		/s/ Luca Maestri
 						Luca MaestriSenior Vice President,Chief Financial Officer
 4
 
-PAGE NUMBER: 5
 
 EXHIBIT INDEX
 
@@ -154,7 +149,6 @@ ExhibitNumber		Exhibit Description
 101.PRE		XBRL Taxonomy Extension Presentation Linkbase Document.
 5
 
-PAGE NUMBER: 1
 
 EX-99.1
 Exhibit 99.1
@@ -179,7 +173,6 @@ During the first quarter of 2014, the Company introduced iPad Air, its fifth gen
 During 2014, the Company completed various business acquisitions, including the acquisitions of Beats Music, LLC, which offers a subscription streaming music service, and Beats Electronics, LLC, which makes Beats headphones, speakers and audio software.
 1
 
-PAGE NUMBER: 2
 
 In April 2014, the Company increased its share repurchase authorization to $90 billion and the quarterly dividend was raised to $0.47 per common share, resulting in an overall increase in its capital return program from $100 billion to over $130 billion. During 2014, the Company utilized $45 billion to repurchase its common stock and paid dividends and dividend equivalents of $11.1 billion. The current share repurchase program is expected to be completed by the end of December 2015. The Company also issued $12.0 billion of long-term debt during 2014 with varying maturities through 2044 and launched a commercial paper program, with $6.3 billion outstanding as of September 27, 2014.
 Fiscal 2013 Highlights
@@ -188,7 +181,6 @@ During the first quarter of 2013, the Company introduced the fourth generation i
 In April 2013, the Company announced a significant increase to its program to return capital to shareholders by raising the total amount it expected to utilize for the program through December 2015 to $100 billion. This included increasing its share repurchase authorization to $60 billion and raising its quarterly dividend to $0.44 per common share beginning in May 2013. During 2013, the Company utilized $23.0 billion to repurchase common shares and paid dividends of $10.5 billion or $1.64 per common share. In conjunction with its capital return program, in May 2013 the Company issued $17.0 billion of long-term debt with varying maturities through 2043.
 2
 
-PAGE NUMBER: 3
 
 Sales Data
 In 2015, the Company changed its reportable operating segments and categorization of product-level net sales reporting to align with the way the business is currently managed and to better reflect its evolving products and services. The 2014, 2013 and 2012 presentation of this data has been reclassified to conform to the 2015 presentation.
@@ -229,7 +221,6 @@ th
 week included in the first quarter of 2012, as is done approximately every six years to realign the Company’s fiscal quarters more closely to calendar quarters. Inclusion of the additional week in 2012 increased the Company’s overall net sales and operating expenses for the year.
 3
 
-PAGE NUMBER: 4
 
 Product Performance
 iPhone
@@ -254,7 +245,6 @@ Net sales and unit sales for iPad declined in 2014 compared to 2013. iPad net sa
 The growth in net sales and unit sales of iPad during 2013 resulted from growth in iPad unit sales in all of the Company’s operating segments. This growth was driven by the launch of iPad mini and the fourth generation iPad beginning in the first quarter of 2013. The year-over-year growth rate of total iPad unit sales was significantly higher than the growth rate of total iPad net sales for 2013 due to a reduction in iPad ASPs of 15% in 2013 compared to 2012. This decline resulted primarily from introduction of the lower priced iPad mini and the full year impact of the price reduction on iPad 2 made in 2012. The decline in iPad ASPs was experienced to various degrees by all of the Company’s operating segments.
 4
 
-PAGE NUMBER: 5
 
 Mac
 The following table presents Mac net sales and unit sales information for 2014, 2013 and 2012 (dollars in millions and units in thousands):
@@ -279,7 +269,6 @@ Segment Operating Performance
 The Company manages its business primarily on a geographic basis. As the Company continues to expand its business, management believes collaboration across its online, retail and indirect channels is integral to better serving its customers and optimizing its financial results. In 2015, the Company’s management began reporting business performance and making decisions primarily on a geographic basis, including the results of its retail stores in each respective geographic segment. Accordingly, to align with the way the business is currently managed, the Company’s reportable operating segments now consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Retail is no longer reported as a separate reportable operating segment. The Americas segment includes both North and South America. The Europe segment includes European countries, as well as India, the Middle East and Africa. The Greater China segment includes China, Hong Kong and Taiwan. The Rest of Asia Pacific segment includes Australia and Asian countries, other than those countries included in the Company’s other operating segments. Each operating segment provides similar hardware and software products and similar services. Further information regarding the Company’s operating segments may be found in Exhibit 99.2 of this Form 8-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic Data.”
 5
 
-PAGE NUMBER: 6
 
 Americas
 The following table presents Americas net sales information for 2014, 2013 and 2012 (dollars in millions):
@@ -308,7 +297,6 @@ Percentage of total net sales			17%								16%								15%
 The Greater China segment experienced year-over-year growth in net sales in 2014 that was significantly higher than the growth rate for the Company overall. Greater China growth was driven by higher unit sales and net sales of all major product categories, in addition to higher net sales of Services. Growth in net sales and unit sales of iPhone was especially strong, driven by the successful launch of iPhone 5s and 5c in Mainland China and Hong Kong in September 2013, the successful launch of iPhone 6 and 6 Plus in Hong Kong in September 2014, increased demand for the Company’s entry-priced iPhones and the addition of a significant new carrier in the second quarter of 2014.
 6
 
-PAGE NUMBER: 7
 
 The growth in net sales in the Greater China segment during 2013 resulted from two major iPhone introductions during the year, iPhone 5 in December 2012 and iPhone 5c and 5s in September 2013. Further contributing to the growth in 2013 was the introduction of the fourth generation iPad and iPad mini during the second quarter of 2013 and an increase in iPhone channel inventory as of the end of 2013 compared to the end of 2012. While net sales in the Greater China segment were up 14% for all of 2013, net sales for the second half of 2013 declined 3% compared to the second half of 2012.
 Japan
@@ -342,7 +330,6 @@ Gross margin percentage			38.6%				37.6%				43.9%
 The year-over-year increase in the gross margin percentage in 2014 was driven by multiple factors including lower commodity costs, a favorable shift in mix to products with higher margins and improved leverage on fixed costs from higher net sales, which was partially offset by the weakness in several foreign currencies relative to the U.S. dollar, price reductions on select products and higher cost structures on certain new products.
 7
 
-PAGE NUMBER: 8
 
 The year-over-year decrease in gross margin in 2013 compared to 2012 was driven by multiple factors including introduction of new versions of existing products with higher cost structures and flat or reduced pricing; a shift in sales mix to products with lower margins; introduction of iPad mini with gross margin significantly below the Company’s average product margins; higher expenses associated with changes to certain of the Company’s service policies and other warranty costs; price reductions on certain products, including iPad 2 and iPhone 4; and unfavorable impact from foreign exchange fluctuations.
 The Company anticipates gross margin during the first quarter of 2015 to be between 37.5% and 38.5%. The foregoing statement regarding the Company’s expected gross margin percentage in the first quarter of 2015 is forward-looking and could differ from actual results. The Company’s future gross margins can be impacted by multiple factors including, but not limited to those set forth in Part I, Item 1A of the Form 10-K under the heading “Risk Factors” and those described in this paragraph. In general, the Company believes gross margins will remain under downward pressure due to a variety of factors, including continued industry wide global product pricing pressures, increased competition, compressed product life cycles, product transitions, potential increases in the cost of components and potential strengthening of the U.S. dollar, as well as potential increases in the costs of outside manufacturing services and a potential shift in the Company’s sales mix towards products with lower gross margins. In response to competitive pressures, the Company expects it will continue to take product pricing actions, which would adversely affect gross margins. Gross margins could also be affected by the Company’s ability to manage product quality and warranty costs effectively and to stimulate demand for certain of its products. Due to the Company’s significant international operations, financial results can be significantly affected by fluctuations in exchange rates.
@@ -366,7 +353,6 @@ Selling, General and Administrative (“SG&A”) Expense
 The growth in SG&A expense during 2014 compared to 2013 was primarily due to increased headcount and related expenses, including share-based compensation costs; higher spending on marketing, advertising and professional services; and the Company’s continued expansion of its retail stores. The growth in SG&A during 2013 compared to 2012 was primarily due to the Company’s continued expansion of its retail stores and increased headcount and related expenses, partially offset by decreased spending on professional services.
 8
 
-PAGE NUMBER: 9
 
 Other Income and Expense
 Other income and expense for 2014, 2013 and 2012 are as follows (dollars in millions):
@@ -392,7 +378,6 @@ As of September 27, 2014, the Company had deferred tax assets arising from deduc
 During the fiscal year ended September 27, 2014, the U.S. Internal Revenue Service (“IRS”) concluded its review of the years 2004 through 2009. The IRS is currently examining the years 2010 through 2012. In addition, the Company is subject to audits by state, local and foreign tax authorities. Management believes that adequate provisions have been made for any adjustments that may result from tax examinations. However, the outcome of tax audits cannot be predicted with certainty. If any issues addressed in the Company’s tax audits are resolved in a manner not consistent with management’s expectations, the Company could be required to adjust its provision for income taxes in the period such resolution occurs.
 9
 
-PAGE NUMBER: 10
 
 Recent Accounting Pronouncements
 In May 2014, the Financial Accounting Standards Board issued Accounting Standards Update No. 2014-09, Revenue from Contracts with Customers (Topic 606) (“ASU 2014-09”), which amends the existing accounting standards for revenue recognition. ASU 2014-09 is based on principles that govern the recognition of revenue at an amount an entity expects to be entitled when products are transferred to customers. ASU 2014-09 will be effective for the Company beginning in its first quarter of 2018. Early adoption is not permitted. The new revenue standard may be applied retrospectively to each prior period presented or retrospectively with the cumulative effect recognized as of the date of adoption. The Company is currently evaluating the impact of adopting the new revenue standard on its consolidated financial statements.
@@ -418,7 +403,6 @@ During 2014, cash generated from operating activities of $59.7 billion was a res
 During 2013, cash generated from operating activities of $53.7 billion was a result of $37.0 billion of net income, non-cash adjustments to net income of $10.2 billion and an increase in net change in operating assets and liabilities of $6.5 billion. Cash used in investing activities of $33.8 billion during 2013 consisted primarily of cash used for purchases of marketable securities, net of sales and maturities, of $24.0 billion and cash used to acquire property, plant and equipment of $8.2 billion. Cash used in financing activities of $16.4 billion during 2013 consisted primarily of cash used to repurchase common stock of $22.9 billion and cash used to pay dividends and dividend equivalents of $10.6 billion, partially offset by net proceeds from the issuance of long-term debt of $16.9 billion.
 10
 
-PAGE NUMBER: 11
 
 Capital Assets
 The Company’s capital expenditures were $11.0 billion during 2014. The Company anticipates utilizing approximately $13.0 billion for capital expenditures during 2015, which includes product tooling and manufacturing process equipment; data centers; corporate facilities and infrastructure, including information systems hardware, software and enhancements; and retail store facilities.
@@ -443,7 +427,6 @@ Total		$	24,178			$	34,950			$	33,000			$	2,296			$	94,424
 																				
 11
 
-PAGE NUMBER: 12
 
 Off-Balance Sheet Arrangements and Contractual Obligations
 The Company has not entered into any transactions with unconsolidated entities whereby the Company has financial guarantees, subordinated retained interests, derivative instruments, or other contingent arrangements that expose the Company to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing, liquidity, market risk, or credit risk support to the Company, or engages in leasing, hedging, or R&D services with the Company.
@@ -468,7 +451,6 @@ The Company’s other obligations were comprised mainly of commitments to acquir
 The Company’s other non-current liabilities in the Consolidated Balance Sheets consist primarily of deferred tax liabilities, gross unrecognized tax benefits and the related gross interest and penalties. As of September 27, 2014, the Company had non-current deferred tax liabilities of $20.3 billion. Additionally, as of September 27, 2014, the Company had gross unrecognized tax benefits of $4.0 billion and an additional $630 million for gross interest and penalties classified as non-current liabilities. At this time, the Company is unable to make a reasonably reliable estimate of the timing of payments in individual years in connection with these tax liabilities; therefore, such amounts are not included in the above contractual obligation table.
 12
 
-PAGE NUMBER: 13
 
 Indemnification
 The Company generally does not indemnify end-users of its operating system and application software against legal claims that the software infringes third-party intellectual property rights. Other agreements entered into by the Company sometimes include indemnification provisions under which the Company could be subject to costs and/or damages in the event of an infringement claim against the Company or an indemnified third-party. However, the Company has not been required to make any significant payments resulting from such an infringement claim asserted against it or an indemnified third-party. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss with respect to indemnification of end-users of its operating system or application software for infringement of third-party intellectual property rights. The Company did not record a liability for infringement costs related to indemnification as of September 27, 2014 or September 28, 2013.
@@ -480,7 +462,6 @@ Revenue Recognition
 Net sales consist primarily of revenue from the sale of hardware, software, digital content and applications, accessories, and service and support contracts. The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and collection is probable. Product is considered delivered to the customer once it has been shipped and title, risk of loss and rewards of ownership have been transferred. For most of the Company’s product sales, these criteria are met at the time the product is shipped. For online sales to individuals, for some sales to education customers in the U.S., and for certain other sales, the Company defers revenue until the customer receives the product because the Company retains a portion of the risk of loss on these sales during transit. The Company recognizes revenue from the sale of hardware products, software bundled with hardware that is essential to the functionality of the hardware and third-party digital content sold on the iTunes Store in accordance with general revenue recognition accounting guidance. The Company recognizes revenue in accordance with industry specific software accounting guidance for the following types of sales transactions: (i) standalone sales of software products, (ii) sales of software upgrades and (iii) sales of software bundled with hardware not essential to the functionality of the hardware.
 13
 
-PAGE NUMBER: 14
 
 For multi-element arrangements that include hardware products containing software essential to the hardware product’s functionality, undelivered software elements that relate to the hardware product’s essential software and/or undelivered non-software services, the Company allocates revenue to all deliverables based on their relative selling prices. In such circumstances, the Company uses a hierarchy to determine the selling price to be used for allocating revenue to deliverables: (i) vendor-specific objective evidence of fair value (“VSOE”), (ii) third-party evidence of selling price (“TPE”) and (iii) best estimate of selling price (“ESP”). VSOE generally exists only when the Company sells the deliverable separately and is the price actually charged by the Company for that deliverable. ESPs reflect the Company’s best estimates of what the selling prices of elements would be if they were sold regularly on a stand-alone basis.
 For sales of qualifying versions of iOS devices, Mac and Apple TV, the Company has indicated it may from time to time provide future unspecified software upgrades and features free of charge to customers. The Company also provides various non-software services to owners of qualifying versions of iOS devices and Mac. Because the Company has neither VSOE nor TPE for the unspecified software upgrade rights or the non-software services, revenue is allocated to these rights and services based on the Company’s ESPs. Revenue allocated to the unspecified software upgrade rights and non-software services based on the Company’s ESPs is deferred and recognized on a straight-line basis over the estimated period the software upgrades and non-software services are expected to be provided for each of these devices, which ranges from two to four years.
@@ -490,7 +471,6 @@ Valuation and Impairment of Marketable Securities
 The Company’s investments in available-for-sale securities are reported at fair value. Unrealized gains and losses related to changes in the fair value of securities are recognized in accumulated other comprehensive income, net of tax, in the Company’s Consolidated Balance Sheets. Changes in the fair value of available-for-sale securities impact the Company’s net income only when such securities are sold or an other-than-temporary impairment is recognized. Realized gains and losses on the sale of securities are determined by specific identification of each security’s cost basis. The Company regularly reviews its investment portfolio to determine if any security is other-than-temporarily impaired, which would require the Company to record an impairment charge in the period any such determination is made. In making this judgment, the Company evaluates, among other things, the duration and extent to which the fair value of a security is less than its cost; the financial condition of the issuer and any changes thereto; and the Company’s intent to sell, or whether it will more likely than not be required to sell, the security before recovery of its amortized cost basis. The Company’s assessment on whether a security is other-than-temporarily impaired could change in the future due to new developments or changes in assumptions related to any particular security.
 14
 
-PAGE NUMBER: 15
 
 Inventory Valuation and Valuation of Manufacturing-Related Assets and Estimated Purchase Commitment Cancellation Fees
 The Company must order components for its products and build inventory in advance of product shipments and has invested in manufacturing process equipment, including capital assets held at its suppliers’ facilities. In addition, the Company has made prepayments to certain of its suppliers associated with long-term supply agreements to secure supply of inventory components. The Company records a write-down for inventories of components and products, including third-party products held for resale, which have become obsolete or are in excess of anticipated demand or net realizable value. The Company performs a detailed review of inventory that considers multiple factors including demand forecasts, product life cycle status, product development plans, current sales levels and component cost trends. The Company also reviews its manufacturing-related capital assets and inventory prepayments for impairment whenever events or circumstances indicate the carrying amount of such assets may not be recoverable. If the Company determines that an asset is not recoverable, it records an impairment loss equal to the amount by which the carrying value of such an asset exceeds its fair value.
@@ -503,14 +483,12 @@ The Company records a tax provision for the anticipated tax consequences of the 
 The Company recognizes tax benefits from uncertain tax positions only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized in the financial statements from such positions are then measured based on the largest benefit that has a greater than 50% likelihood of being realized upon ultimate settlement.
 15
 
-PAGE NUMBER: 16
 
 Management believes it is more likely than not that forecasted income, including income that may be generated as a result of certain tax planning strategies, together with future reversals of existing taxable temporary differences, will be sufficient to fully recover the deferred tax assets. In the event that the Company determines all or part of the net deferred tax assets are not realizable in the future, the Company will make an adjustment to the valuation allowance that would be charged to earnings in the period such determination is made. In addition, the calculation of tax liabilities involves significant judgment in estimating the impact of uncertainties in the application of GAAP and complex tax laws. Resolution of these uncertainties in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results.
 Legal and Other Contingencies
 As discussed in Part I, Item 3 of the Form 10-K under the heading “Legal Proceedings” and in Exhibit 99.2 of this Form 8-K in the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies,” the Company is subject to various legal proceedings and claims that arise in the ordinary course of business. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable. There is significant judgment required in both the probability determination and as to whether an exposure can be reasonably estimated. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss in excess of a recorded accrual, with respect to loss contingencies for legal and other contingencies. However, the outcome of legal proceedings and claims brought against the Company is subject to significant uncertainty. Therefore, although management considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against the Company in a reporting period for amounts in excess of management’s expectations, the Company’s consolidated financial statements for that reporting period could be materially adversely affected.
 16
 
-PAGE NUMBER: 1
 
 EX-99.2
 Exhibit 99.2
@@ -531,7 +509,6 @@ Reports of Ernst & Young LLP, Independent Registered Public Accounting Firm			34
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and notes thereto.
 1
 
-PAGE NUMBER: 2
 
 CONSOLIDATED STATEMENTS OF OPERATIONS
 (In millions, except number of shares which are reflected in thousands and per share amounts)
@@ -575,7 +552,6 @@ Cash dividends declared per common share		$	1.82			$	1.64			$	0.38
 See accompanying Notes to Consolidated Financial Statements.
 2
 
-PAGE NUMBER: 3
 
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
 (In millions)
@@ -608,7 +584,6 @@ Total comprehensive income		$	41,063			$	36,067			$	41,789
 See accompanying Notes to Consolidated Financial Statements.
 3
 
-PAGE NUMBER: 4
 
 CONSOLIDATED BALANCE SHEETS
 (In millions, except number of shares which are reflected in thousands and par value)
@@ -668,7 +643,6 @@ Total liabilities and shareholders’ equity		$	231,839			$	207,000
 See accompanying Notes to Consolidated Financial Statements.
 4
 
-PAGE NUMBER: 5
 
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
 (In millions, except number of shares which are reflected in thousands)
@@ -711,7 +685,6 @@ Balances as of September 27, 2014			5,866,161			$	23,313			$	87,152			$	1,082			
 See accompanying Notes to Consolidated Financial Statements.
 5
 
-PAGE NUMBER: 6
 
 CONSOLIDATED STATEMENTS OF CASH FLOWS
 (In millions)
@@ -772,7 +745,6 @@ Cash paid for interest		$	339			$	0			$	0
 See accompanying Notes to Consolidated Financial Statements.
 6
 
-PAGE NUMBER: 7
 
 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 Note 1 – Summary of Significant Accounting Policies
@@ -788,7 +760,6 @@ Revenue Recognition
 Net sales consist primarily of revenue from the sale of hardware, software, digital content and applications, accessories and service and support contracts. The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery has occurred, the sales price is fixed or determinable and collection is probable. Product is considered delivered to the customer once it has been shipped and title, risk of loss and rewards of ownership have been transferred. For most of the Company’s product sales, these criteria are met at the time the product is shipped. For online sales to individuals, for some sales to education customers in the U.S., and for certain other sales, the Company defers revenue until the customer receives the product because the Company retains a portion of the risk of loss on these sales during transit. The Company recognizes revenue from the sale of hardware products, software bundled with hardware that is essential to the functionality of the hardware, and third-party digital content sold on the iTunes Store in accordance with general revenue recognition accounting guidance. The Company recognizes revenue in accordance with industry specific software accounting guidance for the following types of sales transactions: (i) standalone sales of software products, (ii) sales of software upgrades and (iii) sales of software bundled with hardware not essential to the functionality of the hardware.
 7
 
-PAGE NUMBER: 8
 
 For the sale of most third-party products, the Company recognizes revenue based on the gross amount billed to customers because the Company establishes its own pricing for such products, retains related inventory risk for physical products, is the primary obligor to the customer and assumes the credit risk for amounts billed to its customers. For third-party applications sold through the App Store and Mac App Store and certain digital content sold through the iTunes Store, the Company does not determine the selling price of the products and is not the primary obligor to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in net sales only the commission it retains from each sale. The portion of the gross amount billed to customers that is remitted by the Company to third-party app developers and certain digital content owners is not reflected in the Company’s Consolidated Statements of Operations.
 The Company records deferred revenue when it receives payments in advance of the delivery of products or the performance of services. This includes amounts that have been deferred for unspecified and specified software upgrade rights and non-software services that are attached to hardware and software products. The Company sells gift cards redeemable at its retail and online stores, and also sells gift cards redeemable on the iTunes Store for the purchase of digital content and software. The Company records deferred revenue upon the sale of the card, which is relieved upon redemption of the card by the customer. Revenue from AppleCare service and support contracts is deferred and recognized over the service coverage periods. AppleCare service and support contracts typically include extended phone support, repair services, web-based support resources and diagnostic tools offered under the Company’s standard limited warranty.
@@ -798,7 +769,6 @@ For multi-element arrangements that include hardware products containing softwar
 For sales of qualifying versions of iPhone, iPad and iPod touch (“iOS devices”), Mac and Apple TV, the Company has indicated it may from time to time provide future unspecified software upgrades and features to the essential software bundled with each of these hardware products free of charge to customers. Essential software for iOS devices includes iOS and related applications and for Mac includes OS X and related applications. The Company also provides various non-software services to owners of qualifying versions of iOS devices and Mac. The Company has identified up to three deliverables regularly included in arrangements involving the sale of these devices. The first deliverable is the hardware and software essential to the functionality of the hardware device delivered at the time of sale. The second deliverable is the embedded right included with the purchase of iOS devices, Mac and Apple TV to receive on a when-and-if-available basis, future unspecified software upgrades and features relating to the product’s essential software. The third deliverable is the non-software services to be provided to qualifying versions of iOS devices and Mac. The Company allocates revenue between these deliverables using the relative selling price method. Because the Company has neither VSOE nor TPE for these deliverables, the allocation of revenue is based on the Company’s ESPs. Revenue allocated to the delivered hardware and the related essential software is recognized at the time of sale provided the other conditions for revenue recognition have been met. Revenue allocated to the embedded unspecified software upgrade rights and the non-software services is deferred and recognized on a straight-line basis over the estimated period the software upgrades and non-software services are expected to be provided for each of these devices, which ranges from two to four years. Cost of sales related to delivered hardware and related essential software, including estimated warranty costs, are recognized at the time of sale. Costs incurred to provide non-software services are recognized as cost of sales as incurred, and engineering and sales and marketing costs are recognized as operating expenses as incurred.
 8
 
-PAGE NUMBER: 9
 
 The Company’s process for determining its ESP for deliverables without VSOE or TPE considers multiple factors that may vary depending upon the unique facts and circumstances related to each deliverable. The Company believes its customers would be reluctant to buy unspecified software upgrade rights for the essential software included with its qualifying hardware products. This view is primarily based on the fact that unspecified software upgrade rights do not obligate the Company to provide upgrades at a particular time or at all, and do not specify to customers which upgrades or features will be delivered. The Company also believes its customers would be unwilling to pay a significant amount for access to the non-software services because other companies offer similar services at little or no cost to users. Therefore, the Company has concluded that if it were to sell upgrade rights or access to the non-software services on a standalone basis, including those rights and services attached to iOS devices, Mac and Apple TV, the selling prices would be relatively low. Key factors considered by the Company in developing the ESPs for software upgrade rights include prices charged by the Company for similar offerings, market trends in the pricing of Apple-branded and third-party Mac and iOS compatible software, the nature of the upgrade rights (e.g., unspecified versus specified) and the relative ESP of the upgrade rights as compared to the total selling price of the product. The Company may also consider additional factors as appropriate, including the impact of other products and services provided to customers, the pricing of competitive alternatives if they exist, product-specific business objectives and the length of time a particular version of a device has been available. When relevant, the same factors are considered by the Company in developing ESPs for offerings such as the non-software services with additional consideration given to the estimated cost to provide such services.
 In 2014, 2013 and 2012, the Company’s combined ESPs for the unspecified software upgrade rights and the rights to receive the non-software services included with its qualifying hardware devices have ranged from $5 to $40. As of September 27, 2014, the combined ESPs for Mac was $40 and for iPhone and iPad ranged from $15 to $25. Revenue allocated to such rights is deferred and recognized on a straight-line basis over the estimated period the rights are expected to be provided for each device, which ranges from two to four years.
@@ -814,7 +784,6 @@ Share-based Compensation
 The Company recognizes expense related to share-based payment transactions in which it receives employee services in exchange for (a) equity instruments of the Company or (b) liabilities that are based on the fair value of the enterprise’s equity instruments or that may be settled by the issuance of such equity instruments. Share-based compensation cost for restricted stock and restricted stock units (“RSUs”) is measured based on the closing fair market value of the Company’s common stock on the date of grant. The Company recognizes share-based compensation cost over the award’s requisite service period on a straight-line basis for time-based RSUs and on a graded basis for RSUs that are contingent on the achievement of performance metrics. The Company recognizes a benefit from share-based compensation in the Consolidated Statements of Shareholders’ Equity if an incremental tax benefit is realized. In addition, the Company recognizes the indirect effects of share-based compensation on R&D tax credits, foreign tax credits and domestic manufacturing deductions in the Consolidated Statements of Operations. Further information regarding share-based compensation can be found in Note 9, “Benefit Plans.”
 9
 
-PAGE NUMBER: 10
 
 Income Taxes
 The provision for income taxes is computed using the asset and liability method, under which deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities and for operating losses and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates that apply to taxable income in effect for the years in which those tax assets are expected to be realized or settled. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized.
@@ -846,7 +815,6 @@ available-for-sale.
 Management determines the appropriate classification of its investments at the time of purchase and reevaluates the designations at each balance sheet date. The Company classifies its marketable debt securities as either short-term or long-term based on each instrument’s underlying contractual maturity date. Marketable debt securities with maturities of 12 months or less are classified as short-term and marketable debt securities with maturities greater than 12 months are classified as long-term. The Company classifies its marketable equity securities, including mutual funds, as either short-term or long-term based on the nature of each security and its availability for use in current operations. The Company’s marketable debt and equity securities are carried at fair value, with the unrealized gains and losses, net of taxes, reported as a component of shareholders’ equity. The cost of securities sold is based upon the specific identification method.
 10
 
-PAGE NUMBER: 11
 
 Derivative Financial Instruments
 The Company accounts for its derivative instruments as either assets or liabilities and carries them at fair value.
@@ -865,7 +833,6 @@ The Company does not amortize goodwill and intangible assets with indefinite use
 The Company amortizes its intangible assets with definite useful lives over their estimated useful lives and reviews these assets for impairment. The Company typically amortizes its acquired intangible assets with definite useful lives over periods from three to seven years.
 11
 
-PAGE NUMBER: 12
 
 Fair Value Measurements
 The Company applies fair value accounting for all financial assets and liabilities and non-financial assets and liabilities that are recognized or disclosed at fair value in the financial statements on a recurring basis. The Company defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded at fair value, the Company considers the principal or most advantageous market in which the Company would transact and the market-based risk measurements or assumptions that market participants would use in pricing the asset or liability, such as risks inherent in valuation techniques, transfer restrictions and credit risk. Fair value is estimated by applying the following hierarchy, which prioritizes the inputs used to measure fair value into three levels and bases the categorization within the hierarchy upon the lowest level of input that is available and significant to the fair value measurement:
@@ -881,7 +848,6 @@ Foreign Currency Translation and Remeasurement
 The Company translates the assets and liabilities of its non-U.S. dollar functional currency subsidiaries into U.S. dollars using exchange rates in effect at the end of each period. Revenue and expenses for these subsidiaries are translated using rates that approximate those in effect during the period. Gains and losses from these translations are recognized in foreign currency translation included in AOCI in shareholders’ equity. The Company’s subsidiaries that use the U.S. dollar as their functional currency remeasure monetary assets and liabilities at exchange rates in effect at the end of each period, and inventories, property and nonmonetary assets and liabilities at historical rates. Gains and losses from these remeasurements were not significant during 2014, 2013 and 2012 and have been included in the Company’s results of operations.
 12
 
-PAGE NUMBER: 13
 
 Note 2 – Financial Instruments
 Cash, Cash Equivalents and Marketable Securities
@@ -947,7 +913,6 @@ Total		$	147,143			$	414			$	(796	)		$	146,761			$	14,259			$	26,287			$	106,215
 The Company may sell certain of its marketable securities prior to their stated maturities for strategic reasons including, but not limited to, anticipation of credit deterioration and duration management. The net realized gains or losses recognized by the Company, related to such sales, were not significant during 2014, 2013 and 2012. The maturities of the Company’s long-term marketable securities generally range from one to five years.
 13
 
-PAGE NUMBER: 14
 
 As of September 27, 2014 and September 28, 2013, gross unrealized losses related to individual securities that had been in a continuous loss position for 12 months or longer were not significant.
 As of September 27, 2014, the Company considers the declines in market value of its marketable securities investment portfolio to be temporary in nature and does not consider any of its investments other-than-temporarily impaired. The Company typically invests in highly-rated securities, and its investment policy limits the amount of credit exposure to any one issuer. The policy generally requires investments to be investment grade, with the primary objective of minimizing the potential risk of principal loss. Fair values were determined for each individual security in the investment portfolio. When evaluating an investment for other-than-temporary impairment, the Company reviews factors such as the length of time and extent to which fair value has been below its cost basis, the financial condition of the issuer and any changes thereto, changes in market interest rates, and the Company’s intent to sell, or whether it is more likely than not it will be required to sell, the investment before recovery of the investment’s cost basis. During 2014, 2013 and 2012 the Company did not recognize any significant impairment charges.
@@ -961,7 +926,6 @@ The Company records all derivatives in the Consolidated Balance Sheets at fair v
 Deferred gains and losses associated with cash flow hedges of foreign currency revenue are recognized as a component of net sales in the same period as the related revenue is recognized, and deferred gains and losses related to cash flow hedges of inventory purchases are recognized as a component of cost of sales in the same period as the related costs are recognized. Deferred gains and losses associated with cash flow hedges of interest income or expense are recognized as a component of other income/(expense), net in the same period as the related income or expense is recognized. The Company’s foreign currency and interest rate transactions hedged with cash flow hedges as of September 27, 2014 are expected to occur within 12 months and four years, respectively.
 14
 
-PAGE NUMBER: 15
 
 Derivative instruments designated as cash flow hedges must be de-designated as hedges when it is probable the forecasted hedged transaction will not occur in the initially identified time period or within a subsequent two-month time period. Deferred gains and losses in AOCI associated with such derivative instruments are reclassified immediately into other income and expense. Any subsequent changes in fair value of such derivative instruments are reflected in other income and expense unless they are re-designated as hedges of other transactions. The Company did not recognize any significant net gains or losses related to the loss of hedge designation on discontinued cash flow hedges during 2014, 2013 and 2012.
 The gain/loss recognized in other income and expense for foreign currency forward and option contracts not designated as hedging instruments was not significant during 2014, 2013 and 2012. These amounts represent the net gain or loss on the derivative contracts and do not include changes in the related exposures, which generally offset a portion of the gain or loss on the derivative contracts.
@@ -984,7 +948,6 @@ The Company generally enters into master netting arrangements, which are designe
 Under master netting arrangements with the respective counterparties to the Company’s derivative contracts, the Company is allowed to net settle transactions with a single net amount payable by one party to the other. As of September 27, 2014 and September 28, 2013, the potential effects of these rights of set-off associated with the Company’s derivative contracts, including the effects of collateral, would be a reduction to both derivative assets and derivative liabilities of $1.6 billion and $333 million, respectively, resulting in net derivative liabilities of $549 million and $57 million, respectively.
 15
 
-PAGE NUMBER: 16
 
 The following tables show the Company’s derivative instruments at gross fair value as reflected in the Consolidated Balance Sheets as of September 27, 2014 and September 28, 2013 (in millions):
 
@@ -1032,7 +995,6 @@ Interest rate contracts		$	39			$	0			$	0			$	(39	)		$	0			$	0
 The Company recognized a charge of $120 million, $301 million and $658 million in other income and expense during 2014, 2013 and 2012, respectively, for the ineffective portions of and amounts excluded from the effectiveness testing of cash flow hedges. The ineffective portions of and amounts excluded from the effectiveness testing of net investment and fair value hedges recognized in other income and expense were not significant during 2014, 2013 and 2012.
 16
 
-PAGE NUMBER: 17
 
 Accounts Receivable
 Trade Receivables
@@ -1066,7 +1028,6 @@ Net property, plant and equipment		$	20,624			$	16,597
 								
 17
 
-PAGE NUMBER: 18
 
 Accrued Expenses
 
@@ -1109,7 +1070,6 @@ The Company completed various business acquisitions during 2013 for an aggregate
 The Company’s gross carrying amount of goodwill was $4.6 billion and $1.6 billion as of September 27, 2014 and September 28, 2013, respectively. The Company did not have any goodwill impairments during 2014, 2013 or 2012.
 18
 
-PAGE NUMBER: 19
 
 The following table summarizes the components of gross and net intangible asset balances as of September 27, 2014 and September 28, 2013 (in millions):
 
@@ -1160,7 +1120,6 @@ Provision for income taxes		$	13,973			$	13,118			$	14,030
 The foreign provision for income taxes is based on foreign pre-tax earnings of $33.6 billion, $30.5 billion and $36.8 billion in 2014, 2013 and 2012, respectively. The Company’s consolidated financial statements provide for any related tax liability on undistributed earnings that the Company does not intend to be indefinitely reinvested outside the U.S. Substantially all of the Company’s undistributed international earnings intended to be indefinitely reinvested in operations outside the U.S. were generated by subsidiaries organized in Ireland, which has a statutory tax rate of 12.5%. As of September 27, 2014, U.S. income taxes have not been provided on a cumulative total of $69.7 billion of such earnings. The amount of unrecognized deferred tax liability related to these temporary differences is estimated to be approximately $23.3 billion.
 19
 
-PAGE NUMBER: 20
 
 As of September 27, 2014 and September 28, 2013, $137.1 billion and $111.3 billion, respectively, of the Company’s cash, cash equivalents and marketable securities were held by foreign subsidiaries and are generally based in U.S.
 dollar-denominated
@@ -1207,7 +1166,6 @@ Net deferred tax liabilities		$	(15,120	)		$	(12,282	)
 Deferred tax assets and liabilities reflect the effects of tax losses, credits and the future income tax effects of temporary differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective tax bases and are measured using enacted tax rates that apply to taxable income in the years in which those temporary differences are expected to be recovered or settled.
 20
 
-PAGE NUMBER: 21
 
 Uncertain Tax Positions
 Tax positions are evaluated in a two-step process. The Company first determines whether it is more likely than not that a tax position will be sustained upon examination. If a tax position meets the more-likely-than-not recognition threshold it is then measured to determine the amount of benefit to recognize in the financial statements. The tax position is measured as the largest amount of benefit that is greater than 50% likely of being realized upon ultimate settlement. The Company classifies gross interest and penalties and unrecognized tax benefits that are not expected to result in payment or receipt of cash within one year as non-current liabilities in the Consolidated Balance Sheets.
@@ -1234,7 +1192,6 @@ Commercial Paper
 In April 2014, the Board of Directors authorized the Company to issue unsecured short-term promissory notes (“Commercial Paper”) pursuant to a commercial paper program. The Company intends to use net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of September 27, 2014, the Company had $6.3 billion of Commercial Paper outstanding, with a weighted-average interest rate of 0.12% and maturities generally less than nine months.
 21
 
-PAGE NUMBER: 22
 
 The following table provides a summary of cash flows associated with the issuance and maturities of Commercial Paper for 2014 (in millions):
 
@@ -1282,7 +1239,6 @@ The Company has entered, and may enter in the future, into interest rate swaps t
 The effective rates for the Notes include the interest on the Notes, amortization of the discount and, if applicable, adjustments related to hedging. The Company recognized $381 million and $136 million of interest expense on its long-term debt for the years ended September 27, 2014 and September 28, 2013, respectively. The Company did not have any long-term debt in 2012.
 22
 
-PAGE NUMBER: 23
 
 Future principal payments for the Company’s Notes as of September 27, 2014, are as follows (in millions):
 
@@ -1327,7 +1283,6 @@ Share Repurchase Program
 In 2012, the Company’s Board of Directors authorized a program to repurchase up to $10 billion of the Company’s common stock beginning in 2013. The Company’s Board of Directors increased the share repurchase authorization to $60 billion in April 2013 and to $90 billion in April 2014. As of September 27, 2014, $67.9 billion of the $90 billion had been utilized. The Company’s share repurchase program does not obligate it to acquire any specific number of shares. Under the program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
 23
 
-PAGE NUMBER: 24
 
 The Company has entered into four accelerated share repurchase arrangements (“ASRs”) with financial institutions beginning in August 2012. In exchange for up-front payments, the financial institutions deliver shares of the Company’s common stock during the purchase periods of each ASR. The total number of shares ultimately delivered, and therefore the average repurchase price paid per share, will be determined at the end of the applicable purchase period of each ASR based on the volume weighted-average price of the Company’s common stock during that period. The shares received are retired in the periods they are delivered, and the up-front payments are accounted for as a reduction to shareholders’ equity in the Company’s Consolidated Balance Sheet in the periods the payments are made. The Company reflects the ASRs as a repurchase of common stock in the period delivered for purposes of calculating earnings per share and as forward contracts indexed to its own common stock. The ASRs met all of the applicable criteria for equity classification, and therefore, were not accounted for as derivative instruments.
 The following table presents the Company’s ASRs:
@@ -1364,7 +1319,6 @@ Total			135,740							$	9,000
 												
 24
 
-PAGE NUMBER: 25
 
 Note 8 – Comprehensive Income
 Comprehensive income consists of two components, net income and OCI. OCI refers to revenue, expenses, and gains and losses that under GAAP are recorded as an element of shareholders’ equity but are excluded from net income. The Company’s OCI consists of foreign currency translation adjustments from those subsidiaries not using the U.S. dollar as their functional currency, net deferred gains and losses on certain derivative instruments accounted for as cash flow hedges and unrealized gains and losses on marketable securities classified as available-for-sale.
@@ -1399,7 +1353,6 @@ Balance at September 27, 2014		$	(242	)		$	1,364			$	(40	)		$	1,082
 																
 25
 
-PAGE NUMBER: 26
 
 Note 9 – Benefit Plans
 Stock Plans
@@ -1413,7 +1366,6 @@ Rule 10b5-1 Trading Plans
 During the fourth quarter of 2014, Section 16 officers Timothy D. Cook, Luca Maestri, Daniel Riccio, Philip W. Schiller, D. Bruce Sewell and Jeffrey E. Williams had equity trading plans in place in accordance with Rule 10b5-1(c)(1) under the Exchange Act. An equity trading plan is a written document that pre-establishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of future purchases or sales of the Company’s stock, including shares acquired pursuant to the Company’s employee and director equity plans.
 26
 
-PAGE NUMBER: 27
 
 Employee Stock Purchase Plan
 The Employee Stock Purchase Plan (the “Purchase Plan”) is a shareholder approved plan under which substantially all employees may purchase the Company’s common stock through payroll deductions at a price equal to 85% of the lower of the fair market values of the stock as of the beginning or the end of six-month offering periods. An employee’s payroll deductions under the Purchase Plan are limited to 10% of the employee’s compensation and employees may not purchase more than $25,000 of stock during any calendar year. As of September 27, 2014, approximately 7.6 million shares were reserved for future issuance under the Purchase Plan.
@@ -1447,7 +1399,6 @@ Stock Options
 The Company had 6.6 million stock options outstanding as of September 27, 2014, with a weighted-average exercise price per share of $21.99 and weighted-average remaining contractual term of 1.4 years, substantially all of which are exercisable. The aggregate intrinsic value of the stock options outstanding as of September 27, 2014 was $520 million, which represents the value of the Company’s closing stock price on the last trading day of the period in excess of the weighted-average exercise price multiplied by the number of options outstanding. Total intrinsic value of options at time of exercise was $1.5 billion, $1.0 billion and $2.3 billion for 2014, 2013 and 2012, respectively.
 27
 
-PAGE NUMBER: 28
 
 Share-based Compensation
 The following table shows a summary of the share-based compensation expense included in the Consolidated Statements of Operations for 2014, 2013 and 2012 (in millions):
@@ -1480,7 +1431,6 @@ The Company generally does not indemnify end-users of its operating system and a
 The Company has entered into indemnification agreements with its directors and executive officers. Under these agreements, the Company has agreed to indemnify such individuals to the fullest extent permitted by law against liabilities that arise by reason of their status as directors or officers and to advance expenses incurred by such individuals in connection with related legal proceedings. It is not possible to determine the maximum potential amount of payments the Company could be required to make under these agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each claim. However, the Company maintains directors and officers liability insurance coverage to reduce its exposure to such obligations, and payments made under these agreements historically have not been material.
 28
 
-PAGE NUMBER: 29
 
 Concentrations in the Available Sources of Supply of Materials and Product
 Although most components essential to the Company’s business are generally available from multiple sources, a number of components are currently obtained from single or limited sources. In addition, the Company competes for various components with other participants in the markets for mobile communication and media devices and personal computers. Therefore, many components used by the Company, including those that are available from multiple sources, are at times subject to industry-wide shortage and significant pricing fluctuations that could materially adversely affect the Company’s financial condition and operating results.
@@ -1505,7 +1455,6 @@ Total		$	4,987
 				
 29
 
-PAGE NUMBER: 30
 
 Other Commitments
 The Company utilizes several outsourcing partners to manufacture sub-assemblies for the Company’s products and to perform final assembly and testing of finished products. These outsourcing partners acquire components and build product based on demand information supplied by the Company, which typically covers periods up to 150 days. The Company also obtains individual components for its products from a wide variety of individual suppliers. Consistent with industry practice, the Company acquires components through a combination of purchase orders, supplier contracts and open orders based on projected demand information. Where appropriate, the purchases are applied to inventory component prepayments that are outstanding with the respective supplier. As of September 27, 2014, the Company had outstanding off-balance sheet third-party manufacturing commitments and component purchase commitments of $24.5 billion.
@@ -1518,7 +1467,6 @@ VirnetX, Inc. v. Apple Inc. et al.
 On August 11, 2010, VirnetX, Inc. filed an action against the Company alleging that certain of its products infringed on four patents relating to network communications technology. On November 6, 2012, a jury returned a verdict against the Company, and awarded damages of $368 million. On September 16, 2014, the Court of Appeals for the Federal Circuit affirmed the District Court’s decision in part, reversed in part, and vacated the damages award. The case has been remanded for further proceedings.
 30
 
-PAGE NUMBER: 31
 
 Note 11 – Segment Information and Geographic Data
 The Company reports segment information based on the “management” approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
@@ -1550,7 +1498,6 @@ Net sales		$	11,248			$	12,039			$	11,453
 Operating income		$	3,674			$	3,762			$	4,321	
 31
 
-PAGE NUMBER: 32
 
 A reconciliation of the Company’s segment operating income to the Consolidated Statements of Operations for 2014, 2013 and 2012, is as follows (in millions):
 
@@ -1600,7 +1547,6 @@ Total net sales		$	182,795			$	170,910			$	156,508
 	(3)	Includes sales of iPod, Apple TV, Beats Electronics and Apple-branded and third-party accessories.	
 32
 
-PAGE NUMBER: 33
 
 Note 12 – Selected Quarterly Financial Information (Unaudited)
 The following tables show a summary of the Company’s quarterly financial information for each of the four quarters of 2014 and 2013 (in millions, except per share amounts):
@@ -1629,7 +1575,6 @@ Diluted		$	1.18			$	1.07			$	1.44			$	1.97
 	(1)	Basic and diluted earnings per share are computed independently for each of the quarters presented. Therefore, the sum of quarterly basic and diluted per share information may not equal annual basic and diluted earnings per share.	
 33
 
-PAGE NUMBER: 34
 
 Report of Ernst & Young LLP, Independent Registered Public Accounting Firm
 The Board of Directors and Shareholders of Apple Inc.

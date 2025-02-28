@@ -44,12 +44,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-?xml version="1.0" ?
-XBRL Document Created with Wdesk from Workiva
-Copyright 2020 Workiva
-r:5595bda7-992d-4241-bfcc-976a7edbf862,g:a71cbd11-d0c6-4466-a60e-9f48342467d1,d:ef781ab58e4f4fcaa872ddbd30da40e1
 aapl-20200926
 
 
@@ -124,7 +119,6 @@ shares of common stock were issued and outstanding as of October 16, 2020.
 DOCUMENTS INCORPORATED BY REFERENCE
 Portions of the Registrant’s definitive proxy statement relating to its 2021 annual meeting of shareholders (the “2021 Proxy Statement”) are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The 2021 Proxy Statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
 
-PAGE NUMBER: 2
 
 Apple Inc.
 Form 10-K
@@ -160,7 +154,6 @@ Part IV
 Item 15.	ExhibitandFinancial Statement Schedules	64
 Item 16.	Form 10-K Summary	66
 
-PAGE NUMBER: 3
 
 This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of the COVID-19 pandemic on the Company’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
 Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
@@ -200,7 +193,6 @@ Advertising
 The Company’s advertising services include various third-party licensing arrangements and the Company’s own advertising platforms.
 Apple Inc. | 2020 Form 10-K | 1
 
-PAGE NUMBER: 4
 
 AppleCare
 The Company offers a portfolio of fee-based service and support products under the AppleCare
@@ -230,7 +222,6 @@ The markets for the Company’s products and services are highly competitive, an
 The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company believes it is unique in that it designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.
 Apple Inc. | 2020 Form 10-K | 2
 
-PAGE NUMBER: 5
 
 The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets and other electronic devices and services. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors may have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company’s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. The Company expects competition in these markets to intensify significantly as competitors imitate the Company’s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.
 Supply of Components
@@ -246,7 +237,6 @@ The Company regularly files patent applications to protect innovations arising f
 In addition to Company-owned intellectual property, many of the Company’s products and services are designed to include intellectual property owned by third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company’s products, processes and services. While the Company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.
 Apple Inc. | 2020 Form 10-K | 3
 
-PAGE NUMBER: 6
 
 Business Seasonality and Product Introductions
 The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
@@ -256,7 +246,6 @@ Available Information
 The Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are filed with the Securities and Exchange Commission (the “SEC”). Such reports and other information filed by the Company with the SEC are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the SEC’s website. The Company periodically provides other information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, information on corporate governance and details related to the Company’s annual meeting of shareholders. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
 Apple Inc. | 2020 Form 10-K | 4
 
-PAGE NUMBER: 7
 
 Item 1A. Risk Factors
 The following discussion of risk factors contains forward-looking statements. These risk factors may be important to understanding other statements in this Form 10-K. The following information should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and accompanying notes in Part II, Item 8, “Financial Statements and Supplementary Data” of this Form 10-K.
@@ -272,7 +261,6 @@ The Company has international operations with sales outside the U.S. representin
 Adverse macroeconomic conditions, including inflation, slower growth or recession, new or increased tariffs and other barriers to trade, changes to fiscal and monetary policy, tighter credit, higher interest rates, high unemployment and currency fluctuations could materially adversely affect demand for the Company’s products and services. In addition, consumer confidence and spending could be adversely affected in response to financial market volatility, negative financial news, conditions in the real estate and mortgage markets, declines in income or asset values, changes to fuel and other energy costs, labor and healthcare costs and other economic factors.
 Apple Inc. | 2020 Form 10-K | 5
 
-PAGE NUMBER: 8
 
 In addition to an adverse impact on demand for the Company’s products, uncertainty about, or a decline in, global or regional economic conditions could have a significant impact on the Company’s suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners. Potential effects include financial instability; inability to obtain credit to finance operations and purchases of the Company’s products; and insolvency.
 A downturn in the economic environment could also lead to increased credit and collectibility risk on the Company’s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced liquidity; and declines in the fair value of the Company’s financial instruments. These and other economic factors could materially adversely affect the Company’s business, results of operations, financial condition and growth.
@@ -286,7 +274,6 @@ The Company’s services also face substantial competition, including from compa
 The Company’s financial condition and operating results depend substantially on the Company’s ability to continually improve its products and services to maintain their functional and design advantages. There can be no assurance the Company will be able to continue to provide products and services that compete effectively.
 Apple Inc. | 2020 Form 10-K | 6
 
-PAGE NUMBER: 9
 
 To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and transitions of products and services.
 Due to the highly volatile and competitive nature of the industries in which the Company competes, the Company must continually introduce new products, services and technologies, enhance existing products and services, effectively stimulate customer demand for new and upgraded products and services, and successfully manage the transition to these new and upgraded products and services. The success of new product and service introductions depends on a number of factors including, but not limited to, timely and successful development, market acceptance, the Company’s ability to manage the risks associated with new product production ramp-up issues, the availability of application software for new products, the effective management of purchase commitments and inventory levels in line with anticipated product demand, the availability of products in appropriate quantities and at expected costs to meet anticipated demand, and the risk that new products and services may have quality or other defects or deficiencies. Accordingly, the Company cannot determine in advance the ultimate effect of new product and service introductions and transitions.
@@ -299,7 +286,6 @@ The Company records a write-down for product and component inventories that have
 The Company orders components for its products and builds inventory in advance of product announcements and shipments. Manufacturing purchase obligations cover the Company’s forecasted component and manufacturing requirements, typically for periods up to 150 days. Because the Company’s markets are volatile, competitive and subject to rapid technology and price changes, there is a risk the Company will forecast incorrectly and order or produce excess or insufficient amounts of components or products, or not fully utilize firm purchase commitments.
 Apple Inc. | 2020 Form 10-K | 7
 
-PAGE NUMBER: 10
 
 Future operating results depend upon the Company’s ability to obtain components in sufficient quantities on commercially reasonable terms.
 Because the Company currently obtains certain components from single or limited sources, the Company is subject to significant supply and pricing risks. Many components, including those that are available from multiple sources, are at times subject to industry-wide shortages and significant commodity pricing fluctuations that could materially adversely affect the Company’s financial condition and operating results. While the Company has entered into agreements for the supply of many components, there can be no assurance that the Company will be able to extend or renew these agreements on similar terms, or at all. Component suppliers may suffer from poor financial conditions, which can lead to business failure for the supplier or consolidation within a particular industry, further limiting the Company’s ability to obtain sufficient quantities of components on commercially reasonable terms. The effects of global or regional economic conditions on the Company’s suppliers, described in “
@@ -314,7 +300,6 @@ The Company relies on single-source outsourcing partners in the U.S., Asia and E
 The Company has invested in manufacturing process equipment, much of which is held at certain of its outsourcing partners, and has made prepayments to certain of its suppliers associated with long-term supply agreements. While these arrangements help ensure the supply of components and finished goods, if these outsourcing partners or suppliers experience severe financial problems or other disruptions in their business, such continued supply can be reduced or terminated, and the recoverability of manufacturing process equipment or prepayments can be negatively impacted.
 Apple Inc. | 2020 Form 10-K | 8
 
-PAGE NUMBER: 11
 
 The Company’s products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company’s business and result in harm to the Company’s reputation.
 The Company offers complex hardware and software products and services that can be affected by design and manufacturing defects. Sophisticated operating system software and applications, such as those offered by the Company, often have issues that can unexpectedly interfere with the intended operation of hardware or software products. Defects can also exist in components and products the Company purchases from third parties. Component defects could make the Company’s products unsafe and create a risk of environmental or property damage and personal injury. These risks may increase as the Company’s products are introduced into specialized applications, including healthcare. In addition, the Company’s service offerings may have quality issues and from time to time experience outages, service slowdowns or errors. As a result, the Company’s services may not perform as anticipated and may not meet customer expectations. There can be no assurance the Company will be able to detect and fix all issues and defects in the hardware, software and services it offers. Failure to do so could result in widespread technical and performance issues affecting the Company’s products and services. In addition, the Company can be exposed to product liability claims, recalls, product replacements or modifications, write-offs of inventory, property, plant and equipment, and/or intangible assets, and significant warranty and other expenses, including litigation costs and regulatory fines. Quality problems can also adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, delay in new product and service introductions and lost sales.
@@ -327,7 +312,6 @@ The Company believes the availability of third-party software applications and s
 The Company’s minority market share in the global smartphone, personal computer and tablet markets could make developers less inclined to develop or upgrade software for the Company’s products and more inclined to devote their resources to developing and upgrading software for competitors’ products with larger market share. If developers focus their efforts on these competing platforms, the availability and quality of applications for the Company’s devices may suffer.
 Apple Inc. | 2020 Form 10-K | 9
 
-PAGE NUMBER: 12
 
 The Company relies on the continued availability and development of compelling and innovative software applications for its products. The Company’s products and operating systems are subject to rapid technological change, and if third-party developers are unable to or choose not to keep up with this pace of change, third-party applications might not take advantage of these changes to deliver improved customer experiences or might not operate correctly and may result in dissatisfied customers.
 The Company sells and delivers third-party applications for its products through the App Store. For the vast majority of applications, developers keep all of the revenue they generate on the App Store. The Company only retains a commission from sales of applications through its platforms and in situations where a developer offers purchases for digital features, services, or goods within an application. If developers reduce their use of the Company’s platforms, including in-app purchases, then the volume of sales, and the commission that the Company earns on those sales, would decrease. If the rate of the commission that the Company retains on such sales is reduced, or if it is otherwise narrowed in scope or eliminated, the Company’s financial condition and operating results could be materially adversely affected.
@@ -342,7 +326,6 @@ The outcome of litigation or government investigations is inherently uncertain. 
 While the Company maintains insurance coverage for certain types of claims, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
 Apple Inc. | 2020 Form 10-K | 10
 
-PAGE NUMBER: 13
 
 The Company is subject to complex and changing laws and regulations worldwide, which exposes the Company to potential liabilities, increased costs and other adverse effects on the Company’s business.
 The Company’s global operations are subject to complex and changing laws and regulations on subjects including, but not limited to: antitrust; privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; product liability; intellectual property ownership and infringement; digital platforms; Internet, telecommunications, and mobile communications; media, television, film and digital content; availability of third-party software applications and services; labor and employment; anti-corruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti–money laundering; foreign ownership and investment; tax; and environmental, health and safety.
@@ -355,7 +338,6 @@ Investment in new business strategies and acquisitions could disrupt the Company
 The Company has invested, and in the future may invest, in new business strategies or acquisitions. Such endeavors may involve significant risks and uncertainties, including distraction of management from current operations, greater-than-expected liabilities and expenses, economic, political, legal and regulatory challenges associated with operating in new businesses, regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-offs. These new ventures are inherently risky and may not be successful. The failure of any significant investment could adversely affect the Company’s reputation, financial condition and operating results.
 Apple Inc. | 2020 Form 10-K | 11
 
-PAGE NUMBER: 14
 
 The Company’s business and reputation may be impacted by information technology system failures or network disruptions.
 The Company is exposed to information technology system failures or network disruptions caused by natural disasters, accidents, power disruptions, telecommunications failures, acts of terrorism or war, computer viruses, physical or electronic break-ins, or other events or disruptions. System redundancy and other continuity measures may be ineffective or inadequate, and the Company’s business continuity and disaster recovery planning may not be sufficient for all eventualities. Such failures or disruptions can adversely impact the Company’s business by, among other things, preventing access to the Company’s online services, interfering with customer transactions or impeding the manufacturing and shipping of the Company’s products. These events could materially adversely affect the Company’s reputation, financial condition and operating results.
@@ -370,7 +352,6 @@ Under payment card rules and obligations, if cardholder information is potential
 While the Company maintains insurance coverage that is intended to address certain aspects of data security risks, such insurance coverage may be insufficient to cover all losses or all types of claims that may arise.
 Apple Inc. | 2020 Form 10-K | 12
 
-PAGE NUMBER: 15
 
 The Company’s business is subject to a variety of U.S. and international laws, rules, policies and other obligations regarding data protection.
 The Company is subject to federal, state and international laws relating to the collection, use, retention, security and transfer of PII. In many cases, these laws apply not only to third-party transactions, but also may restrict transfers of PII among the Company and its international subsidiaries. Several jurisdictions have passed laws in this area, and other jurisdictions are considering imposing additional restrictions. These laws continue to develop and may be inconsistent from jurisdiction to jurisdiction. Complying with emerging and changing international requirements may cause the Company to incur substantial costs or require the Company to change its business practices. Noncompliance could result in significant penalties or legal liability.
@@ -383,7 +364,6 @@ The Company has a large, global business, and the Company believes that it gener
 Many of the Company’s operations and facilities, as well as critical business operations of the Company’s suppliers and contract manufacturers, are in locations that are prone to earthquakes and other natural disasters. In addition, such operations and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, labor disputes, public health issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Company’s control. Global climate change could result in certain types of natural disasters occurring more frequently or with more intense effects. Such events could make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, and result in slowdowns and outages to the Company’s service offerings. Following an interruption to its business, the Company could require substantial recovery time, experience significant expenditures to resume operations, and lose significant sales. Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company.
 Apple Inc. | 2020 Form 10-K | 13
 
-PAGE NUMBER: 16
 
 The Company’s operations are also subject to the risks of industrial accidents at its suppliers and contract manufacturers. While the Company’s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in disruption to the Company’s business and harm to the Company’s reputation. Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future adversely affect, the Company due to their impact on the global economy and demand for consumer products; the imposition of protective public safety measures, such as stringent employee travel restrictions and limitations on freight services and the movement of products between regions; and disruptions in the Company’s supply chain and sales and distribution channels, resulting in interruptions of the supply of current products and delays in production ramps of new products.
 While the Company maintains insurance coverage for certain types of losses, such insurance coverage may be insufficient to cover all losses that may arise.
@@ -397,7 +377,6 @@ The Company’s primary exposure to movements in foreign currency exchange rates
 The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of the Company’s foreign currency–denominated sales and earnings, and generally leads the Company to raise international pricing, potentially reducing demand for the Company’s products. In some circumstances, for competitive or other reasons, the Company may decide not to raise international pricing to offset the U.S. dollar’s strengthening, which would adversely affect the U.S. dollar value of the gross margins the Company earns on foreign currency–denominated sales.
 Apple Inc. | 2020 Form 10-K | 14
 
-PAGE NUMBER: 17
 
 Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign currency–denominated sales and earnings, could cause the Company to reduce international pricing and incur losses on its foreign currency derivative instruments, thereby limiting the benefit. Additionally, strengthening of foreign currencies may increase the Company’s cost of product components denominated in those currencies, thus adversely affecting gross margins.
 The Company uses derivative instruments, such as foreign currency forward and option contracts, to hedge certain exposures to fluctuations in foreign currency exchange rates. The use of such hedging activities may not be effective to offset any, or more than a portion, of the adverse financial effects of unfavorable movements in foreign exchange rates over the limited time the hedges are in place.
@@ -414,7 +393,6 @@ Item 2. Properties
 The Company’s headquarters are located in Cupertino, California. As of September 26, 2020, the Company owned or leased facilities and land for corporate functions, R&D, data centers, retail and other purposes at locations throughout the U.S. and in various places outside the U.S. The Company believes its existing facilities and equipment, which are used by all reportable segments, are in good operating condition and are suitable for the conduct of its business.
 Apple Inc. | 2020 Form 10-K | 15
 
-PAGE NUMBER: 18
 
 Item 3. Legal Proceedings
 The Company is subject to legal proceedings and claims that have not been fully resolved and that have arisen in the ordinary course of business. The Company’s material legal proceedings are described in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 10, “Commitments and Contingencies” under the heading “Contingencies.”
@@ -423,7 +401,6 @@ Item 4. Mine Safety Disclosures
 Not applicable.
 Apple Inc. | 2020 Form 10-K | 16
 
-PAGE NUMBER: 19
 
 PART II
 Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
@@ -454,7 +431,6 @@ As of September 26, 2020, the Company was authorized to purchase up to $225 bill
 In May 2020, the Company entered into an accelerated share repurchase arrangement (“ASR”) to purchase up to $6.0 billion of the Company’s common stock. In August 2020, the purchase period for this ASR ended and an additional 3 million shares were delivered and retired. In total, 64 million shares were delivered under this ASR at an average repurchase price of $94.14.
 Apple Inc. | 2020 Form 10-K | 17
 
-PAGE NUMBER: 20
 
 Company Stock Performance
 The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 26, 2020. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 25, 2015. Note that past stock price performance is not necessarily indicative of future stock price performance.
@@ -474,7 +450,6 @@ S&P Information Technology Index		$	100			$	123			$	158			$	208			$	226			$	333
 Dow Jones U.S. Technology Supersector Index		$	100			$	122			$	156			$	205			$	218			$	325	
 Apple Inc. | 2020 Form 10-K | 18
 
-PAGE NUMBER: 21
 
 Item 6. Selected Financial Data
 The information set forth below for the five years ended September 26, 2020, is not necessarily indicative of results of future operations, and should be read in conjunction with Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K to fully understand factors that may affect the comparability of the information presented below (in millions, except number of shares, which are reflected in thousands, and per share amounts).
@@ -501,7 +476,6 @@ Non-current portion of term debt	$	98,667			$	91,807			$	93,735			$	97,207			$	7
 Other non-current liabilities	$	54,490			$	50,503			$	48,914			$	44,212			$	39,986	
 Apple Inc. | 2020 Form 10-K | 19
 
-PAGE NUMBER: 22
 
 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K. This section of this Form 10-K generally discusses 2020 and 2019 items and year-to-year comparisons between 2020 and 2019. Discussions of 2018 items and year-to-year comparisons between 2019 and 2018 that are not included in this Form 10-K can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended September 28, 2019.
@@ -517,7 +491,6 @@ In April 2020, the Company announced an increase to its current share repurchase
 On August 28, 2020, the Company effected a four-for-one stock split to shareholders of record as of August 24, 2020. All share, RSU and per share or per RSU information has been retroactively adjusted to reflect the stock split.
 Apple Inc. | 2020 Form 10-K | 20
 
-PAGE NUMBER: 23
 
 Products and Services Performance
 The following table shows net sales by category for 2020, 2019 and 2018 (dollars in millions):
@@ -552,7 +525,6 @@ Services
 Services net sales increased during 2020 compared to 2019 due primarily to higher net sales from the App Store, advertising and cloud services.
 Apple Inc. | 2020 Form 10-K | 21
 
-PAGE NUMBER: 24
 
 Segment Operating Performance
 The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region. Further information regarding the Company’s reportable segments can be found in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic Data.”
@@ -580,7 +552,6 @@ Rest of Asia Pacific
 Rest of Asia Pacific net sales increased during 2020 compared to 2019 due primarily to higher net sales of Wearables, Home and Accessories, Services and iPhone. The weakness in foreign currencies relative to the U.S. dollar had an unfavorable impact on Rest of Asia Pacific net sales during 2020.
 Apple Inc. | 2020 Form 10-K | 22
 
-PAGE NUMBER: 25
 
 Gross Margin
 Products and Services gross margin and gross margin percentage for 2020, 2019 and 2018 were as follows (dollars in millions):
@@ -618,7 +589,6 @@ Selling, General and Administrative
 The year-over-year growth in selling, general and administrative expense in 2020 was driven primarily by increases in headcount-related expenses, higher spending on marketing and advertising, and higher variable selling expenses.
 Apple Inc. | 2020 Form 10-K | 23
 
-PAGE NUMBER: 26
 
 Other Income/(Expense), Net
 Other income/(expense), net (“OI&E”) for 2020, 2019 and 2018 was as follows (dollars in millions):
@@ -648,7 +618,6 @@ Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losse
 (“ASU 2016-13”), which modifies the measurement of expected credit losses on certain financial instruments. The Company will adopt ASU 2016-13 in its first quarter of 2021 utilizing the modified retrospective transition method. Based on the composition of the Company’s investment portfolio, current market conditions, and historical credit loss activity, the adoption of ASU 2016-13 will not have a material impact on its consolidated financial statements.
 Apple Inc. | 2020 Form 10-K | 24
 
-PAGE NUMBER: 27
 
 Liquidity and Capital Resources
 The following table presents selected financial information and statistics as of and for the years ended September 26, 2020, September 28, 2019 and September 29, 2018 (in millions):
@@ -678,7 +647,6 @@ The Company issues unsecured short-term promissory notes (“Commercial Paper”
 The Company may enter into agreements to sell certain of its marketable securities with a promise to repurchase the securities at a specified time and amount as an additional short-term liquidity arrangement.
 Apple Inc. | 2020 Form 10-K | 25
 
-PAGE NUMBER: 28
 
 As of September 26, 2020, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate principal amount of $106.1 billion (collectively the “Notes”). During 2020, the Company issued $16.1 billion and repaid or redeemed $12.6 billion of Notes. The Company has entered, and in the future may enter, into interest rate swaps to manage interest rate risk on the Notes. In addition, the Company has entered, and in the future may enter, into foreign currency swaps to manage foreign currency risk on the Notes.
 Further information regarding the Company’s debt issuances and related hedging activity can be found in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 3, “Financial Instruments” and Note 6, “Debt.”
@@ -707,7 +675,6 @@ Other Purchase Obligations
 The Company’s other purchase obligations consist of noncancelable obligations to acquire capital assets, including product tooling and manufacturing process equipment, and noncancelable obligations related to advertising, licensing, R&D, Internet and telecommunications services, content creation and other activities.
 Apple Inc. | 2020 Form 10-K | 26
 
-PAGE NUMBER: 29
 
 Deemed Repatriation Tax Payable
 As of September 26, 2020, a significant portion of the other non-current liabilities in the Company’s Consolidated Balance Sheet consisted of the deemed repatriation tax payable imposed by the Act. The Company plans to pay the deemed repatriation tax payable in installments in accordance with the Act.
@@ -723,7 +690,6 @@ Valuation of Manufacturing-Related Assets and Estimation of Inventory Purchase C
 The Company invests in manufacturing-related assets, including capital assets held at its suppliers’ facilities and prepayments provided to certain of its suppliers associated with long-term agreements to secure the supply of inventory. The Company also accrues estimated purchase commitment cancellation fees related to inventory orders that have been canceled or are expected to be canceled. The Company’s estimates of future product development plans and demand for its products are key inputs in determining the recoverability of manufacturing-related assets and assessing the adequacy of any purchase commitment cancellation fee accruals. If there is an abrupt and substantial decline in estimated demand for one or more of the Company’s products, a change in the Company’s product development plans, or an unanticipated change in technological requirements for any of the Company’s products, the Company may be required to record write-downs or impairments of manufacturing-related assets or accrue purchase commitment cancellation fees.
 Apple Inc. | 2020 Form 10-K | 27
 
-PAGE NUMBER: 30
 
 Warranty Costs
 The Company offers limited warranties on its new and certified refurbished hardware products and on parts used to repair its hardware products, and customers may purchase extended service coverage, where available, on many of the Company’s hardware products. The Company accrues the estimated cost of warranties in the period the related revenue is recognized based on historical and projected warranty claim rates, historical and projected cost per claim and knowledge of specific product failures outside the Company’s typical experience. If actual product failure rates or repair costs differ from estimates, revisions to the estimated warranty liabilities would be required.
@@ -740,7 +706,6 @@ The Company’s exposure to changes in interest rates relates primarily to the C
 The Company’s investment policy and strategy are focused on the preservation of capital and supporting the Company’s liquidity requirements. The Company uses a combination of internal and external management to execute its investment strategy and achieve its investment objectives. The Company typically invests in highly rated securities, with the primary objective of minimizing the potential risk of principal loss. The Company’s investment policy generally requires securities to be investment grade and limits the amount of credit exposure to any one issuer. To provide a meaningful assessment of the interest rate risk associated with the Company’s investment portfolio, the Company performed a sensitivity analysis to determine the impact a change in interest rates would have on the value of the investment portfolio assuming a 100 basis point parallel shift in the yield curve. Based on investment positions as of September 26, 2020 and September 28, 2019, a hypothetical 100 basis point increase in interest rates across all maturities would result in a $3.1 billion and $2.8 billion incremental decline in the fair market value of the portfolio, respectively. Such losses would only be realized if the Company sold the investments prior to maturity.
 Apple Inc. | 2020 Form 10-K | 28
 
-PAGE NUMBER: 31
 
 As of September 26, 2020 and September 28, 2019, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate carrying amount of $107.4 billion and $102.1 billion, respectively. The Company has entered, and in the future may enter, into interest rate swaps to manage interest rate risk on its outstanding term debt. Interest rate swaps allow the Company to effectively convert fixed-rate payments into floating-rate payments or floating-rate payments into fixed-rate payments. Gains and losses on term debt are generally offset by the corresponding losses and gains on the related hedging instrument. A 100 basis point increase in market interest rates would cause interest expense on the Company’s debt as of September 26, 2020 and September 28, 2019 to increase by $218 million and $325 million on an annualized basis, respectively.
 Foreign Currency Risk
@@ -750,7 +715,6 @@ To provide an assessment of the foreign currency risk associated with certain of
 Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ materially from the sensitivity analyses performed as of September 26, 2020 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.
 Apple Inc. | 2020 Form 10-K | 29
 
-PAGE NUMBER: 32
 
 Item 8. Financial Statements and Supplementary Data
 
@@ -768,7 +732,6 @@ Reports of Independent Registered Public Accounting Firm		59
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes.
 Apple Inc. | 2020 Form 10-K | 30
 
-PAGE NUMBER: 33
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF OPERATIONS
@@ -810,7 +773,6 @@ Diluted	17,528,214			18,595,651			20,000,435
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2020 Form 10-K | 31
 
-PAGE NUMBER: 34
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
@@ -839,7 +801,6 @@ Total comprehensive income	$	57,453			$	58,037			$	56,505
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2020 Form 10-K | 32
 
-PAGE NUMBER: 35
 
 Apple Inc.
 CONSOLIDATED BALANCE SHEETS
@@ -891,7 +852,6 @@ Total liabilities and shareholders’ equity	$	323,888			$	338,516
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2020 Form 10-K | 33
 
-PAGE NUMBER: 36
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
@@ -931,7 +891,6 @@ Dividends and dividend equivalents declared per share or RSU	$	0.795			$	0.75			
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2020 Form 10-K | 34
 
-PAGE NUMBER: 37
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF CASH FLOWS
@@ -986,7 +945,6 @@ Cash paid for interest	$	3,002			$	3,423			$	3,022
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2020 Form 10-K | 35
 
-PAGE NUMBER: 38
 
 Apple Inc.
 Notes to Consolidated Financial Statements
@@ -1020,7 +978,6 @@ Share-Based Compensation
 The Company generally measures share-based compensation based on the closing price of the Company’s common stock on the date of grant, and recognizes expense on a straight-line basis for its estimate of equity awards that will ultimately vest. Further information regarding share-based compensation can be found in Note 9, “Benefit Plans.”
 Apple Inc. | 2020 Form 10-K | 36
 
-PAGE NUMBER: 39
 
 Earnings Per Share
 The following table shows the computation of basic and diluted earnings per share for 2020, 2019 and 2018 (net income in millions and shares in thousands):
@@ -1075,7 +1032,6 @@ Non-cash investing activities involving property, plant and equipment resulted i
 billion during 2019 and 2018, respectively.
 Apple Inc. | 2020 Form 10-K | 37
 
-PAGE NUMBER: 40
 
 Non-Marketable Securities
 The Company has elected to apply the measurement alternative to equity securities without readily determinable fair values. As such, the Company’s non-marketable equity securities are measured at cost, less any impairment, and are adjusted for changes in fair value resulting from observable transactions for identical or similar investments of the same issuer. Gains and losses on non-marketable equity securities are recognized in OI&E.
@@ -1094,7 +1050,6 @@ performance obligations regularly included in arrangements involving the sale of
 For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and has elected not to disclose amounts, related to these undelivered services.
 Apple Inc. | 2020 Form 10-K | 38
 
-PAGE NUMBER: 41
 
 For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products including, but not limited to, evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store and certain digital content sold through the Company’s other digital content stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.
 The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
@@ -1141,7 +1096,6 @@ billion of revenue recognized in 2018 that was included in deferred revenue as o
 The Company’s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 11, “Segment Information and Geographic Data” for 2020, 2019 and 2018.
 Apple Inc. | 2020 Form 10-K | 39
 
-PAGE NUMBER: 42
 
 Note 3 –
 Financial Instruments
@@ -1199,7 +1153,6 @@ billion and $
 billion, respectively, that was restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes”) and other agreements.
 Apple Inc. | 2020 Form 10-K | 40
 
-PAGE NUMBER: 43
 
 The Company may sell certain of its marketable debt securities prior to their stated maturities for reasons including, but not limited to, managing liquidity, credit risk, duration and asset allocation. The maturities of the Company’s non-current marketable debt securities generally range from
 one
@@ -1236,7 +1189,6 @@ years.
 The Company may also enter into non-designated foreign currency contracts to offset a portion of the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
 Apple Inc. | 2020 Form 10-K | 41
 
-PAGE NUMBER: 44
 
 To protect the Company’s foreign currency–denominated term debt or marketable securities from fluctuations in interest rates, the Company may enter into interest rate swaps, options or other instruments. These instruments may offset a portion of the changes in interest income or expense, or changes in fair value. The Company designates these instruments as either cash flow or fair value hedges. As of September 26, 2020, the Company’s hedged interest rate transactions are expected to be recognized within
 seven years
@@ -1272,7 +1224,6 @@ Foreign exchange contracts	$	1,561			$	485			$	2,046
 					
 Apple Inc. | 2020 Form 10-K | 42
 
-PAGE NUMBER: 45
 
 
 
@@ -1313,7 +1264,6 @@ The amount excluded from the effectiveness assessment of the Company’s hedges 
 million for 2020.
 Apple Inc. | 2020 Form 10-K | 43
 
-PAGE NUMBER: 46
 
 The following tables show information about the Company’s derivative instruments designated as fair value hedges and the related hedged items for 2020, 2019 and 2018 and as of September 26, 2020 (in millions):
 
@@ -1357,7 +1307,6 @@ Foreign exchange contracts	$	88,636			$	303			$	76,868			$	323
 The notional amounts for outstanding derivative instruments provide one measure of the transaction volume outstanding and do not represent the amount of the Company’s exposure to credit or market loss. The credit risk amounts represent the Company’s gross exposure to potential accounting loss on derivative instruments that are outstanding or unsettled if all counterparties failed to perform according to the terms of the contract, based on then-current currency or interest rates at each respective date. The Company’s exposure to credit loss and market risk will vary over time as currency and interest rates change. Although the table above reflects the notional and credit risk amounts of the Company’s derivative instruments, it does not reflect the gains or losses associated with the exposures and transactions that the instruments are intended to hedge. The amounts ultimately realized upon settlement of these financial instruments, together with the gains and losses on the underlying exposures, will depend on actual market conditions during the remaining life of the instruments.
 Apple Inc. | 2020 Form 10-K | 44
 
-PAGE NUMBER: 47
 
 The Company generally enters into master netting arrangements, which are designed to reduce credit risk by permitting net settlement of transactions with the same counterparty. To further limit credit risk, the Company generally enters into collateral security arrangements that provide for collateral to be received or posted when the net fair value of certain financial instruments fluctuates from contractually established thresholds. The Company presents its derivative assets and derivative liabilities at their gross fair values in its Consolidated Balance Sheets. As of September 26, 2020 and September 28, 2019, the net cash collateral received by the Company related to derivative instruments under its collateral security arrangements was $
 875
@@ -1413,7 +1362,6 @@ Other non-current liabilities	26,320			20,958
 Total other non-current liabilities	$	54,490			$	50,503	
 Apple Inc. | 2020 Form 10-K | 45
 
-PAGE NUMBER: 48
 
 Other Income/(Expense), Net
 The following table shows the detail of OI&E for 2020, 2019 and 2018 (in millions):
@@ -1475,7 +1423,6 @@ Provision for income taxes	$	9,680			$	10,481			$	13,372
 Effective tax rate	14.4	%		15.9	%		18.3	%
 Apple Inc. | 2020 Form 10-K | 46
 
-PAGE NUMBER: 49
 
 Deferred Tax Assets and Liabilities
 As of September 26, 2020 and September 28, 2019, the significant components of the Company’s deferred tax assets and liabilities were (in millions):
@@ -1524,7 +1471,6 @@ The Company is subject to taxation and files income tax returns in the U.S. fede
 billion.
 Apple Inc. | 2020 Form 10-K | 47
 
-PAGE NUMBER: 50
 
 Interest and Penalties
 The Company includes interest and penalties related to income tax matters within the provision for income taxes.
@@ -1582,7 +1528,6 @@ In 2020, the Company entered into agreements to sell certain of its marketable s
 billion of Repos during 2020, all of which had been settled as of September 26, 2020.
 Apple Inc. | 2020 Form 10-K | 48
 
-PAGE NUMBER: 51
 
 Term Debt
 As of September 26, 2020, the Company had outstanding floating- and fixed-rate notes with varying maturities for an aggregate principal amount of $
@@ -1638,7 +1583,6 @@ As of September 26, 2020 and September 28, 2019, the fair value of the Company�
 billion, respectively.
 Apple Inc. | 2020 Form 10-K | 49
 
-PAGE NUMBER: 52
 
 Note 7 –
 Shareholders’ Equity
@@ -1685,7 +1629,6 @@ Unrealized (gains)/losses on marketable debt securities		Other income/(expense),
 Total amounts reclassified from AOCI				$	(1,627)			$	134	
 Apple Inc. | 2020 Form 10-K | 50
 
-PAGE NUMBER: 53
 
 The following table shows the changes in AOCI by component for 2020 and 2019 (in millions):
 
@@ -1729,7 +1672,6 @@ times the number of RSUs granted. The Director Plan expires on November 12, 2027
 million shares were reserved for future issuance under the Director Plan.
 Apple Inc. | 2020 Form 10-K | 51
 
-PAGE NUMBER: 54
 
 Rule 10b5-1 Trading Plans
 During the three months ended September 26, 2020, Section 16 officers Katherine L. Adams, Timothy D. Cook, Chris Kondo, Luca Maestri, Deirdre O’Brien and Jeffrey Williams had equity trading plans in place in accordance with Rule 10b5-1(c)(1) under the Exchange Act. An equity trading plan is a written document that pre-establishes the amounts, prices and dates (or formula for determining the amounts, prices and dates) of future purchases or sales of the Company’s stock, including shares acquired under the Company’s employee and director equity plans.
@@ -1793,7 +1735,6 @@ million for 2020, 2019 and 2018, respectively, and were based on the value of th
 billion in 2020, 2019 and 2018, respectively.
 Apple Inc. | 2020 Form 10-K | 52
 
-PAGE NUMBER: 55
 
 Share-Based Compensation
 The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2020, 2019 and 2018 (in millions):
@@ -1826,7 +1767,6 @@ The Company has entered into agreements for the supply of many components; howev
 Substantially all of the Company’s hardware products are manufactured by outsourcing partners that are located primarily in Asia, with some Mac computers manufactured in the U.S. and Ireland.
 Apple Inc. | 2020 Form 10-K | 53
 
-PAGE NUMBER: 56
 
 Unconditional Purchase Obligations
 The Company has entered into certain off–balance sheet commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of payments for supplier arrangements, Internet and telecommunication services, intellectual property licenses and content creation.
@@ -1859,7 +1799,6 @@ On March 16, 2020, the French Competition Authority (“FCA”) announced its de
 billion. The Company strongly disagrees with the FCA’s decision, and has appealed.
 Apple Inc. | 2020 Form 10-K | 54
 
-PAGE NUMBER: 57
 
 Optis
 Optis Wireless Technology, LLC and related entities (“Optis”) filed a lawsuit in the U.S. District Court for the Eastern District of Texas against the Company alleging that certain of the Company’s products infringe on patents owned by Optis. On August 11, 2020, a jury returned a verdict against the Company and awarded damages of $
@@ -1896,7 +1835,6 @@ Net sales	$	19,593			$	17,788			$	17,407
 Operating income	$	6,808			$	6,055			$	6,181	
 Apple Inc. | 2020 Form 10-K | 55
 
-PAGE NUMBER: 58
 
 A reconciliation of the Company’s segment operating income to the Consolidated Statements of Operations for 2020, 2019 and 2018 is as follows (in millions):
 
@@ -1946,7 +1884,6 @@ billion of fixed cash payments related to operating leases. Non-cash activities 
 billion for 2020, including the impact of adopting the new leases standard in the first quarter of 2020.
 Apple Inc. | 2020 Form 10-K | 56
 
-PAGE NUMBER: 59
 
 The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September 26, 2020 (in millions):
 
@@ -2003,7 +1940,6 @@ Basic	$	0.74			$	0.65			$	0.64			$	1.26
 Diluted	$	0.73			$	0.65			$	0.64			$	1.25	
 Apple Inc. | 2020 Form 10-K | 57
 
-PAGE NUMBER: 60
 
 
 
@@ -2021,7 +1957,6 @@ Diluted	$	0.76			$	0.55			$	0.61			$	1.05
 Basic and diluted earnings per share are computed independently for each of the quarters presented. Therefore, the sum of quarterly basic and diluted per share information may not equal annual basic and diluted earnings per share.
 Apple Inc. | 2020 Form 10-K | 58
 
-PAGE NUMBER: 61
 
 Report of Independent Registered Public Accounting Firm
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -2042,7 +1977,6 @@ The critical audit matter communicated below is a matter arising from the curren
 Description of the Matter	As discussed in Note 5 to the financial statements, Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. As of September 26, 2020, the total amount of gross unrecognized tax benefits was $16.5 billion, of which $8.8 billion, if recognized, would impact Apple Inc.’s effective tax rate. Apple Inc. uses significant judgment in the calculation of tax liabilities in estimating the impact of uncertainties in the application of technical merits and complex tax laws.Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.
 Apple Inc. | 2020 Form 10-K | 59
 
-PAGE NUMBER: 62
 
 
 
@@ -2054,7 +1988,6 @@ San Jose, California
 October 29, 2020
 Apple Inc. | 2020 Form 10-K | 60
 
-PAGE NUMBER: 63
 
 Report of Independent Registered Public Accounting Firm
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -2075,7 +2008,6 @@ San Jose, California
 October 29, 2020
 Apple Inc. | 2020 Form 10-K | 61
 
-PAGE NUMBER: 64
 
 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 None.
@@ -2098,7 +2030,6 @@ There were no changes in the Company’s internal control over financial reporti
 Item 9B. Other Information
 Apple Inc. | 2020 Form 10-K | 62
 
-PAGE NUMBER: 65
 
 PART III
 Item 10. Directors, Executive Officers and Corporate Governance
@@ -2113,7 +2044,6 @@ Item 14. Principal Accountant Fees and Services
 The information required by this Item is set forth under the subheadings “Fees Paid to Auditors” and “Policy on Audit Committee Pre-Approval of Audit and Non-Audit Services Performed by the Independent Registered Public Accounting Firm” under the proposal “Ratification of Appointment of Independent Registered Public Accounting Firm” in the Company’s 2021 Proxy Statement to be filed with the SEC within 120 days after September 26, 2020, and is incorporated herein by reference.
 Apple Inc. | 2020 Form 10-K | 63
 
-PAGE NUMBER: 66
 
 PART IV
 Item 15. Exhibit and Financial Statement Schedules
@@ -2153,7 +2083,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 4.8		Officer’s Certificate of the Registrant, dated as of July 31, 2015, including forms of global notes representing the 3.05% Notes due 2029 and 3.60% Notes due 2042.		8-K		4.1		7/31/15
 Apple Inc. | 2020 Form 10-K | 64
 
-PAGE NUMBER: 67
 
 
 
@@ -2183,7 +2112,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 10.4*		2003 Employee Stock Plan, as amended through February 25, 2010.		8-K		10.1		3/1/10
 Apple Inc. | 2020 Form 10-K | 65
 
-PAGE NUMBER: 68
 
 
 
@@ -2223,7 +2151,6 @@ Item 16. Form 10-K Summary
 None.
 Apple Inc. | 2020 Form 10-K | 66
 
-PAGE NUMBER: 69
 
 SIGNATURES
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -2269,10 +2196,7 @@ RONALD D. SUGAR
 SUSAN L. WAGNER			
 Apple Inc. | 2020 Form 10-K | 67
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2020 Workiva
 Document
 Exhibit 4.1
 DESCRIPTION OF THE REGISTRANT’S SECURITIES
@@ -2297,7 +2221,6 @@ The Company’s entire Board of Directors or any individual director may be remo
 Vacancies created by the removal of a director must be filled only by approval of the shareholders, or by the unanimous written consent of all shares entitled to vote. The shareholders may elect a director at any time to fill a vacancy not filled by the directors, but any such election by written consent, other than to fill a vacancy created by removal, requires the consent of a majority of the outstanding shares entitled to vote thereon.
 An amendment of the Bylaws or the Articles may be adopted by the vote of the majority of the outstanding shares entitled to vote. Any amendment of the Bylaws specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa may only be adopted by the shareholders; provided, however, that an amendment of the Bylaws or the Articles reducing the fixed number or the minimum number of directors to less than five cannot be adopted if the votes cast against its adoption are equal to more than 16 2/3% of the outstanding shares entitled to vote.
 
-PAGE NUMBER: 2
 
 Any shareholders’ meeting may be adjourned from time to time by the vote of a majority of the shares present in person or represented by proxy.
 Dividends
@@ -2321,7 +2244,6 @@ DESCRIPTION OF DEBT SECURITIES
 The following description of the Notes is a summary and does not purport to be complete. This description is qualified in its entirety by reference, as applicable, to the Indenture, dated as of April 29, 2013, between Apple Inc. and The
 2
 
-PAGE NUMBER: 3
 
 Bank of New York Mellon Trust Company, N.A., as trustee (the “2013 Indenture”) and the Indenture, dated as of November 5, 2018, between Apple Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (the “2018 Indenture,” and together with the 2013 Indenture, the “Indentures”). References in this section to the “Company,” “us,” “we” and “our” are solely to Apple Inc. and not to any of its subsidiaries, unless the context requires otherwise.
 The Notes
@@ -2353,7 +2275,6 @@ We issued €1,000,000,000 aggregate principal amount of the 2027 Notes on Septe
 aggregate principal amount of the 2027 Notes was outstanding.
 3
 
-PAGE NUMBER: 4
 
 The 1.375% 2029 Notes
 We issued €1,250,000,000 aggregate principal amount of the 1.375% 2029 Notes on May 24, 2017. The maturity date of the 1.375% 2029 Notes is May 24, 2029, and interest at a rate of 1.375% per annum is paid annually on May 24 of each year, beginning on May 24, 2018, and on the maturity date. As of
@@ -2380,7 +2301,6 @@ All payments of principal of, the redemption price (if any), and interest and ad
 With respect to the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, “Business Day” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are
 4
 
-PAGE NUMBER: 5
 
 authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
 All payments of principal of, the redemption price (if any), and interest and additional amounts (if any) on the 3.050% 2029 Notes and the 2042 Notes are payable in pounds sterling, or, if the United Kingdom adopts euro as its lawful currency, in euro. If pounds sterling or, in the event the Notes are redenominated into euro, euro is unavailable to the Company due to the imposition of exchange controls or other circumstances beyond the Company’s control or, in the event the notes are redenominated into euro, the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the 3.050% 2029 Notes and the 2042 Notes will be made in U.S. dollars until the pound sterling or euro, as the case may be, is again available to the Company or so used. The amount payable on any date in pounds sterling or, in the event such Notes are redenominated into euro, euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/pounds sterling or, in the event the Notes are redenominated into euro, the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the 3.050% 2029 Notes and the 2042 Notes so made in U.S. dollars will not constitute an event of default under such Notes or the 2013 Indenture.
@@ -2401,7 +2321,6 @@ being or having been a personal holding company, a passive foreign investment co
 being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the Internal Revenue Code of 1986, as amended (the “Code”);
 5
 
-PAGE NUMBER: 6
 
 (e)
 being a controlled foreign corporation that is related to the Company within the meaning of Section 864(d)(4) of the Code; or
@@ -2429,7 +2348,6 @@ The Notes are subject in all cases to any tax, fiscal or other law or regulation
 means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable Treasury regulations), or any estate or trust the income of which is subject to U.S. federal income taxation regardless of its source.
 6
 
-PAGE NUMBER: 7
 
 Redemption for Tax Reasons
 If, as a result of any change in, or amendment to, or, in the case of the 0.000% 2025 Notes and the 2031 Notes, introduction of, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any political subdivision or taxing authority of or in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings,
@@ -2453,7 +2371,6 @@ If any of the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes or
 In each case upon redemption of the Notes, we will pay accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
 7
 
-PAGE NUMBER: 8
 
 Installments of interest on Notes being redeemed that are due and payable on interest payment dates falling on or prior to a redemption date shall be payable on the interest payment date to the holders as of the close of business on the relevant regular record date according to the Notes and the applicable Indenture.
 “Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation for the 2022 Notes, the 2024 Notes, the 2026 Notes and the 2027 Notes, at the discretion of an independent investment bank selected by us, a German government bond whose maturity is closest to the maturity of the Notes being redeemed, or if such independent investment bank in its discretion determines that such similar bond is not in issue, such other German government bond as such independent investment bank may, with the advice of three brokers of, and/or market makers in, German government bonds selected by us, determine to be appropriate for determining the Comparable Government Bond Rate.
@@ -2471,7 +2388,6 @@ The Indentures provide that we may consolidate with or merge with or into any ot
 we are the continuing entity, or the resulting, surviving or transferee person (the “Successor”) is a person (if such person is not a corporation, then the Successor will include a corporate co-issuer of the debt securities) organized and existing under the laws of the United States of America, any state thereof or the District of Columbia and the Successor (if not us) will expressly assume, by supplemental indenture, all of our obligations under the debt securities and the applicable Indenture and, for each security that by its terms provides for conversion, provide for the right to convert such security in accordance with its terms;
 8
 
-PAGE NUMBER: 9
 
 •
 immediately after giving effect to such transaction, no default or event of default under the applicable Indenture has occurred and is continuing; and
@@ -2494,7 +2410,6 @@ take any comparable action under any foreign laws relating to insolvency;
 (5) a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
 9
 
-PAGE NUMBER: 10
 
 •
 is for relief against us in an involuntary case, or adjudicates us insolvent or bankrupt;
@@ -2516,7 +2431,6 @@ No holder of any debt securities of any series will have any right to institute 
 (4) the trustee has failed to institute proceedings 60 days after the receipt of such notice, request and offer of indemnity; and
 10
 
-PAGE NUMBER: 11
 
 (5) no direction inconsistent with such written request has been given for 60 days by the holders of a majority in aggregate principal amount of the outstanding debt securities of such series.
 The holders of a majority in aggregate principal amount of outstanding debt securities of a series will have the right, subject to certain limitations, to direct the time, method and place of conducting any proceeding for any remedy available to the trustee with respect to the debt securities of that series or exercising any trust or power conferred to the trustee, and to waive certain defaults. Each of the Indentures provides that if an event of default occurs and is continuing, the trustee will exercise such of its rights and powers under such Indenture, and use the same degree of care and skill in their exercise, as a prudent person would exercise or use under the circumstances in the conduct of such person’s own affairs. Subject to such provisions, the trustee will be under no obligation to exercise any of its rights or powers under the applicable Indenture at the request of any of the holders of the debt securities of a series unless they will have offered to the trustee security or indemnity satisfactory to the trustee against the costs, expenses and liabilities which might be incurred by it in compliance with such request.
@@ -2537,7 +2451,6 @@ modify any of the above provisions.
 We and the trustee may, without the consent of any holders, modify or amend the terms of the Indentures and any series of Notes with respect to the following:
 11
 
-PAGE NUMBER: 12
 
 •
 to add to our covenants for the benefit of holders of all or any series of the Notes or to surrender any right or power conferred upon us;
@@ -2560,7 +2473,6 @@ to add to, change or eliminate any of the provisions of the applicable Indenture
 The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may, on behalf of the holders of all Notes of that series, waive compliance by us with certain restrictive provisions of the Indentures. The holders of not less than a majority in aggregate principal amount of the outstanding Notes of a series
 12
 
-PAGE NUMBER: 13
 
 may, on behalf of the holders of all Notes of that series, waive any past default and its consequences under the applicable Indenture with respect to the Notes of that series, except a default (1) in the payment of principal or premium, if any, or interest on Notes of that series or (2) in respect of a covenant or provision of the applicable Indenture that cannot be modified or amended without the consent of the holder of each Note of that series. Upon any such waiver, such default will cease to exist, and any event of default arising therefrom will be deemed to have been cured, for every purpose of the Indenture; however, no such waiver will extend to any subsequent or other default or event of default or impair any rights consequent thereon.
 Discharge, Defeasance and Covenant Defeasance
@@ -2572,7 +2484,6 @@ With respect to the 3.050% 2029 Notes and the 2042 Notes, the term “U.S. gover
 We will be required to deliver to the trustee an opinion of counsel that the deposit and related defeasance will not cause the holders and beneficial owners of the Notes of that series to recognize income, gain or loss for
 13
 
-PAGE NUMBER: 14
 
 federal income tax purposes. If we elect legal defeasance, that opinion of counsel must be based upon a ruling from the U.S. Internal Revenue Service or a change in law to that effect.
 We may exercise our legal defeasance option notwithstanding our prior exercise of our covenant defeasance option.
@@ -2589,10 +2500,7 @@ The Trustee for the Notes
 The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have commercial deposits and custodial arrangements with The Bank of New York Mellon Trust Company, N.A. and its affiliates (“BNYM”). We may enter into similar or other banking relationships with BNYM in the future in the normal course of business. In addition, BNYM acts as trustee and as paying agent with respect to other debt securities issued by us, and may do so for future issuances of debt securities by us as well.
 14
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2020 Workiva
 Document
 Exhibit 10.16
 APPLE INC.
@@ -2611,7 +2519,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification by the last day of the calendar month prior to the first Vesting Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -2654,7 +2561,6 @@ Continuance of Employment
 Nothing contained in this Award Agreement or the Plan constitutes an employment or service commitment by the Company, affects the Participant’s status as an employee at will who is subject to termination with or without cause, confers upon the Participant any right to remain employed by or in service to the Company or any Subsidiary, interferes in any way with the right of the Company or any Subsidiary at any time to terminate such employment or service, or affects the right of the Company or any Subsidiary to increase or decrease the Participant’s other compensation or benefits. Nothing in this Section 4, however, is intended to adversely affect any independent contractual right of the Participant without his or her consent thereto.
 1
 
-PAGE NUMBER: 3
 
 5.
 Dividend and Voting Rights
@@ -2680,7 +2586,6 @@ Severance Date
 ”), regardless of the reason for the Participant’s Termination of Service, whether with or without cause, voluntarily or involuntarily, or whether the Participant was employed or provided services for a portion of the vesting period prior to a Vesting Date. Notwithstanding the foregoing, in the event the Participant’s Termination of Service is due to the Participant’s Disability at a time when Stock Units remain unvested under the Award, (a) the Award shall vest with respect to the number of Stock Units determined by multiplying (i) the number of then-outstanding and unvested Stock Units as well as the related Dividend Equivalent Rights subject to the Award that would have otherwise vested pursuant to Section 3 on the next Vesting Date following the Severance Date but for such
 2
 
-PAGE NUMBER: 4
 
 Termination of Service, by (ii) a fraction, the numerator of which shall be the number of days that have elapsed between the Vesting Date that immediately preceded the Severance Date (or, in the case of a Termination of Service prior to the initial Vesting Date, the Vesting Commencement Date) and the Severance Date, and the denominator of which shall be the number of days between the Vesting Date that immediately preceded the Severance Date (or, in the case of a Termination of Service prior to the initial Vesting Date, the Vesting Commencement Date) and the next Vesting Date following the Severance Date that would have occurred but for such Termination of Service; and (b) any Stock Units (as well as the related Dividend Equivalent Rights) that are not vested after giving effect to the foregoing clause (a) shall terminate on the Severance Date. Further, in the event the Participant’s Termination of Service is due to the Participant’s death, any unvested Stock Units shall be fully vested as of the Severance Date, and any Dividend Equivalent Rights credited to the Participant shall be paid. If any unvested Stock Units are terminated hereunder, such Stock Units (as well as the related Dividend Equivalent Rights) shall automatically terminate and be cancelled as of the applicable Severance Date without payment of any consideration by the Company and without any other action by the Participant or the Participant’s personal representative, as the case may be.
 9.
@@ -2700,7 +2605,6 @@ Adjustments Upon Specified Events
 . Upon the occurrence of certain events relating to the Company’s stock contemplated by Section 11 of the Plan (including, without limitation, an extraordinary cash dividend on such stock), the Committee shall make adjustments in accordance with such section in the number of Stock Units then outstanding and the number and kind of securities that may be issued in respect of the Award. No such adjustment shall be made with respect to any ordinary cash dividend for which Dividend Equivalent Rights are credited pursuant to Section 5(b).
 3
 
-PAGE NUMBER: 5
 
 11.
 Responsibility for Taxes
@@ -2722,7 +2626,6 @@ Notwithstanding the foregoing, if the Participant is an officer of the Company w
 The Company may withhold or account for Tax-Related Items by considering statutory withholding amounts or other withholding rates, including maximum rates applicable in the Participant’s jurisdiction(s). If the maximum rate is used, any over-withheld amount may be refunded to the Participant in cash by the Company or Employer (with no entitlement to the Share equivalent) or if not refunded, the Participant may seek a refund from the local tax authorities. In the event of under-withholding, the Participant may be required to pay additional Tax-Related Items directly to the applicable tax authority or to the Company or Employer. If the obligation for Tax-Related Items is satisfied by withholding a number of Shares as described herein, for tax purposes, the Participant is deemed to have been issued the full number of Shares subject to the vested Stock Units, notwithstanding that a number of the Shares are
 4
 
-PAGE NUMBER: 6
 
 held back solely for the purpose of paying the Tax-Related Items. The Company may refuse to issue or deliver to the Participant any Shares or the proceeds of the sale of Shares if the Participant fails to comply with the Participant’s obligations in connection with the Tax-Related Items.
 12.
@@ -2744,7 +2647,6 @@ Entire Agreement
 . This Award Agreement and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Award Agreement may be amended pursuant to Section 15 of the Plan. Such amendment must be in writing and signed by the Company. The Company may, however, unilaterally waive any provision hereof in writing to the extent such waiver
 5
 
-PAGE NUMBER: 7
 
 does not adversely affect the interests of the Participant hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof.
 17.
@@ -2773,10 +2675,7 @@ Imposition of Other Requirements
 . The Company reserves the right to impose other requirements on the Participant’s participation in the Plan, on the Stock Units and on any Shares acquired under the Plan, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require the Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
 6
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2020 Workiva
 Document
 Exhibit 10.17
 APPLE INC.
@@ -2799,7 +2698,6 @@ You do not have to accept the Award. If you wish to decline your Award, you shou
 stock@apple.com
 . If you do not provide such notification by the last day of the calendar month prior to the Vesting Date, you will be deemed to have accepted your Award on the terms and conditions set forth herein.
 
-PAGE NUMBER: 2
 
 APPLE INC.
 2014 EMPLOYEE STOCK PLAN
@@ -2846,7 +2744,6 @@ Continuance of Employment
 Nothing contained in this Award Agreement or the Plan constitutes an employment or service commitment by the Company, affects the Participant’s status as an employee at will who is subject to termination with or without cause, confers upon the Participant any right to remain employed by or in service to the Company or any Subsidiary, interferes in any way with the right of the Company or any Subsidiary at any time to terminate such employment or services, or affects the right of the Company or any Subsidiary to increase or decrease the Participant’s other compensation or benefits. Nothing in this Section 4, however, is intended to adversely affect any independent contractual right of the Participant without his or her consent thereto.
 1
 
-PAGE NUMBER: 3
 
 5.
 Dividend and Voting Rights
@@ -2874,7 +2771,6 @@ Severance Date
 ”), regardless of the reason for the Participant’s Termination of Service, whether with or without cause, voluntarily or involuntarily or whether the Participant was employed or provided services for a portion of the vesting period prior to a Vesting Date. In the event the Participant’s Severance Date is the result of the Participant’s Termination of Service due to the Participant’s death or Disability and the Severance Date occurs prior to the Vesting Date, on the Vesting Date the Award shall vest with respect to a number of Stock Units determined by multiplying (i) the Stock
 2
 
-PAGE NUMBER: 4
 
 Units as well as the related Dividend Equivalent Rights subject to the Award that would have otherwise vested pursuant to the Award on such Vesting Date but for the Termination of Service and to the extent the applicable performance-based vesting requirement is satisfied, by (ii) the Severance Fraction (determined as set forth below). Any Stock Units (as well as the related Dividend Equivalent Rights) that are unvested on the Severance Date and that are not eligible to vest on the Vesting Date following the Severance Date pursuant to the preceding sentence shall terminate as of the Severance Date, and any Stock Units that remain outstanding and unvested after giving effect to the preceding sentence shall terminate as of the Vesting Date. The “
 Severance Fraction
@@ -2898,7 +2794,6 @@ Adjustments Upon Specified Events
 . Upon the occurrence of certain events relating to the Company’s stock contemplated by Section 11 of the Plan (including, without limitation, an extraordinary cash dividend on such stock), the Committee shall make adjustments in accordance with such section in the number of Stock Units then outstanding and the number and kind of securities that may be issued in respect of the Award. No such adjustment shall be made with respect to any ordinary cash dividend for which Dividend Equivalent Rights are credited pursuant to Section 5(b).
 3
 
-PAGE NUMBER: 5
 
 11.
 Responsibility for Taxes
@@ -2920,7 +2815,6 @@ Notwithstanding the foregoing, if the Participant is an officer of the Company w
 The Company may withhold or account for Tax-Related Items by considering statutory withholding amounts or other withholding rates, including maximum rates applicable in the Participant's jurisdiction(s). If the maximum rate is used, any over-withheld amount may be refunded to the Participant in cash by the Company or Employer (with no entitlement to the Share equivalent) or if not refunded, the Participant may seek a refund from the local tax authorities. In the event of under-withholding, the Participant may be required to pay additional Tax-Related Items directly to the applicable tax authority or to the Company or Employer. If the obligation for Tax-Related Items is satisfied by withholding a number of Shares as described herein, for tax purposes, the Participant is deemed to have been issued the full number of Shares subject to the vested Stock Units, notwithstanding that a number of the Shares are
 4
 
-PAGE NUMBER: 6
 
 held back solely for the purpose of paying the Tax-Related Items. The Company may refuse to issue or deliver to the Participant any Shares or the proceeds of the sale of Shares if the Participant fails to comply with the Participant’s obligations in connection with the Tax-Related Items.
 12.
@@ -2942,7 +2836,6 @@ Entire Agreement
 . This Award Agreement and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Award Agreement may be amended pursuant to Section 15 of the Plan. Such amendment must be in writing and signed by the Company. The Company may, however, unilaterally waive any provision hereof in writing to the extent such waiver
 5
 
-PAGE NUMBER: 7
 
 does not adversely affect the interests of the Participant hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof.
 17.
@@ -2972,7 +2865,6 @@ Imposition of Other Requirements
 * * * * *
 6
 
-PAGE NUMBER: 8
 
 PERFORMANCE AWARD
 EXHIBIT A
@@ -2998,7 +2890,6 @@ Comparison Group
 ” means the Company and each other company included in the Standard & Poor’s 500 index on the first day of the Performance Period and, except as provided below, the common stock (or similar equity security) of which continues to be listed or traded on a national securities exchange through the last trading day of the Performance Period. In the event a member of the Comparison Group files for bankruptcy or liquidates due to an insolvency, such company shall continue to be treated as a Comparison Group member, and such company’s Ending Price will be treated as $0 if the common stock (or similar equity security) of such company is no longer listed or
 A-1
 
-PAGE NUMBER: 9
 
 traded on a national securities exchange on the last trading day of the Performance Period. In the event of a formation of a new parent company by a Comparison Group member, substantially all of the assets and liabilities of which consist immediately after the transaction of the equity interests in the original Comparison Group member or the assets and liabilities of such Comparison Group member immediately prior to the transaction, such new parent company shall be substituted for the Comparison Group member to the extent (and for such period of time) as its common stock (or similar equity securities) are listed or traded on a national securities exchange but the common stock (or similar equity securities) of the original Comparison Group member are not. In the event of a merger or other business combination of two Comparison Group members (including, without limitation, the acquisition of one Comparison Group member, or all or substantially all of its assets, by another Comparison Group member), the surviving, resulting or successor entity, as the case may be, shall continue to be treated as a member of the Comparison Group, provided that the common stock (or similar equity security) of such entity is listed or traded on a national securities exchange through the last trading day of the Performance Period. With respect to the preceding two sentences, the applicable stock prices shall be equitably and proportionately adjusted to the extent (if any) necessary to preserve the intended incentives of the awards and mitigate the impact of the transaction.
 •

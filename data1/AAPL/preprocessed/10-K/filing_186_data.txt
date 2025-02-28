@@ -44,12 +44,7 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
-?xml version="1.0" ?
-XBRL Document Created with Wdesk from Workiva
-Copyright 2022 Workiva
-r:450df81a-444d-40d1-8d0d-4d3eebbf2d05,g:6e8f5117-d79e-4f9f-aa19-db53613cb07c,d:ef5efb7a728d4285b6b4af1e880101bc
 aapl-20220924
 
 
@@ -125,7 +120,6 @@ shares of common stock were issued and outstanding as of October 14, 2022.
 DOCUMENTS INCORPORATED BY REFERENCE
 Portions of the Registrant’s definitive proxy statement relating to its 2023 annual meeting of shareholders are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. The Registrant’s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
 
-PAGE NUMBER: 2
 
 Apple Inc.
 Form 10-K
@@ -162,7 +156,6 @@ Part IV
 Item 15.	Exhibit and Financial Statement Schedules	55
 Item 16.	Form 10-K Summary	57
 
-PAGE NUMBER: 3
 
 This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading “Business” and Part II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical or current fact. For example, statements in this Form 10-K regarding the potential future impact of the COVID-19 pandemic on the Company’s business and results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,” “estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
 Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the “Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
@@ -206,7 +199,6 @@ products, HomePod mini
 and accessories.
 Apple Inc. | 2022 Form 10-K | 1
 
-PAGE NUMBER: 4
 
 Services
 Advertising
@@ -239,7 +231,6 @@ The markets for the Company’s products and services are highly competitive, an
 The Company’s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace. The Company designs and develops nearly the entire solution for its products, including the hardware, operating system, numerous software applications and related services. Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, and corporate reputation.
 Apple Inc. | 2022 Form 10-K | 2
 
-PAGE NUMBER: 5
 
 The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services. The Company faces substantial competition in these markets from companies that have significant technical, marketing, distribution and other resources, as well as established hardware, software, and service offerings with large customer bases. In addition, some of the Company’s competitors have broader product lines, lower-priced products and a larger installed base of active devices. Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins. Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss. The Company’s services compete with business models that provide content to users for free and use illegitimate means to obtain third-party digital content and applications. The Company faces significant competition as competitors imitate the Company’s product features and applications within their products, or collaborate to offer integrated solutions that are more competitive than those they currently offer.
 Supply of Components
@@ -255,7 +246,6 @@ The Company regularly files patent, design, copyright and trademark applications
 In addition to Company-owned intellectual property, many of the Company’s products and services are designed to include intellectual property owned by third parties. It may be necessary in the future to seek or renew licenses relating to various aspects of the Company’s products, processes and services. While the Company has generally been able to obtain such licenses on commercially reasonable terms in the past, there is no guarantee that such licenses could be obtained in the future on reasonable terms or at all.
 Apple Inc. | 2022 Form 10-K | 3
 
-PAGE NUMBER: 6
 
 Business Seasonality and Product Introductions
 The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. The timing of product introductions can also impact the Company’s net sales to its indirect distribution channels as these channels are filled with new inventory following a product launch, and channel inventory of an older product often declines as the launch of a newer product approaches. Net sales can also be affected when consumers and distributors anticipate a product introduction.
@@ -275,7 +265,6 @@ Available Information
 The Company’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), are filed with the U.S. Securities and Exchange Commission (the “SEC”). Such reports and other information filed by the Company with the SEC are available free of charge at investor.apple.com/investor-relations/sec-filings/default.aspx when such reports are available on the SEC’s website. The Company periodically provides certain information for investors on its corporate website, www.apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, information on environmental, social and governance matters, and details related to the Company’s annual meeting of shareholders. The information contained on the websites referenced in this Form 10-K is not incorporated by reference into this filing. Further, the Company’s references to website URLs are intended to be inactive textual references only.
 Apple Inc. | 2022 Form 10-K | 4
 
-PAGE NUMBER: 7
 
 Item 1A. Risk Factors
 The Company’s business, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known or unknown, including those described below. When any one or more of these risks materialize from time to time, the Company’s business, reputation, results of operations, financial condition and stock price can be materially and adversely affected.
@@ -292,7 +281,6 @@ COVID-19 has had, and continues to have, a significant impact around the world, 
 The COVID-19 pandemic and the measures taken by many countries in response have adversely affected and could in the future materially adversely impact the Company’s business, results of operations, financial condition and stock price. During the course of the pandemic, certain of the Company’s component suppliers and manufacturing and logistical service providers have experienced disruptions, resulting in supply shortages that affected sales worldwide, and similar disruptions could occur in the future. Public safety measures can also adversely impact consumer demand for the Company’s products and services in affected areas.
 Apple Inc. | 2022 Form 10-K | 5
 
-PAGE NUMBER: 8
 
 The Company continues to monitor the situation and take appropriate actions in accordance with the recommendations and requirements of relevant authorities. The extent to which the COVID-19 pandemic may impact the Company’s operational and financial performance remains uncertain and will depend on many factors outside the Company’s control, including the timing, extent, trajectory and duration of the pandemic, the emergence of new variants, the development, availability, distribution and effectiveness of vaccines and treatments, the imposition of protective public safety measures, and the impact of the pandemic on the global economy and demand for consumer products and services. Additional future impacts on the Company may include material adverse effects on demand for the Company’s products and services, the Company’s supply chain and sales and distribution channels, the Company’s ability to execute its strategic plans, and the Company’s profitability and cost structure.
 To the extent the COVID-19 pandemic adversely affects the Company’s business, results of operations, financial condition and stock price, it may also have the effect of heightening many of the other risks described in this Part I, Item 1A of this Form 10-K.
@@ -302,7 +290,6 @@ The Company has a large, global business with sales outside the U.S. representin
 Many of the Company’s operations and facilities, as well as critical business operations of the Company’s suppliers and contract manufacturers, are in locations that are prone to earthquakes and other natural disasters. In addition, such operations and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Company’s control. Global climate change is resulting in certain types of natural disasters occurring more frequently or with more intense effects. Such events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, and result in slowdowns and outages to the Company’s service offerings. Following an interruption to its business, the Company can require substantial recovery time, experience significant expenditures to resume operations, and lose significant sales. Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company.
 Apple Inc. | 2022 Form 10-K | 6
 
-PAGE NUMBER: 9
 
 The Company’s operations are also subject to the risks of industrial accidents at its suppliers and contract manufacturers. While the Company’s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in serious injuries or loss of life, disruption to the Company’s business, and harm to the Company’s reputation. Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products; the imposition of protective public safety measures, such as stringent employee travel restrictions and limitations on freight services and the movement of products between regions; and disruptions in the Company’s supply chain and sales and distribution channels, resulting in interruptions of the supply of current products and delays in production ramps of new products.
 While the Company maintains insurance coverage for certain types of losses, such insurance coverage may be insufficient to cover all losses that may arise.
@@ -316,7 +303,6 @@ The Company’s services also face substantial competition, including from compa
 The Company’s business, results of operations and financial condition depend substantially on the Company’s ability to continually improve its products and services to maintain their functional and design advantages. There can be no assurance the Company will be able to continue to provide products and services that compete effectively.
 Apple Inc. | 2022 Form 10-K | 7
 
-PAGE NUMBER: 10
 
 Business Risks
 To remain competitive and stimulate customer demand, the Company must successfully manage frequent introductions and transitions of products and services.
@@ -333,7 +319,6 @@ The Company’s operations and performance depend significantly on global and re
 Therefore, the Company remains subject to significant risks of supply shortages and price increases that can materially adversely affect its business, results of operations and financial condition.
 Apple Inc. | 2022 Form 10-K | 8
 
-PAGE NUMBER: 11
 
 The Company’s new products often utilize custom components available from only one source. When a component or product uses new technologies, initial capacity constraints may exist until the suppliers’ yields have matured or their manufacturing capacities have increased. The continued availability of these components at acceptable prices, or at all, can be affected for any number of reasons, including if suppliers decide to concentrate on the production of common components instead of components customized to meet the Company’s requirements. When the Company’s supply of components for a new or existing product has been delayed or constrained, or when an outsourcing partner has delayed shipments of completed products to the Company, the Company’s business, results of operations and financial condition have been adversely affected and future delays or constraints could materially adversely affect the Company’s business, results of operations and financial condition. The Company’s business and financial performance could also be materially adversely affected depending on the time required to obtain sufficient quantities from the source, or to identify and obtain sufficient quantities from an alternative source.
 The Company’s products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company’s business and result in harm to the Company’s reputation.
@@ -345,7 +330,6 @@ The Company relies on access to third-party intellectual property, which may not
 The Company’s products and services are designed to include intellectual property owned by third parties, which requires licenses from those third parties. In addition, because of technological changes in the industries in which the Company currently competes or in the future may compete, current extensive patent coverage and the rapid rate of issuance of new patents, the Company’s products and services can unknowingly infringe existing patents or intellectual property rights of others. From time to time, the Company has been notified that it may be infringing certain patents or other intellectual property rights of third parties. Based on experience and industry practice, the Company believes licenses to such third-party intellectual property can generally be obtained on commercially reasonable terms. However, there can be no assurance the necessary licenses can be obtained on commercially reasonable terms or at all. Failure to obtain the right to use third-party intellectual property, or to use such intellectual property on commercially reasonable terms, can preclude the Company from selling certain products or services, or otherwise have a material adverse impact on the Company’s business, results of operations and financial condition.
 Apple Inc. | 2022 Form 10-K | 9
 
-PAGE NUMBER: 12
 
 The Company’s future performance depends in part on support from third-party software developers.
 The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party software applications and services. There can be no assurance third-party developers will continue to develop and maintain software applications and services for the Company’s products. If third-party software applications and services cease to be developed and maintained for the Company’s products, customers may choose not to buy the Company’s products.
@@ -359,7 +343,6 @@ The Company also produces its own digital content, which can be costly to produc
 Some third-party digital content providers require the Company to provide digital rights management and other security solutions. If requirements change, the Company may have to develop or license new technology to provide these solutions. There can be no assurance the Company will be able to develop or license such solutions at a reasonable cost and in a timely manner.
 Apple Inc. | 2022 Form 10-K | 10
 
-PAGE NUMBER: 13
 
 The Company’s success depends largely on the talents and efforts of its team members, the continued service and availability of highly skilled employees, including key personnel, and the Company’s ability to nurture its distinctive and inclusive culture.
 Much of the Company’s future success depends on the talents and efforts of its team members, the continued availability and service of key personnel, including its Chief Executive Officer, executive team and other highly skilled employees. Experienced personnel in the technology industry are in high demand and competition for their talents is intense, especially in Silicon Valley, where most of the Company’s key personnel are located. In addition to intense competition for talent, workforce dynamics are constantly evolving. If the Company does not manage changing workforce dynamics effectively, it could materially adversely affect the Company’s culture, reputation and operational flexibility.
@@ -375,7 +358,6 @@ The Company’s business requires it to use and store confidential information, 
 The Company’s business also requires it to share confidential information with suppliers and other third parties. The Company relies on global suppliers that are also exposed to ransomware and other malicious attacks that can disrupt business operations. Although the Company takes steps to secure confidential information that is provided to or accessible by third parties working on the Company’s behalf, such measures are not always effective and losses or unauthorized access to or releases of confidential information occur. Such incidents and other malicious attacks could materially adversely affect the Company’s business, reputation, results of operations and financial condition.
 Apple Inc. | 2022 Form 10-K | 11
 
-PAGE NUMBER: 14
 
 The Company experiences malicious attacks and other attempts to gain unauthorized access to its systems on a regular basis. These attacks seek to compromise the confidentiality, integrity or availability of confidential information or disrupt normal business operations, and could, among other things, impair the Company’s ability to attract and retain customers for its products and services, impact the Company’s stock price, materially damage commercial relationships, and expose the Company to litigation or government investigations, which could result in penalties, fines or judgments against the Company. Globally, attacks are expected to continue accelerating in both frequency and sophistication with increasing use by actors of tools and techniques that are designed to circumvent controls, avoid detection, and remove or obfuscate forensic evidence, all of which hinders the Company’s ability to identify, investigate and recover from incidents. In addition, attacks against the Company and its customers can escalate during periods of severe diplomatic or armed conflict.
 Although malicious attacks perpetrated to gain access to confidential information, including personal information, affect many companies across various industries, the Company is at a relatively greater risk of being targeted because of its high profile and the value of the confidential information it creates, owns, manages, stores and processes.
@@ -388,7 +370,6 @@ The Company’s retail stores have required substantial investment in equipment 
 The Company’s retail operations are subject to many factors that pose risks and uncertainties and could adversely impact the Company’s business, results of operations and financial condition, including macro-economic factors that could have an adverse effect on general retail activity. Other factors include the Company’s ability to: manage costs associated with retail store construction and operation; manage relationships with existing retail partners; manage costs associated with fluctuations in the value of retail inventory; and obtain and renew leases in quality retail locations at a reasonable cost.
 Apple Inc. | 2022 Form 10-K | 12
 
-PAGE NUMBER: 15
 
 Legal and Regulatory Compliance Risks
 The Company’s business, results of operations and financial condition could be adversely impacted by unfavorable results of legal proceedings or government investigations.
@@ -402,7 +383,6 @@ The Company is subject to complex and changing laws and regulations worldwide, w
 The Company’s global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services and technology; product liability; intellectual property ownership and infringement; digital platforms; internet, telecommunications, and mobile communications; media, television, film and digital content; availability of third-party software applications and services; labor and employment; anticorruption; import, export and trade; foreign exchange controls and cash repatriation restrictions; anti–money laundering; foreign ownership and investment; tax; and environmental, health and safety, including electronic waste, recycling, and climate change.
 Apple Inc. | 2022 Form 10-K | 13
 
-PAGE NUMBER: 16
 
 Compliance with these laws and regulations is onerous and expensive. New and changing laws and regulations can adversely affect the Company’s business by increasing the Company’s costs, limiting the Company’s ability to offer a product, service or feature to customers, impacting customer demand for the Company’s products and services, and requiring changes to the Company’s supply chain and its business. New and changing laws and regulations can also create uncertainty about how such laws and regulations will be interpreted and applied. These risks and costs may increase as the Company’s products and services are introduced into specialized applications, including health and financial services. The Company has implemented policies and procedures designed to ensure compliance with applicable laws and regulations, but there can be no assurance the Company’s employees, contractors or agents will not violate such laws and regulations or the Company’s policies and procedures. If the Company is found to have violated laws and regulations, it could materially adversely affect the Company’s business, reputation, results of operations and financial condition. Regulatory changes and other actions that materially adversely affect the Company’s business may be announced with little or no advance notice and the Company may not be able to effectively mitigate all adverse impacts from such measures. For example, the Company is subject to changing regulations relating to the export and import of its products. Although the Company has programs, policies and procedures in place that are designed to satisfy regulatory requirements, there can be no assurance that such policies and procedures will be effective in preventing a violation or a claim of a violation. As a result, the Company’s products could be delayed or prohibited from importation, either of which could materially adversely affect the Company’s business, reputation, results of operations and financial condition.
 Expectations relating to environmental, social and governance considerations expose the Company to potential liabilities, increased costs, reputational harm, and other adverse effects on the Company’s business.
@@ -413,7 +393,6 @@ The Company is also currently subject to antitrust investigations in various jur
 Further, the Company has commercial relationships with other companies in the technology industry that are or may become subject to investigations and litigation that, if resolved against those other companies, could materially adversely affect the Company’s commercial relationships with those business partners and materially adversely affect the Company’s business, results of operations and financial condition. For example, the Company earns revenue from licensing arrangements with other companies to offer their search services on the Company’s platforms and apps, and certain of these arrangements are currently subject to government investigations and legal proceedings.
 Apple Inc. | 2022 Form 10-K | 14
 
-PAGE NUMBER: 17
 
 There can be no assurance the Company’s business will not be materially adversely affected, individually or in the aggregate, by the outcomes of such investigations, litigation or changes to laws and regulations in the future. Changes to the Company’s business practices to comply with new laws and regulations or in connection with other legal proceedings could negatively impact the reputation of the Company’s products for privacy and security and otherwise adversely affect the experience for users of the Company’s products and services, and result in harm to the Company’s reputation, loss of competitive advantage, poor market acceptance, reduced demand for products and services, and lost sales.
 The Company’s business is subject to a variety of U.S. and international laws, rules, policies and other obligations regarding data protection.
@@ -427,7 +406,6 @@ The Company’s profit margins vary across its products, services, geographic se
 The Company has historically experienced higher net sales in its first quarter compared to other quarters in its fiscal year due in part to seasonal holiday demand. Additionally, new product and service introductions can significantly impact net sales, cost of sales and operating expenses. Further, the Company generates a significant portion of its net sales from a single product and a decline in demand for that product could significantly impact quarterly net sales. The Company could also be subject to unexpected developments, such as lower-than-anticipated demand for the Company’s products or services, issues with new product or service introductions, information technology system failures or network disruptions, or failure of one of the Company’s logistics, components supply, or manufacturing partners.
 Apple Inc. | 2022 Form 10-K | 15
 
-PAGE NUMBER: 18
 
 The Company’s financial performance is subject to risks associated with changes in the value of the U.S. dollar relative to local currencies.
 The Company’s primary exposure to movements in foreign currency exchange rates relates to non–U.S. dollar–denominated sales, cost of sales and operating expenses worldwide. Gross margins on the Company’s products in foreign countries and on products that include components obtained from foreign suppliers could be materially adversely affected by foreign currency exchange rate fluctuations.
@@ -442,7 +420,6 @@ The Company is subject to changes in tax rates, the adoption of new U.S. or inte
 The Company is subject to taxes in the U.S. and numerous foreign jurisdictions, including Ireland, where a number of the Company’s subsidiaries are organized. Due to economic and political conditions, tax laws and tax rates for income taxes and other non-income taxes in various jurisdictions may be subject to significant change. The Company’s effective tax rates are affected by changes in the mix of earnings in countries with differing statutory tax rates, changes in the valuation of deferred tax assets and liabilities, the introduction of new taxes, or changes in tax laws or their interpretation, including in the U.S. and Ireland. The application of tax laws may be uncertain, require significant judgment and be subject to differing interpretations.
 Apple Inc. | 2022 Form 10-K | 16
 
-PAGE NUMBER: 19
 
 The Company is also subject to the examination of its tax returns and other tax matters by the U.S. Internal Revenue Service and other tax authorities and governmental bodies. The Company regularly assesses the likelihood of an adverse outcome resulting from these examinations to determine the adequacy of its provision for taxes. There can be no assurance as to the outcome of these examinations. If the Company’s effective tax rates were to increase, particularly in the U.S. or Ireland, or if the ultimate determination of the Company’s taxes owed is for an amount in excess of amounts previously accrued, the Company’s business, results of operations and financial condition could be materially adversely affected.
 General Risks
@@ -461,7 +438,6 @@ Item 4. Mine Safety Disclosures
 Not applicable.
 Apple Inc. | 2022 Form 10-K | 17
 
-PAGE NUMBER: 20
 
 PART II
 Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
@@ -487,7 +463,6 @@ Total		160,172							$	60,665
 As of September 24, 2022, the Company was authorized by the Board of Directors to purchase up to $405 billion of the Company’s common stock under a share repurchase program most recently announced on April 28, 2022 (the “Program”), of which $344.3 billion had been utilized. The Program does not obligate the Company to acquire a minimum amount of shares. Under the Program, shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.
 Apple Inc. | 2022 Form 10-K | 18
 
-PAGE NUMBER: 21
 
 Company Stock Performance
 The following graph shows a comparison of cumulative total shareholder return, calculated on a dividend-reinvested basis, for the Company, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index for the five years ended September 24, 2022. The graph assumes $100 was invested in each of the Company’s common stock, the S&P 500 Index, the S&P Information Technology Index and the Dow Jones U.S. Technology Supersector Index as of the market close on September 29, 2017. Past stock price performance is not necessarily indicative of future stock price performance.
@@ -508,7 +483,6 @@ Dow Jones U.S. Technology Supersector Index		$	100			$	131			$	139			$	208			$	2
 Item 6. [Reserved]
 Apple Inc. | 2022 Form 10-K | 19
 
-PAGE NUMBER: 22
 
 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K. This section of this Form 10-K generally discusses 2022 and 2021 items and year-to-year comparisons between 2022 and 2021. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 are not included in this Form 10-K, and can be found in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended September 25, 2021.
@@ -539,7 +513,6 @@ The COVID-19 pandemic has had, and continues to have, a significant impact aroun
 Certain of the Company’s outsourcing partners, component suppliers and logistical service providers have experienced disruptions during the COVID-19 pandemic, resulting in supply shortages. Similar disruptions could occur in the future.
 Apple Inc. | 2022 Form 10-K | 20
 
-PAGE NUMBER: 23
 
 Products and Services Performance
 The following table shows net sales by category for 2022, 2021 and 2020 (dollars in millions):
@@ -572,7 +545,6 @@ Services
 Services net sales increased during 2022 compared to 2021 due primarily to higher net sales from advertising, cloud services and the App Store.
 Apple Inc. | 2022 Form 10-K | 21
 
-PAGE NUMBER: 24
 
 Segment Operating Performance
 The Company manages its business primarily on a geographic basis. The Company’s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Americas includes both North and South America. Europe includes European countries, as well as India, the Middle East and Africa. Greater China includes China mainland, Hong Kong and Taiwan. Rest of Asia Pacific includes Australia and those Asian countries not included in the Company’s other reportable segments. Although the reportable segments provide similar hardware and software products and similar services, each one is managed separately to better align with the location of the Company’s customers and distribution partners and the unique market dynamics of each geographic region. Further information regarding the Company’s reportable segments can be found in Part II, Item 8 of this Form 10-K in the Notes to Consolidated Financial Statements in Note 11, “Segment Information and Geographic Data.”
@@ -600,7 +572,6 @@ Rest of Asia Pacific
 Rest of Asia Pacific net sales increased during 2022 compared to 2021 due primarily to higher net sales of iPhone, Mac and Services. The weakness in foreign currencies relative to the U.S. dollar had an unfavorable year-over-year impact on Rest of Asia Pacific net sales during 2022.
 Apple Inc. | 2022 Form 10-K | 22
 
-PAGE NUMBER: 25
 
 Gross Margin
 Products and Services gross margin and gross margin percentage for 2022, 2021 and 2020 were as follows (dollars in millions):
@@ -640,7 +611,6 @@ Selling, General and Administrative
 The year-over-year growth in selling, general and administrative expense in 2022 was driven primarily by increases in headcount-related expenses, advertising and professional services.
 Apple Inc. | 2022 Form 10-K | 23
 
-PAGE NUMBER: 26
 
 Other Income/(Expense), Net
 Other income/(expense), net (“OI&E”) for 2022, 2021 and 2020 was as follows (dollars in millions):
@@ -672,7 +642,6 @@ Leases
 The Company has lease arrangements for certain equipment and facilities, including corporate, data center, manufacturing and retail space. As of September 24, 2022, the Company had fixed lease payment obligations of $15.3 billion, with $2.0 billion payable within 12 months.
 Apple Inc. | 2022 Form 10-K | 24
 
-PAGE NUMBER: 27
 
 Manufacturing Purchase Obligations
 The Company utilizes several outsourcing partners to manufacture subassemblies for the Company’s products and to perform final assembly and testing of finished products. The Company also obtains individual components for its products from a wide variety of individual suppliers. Outsourcing partners acquire components and build product based on demand information supplied by the Company, which typically covers periods up to 150 days. As of September 24, 2022, the Company had manufacturing purchase obligations of $71.1 billion, with $68.4 billion payable within 12 months. The Company’s manufacturing purchase obligations are primarily noncancelable.
@@ -689,7 +658,6 @@ Legal and Other Contingencies
 The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain. The Company records a liability when it is probable that a loss has been incurred and the amount is reasonably estimable, the determination of which requires significant judgment. Resolution of legal matters in a manner inconsistent with management’s expectations could have a material impact on the Company’s financial condition and operating results.
 Apple Inc. | 2022 Form 10-K | 25
 
-PAGE NUMBER: 28
 
 Item 7A. Quantitative and Qualitative Disclosures About Market Risk
 Interest Rate and Foreign Currency Risk Management
@@ -703,13 +671,11 @@ In general, the Company is a net receiver of currencies other than the U.S. doll
 The Company may enter into foreign currency forward and option contracts with financial institutions to protect against foreign exchange risks associated with certain existing assets and liabilities, certain firmly committed transactions, forecasted future cash flows and net investments in foreign subsidiaries. In addition, the Company has entered, and in the future may enter, into foreign currency contracts to partially offset the foreign currency exchange gains and losses on its foreign currency–denominated debt issuances. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months. However, the Company may choose not to hedge certain foreign exchange exposures for a variety of reasons, including accounting considerations or the prohibitive economic cost of hedging particular exposures.
 Apple Inc. | 2022 Form 10-K | 26
 
-PAGE NUMBER: 29
 
 To provide an assessment of the foreign currency risk associated with certain of the Company’s foreign currency derivative positions, the Company performed a sensitivity analysis using a value-at-risk (“VAR”) model to assess the potential impact of fluctuations in exchange rates. The VAR model consisted of using a Monte Carlo simulation to generate thousands of random market price paths assuming normal market conditions. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company’s foreign currency derivative positions due to adverse movements in rates. The VAR model is not intended to represent actual losses but is used as a risk estimation and management tool. Forecasted transactions, firm commitments and assets and liabilities denominated in foreign currencies were excluded from the model. Based on the results of the model, the Company estimates with 95% confidence, a maximum one-day loss in fair value of $1.0 billion as of September 24, 2022, compared to a maximum one-day loss in fair value of $550 million as of September 25, 2021. Because the Company uses foreign currency instruments for hedging purposes, the losses in fair value incurred on those instruments are generally offset by increases in the fair value of the underlying exposures.
 Actual future gains and losses associated with the Company’s investment portfolio, debt and derivative positions may differ materially from the sensitivity analyses performed as of September 24, 2022 due to the inherent limitations associated with predicting the timing and amount of changes in interest rates, foreign currency exchange rates and the Company’s actual exposures and positions.
 Apple Inc. | 2022 Form 10-K | 27
 
-PAGE NUMBER: 30
 
 Item 8. Financial Statements and Supplementary Data
 
@@ -726,7 +692,6 @@ Reports of Independent Registered Public Accounting Firm		50
 All financial statement schedules have been omitted, since the required information is not applicable or is not present in amounts sufficient to require submission of the schedule, or because the information required is included in the consolidated financial statements and accompanying notes.
 Apple Inc. | 2022 Form 10-K | 28
 
-PAGE NUMBER: 31
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF OPERATIONS
@@ -768,7 +733,6 @@ Diluted	16,325,819			16,864,919			17,528,214
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2022 Form 10-K | 29
 
-PAGE NUMBER: 32
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
@@ -797,7 +761,6 @@ Total comprehensive income	$	88,531			$	95,249			$	57,453
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2022 Form 10-K | 30
 
-PAGE NUMBER: 33
 
 Apple Inc.
 CONSOLIDATED BALANCE SHEETS
@@ -849,7 +812,6 @@ Total liabilities and shareholders’ equity	$	352,755			$	351,002
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2022 Form 10-K | 31
 
-PAGE NUMBER: 34
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
@@ -889,7 +851,6 @@ Dividends and dividend equivalents declared per share or RSU	$	0.90			$	0.85			$
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2022 Form 10-K | 32
 
-PAGE NUMBER: 35
 
 Apple Inc.
 CONSOLIDATED STATEMENTS OF CASH FLOWS
@@ -941,7 +902,6 @@ Cash paid for interest	$	2,865			$	2,687			$	3,002
 See accompanying Notes to Consolidated Financial Statements.
 Apple Inc. | 2022 Form 10-K | 33
 
-PAGE NUMBER: 36
 
 Apple Inc.
 Notes to Consolidated Financial Statements
@@ -963,7 +923,6 @@ and Maps. The third performance obligation is the right to receive, on a when-an
 For certain long-term service arrangements, the Company has performance obligations for services it has not yet delivered. For these arrangements, the Company does not have a right to bill for the undelivered services. The Company has determined that any unbilled consideration relates entirely to the value of the undelivered services. Accordingly, the Company has not recognized revenue, and does not disclose amounts, related to these undelivered services.
 Apple Inc. | 2022 Form 10-K | 34
 
-PAGE NUMBER: 37
 
 For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products, including evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product. For third-party applications sold through the App Store and certain digital content sold through the Company’s other digital content stores, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for such sales on a net basis by recognizing in Services net sales only the commission it retains.
 The Company records revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
@@ -995,7 +954,6 @@ Inventories
 Inventories are measured using the first-in, first-out method.
 Apple Inc. | 2022 Form 10-K | 35
 
-PAGE NUMBER: 38
 
 Restricted Marketable Securities
 The Company considers marketable securities to be restricted when withdrawal or general use is legally restricted. The Company reports restricted marketable securities as current or non-current marketable securities in the Consolidated Balance Sheets based on the classification of the underlying securities.
@@ -1032,7 +990,6 @@ Leases
 The Company combines and accounts for lease and nonlease components as a single lease component for leases of corporate, data center and retail facilities. The discount rates related to the Company’s lease liabilities are generally based on estimates of the Company’s incremental borrowing rate, as the discount rates implicit in the Company’s leases cannot be readily determined.
 Apple Inc. | 2022 Form 10-K | 36
 
-PAGE NUMBER: 39
 
 Segment Reporting
 The Company reports segment information based on the “management” approach. The management approach designates the internal reporting used by management for making decisions and assessing performance as the source of the Company’s reportable segments.
@@ -1081,7 +1038,6 @@ billion, respectively. As of September 24, 2022, the Company expects
 % in greater than three years.
 Apple Inc. | 2022 Form 10-K | 37
 
-PAGE NUMBER: 40
 
 Note 3 –
 Financial Instruments
@@ -1140,7 +1096,6 @@ billion and $
 billion, respectively, that were restricted from general use, related to the State Aid Decision (refer to Note 5, “Income Taxes”) and other agreements.
 Apple Inc. | 2022 Form 10-K | 38
 
-PAGE NUMBER: 41
 
 The following table shows the fair value of the Company’s non-current marketable debt securities, by contractual maturity, as of September 24, 2022 (in millions):
 
@@ -1173,7 +1128,6 @@ Derivative instruments not designated as accounting hedges:
 Foreign exchange contracts	$	185,381			$	126,918	
 Apple Inc. | 2022 Form 10-K | 39
 
-PAGE NUMBER: 42
 
 The gross fair values of the Company’s derivative assets and liabilities as of September 24, 2022 were as follows (in millions):
 
@@ -1229,7 +1183,6 @@ three
 %.
 Apple Inc. | 2022 Form 10-K | 40
 
-PAGE NUMBER: 43
 
 Note 4 –
 Consolidated Financial Statement Details
@@ -1287,7 +1240,6 @@ billion and $
 billion in 2022, 2021 and 2020, respectively.
 Apple Inc. | 2022 Form 10-K | 41
 
-PAGE NUMBER: 44
 
 A reconciliation of the provision for income taxes to the amount computed by applying the statutory federal income tax rate (
 21
@@ -1335,7 +1287,6 @@ billion in foreign tax credit carryforwards in Ireland and $
 billion in California R&D credit carryforwards, both of which can be carried forward indefinitely. A valuation allowance has been recorded for the credit carryforwards and a portion of other temporary differences.
 Apple Inc. | 2022 Form 10-K | 42
 
-PAGE NUMBER: 45
 
 Uncertain Tax Positions
 As of September 24, 2022, the total amount of gross unrecognized tax benefits was $
@@ -1403,7 +1354,6 @@ billion for 2021 and $
 billion for 2020, including the impact of adopting the Financial Accounting Standards Board’s Accounting Standards Update No. 2016-02, Leases (Topic 842) in the first quarter of 2020.
 Apple Inc. | 2022 Form 10-K | 43
 
-PAGE NUMBER: 46
 
 The following table shows ROU assets and lease liabilities, and the associated financial statement line items, as of September 24, 2022 and September 25, 2021 (in millions):
 
@@ -1451,7 +1401,6 @@ year to
 years.
 Apple Inc. | 2022 Form 10-K | 44
 
-PAGE NUMBER: 47
 
 Note 7 –
 Debt
@@ -1510,7 +1459,6 @@ billion, $
 billion of interest expense on its term debt for 2022, 2021 and 2020, respectively.
 Apple Inc. | 2022 Form 10-K | 45
 
-PAGE NUMBER: 48
 
 The future principal payments for the Company’s Notes as of September 24, 2022, are as follows (in millions):
 
@@ -1561,7 +1509,6 @@ billion shares were authorized for issuance pursuant to 2022 Plan awards at the 
 The Apple Inc. 2014 Employee Stock Plan (the “2014 Plan”) is a shareholder-approved plan that provided for broad-based equity grants to employees, including executive officers. The 2014 Plan permitted the granting of substantially the same types of equity awards with substantially the same terms as the 2022 Plan. The 2014 Plan also permitted the granting of cash bonus awards. In the third quarter of 2022, the Company terminated the authority to grant new awards under the 2014 Plan.
 Apple Inc. | 2022 Form 10-K | 46
 
-PAGE NUMBER: 49
 
 Apple Inc. Non-Employee Director Stock Plan
 The Apple Inc. Non-Employee Director Stock Plan (the “Director Plan”) is a shareholder-approved plan that (i) permits the Company to grant awards of RSUs or stock options to the Company’s non-employee directors, (ii) provides for automatic initial grants of RSUs upon a non-employee director joining the Board of Directors and automatic annual grants of RSUs at each annual meeting of shareholders, and (iii) permits the Board of Directors to prospectively change the value and relative mixture of stock options and RSUs for the initial and annual award grants and the methodology for determining the number of shares of the Company’s common stock subject to these grants, in each case within the limits set forth in the Director Plan and without further shareholder approval. RSUs granted under the Director Plan reduce the number of shares available for grant under the plan by a factor of
@@ -1627,7 +1574,6 @@ million for 2022, 2021 and 2020, respectively, and were based on the value of th
 billion in 2022, 2021 and 2020, respectively.
 Apple Inc. | 2022 Form 10-K | 47
 
-PAGE NUMBER: 50
 
 Share-Based Compensation
 The following table shows share-based compensation expense and the related income tax benefit included in the Consolidated Statements of Operations for 2022, 2021 and 2020 (in millions):
@@ -1663,7 +1609,6 @@ Contingencies
 The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims.
 Apple Inc. | 2022 Form 10-K | 48
 
-PAGE NUMBER: 51
 
 Note 11 –
 Segment Information and Geographic Data
@@ -1718,7 +1663,6 @@ Total long-lived assets	$	42,117			$	39,440
 China includes Hong Kong and Taiwan. Long-lived assets located in China consist primarily of assets related to product manufacturing, retail stores and related infrastructure.
 Apple Inc. | 2022 Form 10-K | 49
 
-PAGE NUMBER: 52
 
 Report of Independent Registered Public Accounting Firm
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -1739,7 +1683,6 @@ The critical audit matter communicated below is a matter arising from the curren
 Description of the Matter	As discussed in Note 5 to the financial statements, Apple Inc. is subject to taxation and files income tax returns in the U.S. federal jurisdiction and many state and foreign jurisdictions. As of September 24, 2022, the total amount of gross unrecognized tax benefits was $16.8billion, of which $8.0billion, if recognized, would impact Apple Inc.’s effective tax rate. In accounting for uncertain tax positions, Apple Inc. uses significant judgment in the interpretation and application of complex domestic and international tax laws.Auditing management’s evaluation of whether an uncertain tax position is more likely than not to be sustained and the measurement of the benefit of various tax positions can be complex, involves significant judgment, and is based on interpretations of tax laws and legal rulings.
 Apple Inc. | 2022 Form 10-K | 50
 
-PAGE NUMBER: 53
 
 
 
@@ -1752,7 +1695,6 @@ San Jose, California
 October 27, 2022
 Apple Inc. | 2022 Form 10-K | 51
 
-PAGE NUMBER: 54
 
 Report of Independent Registered Public Accounting Firm
 To the Shareholders and the Board of Directors of Apple Inc.
@@ -1773,7 +1715,6 @@ San Jose, California
 October 27, 2022
 Apple Inc. | 2022 Form 10-K | 52
 
-PAGE NUMBER: 55
 
 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 None.
@@ -1795,7 +1736,6 @@ Changes in Internal Control over Financial Reporting
 There were no changes in the Company’s internal control over financial reporting during the fourth quarter of 2022, which were identified in connection with management’s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
 Apple Inc. | 2022 Form 10-K | 53
 
-PAGE NUMBER: 56
 
 Item 9B. Other Information
 Rule 10b5-1 Trading Plans
@@ -1812,7 +1752,6 @@ Item 13. Certain Relationships and Related Transactions, and Director Independen
 Item 14. Principal Accountant Fees and Services
 Apple Inc. | 2022 Form 10-K | 54
 
-PAGE NUMBER: 57
 
 PART IV
 Item 15. Exhibit and Financial Statement Schedules
@@ -1856,7 +1795,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 4.9		Officer’s Certificate of the Registrant, dated as of September 17, 2015, including forms of global notes representing the 1.375% Notes due 2024 and 2.000% Notes due 2027.		8-K		4.1		9/17/15
 Apple Inc. | 2022 Form 10-K | 55
 
-PAGE NUMBER: 58
 
 
 
@@ -1884,7 +1822,6 @@ Exhibit Number		Exhibit Description		Form		Exhibit		Filing Date/Period End Date
 4.28		Officer’s Certificate of the Registrant, dated as of August 8, 2022, including forms of global notes representing the 3.250% Notes due 2029, 3.350% Notes due 2032, 3.950% Notes due 2052 and 4.100% Notes due 2062.		8-K		4.1		8/8/22
 Apple Inc. | 2022 Form 10-K | 56
 
-PAGE NUMBER: 59
 
 
 
@@ -1930,7 +1867,6 @@ Item 16. Form 10-K Summary
 None.
 Apple Inc. | 2022 Form 10-K | 57
 
-PAGE NUMBER: 60
 
 SIGNATURES
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
@@ -1982,10 +1918,7 @@ RONALD D. SUGAR
 SUSAN L. WAGNER			
 Apple Inc. | 2022 Form 10-K | 58
 
-PAGE NUMBER: 1
 
-Document created using Wdesk
-Copyright 2022 Workiva
 Document
 Exhibit 4.1
 DESCRIPTION OF THE REGISTRANT’S SECURITIES
@@ -2010,7 +1943,6 @@ The Company’s entire Board of Directors or any individual director may be remo
 Vacancies created by the removal of a director must be filled only by approval of the shareholders, or by the unanimous written consent of all shares entitled to vote. The shareholders may elect a director at any time to fill a vacancy not filled by the directors, but any such election by written consent, other than to fill a vacancy created by removal, requires the consent of a majority of the outstanding shares entitled to vote thereon.
 An amendment of the Bylaws or the Articles may be adopted by the vote of the majority of the outstanding shares entitled to vote. Any amendment of the Bylaws specifying or changing a fixed number of directors or the maximum or minimum number or changing from a fixed to a variable board or vice versa may only be adopted by the shareholders; provided, however, that an amendment of the Bylaws or the Articles reducing the fixed number or the minimum number of directors to less than five cannot be adopted if the votes cast against its adoption are equal to more than 16 2/3% of the outstanding shares entitled to vote.
 
-PAGE NUMBER: 2
 
 Any shareholders’ meeting may be adjourned from time to time by the vote of a majority of the shares present in person or represented by proxy.
 Dividends
@@ -2032,7 +1964,6 @@ Listing
 The Company’s Common Stock is listed on The Nasdaq Stock Market LLC under the trading symbol “AAPL.”
 2
 
-PAGE NUMBER: 3
 
 DESCRIPTION OF DEBT SECURITIES
 The following description of the Notes is a summary and does not purport to be complete. This description is qualified in its entirety by reference, as applicable, to the Indenture, dated as of April 29, 2013, between Apple Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (the “2013 Indenture”) and the Indenture, dated as of November 5, 2018, between Apple Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee (the “2018 Indenture,” and together with the 2013 Indenture, the “Indentures”). References in this section to the “Company,” “us,” “we” and “our” are solely to Apple Inc. and not to any of its subsidiaries, unless the context requires otherwise.
@@ -2062,7 +1993,6 @@ We issued €1,400,000,000 aggregate principal amount of the 2026 Notes on Novem
 aggregate principal amount of the 2026 Notes was outstanding.
 3
 
-PAGE NUMBER: 4
 
 The 2027 Notes
 We issued €1,000,000,000 aggregate principal amount of the 2027 Notes on September 17, 2015. The maturity date of the 2027 Notes is September 17, 2027, and interest at a rate of 2.000% per annum is paid annually on September 17 of each year, beginning on September 17, 2016, and on the maturity date. As of
@@ -2091,7 +2021,6 @@ Payment on the Notes
 All payments of principal of, the redemption price (if any), and interest and additional amounts (if any) on the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes are payable in euro, provided that, if the euro is unavailable to the Company due to the imposition of exchange controls or other circumstances beyond the Company’s control, or if the euro is no longer being used by the then member states of the European Monetary Union that have adopted the euro as their currency or for the settlement of transactions by public institutions of or within the international banking community, then all payments in respect of the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes will be made in U.S. dollars, until the euro is again available to the Company or so used. The amount payable on any date in euro will be converted into U.S. dollars at the rate mandated by the U.S. Federal Reserve Board as of the close of business on the second Business Day prior to the relevant payment date or, in the event the U.S. Federal Reserve Board has not mandated a rate of conversion, on the basis of the most recent U.S. dollar/euro exchange rate published in The Wall Street Journal on or prior to the second Business Day prior to the relevant payment date. Any payment in respect of the 2022 Notes, the
 4
 
-PAGE NUMBER: 5
 
 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes so made in U.S. dollars will not constitute an event of default under such Notes or the applicable Indenture.
 With respect to the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, “Business Day” means any day, other than a Saturday or Sunday, (1) which is not a day on which banking institutions in The City of New York or London are authorized or required by law, regulation or executive order to close and (2) on which the Trans-European Automated Real-time Gross Settlement Express Transfer system (the TARGET2 system), or any successor thereto, is open.
@@ -2109,7 +2038,6 @@ being or having been engaged in a trade or business in the United States or havi
 having a current or former connection with the United States (other than a connection arising solely as a result of the ownership of the Notes, the receipt of any payment or the enforcement of any rights hereunder), including being or having been a citizen or resident of the United States;
 5
 
-PAGE NUMBER: 6
 
 (c)
 being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for U.S. federal income tax purposes or a corporation that has accumulated earnings to avoid U.S. federal income tax;
@@ -2140,7 +2068,6 @@ in the case of any combination of items (1) through (9) above.
 The Notes are subject in all cases to any tax, fiscal or other law or regulation or administrative or judicial interpretation applicable to the Notes. Except as specifically provided under this heading “—Payment of Additional Amounts,” the Company will not be required to make any payment for any Tax imposed by any government or a political subdivision or taxing authority of or in any government or political subdivision. As used under “—Payment of Additional Amounts” and under “—Redemption for Tax Reasons,” the term “United States” means the United States
 6
 
-PAGE NUMBER: 7
 
 of America (including the states and the District of Columbia and any political subdivision thereof), and the term “United States person”
 means any individual who is a citizen or resident of the United States for U.S. federal income tax purposes, a corporation, partnership or other entity created or organized in or under the laws of the United States, any state of the United States or the District of Columbia (other than a partnership that is not treated as a United States person under any applicable Treasury regulations), or any estate or trust the income of which is subject to U.S. federal income taxation regardless of its source.
@@ -2164,7 +2091,6 @@ the sum of the present values of the remaining scheduled payments of principal a
 “Par Call Date” means (i) with respect to the 0.000% 2025 Notes, August 15, 2025 (three months prior to the maturity date of the 0.000% 2025 Notes), (ii) with respect to the 0.875% 2025 Notes, February 24, 2025 (three months prior to the maturity date of the 0.875% 2025 Notes), (iii) with respect to the 1.375% 2029 Notes, February 24, 2029 (three months prior to the maturity date of 1.375% 2029 Notes) and (iv) with respect to the 2031 Notes, August 15, 2031 (three months prior to the maturity of the 2031 Notes).
 7
 
-PAGE NUMBER: 8
 
 If any of the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 1.375% 2029 Notes or the 2031 Notes are redeemed on or after the applicable Par Call Date, the redemption price for such Notes will equal 100% of the principal amount of the Notes being redeemed.
 In each case upon redemption of the Notes, we will pay accrued and unpaid interest on the principal amount being redeemed to, but excluding, the date of redemption.
@@ -2181,7 +2107,6 @@ limit our ability or that of our subsidiaries to issue, assume or guarantee debt
 restrict us from paying dividends or making distributions on our capital stock or purchasing or redeeming our capital stock.
 8
 
-PAGE NUMBER: 9
 
 Consolidation, Merger and Sale of Assets
 The Indentures provide that we may consolidate with or merge with or into any other person, and may sell, transfer, or lease or convey all or substantially all of our properties and assets to another person; provided that the following conditions are satisfied:
@@ -2201,7 +2126,6 @@ commence a voluntary case or proceeding;
 consent to the entry of an order for relief against us in an involuntary case or proceeding;
 9
 
-PAGE NUMBER: 10
 
 •
 consent to the appointment of a custodian of us or for all or substantially all of our property;
@@ -2226,7 +2150,6 @@ No holder of any debt securities of any series will have any right to institute 
 (1) an event of default has occurred and is continuing and such holder has given the trustee prior written notice of such continuing event of default with respect to the debt securities of such series;
 10
 
-PAGE NUMBER: 11
 
 (2) in the case of the 2013 Indenture, the holders of not less than 25% of the aggregate principal amount of the outstanding debt securities of such series, and in the case of the 2018 Indenture, the holders of not less than 33% of the aggregate principal amount of the outstanding debt securities of such series have requested the trustee to institute proceedings in respect of such event of default;
 (3) the trustee has been offered indemnity reasonably satisfactory to it against its costs, expenses and liabilities in complying with such request;
@@ -2246,7 +2169,6 @@ reduce the percentage in principal amount of the outstanding Notes, the consent 
 reduce the requirements for quorum or voting by holders of Notes in the applicable Indenture or the Note;
 11
 
-PAGE NUMBER: 12
 
 •
 modify any of the provisions in the applicable Indenture regarding the waiver of past defaults and the waiver of certain covenants by the holders of Notes except to increase any percentage vote required or to provide that certain other provisions of the applicable Indenture cannot be modified or waived without the consent of the holder of each Notes affected thereby;
@@ -2270,7 +2192,6 @@ to change any other provision; provided that the change does not adversely affec
 to supplement any of the provisions of the applicable Indenture to such extent as shall be necessary to permit or facilitate the defeasance and discharge of any series of Notes pursuant to the Indenture;
 12
 
-PAGE NUMBER: 13
 
 provided that any such action shall not adversely affect the interests of the holders of Notes of such series or any other series of debt securities in any material respect;
 •
@@ -2284,7 +2205,6 @@ If we effect covenant defeasance with respect to the Notes of any series, the am
 With respect to the 2022 Notes, the 2024 Notes, the 0.000% 2025 Notes, the 0.875% 2025 Notes, the 2026 Notes, the 2027 Notes, the 1.375% 2029 Notes and the 2031 Notes, the term “U.S. government obligations” shall instead mean (x) any security that is (i) a direct obligation of the German government or (ii) an obligation of a person controlled or supervised by and acting as an agency or instrumentality of the German government the payment of which is fully and unconditionally guaranteed by the German government or the central bank of the German government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y)
 13
 
-PAGE NUMBER: 14
 
 certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.
 With respect to the 3.050% 2029 Notes and the 2042 Notes, the term “U.S. government obligations” shall instead mean (x) any security that is (i) a direct obligation of the United Kingdom government or (ii) an obligation of a person controlled or supervised by and acting as an agency or instrumentality of the United Kingdom government the payment of which is fully and unconditionally guaranteed by the United Kingdom government or the central bank of the United Kingdom government, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.

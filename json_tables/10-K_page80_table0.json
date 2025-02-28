@@ -1,0 +1,61 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Dynamic ForecastDecember 31, 2023",
+    "Static ForecastDecember 31, 2023",
+    "Dynamic ForecastDecember 31, 2022",
+    "Static ForecastDecember 31, 2022"
+  ],
+  [
+    "Gradual Rate Change",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "100 bp increase in interest rates",
+    "1.9%",
+    "2.2%",
+    "3.9%",
+    "3.4%"
+  ],
+  [
+    "200 bp increase in interest rates",
+    "3.8%",
+    "4.3%",
+    "7.8%",
+    "6.8%"
+  ],
+  [
+    "100 bp decrease in interest rates",
+    "(1.3)%",
+    "(1.5)%",
+    "(3.4)%",
+    "(2.9)%"
+  ],
+  [
+    "200 bp decrease in interest rates",
+    "(2.6)%",
+    "(3.1)%",
+    "(6.7)%",
+    "(5.7)%"
+  ]
+]

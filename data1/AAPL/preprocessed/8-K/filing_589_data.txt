@@ -42,7 +42,6 @@ FILER:
 		FORMER CONFORMED NAME:	APPLE COMPUTER INC
 		DATE OF NAME CHANGE:	19970808
 
-PAGE NUMBER: 1
 
 Form 8-K
 UNITED STATES
@@ -84,7 +83,6 @@ Emerging growth company
 ☐
 If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
 
-PAGE NUMBER: 2
 
 
 
@@ -119,7 +117,6 @@ ExhibitNumber		Exhibit Description
 	
 23.1		Consent of Hogan Lovells US LLP (included in the opinion filed as Exhibit 5.1)
 
-PAGE NUMBER: 3
 
 SIGNATURE
 Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
@@ -131,7 +128,6 @@ Date: August 18, 2017				Apple Inc.
 				By:		/s/ Luca Maestri
 						Luca MaestriSenior Vice President, Chief Financial Officer
 
-PAGE NUMBER: 4
 
 EXHIBIT INDEX
 
@@ -151,7 +147,6 @@ ExhibitNumber		Exhibit Description
 	
 23.1		Consent of Hogan Lovells US LLP (included in the opinion filed as Exhibit 5.1)
 
-PAGE NUMBER: 1
 
 EX-1.1
 Exhibit 1.1
@@ -189,7 +184,6 @@ Underwriters
 Securities
 ”).
 
-PAGE NUMBER: 2
 
 1. The Company represents and warrants to, and agrees with, each of the Underwriters that:
 (a) An “automatic shelf registration statement” as defined under Rule 405 under the Securities Act of 1933, as amended (the “
@@ -221,7 +215,6 @@ Issuer Free Writing Prospectus
 ”);
 -2-
 
-PAGE NUMBER: 3
 
 (b) References to “Canadian Securities Laws” shall mean all applicable securities laws, regulations, rules, instruments, rulings and orders in each of the provinces of Canada and the applicable policy statements issued by any Canadian securities authority. The Company has prepared, in a form approved by the Underwriters, a preliminary Canadian offering memorandum dated August 15, 2017 (the “
 Preliminary Canadian Offering Memorandum
@@ -240,7 +233,6 @@ Pricing Disclosure Package
 ”) as of the Applicable Time, did not include any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; and each Issuer Free Writing Prospectus listed on Schedule II(a) hereto does not conflict with the information contained in the Registration Statement, the Pricing Prospectus, the Prospectus, the Preliminary Canadian Offering Memorandum or the Canadian Offering Memorandum and each such Issuer Free Writing Prospectus, as supplemented by and taken together with the Pricing Disclosure Package as of the Applicable Time, did not include any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that this representation and warranty shall not apply to statements or omissions made in an Issuer Free Writing Prospectus in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. or Goldman Sachs & Co. LLC expressly for use therein;
 -3-
 
-PAGE NUMBER: 4
 
 (e) The documents incorporated by reference in the Pricing Prospectus and the Prospectus (including, without limitation, the interactive data in eXtensible Business Reporting Language included or incorporated by reference therein), when they became effective or were filed with the Commission, as the case may be, conformed in all material respects to the requirements of the Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder, and none of such documents contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading; any further documents so filed and incorporated by reference in the Prospectus or any further amendment or supplement thereto (including, without limitation, the interactive data in eXtensible Business Reporting Language included or incorporated by reference therein), when such documents become effective or are filed with the Commission, as the case may be, will conform in all material respects to the requirements of the Act or the Exchange Act, as applicable, and the rules and regulations of the Commission thereunder and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading; provided, however, that this representation and warranty shall not apply to any statements or omissions made in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. or Goldman Sachs & Co. LLC expressly for use therein; and no such documents were filed with the Commission since the Commission’s close of business on the business day immediately prior to the date of this Agreement and prior to the execution of this Agreement, except as set forth on Schedule II(b) hereto;
 (f) The Registration Statement conforms, and the Prospectus and any further amendments or supplements to the Registration Statement and the Prospectus will conform, in all material respects to the requirements of the Act and the Trust Indenture Act and the rules and regulations of the Commission thereunder and do not and will not, as of the applicable effective date as to each part of the Registration Statement and as of the applicable filing date as to the Prospectus, the Preliminary Canadian Offering Memorandum, the Canadian Offering Memorandum and any amendment or supplement to any of the foregoing, contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading;
@@ -252,7 +244,6 @@ T-1
 of the Trustee under the Trust Indenture Act;
 -4-
 
-PAGE NUMBER: 5
 
 (g) The Company and its subsidiaries, taken as a whole, (i) have not sustained since the date of the latest audited financial statements included or incorporated by reference in the Pricing Prospectus or Canadian Offering Memorandum any material loss or interference with their business from fire, explosion, flood or other calamity, whether or not covered by insurance, or from any labor dispute or court or governmental action, order or decree, otherwise than as set forth or contemplated in the Pricing Prospectus or Canadian Offering Memorandum; and, (ii) since the respective dates as of which information is given in the Registration Statement and the Pricing Prospectus or Canadian Offering Memorandum, there has not been any material adverse change in the capital stock or long term debt of the Company and its subsidiaries, taken as a whole, or any Material Adverse Effect, in each case otherwise than as set forth or contemplated in the Pricing Prospectus or Canadian Offering Memorandum. For purposes of this Agreement, “Material Adverse Effect” means any material adverse change in or affecting the business of the Company and its subsidiaries, taken as a whole;
 (h) The Company has been (i) duly incorporated and is validly existing as a corporation in good standing under the laws of the State of California, with corporate power and authority to own its properties and conduct its business as described in the Pricing Prospectus and the Canadian Offering Memorandum and, (ii) except to the extent that the failure to be so qualified or be in good standing in such jurisdictions would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect, has been duly qualified as a foreign corporation for the transaction of business and is in good standing under the laws of each other jurisdiction in which it owns or leases properties or conducts any business so as to require such qualification;
@@ -260,7 +251,6 @@ PAGE NUMBER: 5
 (j) Each Subsidiary has been duly incorporated and is validly existing and in good standing under the laws of its jurisdiction of organization, with power and authority (corporate and other) to own its properties and conduct its business as described in the Pricing Prospectus and the Canadian Offering Memorandum, and has been duly qualified to transact business and is in good standing under the laws of each other jurisdiction in which it owns or leases properties or conducts any business so as to require such qualification, except to the extent that the failure to have such power, be so qualified or be in good standing would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect;
 -5-
 
-PAGE NUMBER: 6
 
 (k) The Securities have been duly authorized and, when issued and delivered pursuant to this Agreement, will have been duly executed, authenticated, issued and delivered and will constitute valid and legally binding obligations of the Company entitled to the benefits provided by the indenture, dated as of April 29, 2013 (the “
 Base Indenture
@@ -278,7 +268,6 @@ Governmental Authorizations
 ”) is required for the issue and sale of the Securities or the consummation by the Company of the transactions contemplated by this Agreement or the Indenture, except such as have been obtained under the Act and the Trust Indenture Act and such Governmental Authorizations as may be required under state securities or Blue Sky laws in connection with the purchase and distribution of the Securities by the Underwriters, and except, with respect to (i), (iii) and (iv), as would not reasonably be expected, individually or in the aggregate, to have a Material Adverse Effect;
 -6-
 
-PAGE NUMBER: 7
 
 (m) There are no legal or governmental proceedings pending or, to the Company’s knowledge, threatened to which the Company or any of its Subsidiaries is a party or to which any of the properties of the Company or any of its Subsidiaries is subject that are required to be described in the Registration Statement, the Pricing Disclosure Package or the Canadian Offering Memorandum and are not so described or any statutes, regulations, contracts or other documents that are required to be described in the Registration Statement, the Pricing Disclosure Package or the Canadian Offering Memorandum or to be filed as exhibits to the Registration Statement that are not described or filed as required, and there is no order, ruling or decision of any court or Canadian securities regulatory authority restricting or ceasing trading in any of the securities of the Company or suspending or preventing the use of the Preliminary Canadian Offering Memorandum or the Canadian Offering Memorandum in effect or, to the knowledge of the Company, threatened by any Canadian securities regulatory authority;
 (n) The Company is not and, after giving effect to the offering and sale of the Securities and the application of the proceeds thereof, will not be an “investment company”, as such term is defined in the Investment Company Act of 1940, as amended (the “
@@ -287,7 +276,6 @@ Investment Company Act
 (o) (A) (i) At the time of filing the Registration Statement, (ii) at the time of the most recent amendment thereto for the purposes of complying with Section 10(a)(3) of the Act (whether such amendment was by post-effective amendment, incorporated report filed pursuant to Section 13 or 15(d) of the Exchange Act or form of prospectus), and (iii) at the time the Company or any person acting on its behalf (within the meaning, for this clause only, of Rule 163(c) under the Act) made any offer relating to the Securities in reliance on the exemption of Rule 163 under the Act, the Company was a “well-known seasoned issuer” as defined in Rule 405 under the Act; and (B) at the earliest time after the filing of the Registration Statement that the Company or another offering participant made a bona fide offer (within the meaning of Rule 164(h)(2) under the Act) of the Securities, the Company was not an “ineligible issuer” as defined in Rule 405 under the Act;
 -7-
 
-PAGE NUMBER: 8
 
 (p) The financial statements and the related notes thereto included or incorporated by reference in the Registration Statement, the Preliminary Prospectus, the Base Prospectus and the Preliminary Canadian Offering Memorandum comply or will comply in all material respects with the applicable requirements of the Act and the Exchange Act, as applicable, and present fairly the financial position of the Company and its subsidiaries as of the dates indicated and the results of their operations and the changes in their cash flows for the periods specified; such financial statements have been prepared in conformity with generally accepted accounting principles applied on a consistent basis throughout the periods covered thereby, and the supporting schedules included or incorporated by reference in the Registration Statement present fairly the information required to be stated therein; and the other financial information included or incorporated by reference in the Registration Statement, Pricing Disclosure Package or Canadian Offering Memorandum has been derived from the accounting records of the Company and its subsidiaries and presents fairly the information shown thereby; and
 (q) This Agreement has been duly authorized, executed and delivered by the Company.
@@ -306,7 +294,6 @@ Time of Delivery
 ”.
 -8-
 
-PAGE NUMBER: 9
 
 (b) The documents to be delivered at the Time of Delivery by or on behalf of the parties hereto pursuant to Section 8 hereof, including the cross-receipt for the Securities and any additional documents requested by the Underwriters, will be delivered at the offices of Simpson Thacher & Bartlett LLP, 2475 Hanover Street, Palo Alto, CA 94304 (the “
 Closing Location
@@ -319,14 +306,12 @@ agrees with each of the Underwriters:
 (i) To prepare the Prospectus in a form approved by you and to file such Prospectus pursuant to Rule 424(b) under the Act not later than the Commission’s close of business on the second business day following the date of this Agreement; to make no further amendment or any supplement to the Registration Statement, the Base Prospectus or the Prospectus prior to the Time of Delivery which shall be reasonably disapproved by you promptly after reasonable notice thereof; to advise you, promptly after it receives notice thereof, of the time when any amendment to the Registration Statement has been filed or becomes effective or any amendment or supplement to the Prospectus has been filed and to furnish you with copies thereof; to prepare a final term sheet, containing solely a description of the Securities, in a form approved by you and to file such term sheet pursuant to Rule 433(d) under the Act within the time required by such Rule; to file promptly all other material required to be filed by the Company with the Commission pursuant to Rule 433(d) under the Act; to file promptly all reports and any definitive proxy or information statements required to be filed by the Company with the Commission pursuant to Section 13(a), 13(c), 14 or 15(d) of the Exchange Act subsequent to the date of the Prospectus and for so long as the delivery of a prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Act) is required in connection with the offering or sale of the Securities; to advise you, promptly after it receives notice thereof, of the issuance by the Commission of any stop order, of any order preventing or suspending the use of any Preliminary Prospectus or other prospectus in respect of the Securities, of any notice of objection of the Commission to the use of the Registration Statement or any post-effective amendment thereto pursuant to Rule 401(g)(2) under the Act, of the suspension of the qualification of the Securities for offering or sale in any jurisdiction, of the initiation or threatening of any proceeding for any such purpose, of any request by the Commission for the amending or supplementing of the Registration Statement or the Prospectus or for additional information, or of the issuance of any order, ruling or decision of any court or Canadian securities regulatory authority restricting or ceasing trading in any of the securities of the Company or suspending or preventing the use of the Preliminary Canadian Offering Memorandum or the Canadian Offering Memorandum or the receipt of any notification from any court or Canadian securities regulatory authority of the institution or threatening of any proceeding for such purpose; and, in the event of the issuance of any stop order or of any order preventing or suspending the use of any Preliminary Prospectus or other prospectus or suspending any such qualification, to promptly use its reasonable best efforts to obtain the withdrawal of such order; and in the event of any such issuance of a notice of objection, promptly to take such steps including, without limitation, amending the Registration Statement or filing a new registration statement, at its own expense, as may be necessary to permit offers and sales of the Securities by the Underwriters (references herein to the Registration Statement shall include any such amendment or new registration statement);
 -9-
 
-PAGE NUMBER: 10
 
 (ii) If required by Rule 430B(h) under the Act, to prepare a form of prospectus in a form approved by you and to file such form of prospectus pursuant to Rule 424(b) under the Act not later than may be required by Rule 424(b) under the Act; and to make no further amendment or supplement to such form of prospectus which shall be reasonably disapproved by you promptly after reasonable notice thereof;
 (iii) Promptly from time to time to take such action as you may reasonably request to qualify the Securities for offering and sale under the securities laws of such jurisdictions as you may request and to comply with such laws so as to permit the continuance of sales and dealings therein in such jurisdictions for as long as may be necessary to complete the distribution of the Securities, provided that in connection therewith the Company shall not be required to qualify as a foreign corporation, to file a general consent to service of process in any jurisdiction or to subject itself to taxation in any jurisdiction in which it is not so subject;
 (iv) On the New York Business Day next succeeding the date of this Agreement, to furnish the Underwriters with electronic copies of the Prospectus and the Canadian Offering Memorandum and, from time to time during any period when the Prospectus or Canadian Offering Memorandum is required to be delivered in connection with the offering and sale of the Securities, to furnish the Underwriters with written copies of the Prospectus and the Canadian Offering Memorandum in Toronto, Ontario, Canada in such quantities as you may reasonably request, if any, (excluding any documents incorporated by reference therein to the extent available through the Commission’s EDGAR system), and, if the delivery of a prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Act) is required at any time after the time of issue of the Prospectus and the Canadian Offering Memorandum in connection with the offering or sale of the Securities and if at such time any event shall have occurred as a result of which the Prospectus or the Canadian Offering Memorandum, in each case, as then amended or supplemented would include an untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made when such Prospectus (or in lieu thereof, the notice referred to in Rule 173(a) under the Act) or Canadian Offering Memorandum is delivered, not misleading, or, if for any other reason it shall be necessary during such same period to amend or supplement the Prospectus or the Canadian Offering Memorandum, as applicable, or to file under the Exchange Act any document incorporated by reference in the Prospectus or the Canadian Offering Memorandum in order to comply with the Act, the Exchange Act or the Trust Indenture Act, to notify you and upon your request to file such document and to prepare and furnish without charge to each Underwriter and to any dealer in securities as many written and electronic copies as you may from time to time reasonably request of an amended Prospectus, Preliminary Canadian Offering Memorandum or Canadian Offering Memorandum or a supplement to the Prospectus, Preliminary Canadian Offering Memorandum or Canadian Offering Memorandum which will correct such statement or omission or effect such compliance;
 -10-
 
-PAGE NUMBER: 11
 
 (v) To make generally available to its securityholders as soon as practicable, but in any event not later than sixteen months after the effective date of the Registration Statement (as defined in Rule 158(c) under the Act), an earnings statement of the Company and its subsidiaries (which need not be audited) complying with Section 11(a) of the Act and the rules and regulations of the Commission thereunder (including, at the option of the Company, Rule 158);
 (vi) During the period beginning from the date hereof and continuing to and including the Time of Delivery or such earlier time as Goldman Sachs & Co. LLC may notify the Company, not to offer, sell, contract to sell, pledge, grant any option to purchase, make any short sale or otherwise transfer or dispose of, directly or indirectly, or file with the Commission a registration statement under the Act relating to any securities of the Company that are substantially similar to the Securities, or publicly disclose the intention to make any such offer, sale, pledge, disposition or filing;
@@ -336,7 +321,6 @@ PAGE NUMBER: 11
 or equivalent required under applicable Canadian Securities Laws together with the applicable fees, in each case, within the applicable time periods for the provision or filing thereof, based on the information that the Underwriters have provided to the Company in accordance with Section 5(b)(viii).
 -11-
 
-PAGE NUMBER: 12
 
 (b) Each Underwriter, severally and not jointly, covenants with the Company as follows:
 (i) The Underwriters agree to reasonably confirm that each Canadian purchaser: (A) (1) if such purchaser is in the province of Alberta, such purchaser is an “accredited investor” (as defined in National Instrument
@@ -354,7 +338,6 @@ or, if purchasing under the prospectus exemption for acquisitions of not less th
 (iv) It (A) is duly registered as an “investment dealer” or “exempt market dealer” as defined under Canadian Securities Laws or is otherwise exempt from the dealer registration requirements of Canadian Securities Laws in connection with the offer and sale of the Securities to Canadian purchasers as contemplated by the Preliminary Canadian Offering Memorandum and the Canadian Offering Memorandum and is in material compliance with the terms and conditions of such registration or exemption and (B) has offered and will offer for sale and sell the Securities only to such persons and in such manner that pursuant to applicable Canadian Securities Laws no prospectus (as defined under applicable Canadian Securities Laws) need be delivered or filed;
 -12-
 
-PAGE NUMBER: 13
 
 (v) It will comply with all relevant Canadian Securities Laws concerning any resale of the Securities;
 (vi) The offer and sale of the Securities will not be made through or accompanied by any advertisement of the Securities, including, without limitation, in printed media of general and regular paid circulation, radio, television, or telecommunications, including electronic display or any other form of advertising or as part of a general solicitation in Canada;
@@ -372,7 +355,6 @@ under NI
 (iii) any such free writing prospectus the use of which has been consented to by the Company, HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. and Goldman Sachs & Co. LLC (other than the final term sheet prepared and filed pursuant to Section 5(a)(i) hereof) is listed on Schedule II(a) hereto;
 -13-
 
-PAGE NUMBER: 14
 
 (b) The Company has complied and will comply with the requirements of Rule 433 under the Act applicable to any Issuer Free Writing Prospectus, including timely filing with the Commission or retention where required and legending; and
 (c) The Company agrees that if at any time following issuance of an Issuer Free Writing Prospectus any event occurred or occurs as a result of which such Issuer Free Writing Prospectus would conflict with the information in the Registration Statement, the Pricing Prospectus or the Prospectus or would include an untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances then prevailing, not misleading, the Company will give prompt notice thereof to each of HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. and Goldman Sachs & Co. LLC and, if requested by HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. and Goldman Sachs & Co. LLC , will prepare and furnish without charge to each Underwriter an Issuer Free Writing Prospectus or other document which will correct such conflict, statement or omission; provided, however, that this representation and warranty shall not apply to any statements or omissions in an Issuer Free Writing Prospectus made in reliance upon and in conformity with information furnished in writing to the Company by an Underwriter through HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. or Goldman Sachs & Co. LLC expressly for use therein.
@@ -381,7 +363,6 @@ Paying Agent
 ”) and any agent of the Trustee or the Paying Agent and the fees and disbursements of counsel for the Trustee and the Paying Agent in connection with the Indenture and the Securities; and (vii) all other costs and expenses incident to the performance of its obligations hereunder which are not otherwise specifically provided for in this Section. It is understood, however, that, except as provided in this Section, and Sections 9 and 12 hereof, the Underwriters will pay all of their own costs and expenses, including the fees of their counsel, transfer taxes on resale of any of the Securities by them, and any advertising expenses connected with any offers they may make.
 -14-
 
-PAGE NUMBER: 15
 
 8. The obligations of the Underwriters hereunder shall be subject, in their discretion, to the condition that all representations and warranties and other statements of the Company herein are, at and as of the Time of Delivery, true and correct, the condition that the Company shall have performed all of its obligations hereunder theretofore to be performed, and the following additional conditions (
 provided
@@ -393,7 +374,6 @@ Time of Delivery, in form and substance satisfactory to you, with respect to the
 (d) Blake, Cassels & Graydon LLP, Canadian counsel for the Company, shall have furnished to you its written opinion, dated the Time of Delivery, in form and substance reasonably satisfactory to you, substantially in the form attached hereto as Annex III,
 -15-
 
-PAGE NUMBER: 16
 
 (e) On the date of the Prospectus at a time prior to the execution of this Agreement, on the effective date of any post-effective amendment to the Registration Statement filed subsequent to the date of this Agreement and also at the Time of Delivery, Ernst & Young LLP
 shall have furnished to you a letter or letters, dated the respective dates of delivery thereof, in form and substance satisfactory to you, containing statements and information of the type customarily included in accountants’ “comfort letters” to Underwriters with respect to the financial statements and certain financial information contained or incorporated by reference in the Pricing Disclosure Package, the Prospectus and the Canadian Offering Memorandum;
@@ -402,7 +382,6 @@ shall have furnished to you a letter or letters, dated the respective dates of d
 (h) On or after the Applicable Time there shall not have occurred any of the following: (i) a suspension or material limitation in trading in securities generally on the New York Stock Exchange or on NASDAQ; (ii) a suspension or material limitation in trading in the Company’s securities on NASDAQ; (iii) a general moratorium on commercial banking activities declared by Federal, New York State or Canadian authorities or a material disruption in commercial banking or securities settlement or clearance services in the United States or Canada; (iv) the outbreak or escalation of hostilities involving the United States or Canada or the declaration by the United States or Canada of a national emergency or war or (v) the occurrence of any other calamity or crisis or any change in financial, political or economic conditions in the United States, Canada or elsewhere, if the effect of any such event specified in clause (iv) or (v) in your reasonable judgment makes it impracticable or inadvisable to proceed with the public offering or the delivery of the Securities on the terms and in the manner contemplated in the Prospectus or Canadian Offering Memorandum;
 -16-
 
-PAGE NUMBER: 17
 
 (i) The Company shall have complied with the provisions of Section 5(a)(iv) hereof with respect to the furnishing of prospectuses;
 (j) The Company shall have furnished or caused to be furnished to you at the
@@ -414,18 +393,15 @@ T-1
 of the Trustee under the Trust Indenture Act.
 -17-
 
-PAGE NUMBER: 18
 
 (b) Each Underwriter, severally and not jointly, will indemnify and hold harmless the Company against any losses, claims, damages or liabilities to which the Company may become subject, under the Act or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon (i) an untrue statement or alleged untrue statement of a material fact contained in the Registration Statement, or any amendment thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading or (ii) an untrue statement or alleged untrue statement of a material fact contained in the Base Prospectus, any Preliminary Prospectus, the Pricing Prospectus, the Prospectus, the Preliminary Canadian Offering Memorandum, the Canadian Offering Memorandum or any amendment or supplement thereto, or any Issuer Free Writing Prospectus, or arise out of or are based upon the omission or alleged omission to state therein a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, in each case to the extent, but only to the extent, that such untrue statement or alleged untrue statement or omission or alleged omission was made in the Registration Statement, the Base Prospectus, any Preliminary Prospectus, the Pricing Prospectus, the Prospectus, the Preliminary Canadian Offering Memorandum or the Canadian Offering Memorandum or any such amendment or supplement thereto, or any Issuer Free Writing Prospectus, in reliance upon and in conformity with written information furnished to the Company by such Underwriter through HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. or Goldman Sachs & Co. LLC expressly for use therein; and will reimburse the Company for any legal or other expenses reasonably incurred by the Company in connection with investigating or defending any such action or claim as such expenses are incurred.
 (c) Promptly after receipt by an indemnified party under subsection (a) or (b) above of notice of the commencement of any action, such indemnified party shall, if a claim in respect thereof is to be made against the indemnifying party under such subsection, notify the indemnifying party in writing of the commencement thereof; but the omission so to notify the indemnifying party shall not relieve it from any liability which it may have to any indemnified party otherwise than under such subsection. In case any such action shall be brought against any indemnified party and it shall notify the indemnifying party of the commencement thereof, the indemnifying party shall be entitled to participate therein and, to the extent that it shall wish, jointly with any other indemnifying party similarly notified, to assume the defense thereof, with counsel satisfactory to such indemnified party (who shall not, except with the consent of the indemnified party, be counsel to the indemnifying party), and, after notice from the indemnifying party to such indemnified party of its election so to assume the defense thereof, the indemnifying party shall not be liable to such indemnified party under such subsection for any legal expenses of other counsel or any other expenses, in each case subsequently incurred by such indemnified party, in connection with the defense thereof other than reasonable costs of investigation. No indemnifying party shall, without the written consent of the indemnified party, effect the settlement or compromise of, or consent to the entry of any judgment with respect to, any pending or threatened action or claim in respect of which indemnification or contribution may be sought hereunder (whether or not the indemnified party is an actual or potential party to such action or claim) unless such settlement, compromise or judgment (i) includes an unconditional release of the indemnified party from all liability arising out of such action or claim and (ii) does not include a statement as to or an admission of fault, culpability or a failure to act, by or on behalf of any indemnified party.
 -18-
 
-PAGE NUMBER: 19
 
 (d) If the indemnification provided for in this Section 9 is unavailable to or insufficient to hold harmless an indemnified party under subsection (a) or (b) above in respect of any losses, claims, damages or liabilities (or actions in respect thereof) referred to therein, then each indemnifying party shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages or liabilities (or actions in respect thereof) in such proportion as is appropriate to reflect the relative benefits received by the Company on the one hand and the Underwriters on the other from the offering of the Securities. If, however, the allocation provided by the immediately preceding sentence is not permitted by applicable law or if the indemnified party failed to give the notice required under subsection (c) above, then each indemnifying party shall contribute to such amount paid or payable by such indemnified party in such proportion as is appropriate to reflect not only such relative benefits but also the relative fault of the Company on the one hand and the Underwriters on the other in connection with the statements or omissions which resulted in such losses, claims, damages or liabilities (or actions in respect thereof), as well as any other relevant equitable considerations. The relative benefits received by the Company on the one hand and the Underwriters on the other shall be deemed to be in the same proportion as the total net proceeds from the offering (before deducting expenses) received by the Company bear to the total underwriting discounts and commissions received by the Underwriters, in each case as set forth in the table on the cover page of the Prospectus. The relative fault shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company on the one hand or the Underwriters on the other and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. The Company and the Underwriters agree that it would not be just and equitable if contribution pursuant to this subsection (d) were determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of allocation which does not take account of the equitable considerations referred to above in this subsection (d). The amount paid or payable by an indemnified party as a result of the losses, claims, damages or liabilities (or actions in respect thereof) referred to above in this subsection (d) shall be deemed to include any legal or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such action or claim. Notwithstanding the provisions of this subsection (d), no Underwriter shall be required to contribute any amount in excess of the amount by which the total price at which the Securities underwritten by it and distributed to the public were offered to the public exceeds the amount of any damages which such Underwriter has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. The Underwriters’ obligations in this subsection (d) to contribute are several in proportion to their respective underwriting obligations and not joint.
 -19-
 
-PAGE NUMBER: 20
 
 (e) The obligations of the Company under this Section 9 shall be in addition to any liability which the Company may otherwise have and shall extend, upon the same terms and conditions, to each person, if any, who controls any Underwriter within the meaning of the Act and each broker-dealer affiliate of any Underwriter; and the obligations of the Underwriters under this Section 9 shall be in addition to any liability which the respective Underwriters may otherwise have and shall extend, upon the same terms and conditions, to each officer and director of the Company
 and to each person, if any, who controls the Company within the meaning of the Act.
@@ -438,7 +414,6 @@ Underwriter to purchase the principal amount of Securities which such Underwrite
 Underwriter to purchase its pro rata share (based on the principal amount of Securities which such Underwriter agreed to purchase hereunder) of the Securities of such defaulting Underwriter or Underwriters for which such arrangements have not been made; but nothing herein shall relieve a defaulting Underwriter from liability for its default.
 -20-
 
-PAGE NUMBER: 21
 
 (c) If, after giving effect to any arrangements for the purchase of the Securities of a defaulting Underwriter or Underwriters by you and the Company as provided in subsection (a) above, the aggregate principal amount of Securities which remains unpurchased exceeds one tenth of the aggregate principal amount of all the Securities, or if the Company shall not exercise the right described in subsection (b) above to require
 non-defaulting
@@ -470,7 +445,6 @@ or facsimile:
 and if to the Company shall be delivered or sent by electronic communication, mail, or facsimile transmission to the address of the Company set forth in the Registration Statement, Attention: Secretary; provided, however, that any notice to an Underwriter pursuant to Section 9(c) hereof shall be delivered or sent by electronic communication, mail, or facsimile transmission to such Underwriter at its address set forth in its Underwriters’ Questionnaire, or telex constituting such Questionnaire, which address will be supplied to the Company by you upon request. Any such statements, requests, notices or agreements shall take effect upon receipt thereof.
 -21-
 
-PAGE NUMBER: 22
 
 In accordance with the requirements of the USA Patriot Act (Title III of Pub. L.
 107-56
@@ -484,7 +458,6 @@ arm’s-length
 commercial transaction between the Company, on the one hand, and the several Underwriters, on the other, (ii) in connection therewith and with the process leading to such transaction each Underwriter is acting solely as a principal and not the agent or fiduciary of the Company, (iii) no Underwriter has assumed an advisory or fiduciary responsibility in favor of the Company with respect to the offering contemplated hereby or the process leading thereto (irrespective of whether such Underwriter has advised or is currently advising the Company on other matters) or any other obligation to the Company except the obligations expressly set forth in this Agreement and (iv) the Company has consulted its own legal and financial advisors to the extent it deemed appropriate. The Company agrees that it will not claim that the Underwriters, or any of them, has rendered advisory services of any nature or respect, or owes a fiduciary or similar duty to the Company, in connection with such transaction or the process leading thereto.
 -22-
 
-PAGE NUMBER: 23
 
 17. This Agreement supersedes all prior agreements and understandings (whether written or oral) between the Company and the Underwriters, or any of them, with respect to the subject matter hereof.
 18.
@@ -493,7 +466,6 @@ THIS AGREEMENT AND ANY MATTERS RELATED TO THIS TRANSACTION SHALL BE GOVERNED BY 
 20. This Agreement may be executed by any one or more of the parties hereto in any number of counterparts (which may include counterparts delivered by any standard form of telecommunications), each of which shall be deemed to be an original, but all such respective counterparts shall together constitute one and the same instrument.
 -23-
 
-PAGE NUMBER: 24
 
 If the foregoing is in accordance with your understanding, please sign and return to us counterparts hereof, and upon the acceptance hereof by you, on behalf of each of the Underwriters, this letter and such acceptance hereof shall constitute a binding agreement between each of the Underwriters and the Company. It is understood that your acceptance of this letter on behalf of each of the Underwriters is pursuant to the authority set forth in a form of Agreement among Underwriters, the form of which shall be submitted to the Company for examination upon request, but without warranty on your part as to the authority of the signers thereof.
 
@@ -508,7 +480,6 @@ By:		/s/ Gary Wipfler
 		Title:		Vice President and Corporate Treasurer
 [Signature Page to Underwriting Agreement]
 
-PAGE NUMBER: 25
 
 Accepted as of the date hereof:
 HSBC SECURITIES (CANADA) INC.
@@ -524,7 +495,6 @@ By:		/s/ David Loh
 		Title:		Director
 [Signature Page to Underwriting Agreement]
 
-PAGE NUMBER: 26
 
 Accepted as of the date hereof:
 HSBC SECURITIES (CANADA) INC.
@@ -540,7 +510,6 @@ By:		/s/ Patrick MacDonald
 		Title:		Managing Director
 [Signature Page to Underwriting Agreement]
 
-PAGE NUMBER: 27
 
 Accepted as of the date hereof:
 HSBC SECURITIES (CANADA) INC.
@@ -556,7 +525,6 @@ By:		/s/ Patrick Breithaupt
 		Title:		Vice President
 [Signature Page to Underwriting Agreement]
 
-PAGE NUMBER: 28
 
 Accepted as of the date hereof:
 HSBC SECURITIES (CANADA) INC.
@@ -572,7 +540,6 @@ By:		/s/ Adam Greene
 		Title:		Vice President
 [Signature Page to Underwriting Agreement]
 
-PAGE NUMBER: 29
 
 SCHEDULE I
 
@@ -591,7 +558,6 @@ TD Securities Inc.		C$	75,000,000
 Total		C$	2,500,000,000	
 				
 
-PAGE NUMBER: 30
 
 SCHEDULE II
 (a) Issuer Free Writing Prospectuses not included in the Pricing Disclosure Package:
@@ -599,7 +565,6 @@ Annex IV hereto.
 (b) Additional Documents Incorporated by Reference:
 None.
 
-PAGE NUMBER: 31
 
 Annex II(a)
 FORM OF OPINION OF HOGAN LOVELLS US LLP
@@ -613,7 +578,6 @@ FORM OF OPINION OF HOGAN LOVELLS US LLP
 (g) The Paying Agent Agreement (i) has been duly authorized, executed and delivered by the Company, and (ii) constitutes a valid and binding obligation of the Company enforceable against the Company in accordance with its terms.
 (h) The information in the pricing disclosure package taken as a whole and the Prospectus under the captions “Description of the Notes” and “Description of the Debt Securities,” to the extent that such information constitutes descriptions of the terms of the Notes or the Indenture, has been reviewed by us and is accurate in all material respects.
 
-PAGE NUMBER: 32
 
 (i) The information in the pricing disclosure package taken as a whole and the Prospectus under the caption “Certain U.S. Federal Income Tax Considerations,” to the extent that such information constitutes matters of law or legal conclusions, has been reviewed by us and is correct in all material respects.
 (j) At the time the Registration Statement became effective and at the date hereof, the Registration Statement and the Prospectus (except for the financial statements and schedules included therein, as to which we express no opinion) comply as to form in all material respects with the requirements of the Trust Indenture Act and the Securities Act and the applicable rules and regulations thereunder.
@@ -623,14 +587,12 @@ under the Securities Act (other than the financial statements and schedules and 
 (l) The issuance and sale of the Notes to the Underwriters and the execution, delivery and performance by the Company of the Agreement, the Indenture and the Notes do not (i) violate the California Corporation Act or the Articles or the Bylaws, (ii) constitute a violation by the Company of any provision of Applicable Federal Law or any provision of Applicable State Law, (iii) violate any of the Company Orders, or (iv) breach or constitute a default under any of the Company Contracts (except that we express no opinion with respect to any matters that would require a mathematical calculation or a financial or accounting determination).
 (m) No approval or consent of, or registration or filing with, any federal governmental agency or state governmental agency is required to be obtained or made by the Company under Applicable Federal Law or Applicable State Law or under the California Corporation Act in connection with the issuance and sale of the Notes to the Underwriters and the execution, delivery and performance by the Company of the Agreement, the Indenture and the Notes, except such as have been obtained and made by the Company and are in full force and effect under the Securities Act and such as may be required under state securities or blue sky laws.
 
-PAGE NUMBER: 33
 
 (n) Based solely upon our review of the information regarding the Company provided through the EDGAR System on the Commission’s website, the Registration Statement became effective under the Securities Act. To our knowledge, based upon a review of the Stop Orders page of the Commission’s website (
 http://www.sec.gov/litigation/stoporders.shtml
 ), no stop order suspending the effectiveness of the Registration Statement has been issued under the Securities Act and no proceedings for that purpose have been instituted or threatened by the Commission.
 (o) The Company is not, and immediately following the issuance and sale of the Notes and the application of the proceeds thereof as described in the Prospectus will not be, an “investment company” within the meaning of the 1940 Act.
 
-PAGE NUMBER: 34
 
 Annex II(b)
 FORM OF NEGATIVE ASSURANCE LETTER OF HOGAN LOVELLS US LLP
@@ -641,7 +603,6 @@ No facts have come to our attention that cause us to believe that:
 (iv) there are any legal or governmental proceedings pending or threatened against the Company that are required to be disclosed in the Registration Statement, the pricing disclosure package, or the Prospectus, other than those disclosed therein; or
 (v) there are any contracts or documents of a character required to be described in the Registration Statement, the pricing disclosure package, or the Prospectus or to be filed as exhibits to the Registration Statement that are not described or referred to therein or so filed.
 
-PAGE NUMBER: 35
 
 Annex III
 FORM OF OPINION OF BLAKE, CASSELS & GRAYDON LLP
@@ -662,7 +623,6 @@ We are further of the opinion that the statements set out in the Canadian Offeri
 Income Tax Act
 (Canada) to a holder of the Notes defined as a “Holder” in the discussion set out under such caption.
 
-PAGE NUMBER: 36
 
 Annex IV
 Issuer Free Writing Prospectus dated August [
@@ -704,7 +664,6 @@ Yield:		[●]%
 	
 GoC Curve:		CAN [●]% due [●], 20[●] and CAN [●]% due [●], 20[●]
 
-PAGE NUMBER: 37
 
 
 
@@ -719,14 +678,12 @@ Expected Ratings:*		[●][●]
 	
 Use of Proceeds:		Apple Inc. intends to use the net proceeds from sales of the Notes for general corporate purposes, including repurchases of Apple Inc.’s common stock and payment of dividends under Apple Inc.’s program to return capital to shareholders, funding for working capital, capital expenditures, acquisitions and repayment of debt.
 
-PAGE NUMBER: 38
 
 
 
 		
 Form of Distribution:		The distribution of the Notes is being made to purchasers in each of the provinces of Canada (the “Offering Jurisdictions”) under a Canadian offering memorandum dated August [●], 2017 (the “Canadian Offering Memorandum”), which will include the U.S. prospectus dated April 28, 2016, as supplemented by a U.S. prospectus supplement dated August [●], 2017 that form part of the registration statement filed with the United States Securities and Exchange Commission. The distribution will be made in reliance on statutory exemptions from the prospectus requirements of Canadian securities laws applicable in each of the Offering Jurisdictions and, in particular, the Notes will only be sold in:a) the province of Alberta, pursuant to the “accredited investor exemption” (as defined in National Instrument45-106—Prospectus Exemptions(“NI45-106”))and therefore only to purchasers that are “accredited investors” (as such term is defined in NI45-106)who purchase the Notes as principal (or are deemed to be purchasing as principal) that are not individuals unless those individuals are also “permitted clients” (as such term is defined in National Instrument31-103—Registration Requirements, Exemptions and Ongoing Registrant Obligations) and was not created or used solely to purchase or hold securities as an accredited investor as described in paragraph (m) of the definition of “accredited investor” in NI45-106;andb) the Offering Jurisdictions other than the province of Alberta, pursuant to the C$150,000 minimum amount investment exemption, and therefore only to purchasers that are not individuals and that are purchasing as principal, Notes with an acquisition cost to each purchaser of not less than C$150,000 paid in cash at the time of closing, unless such a purchaser is a person acting on behalf of a fully managed account described in paragraph (p) or (q) of the definition of “accredited investor” in section 1.1 of NI45-106in which case the Notes may only be sold on a private placement basis to such purchaser pursuant to the “accredited investor exemption”.
 
-PAGE NUMBER: 39
 
 
 
@@ -752,7 +709,6 @@ Co-Managers:		[●]
 The foregoing description is a summary of certain material provisions of the Notes. Capitalized terms used but not defined herein shall have the meanings ascribed thereto in the Canadian Offering Memorandum. Prospective purchasers should review the Canadian Offering Memorandum for a detailed description of the Notes. No person has been authorized to make any representation in connection with the offering other than as contained in the Canadian Offering Memorandum, and the Issuer and the Underwriters take no responsibility for, and can provide no assurance as to the reliability of, any other information that others may give you.
 To the extent any Underwriter that is not a U.S. registered broker-dealer intends to effect sales of notes in the United States, it will do so through one or more U.S. registered broker-dealers in accordance with the applicable U.S. securities laws and regulations.
 
-PAGE NUMBER: 40
 
 The Issuer has filed a registration statement (including a prospectus) and a prospectus supplement with the Securities and Exchange Commission (“
 SEC
@@ -771,7 +727,6 @@ or BMO Nesbitt Burns Inc. at
 The prospectus, prospectus supplement and Canadian Offering Memorandum are also available by contacting Apple Inc.’s Investor Relations at http://investor.apple.com/contactus.cfm.
 Any disclaimer or other notice that may appear below is not applicable to this communication and should be disregarded. Such disclaimer or notice was automatically generated as a result of this communication being sent by Bloomberg or another email system.
 
-PAGE NUMBER: 1
 
 EX-4.1
 Exhibit 4.1
@@ -810,7 +765,6 @@ Date from which Interest will Accrue:		August 18, 2017
 	
 Interest Payment Dates:		Interest on the Notes will be paid semi-annually in arrears in equal installments on the 19th day of every February and August commencing on February 19, 2018. The first interest payment will be a long first coupon payable on February 19, 2018 and will be in the amount of C$31,584,623.29, such payment being the equivalent of C$12.633849316 per C$1,000 of principal amount outstanding.
 
-PAGE NUMBER: 2
 
 
 
@@ -826,7 +780,6 @@ Sinking Fund:		None
 Denominations:		C$2,000 and any integral multiple of C$1,000 in excess thereof.
 2
 
-PAGE NUMBER: 3
 
 
 
@@ -836,7 +789,6 @@ Miscellaneous:		The terms of the Notes shall include such other terms as are set
 		“As used herein, “U.S. Government Obligations” means (x) any security that is (i) a direct obligation of the Government of Canada or (ii) an obligation of a Person controlled or supervised by and acting as an agency or instrumentality of the Government of Canada the payment of which is fully and unconditionally guaranteed by the Government of Canada or the central bank of the Government of Canada, which, in either case (x)(i) or (ii), is not callable or redeemable at the option of the issuer thereof, and (y) certificates, depositary receipts or other instruments which evidence a direct ownership interest in obligations described in clause (x)(i) or (x)(ii) above or in any specific principal or interest payments due in respect thereof.”
 3
 
-PAGE NUMBER: 4
 
 
 
@@ -848,7 +800,6 @@ Additional Notes
 The officer has read and understands the provisions of the Indenture and the definitions relating thereto. The statements made in this Officer’s Certificate are based upon the examination of the provisions of the Indenture and upon the relevant books and records of the Issuer. In such officer’s opinion, they have made such examination or investigation as is necessary to enable such officer to express an informed opinion as to whether or not the covenants and conditions precedent of such Indenture relating to the issuance, authentication and delivery of the Notes have been complied with. In such officer’s opinion, such covenants and conditions precedent have been complied with.
 4
 
-PAGE NUMBER: 5
 
 IN WITNESS WHEREOF, the undersigned officer of the Issuer has duly executed this certificate as of August 18, 2017.
 
@@ -860,7 +811,6 @@ By:		/s/ Gary Wipfler
 		Name: Gary Wipfler
 		Title: Vice President and Corporate Treasurer
 
-PAGE NUMBER: 6
 
 EXHIBIT A
 FORM OF NOTE DUE 2024
@@ -868,7 +818,6 @@ UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF CDS CLEA
 THIS SECURITY IS A GLOBAL SECURITY WITHIN THE MEANING OF THE INDENTURE HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF A DEPOSITARY (AS DEFINED IN THE INDENTURE) OR A NOMINEE THEREOF. THIS SECURITY MAY NOT BE EXCHANGED IN WHOLE OR IN PART FOR A SECURITY REGISTERED, AND NO TRANSFER OF THIS SECURITY IN WHOLE OR IN PART MAY BE REGISTERED, IN THE NAME OF ANY PERSON OTHER THAN SUCH DEPOSITARY OR A NOMINEE THEREOF, EXCEPT IN THE CIRCUMSTANCES DESCRIBED IN THE INDENTURE. EVERY SECURITY AUTHENTICATED AND DELIVERED UPON REGISTRATION OF TRANSFER OF, OR IN EXCHANGE FOR, OR IN LIEU OF, THIS SECURITY WILL BE A GLOBAL SECURITY SUBJECT TO THE FOREGOING, EXCEPT IN SUCH LIMITED CIRCUMSTANCES.
 UNLESS PERMITTED UNDER CANADIAN SECURITIES LEGISLATION, THE HOLDER OF THESE SECURITIES MUST NOT TRADE THE SECURITIES BEFORE THE DATE THAT IS THE LATER OF 4 MONTHS AND A DAY AFTER (I) AUGUST 19, 2017 AND (II) THE DATE THE ISSUER BECAME A REPORTING ISSUER IN ANY PROVINCE OR TERRITORY OF CANADA.
 
-PAGE NUMBER: 7
 
 APPLE INC.
 [
@@ -892,7 +841,6 @@ Interest Record Date
 Reference is made to the further provisions of this Note contained herein, which will for all purposes have the same effect as if set forth at this place.
 All references to “CAD” and “C$” in this Note are to the lawful currency of Canada.
 
-PAGE NUMBER: 8
 
 IN WITNESS WHEREOF, the Issuer has caused this Note to be signed manually or by facsimile by its duly authorized officer.
 
@@ -904,7 +852,6 @@ By:
 		Name: Gary Wipfler
 		Title: Vice President and Corporate Treasurer
 
-PAGE NUMBER: 9
 
 This is one of the Securities of the series designated therein and referred to in the within-mentioned Indenture.
 Dated: August 18, 2017
@@ -916,7 +863,6 @@ The Bank of New York Mellon Trust Company, N.A., as Trustee
 By:		
 		Authorized Signatory
 
-PAGE NUMBER: 10
 
 (REVERSE OF NOTE)
 APPLE INC.
@@ -957,7 +903,6 @@ Base Indenture
 Indenture
 ”). This Note is a “Security” and the Notes are “Securities” under the Indenture.
 
-PAGE NUMBER: 11
 
 “
 Business Day
@@ -972,7 +917,6 @@ The Notes are in registered form, without coupons, in denominations of C$2,000 a
 	6.	Amendment; Supplement; Waiver.
 Subject to certain exceptions, the Notes and the provisions of the Indenture relating to the Notes may be amended or supplemented and any existing default or Event of Default or compliance with certain provisions may be waived with the written consent of the Holders of at least a majority in aggregate principal amount of each series of Outstanding Securities (including the Notes) under the Indenture that is affected by such amendment, supplement or waiver (voting as a single class). Without notice to or consent of any Holder of the Notes, the parties thereto may amend or supplement the Indenture and the Notes to, among other things, cure any ambiguity, defect or inconsistency or comply with any requirements of the Commission in connection with the qualification of the Indenture under the Trust Indenture Act, or make any other change that does not adversely affect the interests of the Holders of the Notes in any material respect.
 
-PAGE NUMBER: 12
 
 
 
@@ -993,7 +937,6 @@ Government of Canada bond would carry if issued in Canadian dollars in Canada at
 means June 19, 2024 (two months prior to the maturity date).
 The provisions of Article XI of the Indenture shall apply to any redemption of the Notes.
 
-PAGE NUMBER: 13
 
 Notice of any redemption will be mailed or electronically delivered at least 15 days but not more than 60 days before the redemption date to each Holder of the Notes to be redeemed at its registered address. The notice of redemption for the Notes will state, among other things, the amount of the Notes to be redeemed, the redemption date, the manner in which the redemption price will be calculated and the place or places that payment will be made upon presentation and surrender of Notes to be redeemed. Unless the Issuer defaults in the payment of the redemption price, on or after the redemption date, interest will cease to accrue on the Notes that have been called for redemption at the redemption date. If less than all of the Notes are to be redeemed, the Notes to be redeemed will be selected according to Depositary procedures, in the case of Notes represented by a Global Note, or by lot, in the case of Notes that are not represented by a Global Note.
 
@@ -1003,7 +946,6 @@ All payments of principal and interest in respect of the Notes will be made free
 In the event any withholding or deduction on payments in respect of the Notes for or on account of any present or future tax, assessment or other governmental charge is required to be deducted or withheld by the United States or any political subdivision or taxing authority thereof or therein, the Issuer will pay such additional amounts on the Notes as will result in receipt by each beneficial owner of a Note that is not a U.S. Person (as defined below) of such amounts (after all such withholding or deduction, including on any additional amounts) as would have been received by such beneficial owner had no such withholding or deduction been required. The Issuer will not be required, however, to make any payment of additional amounts for or on account of:
 	a.	any tax, assessment or other governmental charge that would not have been imposed but for (1) the existence of any present or former connection (other than a connection arising solely from the ownership of those Notes or the receipt of payments or enforcement of rights in respect of those Notes) between the Holder (or the beneficial owner for whose benefit such Holder holds such Notes), or between a fiduciary, settlor, beneficiary of, member or shareholder of, or possessor of a power over, that Holder or beneficial owner (if that Holder or beneficial owner is an estate, trust, partnership or corporation), and the United States, including that Holder or beneficial owner, or that fiduciary, settlor, beneficiary, member, shareholder or possessor, being or having been a citizen or resident or treated as a resident of the United States or being or having been engaged in trade or business or present in the United States or having had a permanent establishment in the United States or (2) the presentation of a Note for payment on a date more than 30 days after the later of the date on which that payment becomes due and payable and the date on which payment is duly provided for;
 
-PAGE NUMBER: 14
 
 
 
@@ -1016,7 +958,6 @@ PAGE NUMBER: 14
 	h.	any tax, assessment or other governmental charge required to be withheld or deducted under Sections 1471 through 1474 of the Code (or any amended or successor version of such Sections) (“FATCA”), any regulations or other guidance thereunder, or any agreement (including any intergovernmental agreement) entered into in connection therewith; or any law, regulation or other official guidance enacted in any jurisdiction implementing FATCA or an intergovernmental agreement in respect of FATCA; or
 	i.	any combination of items (a), (b), (c), (d), (e), (f), (g) and (h);
 
-PAGE NUMBER: 15
 
 nor will the Issuer pay any additional amounts to any beneficial owner or Holder of Notes who is a fiduciary or partnership to the extent that a beneficiary or settlor with respect to that fiduciary or a member of that partnership or a beneficial owner thereof would not have been entitled to the payment of those additional amounts had that beneficiary, settlor, member or beneficial owner been the beneficial owner of those Notes.
 As used in this Section 8, “
@@ -1030,7 +971,6 @@ If, as a result of any change in, or amendment to, the laws (or any regulations 
 	10.	Defaults and Remedies.
 If an Event of Default (other than certain bankruptcy Events of Default with respect to the Issuer) under the Indenture occurs with respect to the Notes and is continuing, then the Trustee may and, at the direction of the Holders of at least 25% in principal amount of the Outstanding Notes, shall by written notice, require the Issuer to repay immediately the entire principal amount of the Outstanding Notes, together with all accrued and unpaid interest and premium, if any. If a bankruptcy Event of Default with respect to the Issuer occurs and is continuing, then the entire principal amount of the Outstanding Notes together with all accrued and unpaid interest and premium, if any, will automatically become due immediately and payable without any declaration or other act on the part of the Trustee or any Holder of the Notes. Holders of Notes may not enforce the Indenture or the Notes except as provided in the Indenture. The Trustee is not obligated to enforce the Indenture or the Notes unless it has received indemnity as it reasonably requires. The Indenture permits, subject to certain limitations therein provided, Holders of a majority in aggregate principal amount of the Notes then Outstanding to direct the Trustee in its exercise of any trust or power. The Trustee may withhold from Holders of Notes notice of certain continuing defaults or Events of Default if it determines that withholding notice is not opposed to their interest.
 
-PAGE NUMBER: 16
 
 
 
@@ -1043,7 +983,6 @@ Pursuant to a recommendation promulgated by the Committee on Uniform Security Id
 	14.	Governing Law.
 The Indenture and the Notes shall be governed by, and construed in accordance with, the laws of the State of New York.
 
-PAGE NUMBER: 17
 
 ASSIGNMENT FORM
 To assign this Note, fill in the form below:
@@ -1065,7 +1004,6 @@ Signatures must be guaranteed by an “eligible guarantor institution” meeting
 STAMP
 ”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the United States Securities Exchange Act of 1934, as amended.
 
-PAGE NUMBER: 18
 
 SCHEDULE OF EXCHANGES OF NOTES
 The initial principal amount of this Global Note is C$[
@@ -1077,7 +1015,6 @@ The following exchanges of a part of this Global Note for physical Notes or a pa
 								
 Date of Exchange		Amount of decrease inprincipal amount of thisGlobal Note		Amount of increase inprincipal amount of thisGlobal Note		Principal amount of thisGlobal Note following suchdecrease (or increase)		Signature of authorizedofficer of Trustee
 
-PAGE NUMBER: 1
 
 EX-5.1
 Exhibit 5.1
@@ -1107,7 +1044,6 @@ Act
 For purposes of this opinion letter, we have examined copies of such agreements, instruments and documents as we have deemed an appropriate basis on which to render the opinions hereinafter expressed. In our examination of the aforesaid documents, we have assumed the genuineness of all signatures, the legal capacity of all natural persons, the accuracy and completeness of all documents submitted to us, the authenticity of all original documents, and the conformity to authentic original documents of all documents submitted to us as copies (including pdfs). As to all matters of fact, we have relied on the representations and statements of fact made in the documents so reviewed, and we have not independently established the facts so relied on. This opinion letter is given, and all statements herein are made, in the context of the foregoing.
 This opinion letter is based as to matters of law solely on the applicable provisions of the following, as currently in effect: (i) the General Corporation Law of the State of California, as amended, and (ii) the laws of the State of New York (but not including any laws, statutes, ordinances, administrative decisions, rules or regulations of any political subdivision below the state level). We express no opinion herein as to any other laws, statutes, ordinances, rules, or regulations (and in particular, we express no opinion as to any effect that such other laws, statutes, ordinances, rules, or regulations may have on the opinions expressed herein).
 
-PAGE NUMBER: 2
 
 Board of Directors
 Apple Inc.
@@ -1127,7 +1063,6 @@ The opinion expressed above with respect to the valid and binding nature of obli
 This opinion letter has been prepared for use in connection with the filing by the Company of a Current Report on Form 8-K on the date hereof, which Form 8-K will be incorporated by reference into the Registration Statement and speaks as of the date hereof. We assume no obligation to advise you of any changes in the foregoing subsequent to the delivery of this opinion letter.
 2
 
-PAGE NUMBER: 3
 
 Board of Directors
 Apple Inc.
