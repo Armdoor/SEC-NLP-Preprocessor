@@ -1,3 +1,7 @@
+'''
+This class is used to parse SEC filings and extract the relevant information while maining the structure of the filings.
+'''
+
 import re
 import unicodedata
 from bs4 import BeautifulSoup, Tag, NavigableString, Comment
@@ -395,9 +399,13 @@ class Parser:
     #############################################--NORMALIZE DATA ENDS--####################################################
 
     ##################################################----PARSE HTML----####################################################
-
-    def parse_html(self, filing_docs):
+    def parse_html_context(self, filing_docs):
+        '''
+        Extracts text from a complex BeautifulSoup <table> element and formats it for embedding into text.
+        Returns a list of dictionaries, where each dictionary represents a row.
+        '''
         doc_acumulated_data = ""
+        tb_no = [0]
         for document_id, document_data in filing_docs.items():
             print('-' * 80)
             logging.info(f"Extracting data from document ID: {document_id}")
@@ -415,41 +423,29 @@ class Parser:
                 if not code:
                     logging.warning(f"Warning: code is None or empty for page number: {page_number}")
                     continue
-                i = 0    
-                # Remove <ix:header> tags if present
-                # ix_header = self.find_case_insensitive(code , 'ix:header')
-                # print('Len of ix_header ', len(ix_header))
-                # for header in ix_header:
-                #     if isinstance(header, Tag):    
-                #         with open(f'header{i}.txt', 'w', encoding='utf-8') as file:
-                #             file.write(str(header))
-                #         i += 1
-                #         header.decompose()
-                #     elif isinstance(header, NavigableString):
-                #         header.extract()
-                    # else:
-                    #     logging.warning(f"Warning: header is not a Tag object for page number: {page_number}")
-
-                # Find the <body> tag
                 html_body = code.find('body')
                 if html_body is None:
                     logging.warning(f"Warning: No <body> tag found in page number: {page_number}")
                     continue
 
                 # Extract text from the <body>
-                data_extracted = self.extract_text(html_body)
+                data_extracted = self.extract_text_context(html_body, tb_no)
                 # data_extracted = self.clean_filing_text(data_extracted)
-                page_tuple = (page_number, "\n".join(data_extracted) + "\n")
+                footer = f"\nPAGE NUMBER: {page_number}\n"
+                data_extracted.append(footer)
+                page_tuple = ('\n ', page_number, "\n".join(data_extracted) + "\n")
                 # with open(f"page{page_number}.txt", "a") as f:
                 #     f.write("\n".join(data_extracted) + "\n")
                 self.pages.append(page_tuple)
                 doc_acumulated_data += "\n"+"\n"+ "\n".join(data_extracted) + "\n"
         return doc_acumulated_data, self.pages
+    
+
     #############################################--PARSE HTML ENDS--########################################################
 
     #############################################--EXTRACT TEXT--###########################################################
 
-    def extract_text(self, element, handle_tables=True):
+    def extract_text_context(self, element, tb_no, handle_tables=True):
         """
         Recursive function to extract clean, de-duplicated text from a BeautifulSoup element.
         Tables are handled separately if `handle_tables` is True.
@@ -465,12 +461,14 @@ class Parser:
             elif child.name:  # If the child is a tag, process it recursively
                 # Handle specific tags like <table>
                 if child.name == 'table' and handle_tables:
-                    table_text = self.extract_table(child)
-                    if table_text:
-                        text.append("\n")
-                        text.append(table_text)  # Add entire table as a single string
+                    table_data = self.extract_table_context(child)
+                    if table_data:
+                        # Append the table text as a single string
+                        table_text = f" [TABLE_{tb_no[0] + 1}: {table_data}] "
+                        text.append(table_text)
+                        tb_no[0] += 1
                 else:
-                    text.extend(self.extract_text(child))  # Recursively process non-table tags
+                    text.extend(self.extract_text_context(child, tb_no))  # Recursively process non-table tags
 
         # Remove duplicates while preserving order
         unique_lines = list(dict.fromkeys(text))
@@ -479,93 +477,6 @@ class Parser:
     #############################################--EXTRACT TEXT ENDS--######################################################
 
     #############################################--EXTRACT TABLE--##########################################################
-    def parse_html2(self, filing_docs):
-        """
-        Loops through each document and its pages,
-        extracts text (handling tables by saving them as JSON files),
-        and accumulates the text and page tuples.
-        """
-        doc_acumulated_data = ""
-        for document_id, document_data in filing_docs.items():
-            print('-' * 80)
-            logging.info(f"Extracting data from document ID: {document_id}")
-            if 'pages_code' not in document_data:
-                logging.warning("No pages code found")
-                continue
-            
-            pages_code = document_data['pages_code']
-            if not pages_code:
-                logging.warning("No pages code found")
-            
-            for page_number, code in pages_code.items():
-                print("-" * 80)
-                logging.info(f"Extracting data from page number: {page_number}")
-
-                if not code:
-                    logging.warning(f"Warning: code is None or empty for page number: {page_number}")
-                    continue
-
-                # Find the <body> tag
-                html_body = code.find('body')
-                if html_body is None:
-                    logging.warning(f"Warning: No <body> tag found in page number: {page_number}")
-                    continue
-
-                # Initialize a table counter as a mutable list so it can be incremented inside extract_text
-                table_counter = [0]
-                # Extract text from the <body>, passing the document_id, page_number, and table counter
-                data_extracted = self.extract_text2(html_body, document_id, page_number, table_counter=table_counter)
-                
-                page_tuple = (page_number, "\n".join(data_extracted) + "\n")
-                self.pages.append(page_tuple)
-                doc_acumulated_data += "\n\n" + "\n".join(data_extracted) + "\n"
-        
-        return doc_acumulated_data, self.pages
-
-    def extract_text2(self, element, document_id, page_number, handle_tables=True, table_counter=[0]):
-        """
-        Recursively extracts clean, de-duplicated text from a BeautifulSoup element.
-        When a <table> is encountered (and if handle_tables is True),
-        the table is extracted as JSON and a reference is inserted into the text.
-        """
-        text = []
-
-        # Traverse the children of the element
-        for child in element.children:
-            if isinstance(child, str):
-                stripped_text = child.strip()
-                if stripped_text:
-                    text.append(stripped_text)
-            elif child.name:
-                # Check for table elements
-                if child.name == 'table' and handle_tables:
-                    # Use the current table count for naming
-                    current_table_index = table_counter[0]
-                    table_ref = self.extract_table2(child, document_id, page_number, current_table_index)
-                    table_counter[0] += 1  # Increment the table counter
-                    if table_ref:
-                        # Insert a placeholder reference into the text
-                        text.append(f"[Table stored in: {table_ref}]")
-                else:
-                    # Recursively process other tags
-                    text.extend(self.extract_text2(child, document_id, page_number, handle_tables, table_counter))
-        
-        # Remove duplicate lines while preserving order
-        unique_lines = list(dict.fromkeys(text))
-        return unique_lines
-
-    def extract_table(self, table_element):
-        """
-        Extracts text from a BeautifulSoup <table> element and formats it as a tab-separated string.
-        """
-        rows = []
-        for row in table_element.find_all('tr'):  # Iterate through table rows
-            cells = [cell.get_text(strip=True) for cell in row.find_all(['th', 'td'])]
-            if cells:
-                rows.append("\t".join(cells))  # Tab-separated values for each row
-        return "\n".join(rows) if rows else None
-
-
 
     def extract_table_context(self, table_element):
         """
@@ -593,13 +504,6 @@ class Parser:
                     headers = head
                     pos = i 
                     break
-
-        # if header_row:
-        #     for cell in header_row.find_all(['th', 'td']):
-        #         colspan = int(cell.get('colspan', 1))  # Handle merged cells
-        #         cell_text = cell.get_text(strip=True)
-        #         if cell_text:  # Only add non-empty headers
-        #             headers.extend([cell_text] * colspan)  # Repeat for merged cells
 
         # Extract rows
         pos = pos + 1
@@ -629,98 +533,13 @@ class Parser:
         return table_text.strip("; ")
 
 
-    def parse_html_context(self, filing_docs):
-        doc_acumulated_data = ""
-        for document_id, document_data in filing_docs.items():
-            print('-' * 80)
-            logging.info(f"Extracting data from document ID: {document_id}")
-            if 'pages_code' not in document_data:
-                logging.warning("No pages code found")
-                continue
-            
-            pages_code = document_data['pages_code']
-            if not pages_code:
-                logging.warning("No pages code found")
-            for page_number, code in pages_code.items():
-                print("-" * 80)
-                logging.info(f"Extracting data from page number: {page_number}")
-
-                if not code:
-                    logging.warning(f"Warning: code is None or empty for page number: {page_number}")
-                    continue
-                html_body = code.find('body')
-                if html_body is None:
-                    logging.warning(f"Warning: No <body> tag found in page number: {page_number}")
-                    continue
-
-                # Extract text from the <body>
-                data_extracted = self.extract_text_context(html_body)
-                # data_extracted = self.clean_filing_text(data_extracted)
-                page_tuple = (page_number, "\n".join(data_extracted) + "\n")
-                # with open(f"page{page_number}.txt", "a") as f:
-                #     f.write("\n".join(data_extracted) + "\n")
-                self.pages.append(page_tuple)
-                doc_acumulated_data += "\n"+"\n"+ "\n".join(data_extracted) + "\n"
-        return doc_acumulated_data, self.pages
+    
     
 
-    def extract_text_context(self, element, handle_tables=True):
-        """
-        Recursive function to extract clean, de-duplicated text from a BeautifulSoup element.
-        Tables are handled separately if `handle_tables` is True.
-        """
-        text = []
-        i = 0
-
-        # Traverse children of the element
-        for child in element.children:
-            if isinstance(child, str):  # If the child is a NavigableString
-                stripped_text = child.strip()
-                if stripped_text:  # Only add non-empty text
-                    text.append(stripped_text)
-            elif child.name:  # If the child is a tag, process it recursively
-                # Handle specific tags like <table>
-                if child.name == 'table' and handle_tables:
-                    table_data = self.extract_table_context(child)
-                    if table_data:
-                        # Append the table text as a single string
-                        table_text = f" [TABLE_{i + 1}: {table_data}] "
-                        text.append(table_text)
-                        i += 1
-                else:
-                    text.extend(self.extract_text_context(child))  # Recursively process non-table tags
-
-        # Remove duplicates while preserving order
-        unique_lines = list(dict.fromkeys(text))
-        return unique_lines
+    
 
 
-    def extract_table2(self, table_element, document_id, page_number, table_index):
-        """
-        Extracts the data from a <table> element as a list of lists (rows and cells),
-        writes the table data to a JSON file, and returns a reference to that file.
-        """
-        rows = []
-        # Iterate through all table rows
-        for row in table_element.find_all('tr'):
-            # Extract text from both <th> and <td> elements
-            cells = [cell.get_text(strip=True) for cell in row.find_all(['th', 'td'])]
-            if cells:
-                rows.append(cells)
-        
-        if rows:
-            # Create a unique file name for the JSON file
-            file_name = f"{document_id}_page{page_number}_table{table_index}.json"
-            output_dir = "/Users/akshitsanoria/Desktop/PythonP/json_tables"
-            os.makedirs(output_dir, exist_ok=True)
-            file_path = os.path.join(output_dir, file_name)
-            
-            # Write the table data to the JSON file
-            with open(file_path, 'w', encoding='utf-8') as json_file:
-                json.dump(rows, json_file, indent=2)
-            
-            return file_path  # Return the file path as a reference
-        return None
+    
     #############################################--EXTRACT TABLE ENDS--#####################################################
 
     def clean_filing_text(self, text):
@@ -749,15 +568,16 @@ styles = [
     {'width': '100%'},  # Checking for an exact width attribute
     {'style': 'page-break-after:always'}]
 
-path_t = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_1.txt"
+# path_t = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/10-K/filing_14.txt"
 
-parser = Parser()
+# parser = Parser()
 
-soup_t, empty_file = parser.read_doc(path_t)
-header_data, accession_number, soup_t = parser.header_data_parser(soup_t)
-doc_data = parser.document_data(soup_t, styles)
-normm_data = parser.normalize_filing_docs(doc_data)
-parsed_html, pages = parser.parse_html(normm_data)
-with open('extrated.txt', 'w', encoding='utf-8') as file:
-    file.write(parsed_html)
+# soup_t, empty_file = parser.read_doc(path_t)
+# header_data, accession_number, soup_t = parser.header_data_parser(soup_t)
+# doc_data = parser.document_data(soup_t, styles)
+# normm_data = parser.normalize_filing_docs(doc_data)
+# parsed_html, pages = parser.parse_html_context(doc_data)
+# with open('/Users/akshitsanoria/Desktop/PythonP/printing_files/extrated.txt', 'w', encoding='utf-8') as file:
+#     file.write(parsed_html)
 
+ 

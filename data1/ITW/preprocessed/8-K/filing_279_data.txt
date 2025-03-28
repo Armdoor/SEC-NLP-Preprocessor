@@ -1,0 +1,137 @@
+0000049826-21-000044.hdr.sgml : 20210513
+20210513160448
+ACCESSION NUMBER:		0000049826-21-000044
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20210507
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20210513
+DATE AS OF CHANGE:		20210513
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		21919547
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+
+itw-20210507
+
+
+		
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 7, 2021
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+																										
+Delaware		1-4797		36-1258310
+(State or other jurisdiction of incorporation)		(Commission File No.)		(I.R.S. Employer Identification No.)
+								
+	155 Harlem Avenue	Glenview	IL					60025
+(Address of principal executive offices)				(Zip Code)
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+					
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+								
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Common Stock	ITW	New York Stock Exchange
+1.75% Euro Notes due 2022	ITW22	New York Stock Exchange
+1.25% Euro Notes due 2023	ITW23	New York Stock Exchange
+0.250% Euro Notes due 2024	ITW24A	New York Stock Exchange
+0.625% Euro Notes due 2027	ITW27	New York Stock Exchange
+2.125% Euro Notes due 2030	ITW30	New York Stock Exchange
+1.00% Euro Notes due 2031	ITW31	New York Stock Exchange
+3.00% Euro Notes due 2034	ITW34	New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+The annual meeting of the stockholders of the Company was held on May 7, 2021 for the purposes of (i) electing the ten director nominees named in the Company’s proxy statement for the meeting to hold office until the next annual meeting of stockholders; (ii) ratifying the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2021; (iii) approving, on an advisory basis, a resolution relating to the executive compensation of the named executive officers as disclosed in the Company’s proxy statement; and (iv) considering a non-binding stockholder proposal to permit stockholders to act by written consent.
+All ten nominees for director named in the Company’s proxy statement for the meeting were elected by the votes set forth below.
+
+
+														
+Election of Directors	FOR	AGAINST	ABSTAIN	BROKER NON-VOTES
+Daniel J. Brutto	254,781,988		2,025,388		373,808		24,553,935	
+Susan Crown	250,415,712		6,490,762		274,710		24,553,935	
+Darrell L. Ford	255,243,287		1,552,776		385,121		24,553,935	
+James W. Griffith	253,288,772		3,582,078		310,334		24,553,935	
+Jay L. Henderson	254,735,885		2,080,177		365,122		24,553,935	
+Richard H. Lenny	246,830,486		9,645,403		705,295		24,553,935	
+E. Scott Santi	244,946,821		10,891,422		1,342,941		24,553,935	
+David B. Smith, Jr.	250,126,028		6,698,944		356,212		24,553,935	
+Pamela B. Strobel	245,667,013		11,230,422		283,749		24,553,935	
+Anré D. Williams	252,514,542		4,315,489		351,153		24,553,935	
+The appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2021 was ratified by the vote set forth below.
+											
+Ratification of independent registered public accounting firm	FOR	AGAINST	ABSTAIN
+278,926,489		2,504,831		303,799	
+The non-binding advisory vote on the compensation of the Company’s named executive officers as disclosed in the “Compensation Discussion and Analysis” section, the compensation tables and any related material disclosed in the Company’s proxy statement for the meeting pursuant to the Securities and Exchange Commission’s compensation disclosure rules was approved by the vote set forth below.
+														
+Advisory vote to approve executive compensation	FOR	AGAINST	ABSTAIN	BROKER NON-VOTES
+240,364,642		15,718,317		1,098,225		24,553,935	
+The stockholder proposal requesting that stockholders approve a non-binding resolution to permit stockholders to act by written consent was defeated by the vote set forth below.
+														
+Stockholder proposal to permit stockholders to act by written consent	FOR	AGAINST	ABSTAIN	BROKER NON-VOTES
+90,846,781		160,762,579		5,571,824		24,553,935	
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+
+								
+		
+		ILLINOIS TOOL WORKS INC.
+		
+		
+Dated: May 13, 2021		By:/s/ Norman D. Finch Jr.
+		Norman D. Finch Jr.
+		Senior Vice President, General Counsel and Secretary

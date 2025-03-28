@@ -5,20 +5,14 @@ type. then we call the companies.pt to parse the filing type for each company. c
 parser.py to process and store the extracted data into a preprocessed folder under each filing type of the company.
 '''
 import os
-import json
 from typing import List, Dict, Tuple
-from companies import companies_main
+from .companies import companies_main
 import logging
 root_path = "/Volumes/T7/data"
-from concurrent.futures import ThreadPoolExecutor
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from bs4 import BeautifulSoup
-from load import Loader
-from json_data_collector import JsonDataCollector
+from .json_data_collector import JsonDataCollector
 from datetime import datetime
-
-
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 from dataclasses import dataclass, fields, field
 from typing import Optional, List, Dict
 ###############################################--DATA CLASS--####################################################
@@ -87,10 +81,12 @@ filing_types = ['8-K', '10-K']
 def company_folders(root_path):
 # Get all folder names
     folder_names = [name for name in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, name))]
-    if type(folder_names) == type(None):                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    
+    if type(folder_names) == type(None):                                                                                                         
         logging.warning("No folders found in the path")
         return None                          
     return folder_names
+
 
 def create_preprocessed_folders(folder_names, root_path):
     if folder_names is None:
@@ -99,8 +95,8 @@ def create_preprocessed_folders(folder_names, root_path):
     for folder_name in folder_names:
         create_folder_at_path = os.path.join(root_path, folder_name, "preprocessed")
         os.makedirs(create_folder_at_path, exist_ok=True)
-        create_folder_at_path2 = os.path.join(root_path, folder_name, "preprocessed2")
-        os.makedirs(create_folder_at_path2, exist_ok=True)
+        # create_folder_at_path2 = os.path.join(root_path, folder_name, "preprocessed2")
+        # os.makedirs(create_folder_at_path2, exist_ok=True)
 
 
 
@@ -113,13 +109,12 @@ def create_preprocessed_folders(folder_names, root_path):
 # extracted data into a preprocessed folder under each filing type of the company.
 
 
-def process_text_files(root_path, ticker, filing_type, loader):
+def process_text_files(root_path, ticker, filing_type):
     raw_folder_path = os.path.join(root_path, ticker, "raw", filing_type)
     try:
         if not os.path.exists(raw_folder_path):
             logging.warning(f"Path does not exist: {raw_folder_path} (Company: {ticker}, Filing: {filing_type})")
             return
-
         # Get text files (handle race conditions)
         try:
             text_files = [
@@ -129,42 +124,41 @@ def process_text_files(root_path, ticker, filing_type, loader):
         except FileNotFoundError:
             logging.warning(f"Folder deleted after check: {raw_folder_path}")
             return
-
         # Create preprocessed folder
         preprocessed_folder_path = os.path.join(root_path, ticker, "preprocessed", filing_type)
         os.makedirs(preprocessed_folder_path, exist_ok=True)
-        preprocessed_folder_path2 = os.path.join(root_path, ticker, "preprocessed2", filing_type)
-        os.makedirs(preprocessed_folder_path2, exist_ok=True)
-
+        # preprocessed_folder_path2 = os.path.join(root_path, ticker, "preprocessed2", filing_type)
+        # os.makedirs(preprocessed_folder_path2, exist_ok=True)
         #  extract json metadata
         json_collector = JsonDataCollector(root_path, ticker)
         json_data = json_collector.collect_data() # returns a dictionary
-
-        # Insert the json data into the database
-        if json_data:
-            company_id =process_json_data(json_data, loader)
-        else:
-            logging.error(f"Failed to load JSON data for {ticker} in parser_main.py")
-            return
-
-
+        json_data["filing_type"] = filing_type
+        comp_data_list = []
         # Process files
         for text_file in text_files:
             file_path = os.path.join(raw_folder_path, text_file)
             filing_name = os.path.splitext(text_file)[0]  # Fix multi-dot filenames
             try:
-                companies_main(file_path, preprocessed_folder_path, preprocessed_folder_path2 ,filing_name,filing_type, ticker, loader, company_id)
+                company_data = companies_main(file_path, preprocessed_folder_path ,filing_name,filing_type, ticker)
                 logging.info(f"Parsed filing: {filing_name}")
                 print("-" * 80)
+                fin_comp_data = {
+                    'company_data': company_data['in_filing_data'],
+                    'json_data': json_data,
+                    'metadata': company_data
+                }
+                comp_data_list.append(fin_comp_data)
+                return comp_data_list 
             except Exception as e:
                 logging.error(f"Failed to parse {filing_name}: {str(e)} in parser_main.py", exc_info=True)
-
     except Exception as e:
         logging.error(f"Critical error for {ticker}/{filing_type}: {str(e)} in parser_main.py", exc_info=True)
+        return []
 
 ##############################################--PRCEESSING FILES END--##################################################
 
-def process_json_data(json_data, loader):
+
+def process_json_data(json_data):
     entity = EntityData(
                 **{k: json_data.get(k) for k in EntityData.__annotations__})
     company_data = (
@@ -189,91 +183,17 @@ def process_json_data(json_data, loader):
         entity.phone,
         entity.total_num_of_filings
         )
-    '''        
-    # Insert the company data into the database
-    try:
-        loaded_company_metadata, error, company_id = loader.insert_companies_bulk([company_data])
-
-        if loaded_company_metadata:
-            logging.info(f"Successfully inserted company data for {ticker}")
-        else:
-            logging.error(f"Failed to insert company data for {ticker}: {str(error)} in load")
-    except Exception as e:
-        logging.error(f"Failed to insert company data for {ticker}: {str(e)} in main")
-
-    company_addresses = entity.addresses
-    if company_id is not None:
-        if company_addresses:
-            parsed_addresses = parse_address_data(company_id, entity.addresses)
-            try:
-                if parsed_addresses:
-                    loaded_company_addresses, error = loader.insert_addresses(parsed_addresses)
-                    if loaded_company_addresses:
-                        logging.info(f"Successfully inserted company addresses for {ticker}")
-                    else:
-                        logging.error(f"Failed to insert company addresses for {ticker}: {str(error)} in load")
-            except Exception as e:
-                logging.error(f"Failed to insert company addresses for {ticker}: {str(e)} in main")
-            parsed_former_names = parse_former_names_data(company_id, entity.formerNames)
-            try:
-                if len(parsed_former_names) > 0:
-
-                    loaded_former_names, error = loader.insert_former_names(parsed_former_names)
-                    if loaded_former_names:
-                        logging.info(f"Successfully inserted company former names for {ticker}")
-                    else:
-                        logging.error(f"Failed to insert company former names for {ticker}: {str(error)} in load")
-            except Exception as e:
-                logging.error(f"Failed to insert company former names for {ticker}: {str(e)} in main")
-
-    return company_id'''
-    try:
-        loaded_company_metadata, error, company_id = loader.insert_companies_bulk([company_data])
-
-        if loaded_company_metadata:
-            logging.info(f"Successfully inserted company data for {entity.name}")
-        else:
-            logging.error(f"Failed to insert company data for {entity.name}: {str(error)} in load")
-    except Exception as e:
-        logging.error(f"Failed to insert company data for {entity.name}: {str(e)} in main")
-
-    company_addresses = entity.addresses
-    if company_id is not None:
-        if company_addresses:
-            parsed_addresses = parse_address_data(company_id, entity.addresses)
-            try:
-                if parsed_addresses:
-                    loaded_company_addresses, error = loader.insert_addresses(parsed_addresses)
-                    if loaded_company_addresses:
-                        logging.info(f"Successfully inserted company addresses for {entity.name}")
-                    else:
-                        logging.error(f"Failed to insert company addresses for {entity.name}: {str(error)} in load")
-            except Exception as e:
-                logging.error(f"Failed to insert company addresses for {entity.name}: {str(e)} in main")
-            parsed_former_names = parse_former_names_data(company_id, entity.formerNames)
-            try:
-                if len(parsed_former_names) > 0:
-
-                    loaded_former_names, error = loader.insert_former_names(parsed_former_names)
-                    if loaded_former_names:
-                        logging.info(f"Successfully inserted company former names for {entity.name}")
-                    else:
-                        logging.error(f"Failed to insert company former names for {entity.name}: {str(error)} in load")
-            except Exception as e:
-                logging.error(f"Failed to insert company former names for {entity.name}: {str(e)} in main")
-
-    return company_id
-    # else:
-        # logging.error(f"Failed to insert company data for {ticker}: {str(e)} in main due to missing company ID")
-        # return None
+    return company_data
+   
 
 
 
 
 ##############################################--MAIN--##################################################################
 def main(root_path, company_folder_names, processed_folder_created, filing_types):
-    loader = Loader()
+
     companies_stored =[]
+    all_comp_data = []  # List to collect all processed data
     try:
         if len(company_folder_names) == 0:
             company_folder_names = company_folders(root_path)
@@ -284,10 +204,13 @@ def main(root_path, company_folder_names, processed_folder_created, filing_types
             for company_name in company_folder_names:
                 print(f"Processing {filing_type} filings for {company_name}")
                 print("-" * 80)
-                process_text_files(root_path, company_name, filing_type, loader)
+                comp_data = process_text_files(root_path, company_name, filing_type)
                 companies_stored.append((company_name, filing_type))
-    finally:
-        loader.close()
+                all_comp_data.append(comp_data)
+    except Exception as e:
+        logging.error(f"Error processing companies: {str(e)}", exc_info=True)
+    return all_comp_data
+    
 
 
 ##############################################--MAIN ENDAS--############################################################
@@ -296,10 +219,9 @@ def main(root_path, company_folder_names, processed_folder_created, filing_types
 
 
 
-def parse_address_data(company_id, addresses):
+def parse_address_data(addresses):
     """
     Convert the address dictionary into a list of tuples suitable for database insertion.
-    :param company_id: ID of the associated company
     :param addresses: Dictionary containing address information
     :return: List of tuples with formatted address data
     """
@@ -314,13 +236,13 @@ def parse_address_data(company_id, addresses):
         country = details.get('stateOrCountryDescription')
 
         parsed_addresses.append((
-            company_id, address_type, street1, street2, city, state, zip_code, country
+            address_type, street1, street2, city, state, zip_code, country
         ))
 
     return parsed_addresses
 
 
-def parse_former_names_data(company_id, former_names):
+def parse_former_names_data(former_names):
     parsed_former_names = []
     for former_name in former_names:
         name = former_name.get('name')
@@ -339,19 +261,23 @@ def parse_former_names_data(company_id, former_names):
         
         # Append separated components to the result
         parsed_former_names.append((
-            company_id, name, 
+            name, 
             from_date, from_time, 
             to_date, to_time
         ))
     return parsed_former_names
 
-root_path = '/Users/akshitsanoria/Desktop/PythonP/data1/'
-ticker = 'AAPL'
-filing_type = ['8-K', '10-K']
-loader = Loader()
-# id = process_text_files(root_path, ticker, filing_type, loader)
 
 
+# if __name__ == "__main__":
+#     root_path = '/Users/akshitsanoria/Desktop/PythonP/testing'
+#     company_folder_names = []  # Initialize with an empty list or provide specific company names
+#     processed_folder_created = False
+#     filing_types = ['8-K', '10-K']
 
-# root_path = "/Volumes/T7/data"
-main(root_path, company_folder_names, processed_folder_created, filing_type)
+#     all_data = main(root_path, company_folder_names, processed_folder_created, filing_types)
+#     print(all_data)
+
+
+# # root_path = "/Volumes/T7/data"
+#     main(root_path, company_folder_names, processed_folder_created, filing_types)

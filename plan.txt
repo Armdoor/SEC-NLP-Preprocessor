@@ -1,0 +1,62 @@
+1. Data Collection
+   1.1. Identify and list the sources of 10-K reports (e.g., SEC EDGAR database).
+   1.2. Download the 10-K reports in text format.
+   1.3. Store the raw 10-K reports in a designated directory for further processing.
+-----------------------------------------------------Main Event-------------------------------------------------------
+2. Data Preprocessing
+   2.1. Read the Raw Data
+       2.1.1. Use a file reader to read the raw 10-K report files.
+       classes to process: Parser -> 
+   2.2. Remove Metadata
+       2.2.1. Strip out any metadata, headers, footers, and other non-essential information.
+   2.3. Text Normalization
+       2.3.1. Remove special characters and unnecessary whitespace.
+       2.3.2. Convert text to lowercase.
+       2.3.3. Remove stopwords.
+       2.3.4. Lemmatize the text to reduce words to their base forms.
+
+3. Data Parsing and Structuring
+   3.1. Identify Sections
+       3.1.1. Use regular expressions to identify and extract sections (e.g., Item 1, Item 1A).
+   3.2. Map Sections to Parts
+       3.2.1. Map each identified section to its corresponding part (e.g., PART 1, PART 2).
+   3.3. Create Data Models
+       3.3.1. Create instances of data models (e.g., Item, Part, Report10K) to represent the structured data.
+
+4. Data Storage Preparation
+   4.1. Database Setup
+       4.1.1. Set up an Amazon RDS PostgreSQL instance.
+   4.2. Schema Design
+       4.2.1. Design the database schema to store the structured data.
+       4.2.2. Create tables for parts, items, and reports.
+   4.3. Database Connection
+       4.3.1. Establish a connection to the PostgreSQL database using a library like psycopg2.
+
+5. Data Insertion
+   5.1. Insert Parts and Items
+       5.1.1. Iterate through the structured data and insert each part and item into the corresponding database tables.
+   5.2. Handle Relationships
+       5.2.1. Ensure that relationships between parts and items are correctly maintained in the database.
+
+6. Data Validation and Quality Check
+   6.1. Validation Scripts
+       6.1.1. Write scripts to validate the data in the database.
+       6.1.2. Check for missing or incomplete data.
+       6.1.3. Verify that all parts and items are correctly linked.
+   6.2. Manual Review
+       6.2.1. Perform a manual review of a sample of the data to ensure it meets quality standards.
+
+7. Automation and Scheduling
+   7.1. Pipeline Automation
+       7.1.1. Use tools like Apache Airflow or AWS Lambda to automate the pipeline steps.
+   7.2. Scheduling
+       7.2.1. Schedule the pipeline to run at regular intervals (e.g., daily, weekly) to process new 10-K reports.
+
+8. Monitoring and Maintenance
+   8.1. Monitoring
+       8.1.1. Set up monitoring to track the performance and health of the pipeline.
+       8.1.2. Use AWS CloudWatch or similar tools to monitor the RDS instance.
+   8.2. Error Handling
+       8.2.1. Implement error handling and logging to capture and address any issues that arise.
+   8.3. Maintenance
+       8.3.1. Regularly update and maintain the pipeline to ensure it continues to function correctly and efficiently.

@@ -4,8 +4,8 @@ parser.py to process and store the extracted data into a preprocessed folder und
 '''
 
 
-from sec_parser_st import Parser
-from load import Loader
+from .sec_parser_st import Parser
+
 import os
 import json
 import logging
@@ -29,22 +29,25 @@ all_headers ={}
 
 ##############################################--VARIABLE DECLARATION ENDS--#############################################
 
+
+
+
 ##############################################--MAIN--##################################################################
 i  = 0
 # called by the parser_main.py to parse the filing type for each company. 
-def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, filing_type, ticker, loader, company_id):
+def companies_main(raw_path, preprocessed_path, file_name, filing_type, ticker):
 
     #  create the path to where we will be storing the preprocessed data and also naming it based on the filing name
     output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
-    output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
+    # output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
 
     if os.path.exists(output_file_path):
         logging.info(f"File '{output_file_path}' already exists. Skipping processing in companies.py")
         return  # Skip processing this file
     logging.info(f"Processing {file_name} filing for {ticker} in companies.py")
-    if os.path.exists(output_file_path2):
-        logging.info(f"File '{output_file_path2}' already exists. Skipping processing in companies.py")
-        return  # Skip processing this file
+    # if os.path.exists(output_file_path2):
+    #     logging.info(f"File '{output_file_path2}' already exists. Skipping processing in companies.py")
+    #     return  # Skip processing this file
     # declaring the parser object
     parser = Parser()
 
@@ -62,7 +65,6 @@ def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, fi
         all_headers[ticker][file_name] = [] 
     
     filing_data['filing_type'] = filing_type
-    filing_data['company_id'] = company_id
     filing_data['file_name'] = file_name
     info = filing_data['item_information']
     filing_data['item_information'] = ",".join(info) if info else ""
@@ -72,7 +74,6 @@ def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, fi
 # Format the datetime object into a desired format
     filing_data['filing_date'] = date_obj.strftime("%Y-%m-%d") 
     record = (
-        filing_data["company_id"],
         filing_data["accession_number"],
         filing_data["filing_type"],
         filing_data["filing_date"],
@@ -80,14 +81,7 @@ def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, fi
         int(filing_data["document_count"]),
         filing_data["item_information"]
     )
-    filing_id= loader.insert_filings([record])
 
-    header_filing_id = filing_id
-    pages_filing_id = filing_id
-    print(filing_id)
-    if filing_id is not None:
-        header_data = (header_filing_id, header['sec_header'])
-        loader.insert_headers([header_data])
 
     # all_headers[ticker][file_name].append(header['sec_header'])
 
@@ -104,39 +98,33 @@ def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, fi
     # # create the preprocessed folder if it doesn't exist
     os.makedirs(preprocessed_path, exist_ok=True)
     output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
-    output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
+    # output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
 
     # # write the preprocessed data to a file
-    file_acumulated_data, pages = parser.parse_html(normm_data)
+    file_acumulated_data, pages = parser.parse_html_context(normm_data)
     # file_acumulated_data2, pages2 = parser.parse_html2(normm_data)
-    print('filing_id before pages: ', filing_id)
-    page_records = [(pages_filing_id, filing_type, accession_number, page[0], page[1]) for page in pages]
-    # page_records2 = [(pages_filing_id, page[0], page[1]) for page in pages2]
-    # page_data = [(filing_id, page_number, page_content) for page_number, page_content in pages.items()]
-    # data = [
-    #         (filing_id, page_number, json.dumps(page_content))
-    #         for page_number, page_content in pages.items()
-    #     ]
-    # Insert the data
-    loader.insert_pages(page_records)
-    # with open("extraction2.txt", 'w', encoding='utf-8') as file: 
-    #     file.write(file_acumulated_data)
 
-    if file_acumulated_data is None:
-        logging.error("No filing data found in companies.py")
-    # else :
-    #     file_acumulated_data = header['sec_header'] + "\n" + file_acumulated_data    
-    #     with open(output_file_path, 'w', encoding='utf-8') as file:
-    #         file.write(file_acumulated_data)
+    page_records = [( filing_type, accession_number, page[0], page[1]) for page in pages]
+    # pages_filing_id = {'id': filing_id}
+    # loader.insert_pages(page_records)
 
-
-    # if file_acumulated_data2 is None:
-    #     logging.error("No filing data found in companies.py for file_acumulated_data2")
-    # else :
-    #     file_acumulated_data2 = header['sec_header'] + "\n" + file_acumulated_data2  
-    #     with open(output_file_path2, 'w', encoding='utf-8') as file:
-    #         file.write(file_acumulated_data2)
-    
+    parsed_file_data = dict()
+    parsed_file_data['accession_number'] = accession_number
+    parsed_file_data['filing_type'] = filing_type
+    parsed_file_data['filing_date'] = filing_data['filing_date']
+    parsed_file_data['header'] = header['sec_header']
+    parsed_file_data['records'] = record
+    parsed_file_data['pages'] = page_records
+    parsed_file_data['in_filing_data']= file_acumulated_data
+    # pages_filing_id['pages_accumulated'] = file_acumulated_data
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        file.write(file_acumulated_data)
+    with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/check_dict.txt", "w")as f:
+        i= 0
+        for k,v in parsed_file_data.items():
+            f.write(f"{i} {k} : {v}\n")
+            i +=1
+    return parsed_file_data
 
     
 ##############################################--MAIN END--####################################################
@@ -146,3 +134,31 @@ def companies_main(raw_path, preprocessed_path,preprocessed_path2, file_name, fi
 # rp = "/Users/akshitsanoria/Desktop/PythonP/data1/ASB/raw/8-K/filing_25.txt"
 # pp = "/Users/akshitsanoria/Desktop/PythonP/data1/ASB/preprocessed/8-K"
 # companies_main(rp, pp,'filing_25', '8-K','ASB',loader , 3)
+
+
+
+# page_records2 = [(pages_filing_id, page[0], page[1]) for page in pages2]
+    # page_data = [(filing_id, page_number, page_content) for page_number, page_content in pages.items()]
+    # data = [
+    #         (filing_id, page_number, json.dumps(page_content))
+    #         for page_number, page_content in pages.items()
+    #     ]
+    # Insert the data
+    # if file_acumulated_data is None:
+    #     logging.error("No filing data found in companies.py")
+    # # else :
+    # #     file_acumulated_data = header['sec_header'] + "\n" + file_acumulated_data    
+    # #     with open(output_file_path, 'w', encoding='utf-8') as file:
+    # #         file.write(file_acumulated_data)
+
+
+    # # if file_acumulated_data2 is None:
+    # #     logging.error("No filing data found in companies.py for file_acumulated_data2")
+    # # else :
+    # #     file_acumulated_data2 = header['sec_header'] + "\n" + file_acumulated_data2  
+    # #     with open(output_file_path2, 'w', encoding='utf-8') as file:
+    # #         file.write(file_acumulated_data2)
+    # with open("extraction2.txt", 'w', encoding='utf-8') as file: 
+    #     file.write(file_acumulated_data)
+
+    # 

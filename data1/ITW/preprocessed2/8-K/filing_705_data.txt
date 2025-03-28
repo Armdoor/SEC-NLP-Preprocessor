@@ -1,0 +1,69 @@
+0000049826-16-000241.hdr.sgml : 20160804
+20160804162914
+ACCESSION NUMBER:		0000049826-16-000241
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160804
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20160804
+DATE AS OF CHANGE:		20160804
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLINOIS TOOL WORKS INC
+		CENTRAL INDEX KEY:			0000049826
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT [3560]
+		IRS NUMBER:				361258310
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04797
+		FILM NUMBER:		161807878
+
+	BUSINESS ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+		BUSINESS PHONE:		8477247500
+
+	MAIL ADDRESS:	
+		STREET 1:		155 HARLEM AVENUE
+		CITY:			GLENVIEW
+		STATE:			IL
+		ZIP:			60025
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported): August 4, 2016
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table0.json]
+Registrant's telephone number, including area code: 847-724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page1_table1.json]
+
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(d) On August 4, 2016, the Company’s Board of Directors elected Jay L. Henderson as a director to serve until the May 2017 Annual Meeting and determined him to be independent. Mr. Henderson, age 60, retired as Vice Chairman, Client Service of PricewaterhouseCoopers LLP (“PwC”) in June 2016, having served in that capacity since 2007. Previously, he served as PwC’s Greater Chicago Market Managing Partner from 2003 to 2013 and Managing Partner of the Cleveland Office from 1993 to 2002. He is also a director of Northern Trust Corporation and has been nominated to stand for election as a director of The J.M. Smucker Company at the company’s annual meeting of shareholders on August 17, 2016. Mr. Henderson has been appointed to the Audit and Corporate Governance & Nominating Committees of the Company.
+Mr. Henderson will participate in the standard non-employee director compensation arrangements described in the Company’s 2016 proxy statement.
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+[Table stored in: /Users/akshitsanoria/Desktop/PythonP/json_tables/8-K_page3_table0.json]

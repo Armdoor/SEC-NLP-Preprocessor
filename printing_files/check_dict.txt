@@ -1,0 +1,99 @@
+0 accession_number : 0001171843-24-007129
+1 filing_type : 8-K
+2 filing_date : 2024-12-31
+3 header : 0001171843-24-007129.hdr.sgml : 20241231
+20241231160210
+ACCESSION NUMBER:		0001171843-24-007129
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		14
+CONFORMED PERIOD OF REPORT:	20241226
+ITEM INFORMATION:		Cost Associated with Exit or Disposal Activities
+FILED AS OF DATE:		20241231
+DATE AS OF CHANGE:		20241231
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TPI COMPOSITES, INC
+		CENTRAL INDEX KEY:			0001455684
+		STANDARD INDUSTRIAL CLASSIFICATION:	ENGINES & TURBINES [3510]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				201590775
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37839
+		FILM NUMBER:		241592965
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8501 N SCOTTSDALE ROAD
+		STREET 2:		GAINEY CENTER II, SUITE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85253
+		BUSINESS PHONE:		480-305-8910
+
+	MAIL ADDRESS:	
+		STREET 1:		8501 N SCOTTSDALE ROAD
+		STREET 2:		GAINEY CENTER II, SUITE 100
+		CITY:			SCOTTSDALE
+		STATE:			AZ
+		ZIP:			85253
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TPI COMPOSITES INC
+		DATE OF NAME CHANGE:	20090206
+4 records : ('0001171843-24-007129', '8-K', '2024-12-31', 'filing_1', 14, 'Cost Associated with Exit or Disposal Activities')
+5 pages : [('8-K', '0001171843-24-007129', '\n ', 1)]
+6 in_filing_data : 
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+December 26, 2024
+Date of Report (Date of earliest event reported)
+TPI Composites, Inc.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdictionof incorporation),
+ 001-37839: (CommissionFile Number),
+ 20-1590775: (I.R.S. EmployerIdentification No.)] 
+9200 E. Pima Center Parkway
+,
+Suite 250
+Scottsdale
+Arizona
+85258
+(Address of principal executive offices) (Zip Code)
+480
+-
+305-8910
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_2: Title of each class: Common Stock, par value $0.01,
+ Trading Symbol(s): TPIC,
+ Name of each exchange on which registered: NASDAQ Global Market] 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+In December 2024, TPI Composites, Inc. (the Company) committed to a restructuring plan in order to rationalize its workforce in Türkiye in response to lower forecasted demand in 2025 for wind blades primarily exported by the Company’s customers to the European market. This decline in forecasted demand is primarily attributed to the hyperinflationary environment in Türkiye, as previously disclosed in the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2024.
+The Company is reducing its headcount at its Turkish manufacturing facilities by approximately 20%. The Company currently estimates that it will recognize pre-tax charges for severance and other one-time termination benefits in the range of $9 million to $11 million. These charges are expected to be paid in January 2025.
+The Company may incur other charges or cash expenditures not currently contemplated due to unanticipated events that may occur as a result of or in connection with the implementation of the restructuring plan. The Company intends to exclude the charges associated with the restructuring plan from its non-GAAP financial measures.
+Forward-Looking Statements
+This Current Report on Form 8-K contains forward-looking statements within the meaning of the federal securities laws. All statements other than statements of historical facts contained in this Current Report on Form 8-K are forward-looking statements. In many cases, you can identify forward-looking statements by terms such as “may,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential” or “continue” or the negative of these terms or other similar words. Forward-looking statements may involve known and unknown risks, uncertainties and other factors that may cause the Company’s actual results, performance or achievements to be materially different from those expressed or implied by the forward-looking statements. These statements include, but are not limited to, the size and scope of the restructuring plan; the number of employee positions that will be affected; the estimate and timing of the charges that we expect to incur in connection with the plan; and the impact on the Company’s financial results. Except as required by law, the Company assumes no obligation to update these forward-looking statements publicly, or to update the reasons actual results could differ materially from those anticipated in the forward-looking statements, even if new information becomes available in the future. Further information on factors that could cause the Company’s actual results to differ materially from the results anticipated by the Company’s forward-looking statements is included in the reports the Company has filed with the U.S. Securities and Exchange Commission, including the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2024 and Annual Report on Form 10-K for the year ended December 31, 2023.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: TPI Composites, Inc.: Date: December 31, 2024; TPI Composites, Inc.: ; TPI Composites, Inc.:] 
+
+PAGE NUMBER: 1
+
+
