@@ -3,25 +3,66 @@
 
 # from db_setup import *
 from .models import *
-import psycopg2 
-import psycopg2.extras
+import psycopg
+# import psycopg.extras
 import logging
+import os 
 
 logging.basicConfig(level=logging.INFO)  # Set logging level
 
 class Importer:
     def __init__(self):
-        self.conn = psycopg2.connect(database="sec_reports", 
-                                        user="postgres", 
-                                        host="localhost", 
-                                        password="Iowa@25march",  
-                                        port=5432)
-        self.cur = self.conn.cursor()
-        self._create_tables()
-        logging.info("Connected to the database!")
-        # except Exception as e:
-        #     logging.error(f"Error connecting to the database: {e}")
-        #     exit()
+        try:
+            self.conn = psycopg.connect(
+                                    host=os.environ.get("DB_HOST"),
+                                    port=os.environ.get("DB_PORT"),
+                                    user=os.environ.get("DB_USER"),
+                                    password=os.environ.get("DB_PASSWORD"),
+                                    dbname=os.environ.get("DB_NAME"))
+            self.conn.autocommit = True
+            self.cur = self.conn.cursor()
+            logging.info("Connected to the database.")
+            # self.cur = self.conn.cursor()
+        except Exception as e:
+            logging.error(f"Error connecting to the database: {e}")
+            exit()
+    def create_tables(self):
+        try:
+            
+
+            # Create Item table
+            self.cur.execute("""
+            CREATE TABLE IF NOT EXISTS Item (
+                item_id SERIAL PRIMARY KEY,
+                identifier VARCHAR(255) NOT NULL,
+                title TEXT NOT NULL,
+                description TEXT
+            );
+            """)
+
+            # Create Part table
+            self.cur.execute("""
+            CREATE TABLE IF NOT EXISTS Part (
+                part_id SERIAL PRIMARY KEY,
+                part_name VARCHAR(255) NOT NULL
+            );
+            """)
+
+            # Create Section table
+            self.cur.execute("""
+            CREATE TABLE IF NOT EXISTS Section (
+                section_id SERIAL PRIMARY KEY,
+                section_name VARCHAR(255) NOT NULL
+            );
+            """)
+
+            logging.info("Tables created successfully.")
+            # self.cur.close()
+            # self.conn.close()
+        except Exception as e:
+            logging.error(f"Error creating tables: {e}")
+
+
 
     def __del__(self):
         """Close the database connection when the object is deleted"""
@@ -29,7 +70,8 @@ class Importer:
             self.cur.close()
         if hasattr(self, 'conn'):
             self.conn.close()
-        logging.info("Database connection closed.")
+        if logging:
+            logging.info("Database connection closed.")
 
     def insert_item(self, item: Item):
         """Insert an item into the database and return its ID"""
@@ -43,7 +85,7 @@ class Importer:
             item_id = self.cur.fetchone()[0]
             self.conn.commit()
             return item_id
-        except psycopg2.Error as e:
+        except psycopg.Error as e:
             self.conn.rollback()
             logging.error(f"Error inserting item: {e.pgcode} - {e.pgerror}")
             raise
@@ -60,7 +102,7 @@ class Importer:
             part_id = self.cur.fetchone()[0]
             self.conn.commit()
             return part_id
-        except psycopg2.Error as e:
+        except psycopg.Error as e:
             self.conn.rollback()
             logging.error(f"Error inserting part: {e.pgcode} - {e.pgerror}")
             raise
@@ -77,7 +119,7 @@ class Importer:
             section_id = self.cur.fetchone()[0]
             self.conn.commit()
             return section_id
-        except psycopg2.Error as e:
+        except psycopg.Error as e:
             self.conn.rollback()
             logging.error(f"Error inserting section: {e.pgcode} - {e.pgerror}")
             raise
@@ -94,7 +136,7 @@ class Importer:
                     VALUES (%s, %s)
                     """, (part_id, item_id))
             self.conn.commit()
-        except psycopg2.Error as e:
+        except psycopg.Error as e:
             self.conn.rollback()
             logging.error(f"Error inserting Report10K: {e.pgcode} - {e.pgerror}")
             raise
@@ -111,7 +153,13 @@ class Importer:
                     VALUES (%s, %s)
                     """, (section_id, item_id))
             self.conn.commit()
-        except psycopg2.Error as e:
+        except psycopg.Error as e:
             self.conn.rollback()
             logging.error(f"Error inserting Report8K: {e.pgcode} - {e.pgerror}")
             raise
+
+
+
+
+
+imp = Importer()

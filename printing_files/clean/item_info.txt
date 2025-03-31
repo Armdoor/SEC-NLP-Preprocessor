@@ -1,0 +1,4 @@
+identifier : 9.01 
+title : financial statement exhibit . exhibit . table3 exhibitnumber 99.1 , exhibit description 99.1 exhibitnumber 104 , exhibit description 104 page number 2 signature pursuant requirement security exchange act 1934 , registrant duly caused report signed behalf undersigned hereunto duly authorized . table4 date , october 31 , 2024 , apple inc. date , october 31 , 2024 , apple inc. date , october 31 , 2024 , apple inc. page number 3 
+description : item 9.01 financial statement exhibit . exhibit . table3 exhibitnumber 99.1 , exhibit description 99.1 exhibitnumber 104 , exhibit description 104 page number 2 signature pursuant requirement security exchange act 1934 , registrant duly caused report signed behalf undersigned hereunto duly authorized . table4 date , october 31 , 2024 , apple inc. date , october 31 , 2024 , apple inc. date , october 31 , 2024 , apple inc. page number 3 
+sub_items : [] 

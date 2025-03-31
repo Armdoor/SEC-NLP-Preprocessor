@@ -2,7 +2,7 @@ from sec_parser_st import Parser
 import os
 from datetime import datetime
 
-path = '/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/10-K/filing_14.txt'
+# path = '/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/10-K/filing_14.txt'
 parser = Parser()
 styles = [
     {'style': lambda value: value and 'width: 100%' in value},  # Style condition using lambda
@@ -13,7 +13,7 @@ styles = [
 
 all_headers ={}
 
-def test_parser(raw_path, file_name, filing_type, ticker, company_id):
+def test_parser(raw_path, file_name, filing_type, ticker):
     # output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
     # output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
     # if os.path.exists(output_file_path2):
@@ -36,7 +36,7 @@ def test_parser(raw_path, file_name, filing_type, ticker, company_id):
         all_headers[ticker][file_name] = [] 
     
     filing_data['filing_type'] = filing_type
-    filing_data['company_id'] = company_id
+
     filing_data['file_name'] = file_name
     info = filing_data['item_information']
     filing_data['item_information'] = ",".join(info) if info else ""
@@ -46,7 +46,7 @@ def test_parser(raw_path, file_name, filing_type, ticker, company_id):
 # Format the datetime object into a desired format
     filing_data['filing_date'] = date_obj.strftime("%Y-%m-%d") 
     record = (
-        filing_data["company_id"],
+
         filing_data["accession_number"],
         filing_data["filing_type"],
         filing_data["filing_date"],
@@ -76,7 +76,7 @@ def test_parser(raw_path, file_name, filing_type, ticker, company_id):
     normm_data = parser.normalize_filing_docs(filing_docs)
 
     # # create the preprocessed folder if it doesn't exist
-    output_file_path = "/Users/akshitsanoria/Desktop/PythonP/printing_files/Test/parsed.txt"
+    output_file_path = "/Users/akshitsanoria/Desktop/PythonP/printing_files/Test/parsed2.txt"
 
     # # write the preprocessed data to a file
     file_acumulated_data, pages = parser.parse_html_context(normm_data)
@@ -97,12 +97,13 @@ def test_parser(raw_path, file_name, filing_type, ticker, company_id):
     parsed_file_data['records'] = record
     parsed_file_data['pages'] = page_records
     # pages_filing_id['pages_accumulated'] = file_acumulated_data
-    with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/Test/dict.txt", 'w') as f:
+    with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/Test/dict2.txt", 'w') as f:
         t =''
         for k , v in parsed_file_data.items():
             t+= k + ": \n \t"+ str(v) + "\n"
         f.write(t)
     return parsed_file_data, file_acumulated_data
 
-path = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/10-K/filing_14.txt"
-test, pages_data =  test_parser(path, 'filing_14', '10-K', 'AAPL', 3)
+# path = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_4.txt"
+path = "/Users/akshitsanoria/Desktop/PythonP/data1/AAPL/raw/8-K/filing_15.txt"
+test, pages_data =  test_parser(path, 'filing_4', '8-K', 'AAPL')

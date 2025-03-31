@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="sec_filings" uuid="0472a81a-f6c8-4163-987e-232086b7ac38">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/sec_filings.db</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="sec-db-1 " uuid="1d5ceaba-c213-4196-8b80-f60f10feccaa">
+    <data-source source="LOCAL" name="postgres@database-1.c9ko8uwa4nsf.us-east-1.rds.amazonaws.com" uuid="d5d89030-84c6-463e-9336-79431e8e4886">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://sec-db-1.cm3gcyikmv3b.us-east-1.rds.amazonaws.com:5432/SEC_DB</jdbc-url>
+      <jdbc-url>jdbc:postgresql://database-1.c9ko8uwa4nsf.us-east-1.rds.amazonaws.com:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

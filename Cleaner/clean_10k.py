@@ -1,7 +1,7 @@
 
 import re
-from models import Report10K, Part, Item
-from Normalization import Normalizer
+from .models import Report10K, Part, Item
+from .Normalization import Normalizer
 PARTS_MAPPING = {"1": "PART 1", "1A": "PART 1","1B": "PART 1","1C": "PART 1", 
                  "2": "PART 1", "3": "PART 1", "4": "PART 1", "5": "PART 2",
                  "6": "PART 2", "7": "PART 2", "7A": "PART 2", "8": "PART 2",

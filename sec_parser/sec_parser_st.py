@@ -17,6 +17,7 @@ class Parser:
         self.no_of_pages = 0
         self.pages = []
         self.table_no = 0
+        self.filing_types = ['8-K', '10-K', '10-Q', '13-D', 'DEF 14A', 'S-1']
     ##############################################--VARIABLE DECLARATION ENDS--#############################################
 
 
@@ -133,153 +134,157 @@ class Parser:
             document_tag = doc.type.find(text=True, recursive=False)
             if document_tag:
                 document_id = document_tag.strip()
+                print("Doc ID: ",document_id)
             else:
                 logging.warning("No document type found in document_data in parser.py")
                 continue
+            if document_id  in self.filing_types:
+                sequence_tag = doc.sequence.find(text=True, recursive=False)
+                if sequence_tag:
+                    document_sequence = sequence_tag.strip()
+                else:
+                    logging.warning("No sequence found in document_data in parser.py")
+                    document_sequence = None
 
-            sequence_tag = doc.sequence.find(text=True, recursive=False)
-            if sequence_tag:
-                document_sequence = sequence_tag.strip()
-            else:
-                logging.warning("No sequence found in document_data in parser.py")
-                document_sequence = None
+                filename_tag = doc.filename.find(text=True, recursive=False)
+                if filename_tag:
+                    document_filename = filename_tag.strip()
+                else:
+                    logging.warning("No filename found in document_data in parser.py")
+                    document_filename = None
 
-            filename_tag = doc.filename.find(text=True, recursive=False)
-            if filename_tag:
-                document_filename = filename_tag.strip()
-            else:
-                logging.warning("No filename found in document_data in parser.py")
-                document_filename = None
+                description_tag = doc.find("description")
+                if description_tag:
+                    document_description = ""
+                    for element in description_tag.contents:  
+                        if element.name == "text": 
+                            break
+                        if isinstance(element, str):  
+                            document_description += element.strip()
+                else:
+                    logging.warning("No description found in document_data in parser.py")
+                    document_description = "No description"
+                self.master_document_dict[document_id] = {}
+                self.master_document_dict[document_id]['document_sequence'] = document_sequence
+                self.master_document_dict[document_id]['document_filename'] = document_filename
+                self.master_document_dict[document_id]['document_description'] = document_description
+                cleaned_doc_html = ' '.join(str(doc).split())
+                self.master_document_dict[document_id]['document_code']= cleaned_doc_html
 
-            description_tag = doc.find("description")
-            if description_tag:
-                document_description = ""
-                for element in description_tag.contents:  
-                    if element.name == "text": 
+                filing_doc_text = doc.find("text")
+
+                if filing_doc_text:
+                    filing_doc_text = filing_doc_text.extract()
+                else:
+                    logging.warning("No text found in document_data in parser.py")
+                    continue
+                for style in styles:
+                    thematic_breaks = filing_doc_text.find_all('hr', style)
+                    if len(thematic_breaks) > 0:
                         break
-                    if isinstance(element, str):  
-                        document_description += element.strip()
-            else:
-                logging.warning("No description found in document_data in parser.py")
-                document_description = "No description"
-            self.master_document_dict[document_id] = {}
-            self.master_document_dict[document_id]['document_sequence'] = document_sequence
-            self.master_document_dict[document_id]['document_filename'] = document_filename
-            self.master_document_dict[document_id]['document_description'] = document_description
-            cleaned_doc_html = ' '.join(str(doc).split())
-            self.master_document_dict[document_id]['document_code']= cleaned_doc_html
 
-            filing_doc_text = doc.find("text")
+                if len(thematic_breaks) == 0:
+                    try:
+                        thematic_breaks = filing_doc_text.find_all('div' , {'style': lambda value: value and 'border-bottom: Black 4pt solid' in value} )
+                        
+                    except:
+                        logging.warning("No thematic breaks found in document_data in parser.py")
+            
+                all_page_numbers =[]
+                for thematic_break in thematic_breaks:
+                    try:
+                        parent = thematic_break.parent
+                        grandparent = parent.parent if parent else None
+                        previous_sibling = grandparent.previous_sibling if grandparent else None
 
-            if filing_doc_text:
-                filing_doc_text = filing_doc_text.extract()
-            else:
-                logging.warning("No text found in document_data in parser.py")
-                continue
-            for style in styles:
-                thematic_breaks = filing_doc_text.find_all('hr', style)
-                if len(thematic_breaks) > 0:
-                    break
-
-            if len(thematic_breaks) == 0:
-                try:
-                    thematic_breaks = filing_doc_text.find_all('div' , {'style': lambda value: value and 'border-bottom: Black 4pt solid' in value} )
-                    
-                except:
-                    logging.warning("No thematic breaks found in document_data in parser.py")
-        
-            all_page_numbers =[]
-            for thematic_break in thematic_breaks:
-                try:
-                    parent = thematic_break.parent
-                    grandparent = parent.parent if parent else None
-                    previous_sibling = grandparent.previous_sibling if grandparent else None
-
-                    if previous_sibling:
-                        page_number = previous_sibling.get_text(strip=True)
-                        if page_number:
-                            all_page_numbers.append(page_number)
+                        if previous_sibling:
+                            page_number = previous_sibling.get_text(strip=True)
+                            if page_number:
+                                all_page_numbers.append(page_number)
+                            else:
+                                logging.warning(f"Previous sibling exists but contains no text: {previous_sibling}")
+                        elif parent:
+                            page_number = parent.get_text(strip=True)
+                            if page_number:
+                                all_page_numbers.append(page_number)
+                            else:
+                                logging.warning(f"Parent exists but contains no text: {parent}")
                         else:
-                            logging.warning(f"Previous sibling exists but contains no text: {previous_sibling}")
-                    elif parent:
-                        page_number = parent.get_text(strip=True)
-                        if page_number:
-                            all_page_numbers.append(page_number)
-                        else:
-                            logging.warning(f"Parent exists but contains no text: {parent}")
-                    else:
-                        logging.warning(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
+                            logging.warning(f"Skipping thematic break due to missing or invalid previous sibling: {thematic_break}")
 
-                except Exception as e:
-                    logging.error(f"Error processing thematic break: {thematic_break}, error: {e}")
+                    except Exception as e:
+                        logging.error(f"Error processing thematic break: {thematic_break}, error: {e}")
 
-            length_of_page_numbers = len(all_page_numbers)
-            self.no_of_pages = length_of_page_numbers
-            if length_of_page_numbers > 0:
-                # grab the last number
-                previous_number = all_page_numbers[-1]
-                # initalize a new list
-                all_page_numbers_cleaned = []    
-                # loop through the old list in reverse order.
-                for number in reversed(all_page_numbers):
-                    # if it's blank proceed to cleaning.
-                    if number == '':
-                        # the previous one we looped was 0 or 1.
-                        if previous_number == '1' or previous_number == '0':    
-                            # in this case, it means this is a "new section", so restart at 0.
-                            all_page_numbers_cleaned.append(str(0))
-                            # reset the page number and the previous number.
-                            length_of_page_numbers = length_of_page_numbers - 1
-                            previous_number = '0'
-                        # the previous one we looped it wasn't either of those.
-                        else:    
-                            # if it was blank, take the current length, subtract 1, and add it to the list.
-                            all_page_numbers_cleaned.append(str(length_of_page_numbers - 1))    
+                length_of_page_numbers = len(all_page_numbers)
+                self.no_of_pages = length_of_page_numbers
+                if length_of_page_numbers > 0:
+                    # grab the last number
+                    previous_number = all_page_numbers[-1]
+                    # initalize a new list
+                    all_page_numbers_cleaned = []    
+                    # loop through the old list in reverse order.
+                    for number in reversed(all_page_numbers):
+                        # if it's blank proceed to cleaning.
+                        if number == '':
+                            # the previous one we looped was 0 or 1.
+                            if previous_number == '1' or previous_number == '0':    
+                                # in this case, it means this is a "new section", so restart at 0.
+                                all_page_numbers_cleaned.append(str(0))
+                                # reset the page number and the previous number.
+                                length_of_page_numbers = length_of_page_numbers - 1
+                                previous_number = '0'
+                            # the previous one we looped it wasn't either of those.
+                            else:    
+                                # if it was blank, take the current length, subtract 1, and add it to the list.
+                                all_page_numbers_cleaned.append(str(length_of_page_numbers - 1))    
+                                # reset the page number and the previous number.
+                                length_of_page_numbers = length_of_page_numbers - 1
+                                previous_number = number
+                        else:        
+                            # add the number to the list.
+                            all_page_numbers_cleaned.append(number)    
                             # reset the page number and the previous number.
                             length_of_page_numbers = length_of_page_numbers - 1
                             previous_number = number
                     else:        
-                        # add the number to the list.
-                        all_page_numbers_cleaned.append(number)    
-                        # reset the page number and the previous number.
-                        length_of_page_numbers = length_of_page_numbers - 1
-                        previous_number = number
-                else:        
-                    # make sure that it has a page number even if there are none, just have it equal 0
-                    all_page_numbers_cleaned = ['0']
-                # have the page numbers be the cleaned ones, in reversed order.
-                all_page_numbers = list(reversed(all_page_numbers_cleaned))
-                # store the page_numbers
-                self.master_document_dict[document_id]['page_numbers'] = all_page_numbers
-                # convert all thematic breaks to a string so it can be used for parsing
-                thematic_breaks = [str(thematic_break) for thematic_break in thematic_breaks]
-                
-                # prep the document text for splitting, this means converting it to a string.
-                filing_doc_string = ' '.join(str(filing_doc_text).split())
-                # filing_doc_string = str(filing_doc_text)
-                # handle the case where there are thematic breaks.
-                if len(thematic_breaks) > 0:
-                    # define the regex delimiter pattern, this would just be all of our thematic breaks.
-                    regex_delimiter_pattern = '|'.join(map(re.escape, thematic_breaks))
-
-                    # split the document along each thematic break.
-                    split_filing_string = re.split(regex_delimiter_pattern, filing_doc_string)
-
-                    # store the document itself
-                    self.master_document_dict[document_id]['pages_code'] = split_filing_string
-
-                # handle the case where there are no thematic breaks.
-                elif len(thematic_breaks) == 0:
-                    # handles so it will display correctly.
-                    split_filing_string = thematic_breaks
+                        # make sure that it has a page number even if there are none, just have it equal 0
+                        all_page_numbers_cleaned = ['0']
+                    # have the page numbers be the cleaned ones, in reversed order.
+                    all_page_numbers = list(reversed(all_page_numbers_cleaned))
+                    # store the page_numbers
+                    self.master_document_dict[document_id]['page_numbers'] = all_page_numbers
+                    # convert all thematic breaks to a string so it can be used for parsing
+                    thematic_breaks = [str(thematic_break) for thematic_break in thematic_breaks]
                     
-                    # store the document as is, since there are no thematic breaks. In other words, no splitting.
-                    self.master_document_dict[document_id]['pages_code'] = [filing_doc_string]
-                # else:
-                #     master_document_dict[document_id]['pages_code'] = ["None"]
-                logging.info(f"The document {document_id} was parsed.")
-                logging.info(f"There was {len(all_page_numbers)} page(s) found.")
-                logging.info(f"There was {len(thematic_breaks)} thematic breaks(s) found.")
+                    # prep the document text for splitting, this means converting it to a string.
+                    filing_doc_string = ' '.join(str(filing_doc_text).split())
+                    # filing_doc_string = str(filing_doc_text)
+                    # handle the case where there are thematic breaks.
+                    if len(thematic_breaks) > 0:
+                        # define the regex delimiter pattern, this would just be all of our thematic breaks.
+                        regex_delimiter_pattern = '|'.join(map(re.escape, thematic_breaks))
+
+                        # split the document along each thematic break.
+                        split_filing_string = re.split(regex_delimiter_pattern, filing_doc_string)
+
+                        # store the document itself
+                        self.master_document_dict[document_id]['pages_code'] = split_filing_string
+
+                    # handle the case where there are no thematic breaks.
+                    elif len(thematic_breaks) == 0:
+                        # handles so it will display correctly.
+                        split_filing_string = thematic_breaks
+                        
+                        # store the document as is, since there are no thematic breaks. In other words, no splitting.
+                        self.master_document_dict[document_id]['pages_code'] = [filing_doc_string]
+                    # else:
+                    #     master_document_dict[document_id]['pages_code'] = ["None"]
+                    logging.info(f"The document {document_id} was parsed.")
+                    logging.info(f"There was {len(all_page_numbers)} page(s) found.")
+                    logging.info(f"There was {len(thematic_breaks)} thematic breaks(s) found.")
+                else:
+                    logging.info(f"The document {document_id} is not relevant.")
+
 
         return self.master_document_dict  
 
@@ -497,6 +502,7 @@ class Parser:
                     # colspan = int(cell.get('colspan', 1))  # Handle merged cells
                     # print(colspan)
                     cell_text = cell.get_text(strip=True)
+                    # cell_text = ''.join(cell.stripped_strings)
                     # print("cell text \n",cell_text) 
                     if cell_text:
                         head.extend([cell_text])  # Repeat for merged cells
@@ -512,6 +518,9 @@ class Parser:
             for cell in row.find_all(['th', 'td']):
                 colspan = int(cell.get('colspan', 1))  # Handle merged cells
                 cell_text = cell.get_text(strip=True)
+                
+                
+
                 if cell_text:  # Only add non-empty cells
                     cells.extend([cell_text] * colspan)  # Repeat for merged cells
                 else:

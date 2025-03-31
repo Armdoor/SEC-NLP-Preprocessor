@@ -209,7 +209,7 @@ def main(root_path, company_folder_names, processed_folder_created, filing_types
                 all_comp_data.append(comp_data)
     except Exception as e:
         logging.error(f"Error processing companies: {str(e)}", exc_info=True)
-    return all_comp_data
+    return all_comp_data , filing_type
     
 
 

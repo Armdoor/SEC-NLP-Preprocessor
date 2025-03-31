@@ -1,0 +1,12 @@
+accession_number: 
+ 	0001171843-24-007129
+ticker: 
+ 	TPI
+filing_type: 
+ 	8-K
+filing_date: 
+ 	2024-12-31
+records: 
+ 	(3, '0001171843-24-007129', '8-K', '2024-12-31', 'filing_1', 14, 'Cost Associated with Exit or Disposal Activities')
+pages: 
+ 	[('8-K', '0001171843-24-007129', '\n ', 1)]

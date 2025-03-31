@@ -1,0 +1,248 @@
+
+
+aapl-20241031
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+October 31, 2024
+Date of Report (Date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: (State or other jurisdictionof incorporation),
+ 94-2404110: (State or other jurisdictionof incorporation)] 
+One Apple Park Way
+Cupertino
+,
+California
+95014
+(Address of principal executive offices) (Zip Code)
+(
+408
+)
+996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_2: Title of each class: Common Stock, $0.00001 par value per share,
+ Trading symbol(s): Common Stock, $0.00001 par value per share,
+ Name of each exchange on which registered: Common Stock, $0.00001 par value per share; Title of each class: 0.000% Notes due 2025,
+ Trading symbol(s): 0.000% Notes due 2025,
+ Name of each exchange on which registered: 0.000% Notes due 2025; Title of each class: 0.875% Notes due 2025,
+ Trading symbol(s): 0.875% Notes due 2025,
+ Name of each exchange on which registered: 0.875% Notes due 2025; Title of each class: 1.625% Notes due 2026,
+ Trading symbol(s): 1.625% Notes due 2026,
+ Name of each exchange on which registered: 1.625% Notes due 2026; Title of each class: 2.000% Notes due 2027,
+ Trading symbol(s): 2.000% Notes due 2027,
+ Name of each exchange on which registered: 2.000% Notes due 2027; Title of each class: 1.375% Notes due 2029,
+ Trading symbol(s): 1.375% Notes due 2029,
+ Name of each exchange on which registered: 1.375% Notes due 2029; Title of each class: 3.050% Notes due 2029,
+ Trading symbol(s): 3.050% Notes due 2029,
+ Name of each exchange on which registered: 3.050% Notes due 2029; Title of each class: 0.500% Notes due 2031,
+ Trading symbol(s): 0.500% Notes due 2031,
+ Name of each exchange on which registered: 0.500% Notes due 2031; Title of each class: 3.600% Notes due 2042,
+ Trading symbol(s): 3.600% Notes due 2042,
+ Name of each exchange on which registered: 3.600% Notes due 2042] 
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+Item 2.02 Results of Operations and Financial Condition.
+On October 31, 2024, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its fourth fiscal quarter ended September 28, 2024. A copy of Apple’s press release is attached hereto as Exhibit 99.1.
+The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits.
+ [TABLE_3: ExhibitNumber: 99.1,
+ Exhibit Description: 99.1; ExhibitNumber: 104,
+ Exhibit Description: 104] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_4: Date:: ,
+ October 31, 2024: ,
+ Apple Inc.: ; Date:: ,
+ October 31, 2024: ,
+ Apple Inc.: ; Date:: ,
+ October 31, 2024: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 3
+
+
+
+Document
+Exhibit 99.1
+Apple reports fourth quarter results
+iPhone drives record September quarter revenue
+Services revenue reaches new all-time high
+CUPERTINO, CALIFORNIA — Apple
+®
+today announced financial results for its fiscal 2024 fourth quarter ended September 28, 2024. The Company posted quarterly revenue of $94.9 billion, up 6 percent year over year, and quarterly diluted earnings per share of $0.97. Diluted earnings per share was $1.64,
+1
+up 12 percent year over year when excluding the one-time charge recognized during the fourth quarter of 2024 related to the impact of the reversal of the European General Court’s State Aid decision.
+“Today Apple is reporting a new September quarter revenue record of $94.9 billion, up 6 percent from a year ago,” said Tim Cook, Apple’s CEO. “During the quarter, we were excited to announce our best products yet, with the all-new iPhone 16 lineup, Apple Watch Series 10, AirPods 4, and remarkable features for hearing health and sleep apnea detection. And this week, we released our first set of features for Apple Intelligence, which sets a new standard for privacy in AI and supercharges our lineup heading into the holiday season.”
+“Our record business performance during the September quarter drove nearly $27 billion in operating cash flow, allowing us to return over $29 billion to our shareholders,” said Luca Maestri, Apple’s CFO. “We are very pleased that our active installed base of devices reached a new all-time high across all products and all geographic segments, thanks to our high levels of customer satisfaction and loyalty.”
+Apple’s board of directors has declared a cash dividend of $0.25 per share of the Company’s common stock. The dividend is payable on November 14, 2024 to shareholders of record as of the close of business on November 11, 2024.
+Apple will provide live streaming of its Q4 2024 financial results conference call beginning at 2:00 p.m. PT on October 31, 2024 at apple.com/investor/earnings-call. The webcast will be available for replay for approximately two weeks thereafter.
+1. Non-GAAP measure. See the section titled “Reconciliation of Non-GAAP to GAAP Results of Operations” at the end of the accompanying financial statements.
+
+PAGE NUMBER: 1
+
+
+
+Apple periodically provides information for investors on its corporate website, apple.com, and its investor relations website, investor.apple.com. This includes press releases and other information about financial performance, reports filed or furnished with the SEC, information on corporate governance, and details related to its annual meeting of shareholders.
+This press release contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include without limitation those about payment of the Company’s quarterly dividend and future business plans. These statements involve risks and uncertainties, and actual results may differ materially from any future results expressed or implied by the forward-looking statements. Risks and uncertainties include without limitation: effects of global and regional economic conditions, including as a result of government policies, geopolitical tensions, conflict, terrorism, natural disasters, and public health issues; risks relating to the design, manufacture, introduction, and transition of products and services in highly competitive and rapidly changing markets, including from reliance on third parties for components, technology, manufacturing, applications, support, and content; risks relating to information technology system failures, network disruptions, and failure to protect, loss of, or unauthorized access to, or release of, data; and effects of unfavorable legal proceedings, government investigations, and complex and changing laws and regulations. More information on these risks and other potential factors that could affect the Company’s business, reputation, results of operations, financial condition, and stock price is included in the Company’s filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” sections of the Company’s most recently filed periodic reports on Form 10-K and Form 10-Q and subsequent filings. The Company assumes no obligation to update any forward-looking statements, which speak only as of the date they are made.
+Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, AirPods, Apple Watch, and Apple Vision Pro. Apple’s six software platforms — iOS, iPadOS, macOS, watchOS, visionOS, and tvOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, iCloud, and Apple TV+. Apple’s more than 150,000 employees are dedicated to making the best products on earth and to leaving the world better than we found it.
+Press Contact:
+Josh Rosenstock
+Apple
+jrosenstock@apple.com
+(408) 862-1142
+Investor Relations Contact:
+Suhasini Chandramouli
+suhasini@apple.com
+(408) 974-3123
+NOTE TO EDITORS: For additional information visit Apple Newsroom (www.apple.com/newsroom), or email Apple’s Media Helpline at media.help@apple.com.
+© 2024 Apple Inc. All rights reserved. Apple and the Apple logo are trademarks of Apple. Other company and product names may be trademarks of their respective owners.
+
+PAGE NUMBER: 2
+
+
+
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+ [TABLE_5: Three Months Ended: ,
+ Twelve Months Ended: ; Three Months Ended: Net sales:,
+ Twelve Months Ended: Net sales:; Three Months Ended: Products,
+ Twelve Months Ended: Products; Three Months Ended: Services,
+ Twelve Months Ended: Services; Three Months Ended: Total net sales(1),
+ Twelve Months Ended: Total net sales(1); Three Months Ended: Cost of sales:,
+ Twelve Months Ended: Cost of sales:; Three Months Ended: Products,
+ Twelve Months Ended: Products; Three Months Ended: Services,
+ Twelve Months Ended: Services; Three Months Ended: Total cost of sales,
+ Twelve Months Ended: Total cost of sales; Three Months Ended: Gross margin,
+ Twelve Months Ended: Gross margin; Three Months Ended: Operating expenses:,
+ Twelve Months Ended: Operating expenses:; Three Months Ended: Research and development,
+ Twelve Months Ended: Research and development; Three Months Ended: Selling, general and administrative,
+ Twelve Months Ended: Selling, general and administrative; Three Months Ended: Total operating expenses,
+ Twelve Months Ended: Total operating expenses; Three Months Ended: Operating income,
+ Twelve Months Ended: Operating income; Three Months Ended: Other income/(expense), net,
+ Twelve Months Ended: Other income/(expense), net; Three Months Ended: Income before provision for income taxes,
+ Twelve Months Ended: Income before provision for income taxes; Three Months Ended: Provision for income taxes,
+ Twelve Months Ended: Provision for income taxes; Three Months Ended: Net income,
+ Twelve Months Ended: Net income; Three Months Ended: Earnings per share:,
+ Twelve Months Ended: Earnings per share:; Three Months Ended: Basic,
+ Twelve Months Ended: Basic; Three Months Ended: Diluted,
+ Twelve Months Ended: Diluted; Three Months Ended: Shares used in computing earnings per share:,
+ Twelve Months Ended: Shares used in computing earnings per share:; Three Months Ended: Basic,
+ Twelve Months Ended: Basic; Three Months Ended: Diluted,
+ Twelve Months Ended: Diluted; Three Months Ended: (1)Net sales by reportable segment:,
+ Twelve Months Ended: (1)Net sales by reportable segment:; Three Months Ended: Americas,
+ Twelve Months Ended: Americas; Three Months Ended: Europe,
+ Twelve Months Ended: Europe; Three Months Ended: Greater China,
+ Twelve Months Ended: Greater China; Three Months Ended: Japan,
+ Twelve Months Ended: Japan; Three Months Ended: Rest of Asia Pacific,
+ Twelve Months Ended: Rest of Asia Pacific; Three Months Ended: Total net sales,
+ Twelve Months Ended: Total net sales; Three Months Ended: (1)Net sales by category:,
+ Twelve Months Ended: (1)Net sales by category:; Three Months Ended: iPhone,
+ Twelve Months Ended: iPhone; Three Months Ended: Mac,
+ Twelve Months Ended: Mac; Three Months Ended: iPad,
+ Twelve Months Ended: iPad; Three Months Ended: Wearables, Home and Accessories,
+ Twelve Months Ended: Wearables, Home and Accessories; Three Months Ended: Services,
+ Twelve Months Ended: Services; Three Months Ended: Total net sales,
+ Twelve Months Ended: Total net sales] 
+
+PAGE NUMBER: 3
+
+
+
+Apple Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(In millions, except number of shares, which are reflected in thousands, and par value)
+ [TABLE_6: September 28,2024: ASSETS:,
+ September 30,2023: ASSETS:; September 28,2024: Current assets:,
+ September 30,2023: Current assets:; September 28,2024: Cash and cash equivalents,
+ September 30,2023: Cash and cash equivalents; September 28,2024: Marketable securities,
+ September 30,2023: Marketable securities; September 28,2024: Accounts receivable, net,
+ September 30,2023: Accounts receivable, net; September 28,2024: Vendor non-trade receivables,
+ September 30,2023: Vendor non-trade receivables; September 28,2024: Inventories,
+ September 30,2023: Inventories; September 28,2024: Other current assets,
+ September 30,2023: Other current assets; September 28,2024: Total current assets,
+ September 30,2023: Total current assets; September 28,2024: Non-current assets:,
+ September 30,2023: Non-current assets:; September 28,2024: Marketable securities,
+ September 30,2023: Marketable securities; September 28,2024: Property, plant and equipment, net,
+ September 30,2023: Property, plant and equipment, net; September 28,2024: Other non-current assets,
+ September 30,2023: Other non-current assets; September 28,2024: Total non-current assets,
+ September 30,2023: Total non-current assets; September 28,2024: Total assets,
+ September 30,2023: Total assets; September 28,2024: LIABILITIES AND SHAREHOLDERS’ EQUITY:,
+ September 30,2023: LIABILITIES AND SHAREHOLDERS’ EQUITY:; September 28,2024: Current liabilities:,
+ September 30,2023: Current liabilities:; September 28,2024: Accounts payable,
+ September 30,2023: Accounts payable; September 28,2024: Other current liabilities,
+ September 30,2023: Other current liabilities; September 28,2024: Deferred revenue,
+ September 30,2023: Deferred revenue; September 28,2024: Commercial paper,
+ September 30,2023: Commercial paper; September 28,2024: Term debt,
+ September 30,2023: Term debt; September 28,2024: Total current liabilities,
+ September 30,2023: Total current liabilities; September 28,2024: Non-current liabilities:,
+ September 30,2023: Non-current liabilities:; September 28,2024: Term debt,
+ September 30,2023: Term debt; September 28,2024: Other non-current liabilities,
+ September 30,2023: Other non-current liabilities; September 28,2024: Total non-current liabilities,
+ September 30,2023: Total non-current liabilities; September 28,2024: Total liabilities,
+ September 30,2023: Total liabilities; September 28,2024: Commitments and contingencies,
+ September 30,2023: Commitments and contingencies; September 28,2024: Shareholders’ equity:,
+ September 30,2023: Shareholders’ equity:; September 28,2024: Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 15,116,786 and 15,550,061 shares issued and outstanding, respectively,
+ September 30,2023: Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 15,116,786 and 15,550,061 shares issued and outstanding, respectively; September 28,2024: Accumulated deficit,
+ September 30,2023: Accumulated deficit; September 28,2024: Accumulated other comprehensive loss,
+ September 30,2023: Accumulated other comprehensive loss; September 28,2024: Total shareholders’ equity,
+ September 30,2023: Total shareholders’ equity; September 28,2024: Total liabilities and shareholders’ equity,
+ September 30,2023: Total liabilities and shareholders’ equity] 
+
+PAGE NUMBER: 4
+
+
+
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(In millions)
+ [TABLE_7: Twelve Months Ended: ; Twelve Months Ended: Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances; Twelve Months Ended: Operating activities:; Twelve Months Ended: Net income; Twelve Months Ended: Adjustments to reconcile net income to cash generated by operating activities:; Twelve Months Ended: Depreciation and amortization; Twelve Months Ended: Share-based compensation expense; Twelve Months Ended: Other; Twelve Months Ended: Changes in operating assets and liabilities:; Twelve Months Ended: Accounts receivable, net; Twelve Months Ended: Vendor non-trade receivables; Twelve Months Ended: Inventories; Twelve Months Ended: Other current and non-current assets; Twelve Months Ended: Accounts payable; Twelve Months Ended: Other current and non-current liabilities; Twelve Months Ended: Cash generated by operating activities; Twelve Months Ended: Investing activities:; Twelve Months Ended: Purchases of marketable securities; Twelve Months Ended: Proceeds from maturities of marketable securities; Twelve Months Ended: Proceeds from sales of marketable securities; Twelve Months Ended: Payments for acquisition of property, plant and equipment; Twelve Months Ended: Other; Twelve Months Ended: Cash generated by investing activities; Twelve Months Ended: Financing activities:; Twelve Months Ended: Payments for taxes related to net share settlement of equity awards; Twelve Months Ended: Payments for dividends and dividend equivalents; Twelve Months Ended: Repurchases of common stock; Twelve Months Ended: Proceeds from issuance of term debt, net; Twelve Months Ended: Repayments of term debt; Twelve Months Ended: Proceeds from/(Repayments of) commercial paper, net; Twelve Months Ended: Other; Twelve Months Ended: Cash used in financing activities; Twelve Months Ended: Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents; Twelve Months Ended: Cash, cash equivalents, and restricted cash and cash equivalents, ending balances; Twelve Months Ended: Supplemental cash flow disclosure:; Twelve Months Ended: Cash paid for income taxes, net] 
+
+PAGE NUMBER: 5
+
+
+
+Apple Inc.
+RECONCILIATION OF NON-GAAP TO GAAP RESULTS OF OPERATIONS (Unaudited)
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+ [TABLE_8: Three Months Ended: ,
+ Twelve Months Ended: ; Three Months Ended: ,
+ Twelve Months Ended: ; Three Months Ended: Income before provision for income taxes,
+ Twelve Months Ended: Income before provision for income taxes; Three Months Ended: Provision for income taxes,
+ Twelve Months Ended: Provision for income taxes; Three Months Ended: Net income,
+ Twelve Months Ended: Net income; Three Months Ended: Diluted earnings per share,
+ Twelve Months Ended: Diluted earnings per share; Three Months Ended: Shares used in computing diluted earnings per share,
+ Twelve Months Ended: Shares used in computing diluted earnings per share] 
+(a)
+These adjustments reconcile certain of the Company’s GAAP results of operations to its non-GAAP results of operations. The Company believes that the presentation of results excluding the impact of the reversal of the European General Court’s State Aid decision provides meaningful supplemental information to both management and investors that is indicative of the Company’s core operating results and facilitates comparison of operating results across reporting periods. The Company uses these non-GAAP measures when evaluating its financial results as well as for internal planning and forecasting purposes. These non-GAAP measures should not be viewed as a substitute for the Company’s GAAP results.
+(b)
+Non-GAAP adjustments to provision for income taxes and net income to reflect the impact of the reversal of the European General Court’s State Aid decision recognized during the fourth quarter of 2024. On September 10, 2024, the European Court of Justice announced that it had set aside the 2020 judgment of the European General Court and confirmed the European Commission’s 2016 State Aid decision. As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release of restricted funds held in escrow, partially offset by a U.S. foreign tax credit of $4.8 billion and a decrease in unrecognized tax benefits of $823 million. For additional information, refer to Note 7, “Income Taxes” of the Notes to Consolidated Financial Statements that will be included in Part II, Item 8 of the Company's fiscal 2024 Annual Report on Form 10-K.
+(c)
+Represents the per-share impact of the non-GAAP adjustments to net income.
+
+PAGE NUMBER: 6
+
