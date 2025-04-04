@@ -1,0 +1,134 @@
+
+
+itw-20210507
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 7, 2021
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdiction of incorporation),
+ 1-4797: (State or other jurisdiction of incorporation),
+ 36-1258310: (State or other jurisdiction of incorporation); Delaware: ,
+ 1-4797: ,
+ 36-1258310: ; Delaware: (Address of principal executive offices),
+ 1-4797: (Address of principal executive offices),
+ 36-1258310: (Address of principal executive offices)] 
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ [TABLE_2: ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐; ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐; ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐] 
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_3: Title of each class: Common Stock,
+ Trading Symbol(s): Common Stock,
+ Name of each exchange on which registered: Common Stock; Title of each class: 1.75% Euro Notes due 2022,
+ Trading Symbol(s): 1.75% Euro Notes due 2022,
+ Name of each exchange on which registered: 1.75% Euro Notes due 2022; Title of each class: 1.25% Euro Notes due 2023,
+ Trading Symbol(s): 1.25% Euro Notes due 2023,
+ Name of each exchange on which registered: 1.25% Euro Notes due 2023; Title of each class: 0.250% Euro Notes due 2024,
+ Trading Symbol(s): 0.250% Euro Notes due 2024,
+ Name of each exchange on which registered: 0.250% Euro Notes due 2024; Title of each class: 0.625% Euro Notes due 2027,
+ Trading Symbol(s): 0.625% Euro Notes due 2027,
+ Name of each exchange on which registered: 0.625% Euro Notes due 2027; Title of each class: 2.125% Euro Notes due 2030,
+ Trading Symbol(s): 2.125% Euro Notes due 2030,
+ Name of each exchange on which registered: 2.125% Euro Notes due 2030; Title of each class: 1.00% Euro Notes due 2031,
+ Trading Symbol(s): 1.00% Euro Notes due 2031,
+ Name of each exchange on which registered: 1.00% Euro Notes due 2031; Title of each class: 3.00% Euro Notes due 2034,
+ Trading Symbol(s): 3.00% Euro Notes due 2034,
+ Name of each exchange on which registered: 3.00% Euro Notes due 2034] 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+The annual meeting of the stockholders of the Company was held on May 7, 2021 for the purposes of (i) electing the ten director nominees named in the Company’s proxy statement for the meeting to hold office until the next annual meeting of stockholders; (ii) ratifying the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2021; (iii) approving, on an advisory basis, a resolution relating to the executive compensation of the named executive officers as disclosed in the Company’s proxy statement; and (iv) considering a non-binding stockholder proposal to permit stockholders to act by written consent.
+All ten nominees for director named in the Company’s proxy statement for the meeting were elected by the votes set forth below.
+ [TABLE_4: Election of Directors: Daniel J. Brutto,
+ FOR: Daniel J. Brutto,
+ AGAINST: Daniel J. Brutto,
+ ABSTAIN: 254,781,988,
+ BROKER NON-VOTES: 254,781,988; Election of Directors: Susan Crown,
+ FOR: Susan Crown,
+ AGAINST: Susan Crown,
+ ABSTAIN: 250,415,712,
+ BROKER NON-VOTES: 250,415,712; Election of Directors: Darrell L. Ford,
+ FOR: Darrell L. Ford,
+ AGAINST: Darrell L. Ford,
+ ABSTAIN: 255,243,287,
+ BROKER NON-VOTES: 255,243,287; Election of Directors: James W. Griffith,
+ FOR: James W. Griffith,
+ AGAINST: James W. Griffith,
+ ABSTAIN: 253,288,772,
+ BROKER NON-VOTES: 253,288,772; Election of Directors: Jay L. Henderson,
+ FOR: Jay L. Henderson,
+ AGAINST: Jay L. Henderson,
+ ABSTAIN: 254,735,885,
+ BROKER NON-VOTES: 254,735,885; Election of Directors: Richard H. Lenny,
+ FOR: Richard H. Lenny,
+ AGAINST: Richard H. Lenny,
+ ABSTAIN: 246,830,486,
+ BROKER NON-VOTES: 246,830,486; Election of Directors: E. Scott Santi,
+ FOR: E. Scott Santi,
+ AGAINST: E. Scott Santi,
+ ABSTAIN: 244,946,821,
+ BROKER NON-VOTES: 244,946,821; Election of Directors: David B. Smith, Jr.,
+ FOR: David B. Smith, Jr.,
+ AGAINST: David B. Smith, Jr.,
+ ABSTAIN: 250,126,028,
+ BROKER NON-VOTES: 250,126,028; Election of Directors: Pamela B. Strobel,
+ FOR: Pamela B. Strobel,
+ AGAINST: Pamela B. Strobel,
+ ABSTAIN: 245,667,013,
+ BROKER NON-VOTES: 245,667,013; Election of Directors: Anré D. Williams,
+ FOR: Anré D. Williams,
+ AGAINST: Anré D. Williams,
+ ABSTAIN: 252,514,542,
+ BROKER NON-VOTES: 252,514,542] 
+The appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2021 was ratified by the vote set forth below.
+ [TABLE_5: Ratification of independent registered public accounting firm: 278,926,489,
+ FOR: 278,926,489,
+ AGAINST: ,
+ ABSTAIN: 2,504,831] 
+The non-binding advisory vote on the compensation of the Company’s named executive officers as disclosed in the “Compensation Discussion and Analysis” section, the compensation tables and any related material disclosed in the Company’s proxy statement for the meeting pursuant to the Securities and Exchange Commission’s compensation disclosure rules was approved by the vote set forth below.
+ [TABLE_6: Advisory vote to approve executive compensation: 240,364,642,
+ FOR: 240,364,642,
+ AGAINST: ,
+ ABSTAIN: 15,718,317,
+ BROKER NON-VOTES: 15,718,317] 
+The stockholder proposal requesting that stockholders approve a non-binding resolution to permit stockholders to act by written consent was defeated by the vote set forth below.
+ [TABLE_7: Stockholder proposal to permit stockholders to act by written consent: 90,846,781,
+ FOR: 90,846,781,
+ AGAINST: ,
+ ABSTAIN: 160,762,579,
+ BROKER NON-VOTES: 160,762,579] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ [TABLE_8: ILLINOIS TOOL WORKS INC.: Dated: May 13, 2021; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 3
+

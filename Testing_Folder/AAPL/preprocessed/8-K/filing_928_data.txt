@@ -1,0 +1,82 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+January 28, 2015
+Date of Report (Date of earliest event reported)
+Apple Inc.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408)
+996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form
+filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Apple Inc. (the “Company”) is furnishing herewith updated financial statements and other affected financial information for the periods included in the Company’s Annual Report on Form 10-K for the fiscal year ended September 27, 2014 (the “Form 10-K”). These financial statements and other affected financial information have been updated to reflect changes made in fiscal year 2015 to the Company’s reportable operating segment data and categorization of product-level net sales reporting.
+In fiscal year 2015, management began reporting business performance and making decisions primarily on a geographic basis, including the results of its retail stores in each respective geographic segment. Accordingly, to align with the way the business is currently managed, the Company’s reportable operating segments now consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific. Retail is no longer reported as a separate reportable operating segment. Additionally, the Company began allocating certain costs to its operating segments that were previously included in other corporate expenses, including certain share-based compensation costs. The Company also changed its categorization of product-level net sales reporting to reflect its evolving products and services.
+Pursuant to guidance prepared by the staff of the Securities and Exchange Commission, the Company has updated the applicable items that were contained in the Form 10-K reflecting the above mentioned changes in Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and Item 8, “Financial Statements and Supplementary Data” in Exhibits 99.1 and 99.2 filed in this Current Report on Form 8-K (the “Form 8-K”), respectively. The information included in this Form 8-K is presented for information purposes only in connection with the changes in the Company’s reportable operating segment data and categorization of product-level net sales reporting. There is no change to the Company’s previously reported Consolidated Statements of Operations, Consolidated Statements of Comprehensive Income, Consolidated Balance Sheets, Consolidated Statements of Shareholders’ Equity and Consolidated Statements of Cash Flows included in the Form 10-K. This Form 8-K does not reflect events occurring after the Company filed the Form 10-K and does not modify or update the disclosures therein in any way, other than as noted above. The Company began to report comparative results reflective of the above mentioned changes with the filing of the Company’s Quarterly Report on Form 10-Q for the quarter ended December 27, 2014.
+2
+
+PAGE NUMBER: 2
+
+
+
+Item 9.01 Financial Statements and Exhibits.
+The following exhibits are furnished herewith:
+ [TABLE_2: ExhibitNumber: 23.1,
+ Exhibit Description: ; ExhibitNumber: 99.1,
+ Exhibit Description: ; ExhibitNumber: 99.2,
+ Exhibit Description: ; ExhibitNumber: 101.INS,
+ Exhibit Description: ; ExhibitNumber: 101.SCH,
+ Exhibit Description: ; ExhibitNumber: 101.CAL,
+ Exhibit Description: ; ExhibitNumber: 101.DEF,
+ Exhibit Description: ; ExhibitNumber: 101.LAB,
+ Exhibit Description: ; ExhibitNumber: 101.PRE,
+ Exhibit Description:] 
+3
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: Apple Inc.: Date: January 28, 2015; Apple Inc.:] 
+4
+
+PAGE NUMBER: 4
+
+
+
+EXHIBIT INDEX
+ [TABLE_4: ExhibitNumber: 23.1,
+ Exhibit Description: ; ExhibitNumber: 99.1,
+ Exhibit Description: ; ExhibitNumber: 99.2,
+ Exhibit Description: ; ExhibitNumber: 101.INS,
+ Exhibit Description: ; ExhibitNumber: 101.SCH,
+ Exhibit Description: ; ExhibitNumber: 101.CAL,
+ Exhibit Description: ; ExhibitNumber: 101.DEF,
+ Exhibit Description: ; ExhibitNumber: 101.LAB,
+ Exhibit Description: ; ExhibitNumber: 101.PRE,
+ Exhibit Description:] 
+5
+
+PAGE NUMBER: 5
+

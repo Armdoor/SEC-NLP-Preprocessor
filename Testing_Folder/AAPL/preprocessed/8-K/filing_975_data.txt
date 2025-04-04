@@ -1,0 +1,51 @@
+
+
+FORM 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+July 23, 2014
+Date of Report (Date of earliest event reported)
+APPLE INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 000-10030: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code
+(408) 996-1010
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+The Description of Common Stock set forth in Exhibit 99.1 is being filed for the purpose of providing an updated description of the capital stock of Apple Inc. (the “Company”). The Description of Common Stock set forth in Exhibit 99.1 is incorporated herein by reference, modifies and supersedes any prior description of the capital stock of the Company in any registration statement or report filed with the Securities and Exchange Commission (the “Commission”) and will be available for incorporation by reference into certain of the Company’s filings with the Commission pursuant to the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the rules and forms promulgated thereunder.
+The following exhibit is filed herewith:
+ [TABLE_2: ExhibitNumber: 99.1,
+ Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: APPLE INC.(Registrant): Date: July 23, 2014; APPLE INC.(Registrant):] 
+
+PAGE NUMBER: 3
+
+
+
+EXHIBIT INDEX
+ [TABLE_4: ExhibitNumber: 99.1,
+ Description:] 
+
+PAGE NUMBER: 4
+

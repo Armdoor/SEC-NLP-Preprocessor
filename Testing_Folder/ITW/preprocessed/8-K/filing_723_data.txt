@@ -1,0 +1,147 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported): May 6, 2016
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdictionof incorporation),
+ 1-4797: ,
+ 36-1258310: (CommissionFile No.); Delaware: 155 Harlem Avenue, Glenview, IL,
+ 1-4797: ,
+ 36-1258310: ; Delaware: (Address of principal executive offices),
+ 1-4797: ,
+ 36-1258310:] 
+Registrant’s telephone number, including area code: 847-724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Item 1.01 Entry into a Material Definitive Agreement
+On May 9, 2016, Illinois Tool Works, Inc. (the “Company”) entered into a $2.5 billion, five year credit agreement (the “Credit Agreement”) with JPMorgan Chase Bank, National Association (“JPM”), as Administrative Agent, Citibank, N.A. as Syndication Agent, and a syndicate of Lenders (as defined in the Credit Agreement).
+Under the Credit Agreement, the Company pays a facility fee that varies between 0.045% and 0.125%, depending on its credit rating. Advances denominated in U.S. Dollars carry, at the Company’s option, either the “base rate” of interest in effect, the “eurocurrency rate,” which is a periodic fixed LIBOR plus the applicable margin or a competitive bid rate of interest. Borrowings denominated in a currency other than U.S. Dollars carry the “eurocurrency rate” or a competitive bid rate of interest. The “base rate” of interest is the highest of (i) JPM’s prime rate, (ii) the federal funds rate plus 0.50%, and (iii) one-month LIBOR plus 1.00% (if one-month LIBOR is less than zero, such rate shall be deemed to be zero). The applicable margin includes a market rate spread, which is a rate per annum equal to the five-year credit default swap mid-rate spread. This spread varies between 0.25% and 1.25% depending on the Company’s credit rating.
+The Credit Agreement includes a provision under which the Company may request an increase of the total facility up to $4.5 billion, with the grant of such request at the lenders’ discretion. The Credit Agreement contains customary representations, warranties and covenants, including but not limited to covenants restricting the Company’s ability to incur liens, merge or consolidate with another entity where the Company is not the surviving entity. Further, the Credit Agreement contains a covenant requiring the Company to maintain its Interest Coverage Ratio as of the end of each quarter at not less than 3.5 to 1. This is calculated as the ratio of consolidated EBITDA for the four-quarter period then ended to Total Interest Expense for the same period.
+Some of the lenders named under the Credit Agreement and their affiliates have various relationships with the Company and its subsidiaries involving the provision of financial services, including cash management, investment banking, foreign exchange and trust services.
+The foregoing description of the Credit Agreement is not intended to be complete and is qualified in its entirety by reference to the Credit Agreement, a copy of which is attached hereto as Exhibit 10(a) and is incorporated herein by reference.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant
+The information set forth in Item 1.01 in this Current Report on Form 8-K is incorporated into this Item 2.03 by reference.
+Item 3.03 Material Modification to Rights of Security Holders
+The information set forth in Item 5.03 in this Current Report on Form 8-K is incorporated into this Item 3.03 by reference.
+Item 5.03 Amendments to Articles of Incorporation or By-Laws; Change in Fiscal Year
+On May 6, 2016, the stockholders of the Company at the 2016 annual meeting of stockholders approved an amendment to the Company’s Amended and Restated Certificate of Incorporation to permit stockholders that own at least 20% of the outstanding shares of common stock of the Company the right to require the Secretary of the Company to call a special meeting of the stockholders. In connection with the amendment of the Amended and Restated Certificate of Incorporation, the Company amended and restated its
+By-Laws,
+as of May 6, 2016, to set forth certain limitations and procedures with respect to the right of stockholders to call a special meeting.
+The material terms of the amendments are summarized in the 2016 Proxy Statement under the heading “Proposal 4—Approval of an Amendment to the Illinois Tool Works Inc. Amended and Restated Certificate of Incorporation to Permit Stockholders to Call Special Meetings,” as amended by the Supplement to the 2016 Proxy Statement, filed with the Securities and Exchange Commission on April 18, 2016, under the heading “Supplement to Proposal 4—Approval of an Amendment to the Illinois Tool Works Inc. Amended and Restated Certificate of Incorporation to Permit Stockholders to Call Special Meetings,” which descriptions are incorporated herein by reference.
+
+PAGE NUMBER: 2
+
+
+
+On May 9, 2016, the Company filed a Certificate of Amendment to its Amended and Restated Certificate of Incorporation with the Secretary of State of Delaware, a copy of which is included as Exhibit 3(a)(ii) to this filing and incorporated herein by reference. In addition, a copy of the Company’s Amended and Restated Certificate of Incorporation is included as Exhibit 3(a)(i) to this filing and incorporated herein by reference.
+A copy of the Company’s By-Laws, as amended and restated and marked to show the changes from the By-Laws in effect immediately prior to the amendments, is included as Exhibit 3(b)(ii) hereto, and a clean copy of the Company’s By-Laws, as amended and restated, is included as Exhibit 3(b)(i) hereto.
+The summary of the amendments to the Company’s Amended and Restated Certificate of Incorporation and By-Laws is qualified in its entirety by reference to the full text of the Certificate of Amendment, Amended and Restated Certificate of Incorporation and By-Laws.
+Item 5.07. Submission of Matters to a Vote of Security Holders
+The annual meeting of the stockholders of the Company was held on May 6, 2016 for the purposes of (i) electing the eleven directors named in the Company’s proxy statement to hold office until the next annual meeting of stockholders; (ii) ratifying the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the 2016 fiscal year; (iii) approving, on an advisory basis, a resolution approving executive compensation of the named executive officers as disclosed in the proxy statement; (iv) approving an amendment to the ITW Amended and Restated Certificate of Incorporation; (v) re-approving material terms of the performance goals under the ITW 2011 Cash Incentive Plan; and (vi) considering a stockholder proposal to exclude share repurchases from determinations of Senior Executive Incentive Compensation Awards.
+All eleven nominees for director as named in the Company’s proxy statement for the meeting were elected by the votes set forth in the table below.
+ [TABLE_2: FOR: Election of Directors,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: ; FOR: Daniel J. Brutto,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 287,299,962; FOR: Susan Crown,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 284,750,816; FOR: James W. Griffith,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 285,336,525; FOR: Richard H. Lenny,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 284,021,877; FOR: Robert S. Morrison,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 281,307,740; FOR: E. Scott Santi,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 279,304,330; FOR: James A. Skinner,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 284,002,454; FOR: David B. Smith, Jr.,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 287,111,841; FOR: Pamela B. Strobel,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 287,496,601; FOR: Kevin M. Warren,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 286,259,191; FOR: Anré D. Williams,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Votes: 285,085,850] 
+
+PAGE NUMBER: 3
+
+
+
+The appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the 2016 fiscal year was ratified by the votes set forth in the table below.
+ [TABLE_3: FOR: Ratification of independent registered public accounting firm,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: 321,064,146] 
+A Company proposal requesting that stockholders approve a non-binding resolution approving the compensation of the Company’s named executive officers as disclosed pursuant to the compensation disclosure rules of the Securities and Exchange Commission under “Compensation Discussion & Analysis,” the Summary Compensation Table, the related compensation tables and the related narrative disclosures, in the March 23, 2016 proxy statement, passed with the following votes.
+ [TABLE_4: FOR: Advisory vote to approve executive compensation,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: 275,811,364] 
+To approve an amendment to the Company’s Amended and Restated Certificate of Incorporation to permit stockholders to call special meetings
+ [TABLE_5: FOR: Amendment to the Company’s Amended and Restated Certificate of Incorporation to permit stockholders to call special meetings,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: 285,784,233] 
+To re-approve the material terms of the performance goals under the ITW 2011 Cash Incentive Plan
+ [TABLE_6: FOR: Re-approve material terms of performance goals under the ITW 2011 Cash Incentive Plan,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: 279,455,561] 
+Stockholder proposal to exclude share repurchases from determinations of senior executive incentive compensation awards
+ [TABLE_7: FOR: Consider a non-binding stockholder proposal to exclude share repurchases from determinations of senior executive incentive compensation,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: 14,945,601] 
+
+PAGE NUMBER: 4
+
+
+
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+ [TABLE_8: ExhibitNumber: ,
+ Exhibit Description: 3(a)(i); ExhibitNumber: ,
+ Exhibit Description: 3(a)(ii); ExhibitNumber: ,
+ Exhibit Description: 3(a)(iii); ExhibitNumber: ,
+ Exhibit Description: 3(b)(i); ExhibitNumber: ,
+ Exhibit Description: 3(b)(ii); ExhibitNumber: ,
+ Exhibit Description: 10(a)] 
+
+PAGE NUMBER: 5
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ [TABLE_9: ILLINOIS TOOL WORKS INC.: Dated: May 12, 2016; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 6
+

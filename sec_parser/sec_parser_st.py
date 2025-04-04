@@ -282,8 +282,8 @@ class Parser:
                     logging.info(f"The document {document_id} was parsed.")
                     logging.info(f"There was {len(all_page_numbers)} page(s) found.")
                     logging.info(f"There was {len(thematic_breaks)} thematic breaks(s) found.")
-                else:
-                    logging.info(f"The document {document_id} is not relevant.")
+            else:
+                logging.info(f"The document {document_id} is not relevant.")
 
 
         return self.master_document_dict  

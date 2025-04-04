@@ -1,0 +1,56 @@
+
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+June 6, 2014
+Date of Report (Date of earliest event reported)
+APPLE INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 000-10030: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code
+(408) 996-1010
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Effective on June 6, 2014, Apple Inc. (“Apple”) amended its Amended and Restated Articles of Incorporation to increase the number of shares of common stock, par value $0.00001 per share, that Apple is authorized to issue from 1,800,000,000 to 12,600,000,000 and to provide that as of 5 p.m., Pacific Daylight Time, on June 6, 2014, each share of common stock outstanding shall be automatically, and with no further action by the holder of such share, split into seven shares of common stock. The foregoing description is qualified in its entirety by reference to the full text of the Restated Articles of Incorporation, a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference.
+
+PAGE NUMBER: 2
+
+
+
+ [TABLE_2: ExhibitNumber: 3.1,
+ Description:] 
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: APPLE INC.(Registrant): Date: June 6, 2014; APPLE INC.(Registrant): ; APPLE INC.(Registrant):] 
+
+PAGE NUMBER: 4
+
+
+
+INDEX TO EXHIBITS
+ [TABLE_4: ExhibitNumber: 3.1,
+ Description:] 
+
+PAGE NUMBER: 5
+

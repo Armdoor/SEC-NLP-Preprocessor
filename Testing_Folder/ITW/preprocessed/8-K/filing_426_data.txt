@@ -1,0 +1,89 @@
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+September 27, 2019
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdiction of incorporation),
+ 1-4797: (State or other jurisdiction of incorporation),
+ 36-1258310: (State or other jurisdiction of incorporation); Delaware: ,
+ 1-4797: 155 Harlem Avenue,
+ 36-1258310: Glenview; Delaware: (Address of principal executive offices),
+ 1-4797: (Address of principal executive offices),
+ 36-1258310: (Address of principal executive offices)] 
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+ [TABLE_2: ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12); ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)); ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))] 
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_3: Title of each class: Common Stock,
+ Trading Symbol(s): ITW,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 1.75% Euro Notes due 2022,
+ Trading Symbol(s): ITW22,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 1.25% Euro Notes due 2023,
+ Trading Symbol(s): ITW23,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 0.250% Euro Notes due 2024,
+ Trading Symbol(s): ITW24A,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 0.625% Euro Notes due 2027,
+ Trading Symbol(s): ITW27,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 2.125% Euro Notes due 2030,
+ Trading Symbol(s): ITW30,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 1.00% Euro Notes due 2031,
+ Trading Symbol(s): ITW31,
+ Name of each exchange on which registered: New York Stock Exchange; Title of each class: 3.00% Euro Notes due 2034,
+ Trading Symbol(s): ITW34,
+ Name of each exchange on which registered: New York Stock Exchange] 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+Item 1.01 Entry into a Material Definitive Agreement
+On September 27, 2019, Illinois Tool Works Inc. (the “Company”) entered into a $2.5 billion, five-year credit facility (the “Credit Facility”) with JPMorgan Chase Bank, N.A.., as Agent, Citibank, N.A. as Syndication Agent, and a syndicate of lenders, that replaces the Company’s previous credit facility that was set to terminate on May 9, 2021. As of September 27, 2019, no amounts were outstanding under either facility.
+Under the Credit Facility, the Company pays a facility fee that varies between 0.045% and 0.110%, depending on its credit rating. Any borrowings denominated in U.S. Dollars will carry, at the Company’s option, either the “base rate” of interest in effect, the “eurocurrency rate,” which is a periodic fixed LIBOR plus the applicable margin, or a competitive bid rate of interest. Borrowings denominated in a currency other than U.S. Dollars will carry the “eurocurrency rate” or a competitive bid rate of interest. The “base rate” of interest is the highest of (i) the Prime Rate,
+as described in the Credit Facility, (ii) the federal funds rate plus 0.50%, and (iii) one-month LIBOR plus 1.00% (if one-month LIBOR is less than zero, such rate shall be deemed to be zero). The applicable margin includes a market rate spread, which is a rate per annum equal to the Company’s five-year credit default swap mid-rate spread. This spread is floored and capped between 0.25% and 1.25%, depending on the Company’s credit rating.
+The Credit Facility includes a provision under which the Company may request an increase of the total facility up to $4.5 billion, with the grant of such request at the lenders’ discretion. The Credit Facility contains customary representations, warranties and covenants, including but not limited to covenants restricting the Company’s ability to incur liens, merge or consolidate with another entity where the Company is not the surviving entity. Further, the Credit Facility contains a covenant requiring the Company to maintain its Interest Coverage Ratio as of the end of each quarter at not less than 3.5 to 1. This is calculated as the ratio of consolidated EBITDA for the four-quarter period then ended to Total Interest Expense for the same period.
+Some of the lenders named under the Credit Agreement and their affiliates have various relationships with the Company and its subsidiaries involving the provision of financial services, including cash management, investment banking, foreign exchange and trust services.
+The foregoing description of the Credit Facility is not intended to be complete and is qualified in its entirety by reference to the Credit Facility, a copy of which is attached hereto as Exhibit 10 and is incorporated herein by reference.
+Item 1.02 Termination of a Material Definitive Agreement
+Under the terms of the Credit Facility, all obligations of the Company under that certain five year credit agreement dated as of May 9, 2016 among the Company, the lenders named therein and JPM, as agent, were effectively terminated.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of the Registrant
+The information set forth in Item 1.01 in this Current Report on Form 8-K is incorporated into this Item 2.03 by reference.
+Item 9.01 Financial Statements and Exhibits
+ [TABLE_4: (d): ,
+ Exhibits: Exhibit Number; (d): ,
+ Exhibits: 10(a); (d): ,
+ Exhibits: 104] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ [TABLE_5: ILLINOIS TOOL WORKS INC.: Dated: October 3, 2019; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 3
+

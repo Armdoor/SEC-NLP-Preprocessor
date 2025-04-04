@@ -82,9 +82,12 @@ def company_folders(root_path):
 # Get all folder names
     folder_names = [name for name in os.listdir(root_path) if os.path.isdir(os.path.join(root_path, name))]
     
-    if type(folder_names) == type(None):                                                                                                         
+    # if type(folder_names) == type(None):                                                                                                         
+    #     logging.warning("No folders found in the path")
+    #     return None                          
+    if not folder_names:
         logging.warning("No folders found in the path")
-        return None                          
+        return []
     return folder_names
 
 
@@ -110,47 +113,64 @@ def create_preprocessed_folders(folder_names, root_path):
 
 
 def process_text_files(root_path, ticker, filing_type):
-    raw_folder_path = os.path.join(root_path, ticker, "raw", filing_type)
+    filings_folder_path = os.path.join(root_path, ticker, "raw", filing_type)
     try:
-        if not os.path.exists(raw_folder_path):
-            logging.warning(f"Path does not exist: {raw_folder_path} (Company: {ticker}, Filing: {filing_type})")
+        # check if the path to filing folder exists for the company 
+        if not os.path.exists(filings_folder_path):
+            logging.warning(f"Path does not exist: {filings_folder_path} (Company: {ticker}, Filing: {filing_type})")
             return
+        
         # Get text files (handle race conditions)
         try:
             text_files = [
-                file for file in os.listdir(raw_folder_path)
+                file for file in os.listdir(filings_folder_path)
                 if file.endswith(".txt") and not file.startswith("._")
-            ]
+            ] # list to store all txt filings
         except FileNotFoundError:
-            logging.warning(f"Folder deleted after check: {raw_folder_path}")
+            logging.warning(f"Folder deleted after check: {filings_folder_path}")
             return
+        
         # Create preprocessed folder
-        preprocessed_folder_path = os.path.join(root_path, ticker, "preprocessed", filing_type)
-        os.makedirs(preprocessed_folder_path, exist_ok=True)
-        # preprocessed_folder_path2 = os.path.join(root_path, ticker, "preprocessed2", filing_type)
-        # os.makedirs(preprocessed_folder_path2, exist_ok=True)
+        pre_path = os.path.join(root_path, ticker, "preprocessed", filing_type)
+        if not os.path.exists(pre_path): 
+            preprocessed_folder_path = os.path.join(root_path, ticker, "preprocessed", filing_type)
+            os.makedirs(preprocessed_folder_path, exist_ok=True)
+        else:
+            preprocessed_folder_path = pre_path
+
+        """!!!!!!!! IMPORTANT: SHOULD BE DONE ONCE FOR A COMAPNY SO MOVE IT TO MAIN !!!!!!!"""    
         #  extract json metadata
         json_collector = JsonDataCollector(root_path, ticker)
         json_data = json_collector.collect_data() # returns a dictionary
+
+
         json_data["filing_type"] = filing_type
         comp_data_list = []
+
         # Process files
         for text_file in text_files:
-            file_path = os.path.join(raw_folder_path, text_file)
+            file_path = os.path.join(filings_folder_path, text_file)
+            # if os.path.exists(file_path):
+            #     conti
             filing_name = os.path.splitext(text_file)[0]  # Fix multi-dot filenames
             try:
-                company_data = companies_main(file_path, preprocessed_folder_path ,filing_name,filing_type, ticker)
-                logging.info(f"Parsed filing: {filing_name}")
-                print("-" * 80)
-                fin_comp_data = {
-                    'company_data': company_data['in_filing_data'],
-                    'json_data': json_data,
-                    'metadata': company_data
-                }
-                comp_data_list.append(fin_comp_data)
-                return comp_data_list 
+                company_data, accession_number = companies_main(file_path, preprocessed_folder_path ,filing_name,filing_type, ticker)
+                if company_data is not None and accession_number is not None:
+                    logging.info(f"Parsed filing: {filing_name}")
+                    print("-" * 80)
+                    fin_comp_data = {
+                        'accession_number': accession_number,
+                        'company_data': company_data['in_filing_data'],
+                        'json_data': json_data,
+                        'metadata': company_data
+                    }
+                    comp_data_list.append(fin_comp_data)
+                else:
+                    logging.warning(f"Company data or accession number is None for {filing_name} so skipping it")
+                    continue
             except Exception as e:
                 logging.error(f"Failed to parse {filing_name}: {str(e)} in parser_main.py", exc_info=True)
+        return comp_data_list 
     except Exception as e:
         logging.error(f"Critical error for {ticker}/{filing_type}: {str(e)} in parser_main.py", exc_info=True)
         return []
@@ -205,11 +225,15 @@ def main(root_path, company_folder_names, processed_folder_created, filing_types
                 print(f"Processing {filing_type} filings for {company_name}")
                 print("-" * 80)
                 comp_data = process_text_files(root_path, company_name, filing_type)
+                if comp_data:
+                    logging.info(f"Data collected for {company_name}: {len(comp_data)} filings")
+                else:
+                    logging.warning(f"No data collected for {company_name}")
                 companies_stored.append((company_name, filing_type))
                 all_comp_data.append(comp_data)
     except Exception as e:
         logging.error(f"Error processing companies: {str(e)}", exc_info=True)
-    return all_comp_data , filing_type
+    return all_comp_data , filing_type 
     
 
 
@@ -281,3 +305,8 @@ def parse_former_names_data(former_names):
 
 # # root_path = "/Volumes/T7/data"
 #     main(root_path, company_folder_names, processed_folder_created, filing_types)
+
+
+# pa = "/Users/akshitsanoria/Desktop/PythonP/Testing_Folder"
+# filing_types = ['8-K']
+# main(pa, [], [], filing_types)

@@ -1,0 +1,90 @@
+
+
+aapl-20220428
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+April 28, 2022
+Date of Report (Date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: (State or other jurisdictionof incorporation),
+ 94-2404110: (State or other jurisdictionof incorporation)] 
+One Apple Park Way
+Cupertino
+,
+California
+95014
+(Address of principal executive offices) (Zip Code)
+(
+408
+)
+996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_2: Title of each class: Common Stock, $0.00001 par value per share,
+ Trading symbol(s): Common Stock, $0.00001 par value per share,
+ Name of each exchange on which registered: Common Stock, $0.00001 par value per share; Title of each class: 1.000% Notes due 2022,
+ Trading symbol(s): 1.000% Notes due 2022,
+ Name of each exchange on which registered: 1.000% Notes due 2022; Title of each class: 1.375% Notes due 2024,
+ Trading symbol(s): 1.375% Notes due 2024,
+ Name of each exchange on which registered: 1.375% Notes due 2024; Title of each class: 0.000% Notes due 2025,
+ Trading symbol(s): 0.000% Notes due 2025,
+ Name of each exchange on which registered: 0.000% Notes due 2025; Title of each class: 0.875% Notes due 2025,
+ Trading symbol(s): 0.875% Notes due 2025,
+ Name of each exchange on which registered: 0.875% Notes due 2025; Title of each class: 1.625% Notes due 2026,
+ Trading symbol(s): 1.625% Notes due 2026,
+ Name of each exchange on which registered: 1.625% Notes due 2026; Title of each class: 2.000% Notes due 2027,
+ Trading symbol(s): 2.000% Notes due 2027,
+ Name of each exchange on which registered: 2.000% Notes due 2027; Title of each class: 1.375% Notes due 2029,
+ Trading symbol(s): 1.375% Notes due 2029,
+ Name of each exchange on which registered: 1.375% Notes due 2029; Title of each class: 3.050% Notes due 2029,
+ Trading symbol(s): 3.050% Notes due 2029,
+ Name of each exchange on which registered: 3.050% Notes due 2029; Title of each class: 0.500% Notes due 2031,
+ Trading symbol(s): 0.500% Notes due 2031,
+ Name of each exchange on which registered: 0.500% Notes due 2031; Title of each class: 3.600% Notes due 2042,
+ Trading symbol(s): 3.600% Notes due 2042,
+ Name of each exchange on which registered: 3.600% Notes due 2042] 
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+Item 2.02 Results of Operations and Financial Condition.
+On April 28, 2022, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its second fiscal quarter ended March 26, 2022. A copy of Apple’s press release is attached hereto as Exhibit 99.1.
+The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01 Financial Statements and Exhibits.
+(d)
+Exhibits.
+ [TABLE_3: ExhibitNumber: 99.1,
+ Exhibit Description: 99.1; ExhibitNumber: 104,
+ Exhibit Description: 104] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_4: Date:: ,
+ April 28, 2022: ,
+ Apple Inc.: ; Date:: ,
+ April 28, 2022: ,
+ Apple Inc.: ; Date:: ,
+ April 28, 2022: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 3
+

@@ -1,0 +1,58 @@
+
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): May 19, 2015
+ILLINOIS TOOL WORKS INC.
+(Exact Name of Registrant as Specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdictionof incorporation),
+ 1-4797: ,
+ 36-1258310: (CommissionFile No.)] 
+ [TABLE_2: 155 Harlem Avenue, Glenview, IL: (Address of principal executive offices),
+ 60025: (Address of principal executive offices)] 
+Registrant’s telephone number, including area code: 847-724-7500
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Illinois Tool Works Inc. (the “Company”) entered into an underwriting agreement on May 19, 2015 (the “Underwriting Agreement”) with the several underwriters named therein (collectively, the “Underwriters”), for which Citigroup Global Markets Limited, J.P. Morgan Securities plc and Merrill Lynch International acted as representatives, pursuant to which the Company agreed to sell and the Underwriters agreed to purchase, subject to and upon the terms and conditions set forth therein, (i) €500,000,000 in aggregate principal amount of 1.250% notes due May 22, 2023 (the “2023 Notes”) and (ii) €500,000,000 in aggregate principal amount of 2.125% notes due May 22, 2030 (the “2030 Notes” and together with the 2023 Notes, the “Notes”). A copy of the Underwriting Agreement is filed as Exhibit 1.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+On May 22, 2015, the Company completed the issuance and sale of the Notes. The Notes were issued pursuant to the Company’s Registration Statement on Form S-3 (No. 333-183449) and the Prospectus included therein (the “Registration Statement”), filed by the Company with the Securities and Exchange Commission (the “Commission”) on August 21, 2012, and the Prospectus Supplement relating thereto dated May 19, 2015, and filed with the Commission on May 20, 2015. The Notes were issued under an Indenture dated as of November 1, 1986, as supplemented by a First Supplemental Indenture dated as of May 1, 1990, between the Company and The Bank of New York Mellon Trust Company, N.A., as successor trustee (together, the “Indenture”), and an Officers’ Certificate containing the terms of the Notes. The Indenture, together with the Officers’ Certificate, sets forth the terms of the Notes and the obligations of the Company thereunder. A copy of the Officers’ Certificate is filed as Exhibit 4.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+A copy of the opinion of Janet O. Love, Deputy General Counsel and Assistant Secretary of the Company, relating to the legality of the Notes, is filed as Exhibit 5.1 to this Current Report on Form 8-K.
+(d) Exhibits
+ [TABLE_3: ExhibitNo.: 1.1,
+ Description: ; ExhibitNo.: 4.1,
+ Description: ; ExhibitNo.: 5.1,
+ Description: ; ExhibitNo.: 23.1,
+ Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_4: ILLINOIS TOOL WORKS INC.: Date: May 22, 2015; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 3
+
+
+
+EXHIBIT INDEX
+ [TABLE_5: ExhibitNo.: 1.1,
+ Description: ; ExhibitNo.: 4.1,
+ Description: ; ExhibitNo.: 5.1,
+ Description: ; ExhibitNo.: 23.1,
+ Description:] 
+
+PAGE NUMBER: 4
+

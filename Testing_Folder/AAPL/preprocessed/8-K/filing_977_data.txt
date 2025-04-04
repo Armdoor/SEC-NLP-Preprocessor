@@ -1,0 +1,56 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+July 22, 2014
+Date of Report (Date of earliest event reported)
+APPLE INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 000-10030: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+Registrant’s telephone number, including area code
+(408) 996-1010
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Item 2.02 Results of Operations and Financial Condition.
+On July 22, 2014, Apple Inc. (“Apple”) issued a press release regarding Apple’s financial results for its third fiscal quarter ended June 28, 2014 and a related data sheet. A copy of Apple’s press release is attached hereto as Exhibit 99.1 and a copy of the related data sheet is attached hereto as Exhibit 99.2.
+The information contained in this Current Report shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.
+Item 9.01 Financial Statements and Exhibits.
+ [TABLE_2: ExhibitNumber: 99.1,
+ Description: ; ExhibitNumber: 99.2,
+ Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: APPLE INC.: Date: July 22, 2014; APPLE INC.: ; APPLE INC.:] 
+
+PAGE NUMBER: 3
+
+
+
+Exhibit Index
+ [TABLE_4: ExhibitNumber: 99.1,
+ Description: ; ExhibitNumber: 99.2,
+ Description:] 
+
+PAGE NUMBER: 4
+

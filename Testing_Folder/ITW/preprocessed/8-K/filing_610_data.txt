@@ -1,0 +1,115 @@
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported): May 5, 2017
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdiction of incorporation),
+ 1-4797: (Commission File No.),
+ 36-1258310: (I.R.S. Employer Identification No.); Delaware: 155 Harlem Avenue, Glenview, IL,
+ 1-4797: ,
+ 36-1258310: 60025; Delaware: (Address of principal executive offices),
+ 1-4797: ,
+ 36-1258310: (Zip Code)] 
+Registrant's telephone number, including area code: 847-724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+[ ]
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ [TABLE_2: [ ]: [ ],
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12); [ ]: [ ],
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)); [ ]: [ ],
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))] 
+
+PAGE NUMBER: 1
+
+
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+The annual meeting of the stockholders of the Company was held on May 5, 2017 for the purposes of (i) electing the eleven directors named in the Company’s proxy statement to hold office until the next annual meeting of stockholders; (ii) ratifying the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the 2017 fiscal year; (iii) approving, on an advisory basis, a resolution approving executive compensation of the named executive officers as disclosed in the proxy statement; (iv) approving the frequency of the advisory vote on executive compensation; and (v) considering a stockholder proposal to permit stockholders to act by written consent.
+All eleven nominees for director as named in the Company’s proxy statement for the meeting were elected by the votes set forth in the table below.
+ [TABLE_3: FOR: Election of Directors,
+ AGAINST: ,
+ ABSTENTIONS: ,
+ Broker Non-Vote: ; FOR: Daniel J. Brutto,
+ AGAINST: 273,504,783,
+ ABSTENTIONS: 1,705,461,
+ Broker Non-Vote: 345,711; FOR: Susan Crown,
+ AGAINST: 272,573,509,
+ ABSTENTIONS: 2,746,782,
+ Broker Non-Vote: 235,664; FOR: James W. Griffith,
+ AGAINST: 273,416,679,
+ ABSTENTIONS: 1,800,719,
+ Broker Non-Vote: 338,557; FOR: Jay L. Henderson,
+ AGAINST: 273,163,500,
+ ABSTENTIONS: 2,027,421,
+ Broker Non-Vote: 365,034; FOR: Richard H. Lenny,
+ AGAINST: 271,655,142,
+ ABSTENTIONS: 3,393,418,
+ Broker Non-Vote: 507,395; FOR: E. Scott Santi,
+ AGAINST: 266,838,420,
+ ABSTENTIONS: 7,075,942,
+ Broker Non-Vote: 1,641,593; FOR: James A. Skinner,
+ AGAINST: 270,143,793,
+ ABSTENTIONS: 5,080,696,
+ Broker Non-Vote: 331,466; FOR: David B. Smith, Jr.,
+ AGAINST: 273,956,997,
+ ABSTENTIONS: 1,318,811,
+ Broker Non-Vote: 280,147; FOR: Pamela B. Strobel,
+ AGAINST: 273,734,304,
+ ABSTENTIONS: 1,576,144,
+ Broker Non-Vote: 245,507; FOR: Kevin M. Warren,
+ AGAINST: 273,263,639,
+ ABSTENTIONS: 1,942,908,
+ Broker Non-Vote: 349,408; FOR: Anré D. Williams,
+ AGAINST: 273,271,023,
+ ABSTENTIONS: 1,935,602,
+ Broker Non-Vote: 349,330] 
+The appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the 2017 fiscal year was ratified by the vote set forth in the table below.
+ [TABLE_4: FOR: Ratification of independent registered public accounting firm,
+ AGAINST: 305,663,842,
+ ABSTENTIONS: 3,031,644,
+ Broker Non-Vote: 313,393] 
+A Company proposal requesting that stockholders approve a non-binding resolution approving the compensation of the Company’s named executive officers as disclosed pursuant to the compensation disclosure rules of the Securities and Exchange Commission under “Compensation Discussion & Analysis,” the Summary Compensation Table, the related compensation tables and the related narrative disclosures, in the March 24, 2017 proxy statement, passed with the following vote.
+ [TABLE_5: FOR: Advisory vote to approve executive compensation,
+ AGAINST: 267,016,489,
+ ABSTENTIONS: 7,570,761,
+ Broker Non-Vote: 968,705] 
+A Company proposal requesting that stockholders approve a one-, two- or three-year frequency for the advisory vote on executive compensation resulted in approval of a one-year frequency by the vote set forth in the table below. The Company’s Board of Directors, who recommended a one-year frequency, has determined that the Company will continue to hold its advisory executive compensation vote every year.
+ [TABLE_6: ONE YEAR: Frequency of Advisory Vote on Executive Compensation,
+ TWO YEARS: 255,246,023,
+ THREE YEARS: 1,046,575,
+ ABSTENTIONS: 18,685,838] 
+
+PAGE NUMBER: 2
+
+
+
+The shareholder proposal to permit stockholders to act by written consent was defeated by the vote set forth in the table below.
+ [TABLE_7: FOR: Permit Stockholders to Act by Written Consent,
+ AGAINST: 93,331,185,
+ ABSTENTIONS: 179,249,224,
+ Broker Non-Vote: 2,975,546] 
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ [TABLE_8: ILLINOIS TOOL WORKS INC.: Dated: May 11, 2017; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 4
+

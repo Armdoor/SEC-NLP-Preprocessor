@@ -1,0 +1,55 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+December 21, 2015
+Date of Report (Date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+On December 21, 2015, the Board of Directors of Apple Inc. adopted amendments to Apple’s Amended and Restated Bylaws (as so amended, the “Bylaws”) to implement proxy access. The Bylaws include a new Section 5.15 that permits a shareholder, or a group of up to twenty shareholders, owning at least three percent of Apple’s outstanding shares of common stock continuously for at least three years to nominate and include in Apple’s annual meeting proxy materials director nominees constituting up to twenty percent of the Board, provided that the shareholder(s) and nominee(s) satisfy the requirements specified in the Bylaws.
+The Bylaws also include changes to the Advance Notice of Shareholder Business and Nominations provisions in Section 5.14 to account for proxy access and a number of ministerial, clarifying and conforming changes to Sections 2.4, 5.4 and 10.6.
+The foregoing description is qualified in its entirety by reference to the full text of the Bylaws, a copy of which is attached hereto as Exhibit 3.2 and is incorporated herein by reference.
+ [TABLE_2: ExhibitNumber: 3.2,
+ Exhibit Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: Date: December 22, 2015: ,
+ Apple Inc.: ; Date: December 22, 2015: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 3
+
+
+
+Exhibit Index
+ [TABLE_4: ExhibitNumber: 3.2,
+ Exhibit Description:] 
+
+PAGE NUMBER: 4
+

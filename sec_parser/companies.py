@@ -39,23 +39,21 @@ def companies_main(raw_path, preprocessed_path, file_name, filing_type, ticker):
 
     #  create the path to where we will be storing the preprocessed data and also naming it based on the filing name
     output_file_path = os.path.join(preprocessed_path, f"{file_name}_data.txt")
-    # output_file_path2 = os.path.join(preprocessed_path2, f"{file_name}_data.txt")
+    # if os.path.exists(output_file_path):
+    #     logging.info(f"File '{output_file_path}' already exists. Skipping processing in companies.py")
+    #     return  # Skip processing this file
 
     if os.path.exists(output_file_path):
         logging.info(f"File '{output_file_path}' already exists. Skipping processing in companies.py")
-        return  # Skip processing this file
+        return None,None # Skip processing this file
     logging.info(f"Processing {file_name} filing for {ticker} in companies.py")
-    # if os.path.exists(output_file_path2):
-    #     logging.info(f"File '{output_file_path2}' already exists. Skipping processing in companies.py")
-    #     return  # Skip processing this file
-    # declaring the parser object
     parser = Parser()
 
     # read the raw file that needs to be parsed
     soup , empty_file = parser.read_doc(raw_path)
     if empty_file:
         logging.ERROR(f"***********{file_name} is empty form {ticker} in companies.py**********")
-        return
+        return None,None
 
     # Collect the SDEC-HEADER
     header, filing_data, soup = parser.header_data_parser(soup)
@@ -73,6 +71,7 @@ def companies_main(raw_path, preprocessed_path, file_name, filing_type, ticker):
 
 # Format the datetime object into a desired format
     filing_data['filing_date'] = date_obj.strftime("%Y-%m-%d") 
+    accession_number = filing_data["accession_number"]
     record = (
         filing_data["accession_number"],
         filing_data["filing_type"],
@@ -124,7 +123,7 @@ def companies_main(raw_path, preprocessed_path, file_name, filing_type, ticker):
         for k,v in parsed_file_data.items():
             f.write(f"{i} {k} : {v}\n")
             i +=1
-    return parsed_file_data
+    return parsed_file_data , accession_number
 
     
 ##############################################--MAIN END--####################################################

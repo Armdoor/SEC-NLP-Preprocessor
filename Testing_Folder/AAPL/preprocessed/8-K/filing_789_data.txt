@@ -1,0 +1,116 @@
+
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+February 26, 2016
+Date of Report (Date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+The Board of Directors of Apple Inc. previously adopted, subject to shareholder approval, an amendment and restatement of Apple’s 2014 Employee Stock Plan (the “2014 Plan”). Apple’s shareholders approved the amended and restated 2014 Plan at the Annual Meeting of Shareholders held on February 26, 2016 (the “Annual Meeting”). The amended and restated 2014 Plan, which became effective upon shareholder approval, increased the maximum amount payable as a cash bonus award that may qualify as performance-based compensation under Section 162(m) of the Internal Revenue Code to $30 million per person, per fiscal year.
+The foregoing brief description is qualified in its entirety by the text of the 2014 Plan, a copy of which is filed as Exhibit 10.1 hereto and incorporated herein by reference.
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+At the Annual Meeting, Apple’s shareholders voted on the following eight proposals and cast their votes as described below.
+ [TABLE_2: For: James Bell,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,083,679,346; For: Tim Cook,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,095,246,110; For: Al Gore,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,012,555,419; For: Bob Iger,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,082,336,074; For: Andrea Jung,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 2,909,845,673; For: Art Levinson,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,062,321,116; For: Ron Sugar,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,072,297,672; For: Sue Wagner,
+ Against: ,
+ Abstained: ,
+ Broker Non-Vote: 3,100,054,215] 
+ [TABLE_3: For: 4,635,508,314,
+ Against: ,
+ Abstained: 23,344,080,
+ Broker Non-Vote:] 
+ [TABLE_4: For: 2,947,141,264,
+ Against: ,
+ Abstained: 149,713,014,
+ Broker Non-Vote:] 
+
+PAGE NUMBER: 2
+
+
+
+ [TABLE_5: For: 2,948,340,725,
+ Against: ,
+ Abstained: 154,658,701,
+ Broker Non-Vote:] 
+ [TABLE_6: For: 201,192,777,
+ Against: ,
+ Abstained: 2,619,314,920,
+ Broker Non-Vote:] 
+ [TABLE_7: For: 153,235,024,
+ Against: ,
+ Abstained: 2,831,506,200,
+ Broker Non-Vote:] 
+ [TABLE_8: For: 49,043,357,
+ Against: ,
+ Abstained: 2,744,937,657,
+ Broker Non-Vote:] 
+ [TABLE_9: For: 1,011,922,207,
+ Against: ,
+ Abstained: 2,083,600,907,
+ Broker Non-Vote:] 
+ [TABLE_10: ExhibitNumber: 10.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_11: Date: March 1, 2016: ,
+ Apple Inc.: ; Date: March 1, 2016: ,
+ Apple Inc.: ; Date: March 1, 2016: ,
+ Apple Inc.: ; Date: March 1, 2016: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 4
+
+
+
+Exhibit Index
+ [TABLE_12: ExhibitNumber: 10.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 5
+

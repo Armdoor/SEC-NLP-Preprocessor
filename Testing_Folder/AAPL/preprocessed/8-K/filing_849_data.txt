@@ -1,0 +1,73 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+September 10, 2015
+Date of Report (date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+On September 10, 2015, Apple Inc. (“Apple”) entered into an underwriting agreement (the “Underwriting Agreement”) with Goldman, Sachs & Co., as representative of the several underwriters named therein, for the issuance and sale by Apple of
+€
+1,000,000,000 aggregate principal amount of Apple’s 1.375% Notes due 2024 (the “2024 Notes”), and
+1,000,000,000 aggregate principal amount of Apple’s 2.000% Notes due 2027 (the “2027 Notes,” and, together with the 2024 Notes, the “Notes”).
+The Notes are being issued pursuant to an indenture, dated as of April 29, 2013 (the “Indenture”), between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee, together with the officer’s certificate dated as of September 17, 2015 issued pursuant thereto establishing the terms of each series of the Notes (the “Officer’s Certificate”).
+The Notes are being issued pursuant to Apple’s Registration Statement on Form S-3 filed with the Securities and Exchange Commission on April 29, 2013 (Reg. No. 333-188191) (the “Registration Statement”).
+Interest on the 2024 Notes will be payable annually on January 17 of each year, beginning on January 17, 2016 and on the maturity date for the 2024 Notes. Interest on the 2027 Notes will be payable annually on September 17 of each year, beginning on September 17, 2016 and on the maturity date for the 2027 Notes. The 2024 Notes will mature on January 17, 2024, and the 2027 Notes will mature on September 17, 2027.
+The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.
+The foregoing description of the Notes and related agreements is qualified in its entirety by the terms of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the forms of the Notes). Apple is furnishing the Underwriting Agreement and the Officer’s Certificate (including the forms of the Notes) attached hereto as Exhibits 1.1 and 4.1 through 4.3, respectively, and they are incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to the Registration Statement. The computation of Apple’s ratio of earnings to fixed charges is filed as Exhibit 12.1 hereto, and is incorporated by reference into the Registration Statement.
+ [TABLE_2: ExhibitNumber: 1.1,
+ Exhibit Description: ; ExhibitNumber: 4.1,
+ Exhibit Description: ; ExhibitNumber: 4.2,
+ Exhibit Description: ; ExhibitNumber: 4.3,
+ Exhibit Description: ; ExhibitNumber: 5.1,
+ Exhibit Description: ; ExhibitNumber: 12.1,
+ Exhibit Description: ; ExhibitNumber: 23.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: Date: September 17, 2015: ,
+ Apple Inc.: ; Date: September 17, 2015: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 3
+
+
+
+EXHIBIT INDEX
+ [TABLE_4: ExhibitNumber: 1.1,
+ Exhibit Description: ; ExhibitNumber: 4.1,
+ Exhibit Description: ; ExhibitNumber: 4.2,
+ Exhibit Description: ; ExhibitNumber: 4.3,
+ Exhibit Description: ; ExhibitNumber: 5.1,
+ Exhibit Description: ; ExhibitNumber: 12.1,
+ Exhibit Description: ; ExhibitNumber: 23.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 4
+

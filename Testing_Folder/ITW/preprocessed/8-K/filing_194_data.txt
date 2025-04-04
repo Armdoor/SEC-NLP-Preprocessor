@@ -1,0 +1,125 @@
+
+
+itw-20220506
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+___________________________________________________________
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+May 6, 2022
+_________________________
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: Delaware: (State or other jurisdiction of incorporation),
+ 1-4797: (State or other jurisdiction of incorporation),
+ 36-1258310: (State or other jurisdiction of incorporation); Delaware: ,
+ 1-4797: ,
+ 36-1258310: ; Delaware: (Address of principal executive offices),
+ 1-4797: (Address of principal executive offices),
+ 36-1258310: (Address of principal executive offices)] 
+Registrant's telephone number, including area code:
+847
+-
+724-7500
+Not Applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ [TABLE_2: ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐; ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐; ☐: ☐,
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425): ☐] 
+Securities registered pursuant to Section 12(b) of the Act:
+ [TABLE_3: Title of each class: Common Stock,
+ Trading Symbol(s): Common Stock,
+ Name of each exchange on which registered: Common Stock; Title of each class: 1.25% Euro Notes due 2023,
+ Trading Symbol(s): 1.25% Euro Notes due 2023,
+ Name of each exchange on which registered: 1.25% Euro Notes due 2023; Title of each class: 0.250% Euro Notes due 2024,
+ Trading Symbol(s): 0.250% Euro Notes due 2024,
+ Name of each exchange on which registered: 0.250% Euro Notes due 2024; Title of each class: 0.625% Euro Notes due 2027,
+ Trading Symbol(s): 0.625% Euro Notes due 2027,
+ Name of each exchange on which registered: 0.625% Euro Notes due 2027; Title of each class: 2.125% Euro Notes due 2030,
+ Trading Symbol(s): 2.125% Euro Notes due 2030,
+ Name of each exchange on which registered: 2.125% Euro Notes due 2030; Title of each class: 1.00% Euro Notes due 2031,
+ Trading Symbol(s): 1.00% Euro Notes due 2031,
+ Name of each exchange on which registered: 1.00% Euro Notes due 2031; Title of each class: 3.00% Euro Notes due 2034,
+ Trading Symbol(s): 3.00% Euro Notes due 2034,
+ Name of each exchange on which registered: 3.00% Euro Notes due 2034] 
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+Item 5.07. Submission of Matters to a Vote of Security Holders
+The annual meeting of the stockholders of the Company was held on May 6, 2022 for the purposes of (i) electing the ten director nominees named in the Company’s proxy statement for the meeting to hold office until the next annual meeting of stockholders; (ii) ratifying the appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2022; (iii) approving, on an advisory basis, a resolution relating to the compensation of the named executive officers as disclosed in the Company’s proxy statement; and (iv) considering a non-binding stockholder proposal to change the ownership threshold to call special stockholder meetings.
+All ten nominees for director named in the Company’s proxy statement for the meeting were elected by the votes set forth below.
+ [TABLE_4: FOR: Election of Directors,
+ AGAINST: Election of Directors,
+ ABSTAIN: Election of Directors,
+ BROKER NON-VOTES: ; FOR: Daniel J. Brutto,
+ AGAINST: Daniel J. Brutto,
+ ABSTAIN: Daniel J. Brutto,
+ BROKER NON-VOTES: 251,841,618; FOR: Susan Crown,
+ AGAINST: Susan Crown,
+ ABSTAIN: Susan Crown,
+ BROKER NON-VOTES: 244,580,974; FOR: Darrell L. Ford,
+ AGAINST: Darrell L. Ford,
+ ABSTAIN: Darrell L. Ford,
+ BROKER NON-VOTES: 252,015,878; FOR: James W. Griffith,
+ AGAINST: James W. Griffith,
+ ABSTAIN: James W. Griffith,
+ BROKER NON-VOTES: 246,686,761; FOR: Jay L. Henderson,
+ AGAINST: Jay L. Henderson,
+ ABSTAIN: Jay L. Henderson,
+ BROKER NON-VOTES: 251,411,600; FOR: Richard H. Lenny,
+ AGAINST: Richard H. Lenny,
+ ABSTAIN: Richard H. Lenny,
+ BROKER NON-VOTES: 238,417,833; FOR: E. Scott Santi,
+ AGAINST: E. Scott Santi,
+ ABSTAIN: E. Scott Santi,
+ BROKER NON-VOTES: 242,370,703; FOR: David B. Smith, Jr.,
+ AGAINST: David B. Smith, Jr.,
+ ABSTAIN: David B. Smith, Jr.,
+ BROKER NON-VOTES: 246,350,852; FOR: Pamela B. Strobel,
+ AGAINST: Pamela B. Strobel,
+ ABSTAIN: Pamela B. Strobel,
+ BROKER NON-VOTES: 241,299,020; FOR: Anré D. Williams,
+ AGAINST: Anré D. Williams,
+ ABSTAIN: Anré D. Williams,
+ BROKER NON-VOTES: 240,306,966] 
+The appointment of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for 2022 was ratified by the vote set forth below.
+ [TABLE_5: Ratification of independent registered public accounting firm: 269,118,543,
+ FOR: 269,118,543,
+ AGAINST: 269,118,543,
+ ABSTAIN: 8,767,034] 
+The non-binding advisory vote on the compensation of the Company’s named executive officers as disclosed in the Company’s proxy statement for the meeting was approved by the vote set forth below.
+ [TABLE_6: Advisory vote to approve executive compensation: 237,036,874,
+ FOR: 237,036,874,
+ AGAINST: 237,036,874,
+ ABSTAIN: 16,701,701,
+ BROKER NON-VOTES: 16,701,701] 
+The stockholder proposal to change the ownership threshold to call special stockholder meetings was defeated by the vote set forth below.
+ [TABLE_7: Stockholder proposal to change the ownership thresholder to call special stockholder meetings.: 86,314,493,
+ FOR: 86,314,493,
+ AGAINST: 86,314,493,
+ ABSTAIN: 166,220,004,
+ BROKER NON-VOTES: 166,220,004] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURES
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ [TABLE_8: ILLINOIS TOOL WORKS INC.: Dated: May 12, 2022; ILLINOIS TOOL WORKS INC.: ; ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 3
+

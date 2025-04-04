@@ -1,0 +1,72 @@
+
+
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+___________________________________________________________
+FORM 8-K
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+_________________________
+Date of Report (Date of earliest event reported):
+December 21, 2018
+ILLINOIS TOOL WORKS INC.
+(Exact name of registrant as specified in charter)
+ [TABLE_1: Delaware: (State or other,
+ 1-4797: ,
+ 36-1258310: (Commission; Delaware: jurisdiction of,
+ 1-4797: ,
+ 36-1258310: file number); Delaware: incorporation),
+ 1-4797: ,
+ 36-1258310:] 
+ [TABLE_2: 155 Harlem Avenue, Glenview, IL: (Address of principal executive offices),
+ 60025:] 
+Registrant’s telephone number, including area code:
+847-724-7500
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+PAGE NUMBER: 1
+
+
+
+Item 7.01
+Regulation FD Disclosure.
+On December 21, 2018, Illinois Tool Works Inc. (the “
+Company
+”) issued a press release recommending that our stockholders not tender their shares in response to an unsolicited mini-tender offer by TRC Capital Corporation (“
+TRC
+”) to purchase up to 1,000,000 shares of common stock of the Company, par value $0.01 per share (“
+Company Common Stock
+”), representing approximately 0.30% of the outstanding shares of Company Common Stock. A copy of the press release is being furnished as Exhibit 99.1 to this Current Report on Form 8-K.
+This information, including Exhibit 99.1, will not be deemed “filed” for any purpose, including for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “
+Exchange Act
+”), or otherwise subject to the liabilities under that section and it will not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, regardless of any general incorporation language in such filing.
+Item 9.01
+Financial Statements and Exhibits.
+(d) Exhibits.
+ [TABLE_3: Exhibit Number: 99.1,
+ Exhibit Description: Press Release issued by Illinois Tool Works Inc. dated December 21, 2018] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_4: December 21, 2018: ,
+ ILLINOIS TOOL WORKS INC.: By:; December 21, 2018: ,
+ ILLINOIS TOOL WORKS INC.: ; December 21, 2018: ,
+ ILLINOIS TOOL WORKS INC.:] 
+
+PAGE NUMBER: 3
+

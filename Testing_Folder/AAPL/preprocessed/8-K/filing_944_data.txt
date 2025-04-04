@@ -1,0 +1,74 @@
+
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of The Securities Exchange Act of 1934
+November 4, 2014
+Date of Report (date of earliest event reported)
+APPLE INC.
+(Exact name of registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 000-10030: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(Registrant’s telephone number, including area code)
+(408) 996-1010
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+On November 4, 2014, Apple Inc. (“Apple”) entered into an underwriting agreement (the “Underwriting Agreement”) with Goldman, Sachs & Co. as representative of the several underwriters named therein, for the issuance and sale by Apple of
+€
+1,400,000,000 aggregate principal amount of Apple’s 1.000% Notes due 2022 (the “2022 Notes”), and
+1,400,000,000 aggregate principal amount of Apple’s 1.625% Notes due 2026 (the “2026 Notes” and together with the 2022 Notes, the “Notes”).
+The Notes will be issued pursuant to an indenture, dated as of April 29, 2013 (the “Indenture”), between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), together with the officer’s certificate dated as of November 10, 2014 issued pursuant thereto establishing the terms of each series of the Notes (the “Officer’s Certificate”).
+The Notes are being issued pursuant to Apple’s Registration Statement on Form S-3 filed with the Securities and Exchange Commission on April 29, 2013 (Reg. No. 333-188191) (the “Registration Statement”).
+Interest on the Notes will be payable annually on November 10 of each year, beginning on November 10, 2015, and on the applicable maturity date for each series of Notes. The 2022 Notes will mature on November 10, 2022 and the 2026 Notes will mature on November 10, 2026.
+The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.
+The foregoing descriptions of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the forms of the Notes) are qualified in their entirety by the terms of such agreements and documents. The Underwriting Agreement and the Officer’s Certificate (including the forms of the Notes) are attached hereto as Exhibits 1.1 and 4.1 through 4.3, respectively, and incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to the Registration Statement.
+
+PAGE NUMBER: 2
+
+
+
+ [TABLE_2: ExhibitNumber: 1.1,
+ Description: ; ExhibitNumber: 4.1,
+ Description: ; ExhibitNumber: 4.2,
+ Description: ; ExhibitNumber: 4.3,
+ Description: ; ExhibitNumber: 5.1,
+ Description: ; ExhibitNumber: 23.1,
+ Description:] 
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: APPLE INC.: Date: November 10, 2014; APPLE INC.:] 
+
+PAGE NUMBER: 4
+
+
+
+EXHIBIT INDEX
+ [TABLE_4: ExhibitNumber: 1.1,
+ Description: ; ExhibitNumber: 4.1,
+ Description: ; ExhibitNumber: 4.2,
+ Description: ; ExhibitNumber: 4.3,
+ Description: ; ExhibitNumber: 5.1,
+ Description: ; ExhibitNumber: 23.1,
+ Description:] 
+
+PAGE NUMBER: 5
+

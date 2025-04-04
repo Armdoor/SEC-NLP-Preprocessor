@@ -1,0 +1,86 @@
+
+
+Form 8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of The Securities Exchange Act of 1934
+August 15, 2017
+Date of Report (date of earliest event reported)
+Apple Inc.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation),
+ 001-36743: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408)
+996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form
+filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:
+Indicate by check mark whether the Registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule
+12b-2
+of the Securities Exchange Act of 1934
+(§240.12b-2
+of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+
+PAGE NUMBER: 1
+
+
+
+On August 18, 2017, Apple Inc. (“Apple”) consummated the issuance and sale of C$2,500,000,000 aggregate principal amount of Apple’s 2.513% Notes due 2024 (the “Notes”), pursuant to an underwriting agreement (the “Underwriting Agreement”) dated August 15, 2017 among Apple and HSBC Securities (Canada) Inc., RBC Dominion Securities Inc., BMO Nesbitt Burns Inc. and Goldman Sachs & Co. LLC, as representatives of the several underwriters named therein.
+The Notes are being issued pursuant to an indenture, dated as of April 29, 2013 (the “Indenture”), between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee, together with the officer’s certificate, dated August 18, 2017 (the “Officer’s Certificate”), issued pursuant to the Indenture establishing the terms of each series of Notes.
+The Notes are being issued pursuant to Apple’s Registration Statement on Form
+S-3
+filed with the Securities and Exchange Commission on April 28, 2016 (Reg.
+No. 333-210983)
+(the “Registration Statement”).
+Interest on the Notes will be paid semi-annually in arrears on February 19 and August 19 of each year, beginning on February 19, 2018. The Notes will mature on August 19, 2024.
+The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.
+The foregoing description of the Notes and related agreements is qualified in its entirety by the terms of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the form of the Notes). Apple is furnishing the Underwriting Agreement and the Officer’s Certificate (including the form of the Notes) attached hereto as Exhibits 1.1, 4.1 and 4.2, respectively, and they are incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to Apple’s Registration Statement on Form
+filed with the Securities and Exchange Commission on April 29, 2013 (Reg.
+No. 333-188191).
+The computation of Apple’s ratio of earnings to fixed charges is filed as Exhibit 12.1 hereto, and is incorporated by reference into the Registration Statement. An opinion regarding the legality of the Notes is filed as Exhibit 5.1, and is incorporated by reference into the Registration Statement; and a consent relating to the incorporation of such opinion is incorporated by reference into the Registration Statement and is filed as Exhibit 23.1 by reference to its inclusion within Exhibit 5.1.
+ [TABLE_2: ExhibitNumber: 1.1,
+ Exhibit Description: ; ExhibitNumber: 4.1,
+ Exhibit Description: ; ExhibitNumber: 4.2,
+ Exhibit Description: ; ExhibitNumber: 5.1,
+ Exhibit Description: ; ExhibitNumber: 12.1,
+ Exhibit Description: ; ExhibitNumber: 23.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 2
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ [TABLE_3: Date: August 18, 2017: ,
+ Apple Inc.: ; Date: August 18, 2017: ,
+ Apple Inc.:] 
+
+PAGE NUMBER: 3
+
+
+
+EXHIBIT INDEX
+ [TABLE_4: ExhibitNumber: 1.1,
+ Exhibit Description: ; ExhibitNumber: 4.1,
+ Exhibit Description: ; ExhibitNumber: 4.2,
+ Exhibit Description: ; ExhibitNumber: 5.1,
+ Exhibit Description: ; ExhibitNumber: 12.1,
+ Exhibit Description: ; ExhibitNumber: 23.1,
+ Exhibit Description:] 
+
+PAGE NUMBER: 4
+

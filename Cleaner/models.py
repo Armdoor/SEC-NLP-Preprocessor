@@ -1,16 +1,21 @@
 import logging
 
 class Item:
-    def __init__(self,identifier: str, title: str, description: str = None):
+    def __init__(self, accession_number, filing_type, identifier: str, title: str, description: str = None):
+        self.accession_number = accession_number
+        self.filing_type = filing_type
         self.identifier = identifier
         self.title = title
         self.description = description
         self.sub_items = []
+    
     def __repr__(self):
         return f"Item(title='{self.title}')"
     
     def to_dict(self):
         return {
+            "accesion_number": self.accession_number,
+            "filing_type" : self.filing_type,
             "identifier": self.identifier,
             "title": self.title,
             "description": self.description,

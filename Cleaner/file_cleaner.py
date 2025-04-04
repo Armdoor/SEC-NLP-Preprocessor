@@ -21,38 +21,13 @@ class FileCleaner:
       self.filing_type= filing_type
       self.com_data = com_data
 
-
-    # def read_file(self, path):
-    #     with open(path, 'r', encoding='utf-8') as file:
-    #         response_content = file.read()
-    #     print("len of response_content", len(response_content))
-    #     return response_content
-
-
     def remove_metadata(self):
-    #    text = self.clean_data(text)
-    #    with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/clean/clean_data_h.txt", "w") as f:
-    #        f.write(text)    
-       print(self.com_data[0])
        text = self.com_data
        if self.filing_type == '10-K':
            text = self.clean_data(text)
            return self.clean_10k_filing(text)
        elif self.filing_type == '8-K':
            return self.clean_8k_filing(text)
-    
-    # def removefooter(self, text):
-    #     # first remove the header data 
-    #     start_pattern = r"PAGE NUMBER: 1"
-    #     end_pattern = r"Check the appropriate box"
-    #     pattern = re.compile(rf"({start_pattern})(.*?)({end_pattern})", re.DOTALL)
-    #     cleaned_text = re.sub(pattern, r"\1\n\3", text).strip()
-    #     # if filing_type == '8-K':
-    #     #     return 
-    #     with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/clean/footer.txt", "w") as f:
-    #        f.write(cleaned_text)
-    #     return cleaned_text
-
 
     def clean_8k_filing(self, text):
         last_line = "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act."
@@ -62,10 +37,7 @@ class FileCleaner:
             cleaned_text = text[last_line_index + len(last_line):].strip()
         else:
             cleaned_text = text.strip()
-        # return cleaned_text
-
-        with open("/Users/akshitsanoria/Desktop/PythonP/printing_files/clean/clean_data8k.txt", "w") as f:
-           f.write(cleaned_text)
+      
         return cleaned_text
 
     def clean_10k_filing(self, text):

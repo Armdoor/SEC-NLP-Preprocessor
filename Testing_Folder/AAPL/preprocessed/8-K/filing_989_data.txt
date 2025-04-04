@@ -1,0 +1,88 @@
+
+
+8-K
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of
+The Securities Exchange Act of 1934
+April 29, 2014
+Date of Report (date of earliest event reported)
+APPLE INC.
+(Exact name of Registrant as specified in its charter)
+ [TABLE_1: California: (State or other jurisdictionof incorporation or organization),
+ 000-10030: ,
+ 94-2404110: (CommissionFile Number)] 
+1 Infinite Loop
+Cupertino, California 95014
+(Address of principal executive offices) (Zip Code)
+(408) 996-1010
+(Registrant’s telephone number, including area code)
+Not applicable
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+PAGE NUMBER: 1
+
+
+
+Item 8.01 Other Events.
+On April 29, 2014, Apple Inc. (“Apple”) entered into an underwriting agreement (the “Underwriting Agreement”) with Goldman, Sachs & Co. and Deutsche Bank Securities Inc., as representatives of the several underwriters named therein, for the issuance and sale by Apple of $1,000,000,000 aggregate principal amount of Apple’s Floating Rate Notes due 2017 (the “2017 Floating Rate Notes”), $1,000,000,000 aggregate principal amount of Apple’s Floating Rate Notes due 2019 (the “2019 Floating Rate Notes” and together with the 2017 Floating Rate Notes, the “Floating Rate Notes”), $1,500,000,000 aggregate principal amount of Apple’s 1.05% Notes due 2017 (the “2017 Fixed Rate Notes”), $2,000,000,000 aggregate principal amount of Apple’s 2.10% Notes due 2019 (the “2019 Fixed Rate Notes”), $3,000,000,000 aggregate principal amount of Apple’s 2.85% Notes due 2021 (the “2021 Fixed Rate Notes”), $2,500,000,000 aggregate principal amount of Apple’s 3.45% Notes due 2024 (the “2024 Fixed Rate Notes”) and $1,000,000,000 aggregate principal amount of Apple’s 4.45% Notes due 2044 (the “2044 Fixed Rate Notes” and together with the 2017 Fixed Rate Notes, the 2019 Fixed Rate Notes, the 2021 Fixed Rate Notes and the 2024 Fixed Rate Notes, the “Fixed Rate Notes”).
+The Fixed Rate Notes and the Floating Rate Notes (together, the “Notes”) will be issued pursuant to an indenture, dated as of April 29, 2013 (the “Indenture”), between Apple and The Bank of New York Mellon Trust Company, N.A., as trustee (the “Trustee”), together with the officer’s certificate dated as of May 6, 2014 issued pursuant thereto establishing the terms of each series of the Notes (the “Officer’s Certificate”).
+The Notes are being issued pursuant to Apple’s Registration Statement on Form S-3 filed with the Securities and Exchange Commission on April 29, 2013 (Reg. No. 333-188191) (the “Registration Statement”).
+Interest on the Floating Rate Notes will be payable quarterly in arrears on February 6, May 6, August 6 and November 6 of each year, beginning on August 6, 2014, and on the applicable maturity date for each series of Floating Rate Notes. Interest on the Fixed Rate Notes will be payable semi-annually on May 6 and November 6 of each year, beginning on November 6, 2014, and on the applicable maturity date for each series of Fixed Rate Notes.
+The 2017 Floating Rate Notes will mature on May 5, 2017; the 2019 Floating Rate Notes will mature on May 6, 2019; the 2017 Fixed Rate Notes will mature on May 5, 2017; the 2019 Fixed Rate Notes will mature on May 6, 2019; the 2021 Fixed Rate Notes will mature on May 6, 2021; the 2024 Fixed Rate Notes will mature on May 6, 2024; and the 2044 Fixed Rate Notes will mature on May 6, 2044.
+The Notes will be Apple’s senior unsecured obligations and will rank equally with Apple’s other unsecured and unsubordinated debt from time to time outstanding.
+The foregoing descriptions of the Underwriting Agreement, the Indenture and the Officer’s Certificate (including the forms of the Notes) are qualified in their entirety by the terms of such agreements and documents. The Underwriting Agreement and the Officer’s Certificate (including the forms of the Notes) are attached hereto as Exhibits 1.1 and 4.1 through 4.8, respectively, and incorporated herein by reference. The Indenture is filed as Exhibit 4.1 to the Registration Statement.
+
+PAGE NUMBER: 2
+
+
+
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits
+ [TABLE_2: Exhibit No.: 1.1,
+ Description: ; Exhibit No.: 4.1,
+ Description: ; Exhibit No.: 4.2,
+ Description: ; Exhibit No.: 4.3,
+ Description: ; Exhibit No.: 4.4,
+ Description: ; Exhibit No.: 4.5,
+ Description: ; Exhibit No.: 4.6,
+ Description: ; Exhibit No.: 4.7,
+ Description: ; Exhibit No.: 4.8,
+ Description: ; Exhibit No.: 5.1,
+ Description: ; Exhibit No.: 12.1,
+ Description: ; Exhibit No.: 23.1,
+ Description:] 
+
+PAGE NUMBER: 3
+
+
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.
+ [TABLE_3: APPLE INC.(Registrant): ; APPLE INC.(Registrant): ; APPLE INC.(Registrant):] 
+
+PAGE NUMBER: 4
+
+
+
+INDEX TO EXHIBITS
+ [TABLE_4: Exhibit No.: 1.1,
+ Description: ; Exhibit No.: 4.1,
+ Description: ; Exhibit No.: 4.2,
+ Description: ; Exhibit No.: 4.3,
+ Description: ; Exhibit No.: 4.4,
+ Description: ; Exhibit No.: 4.5,
+ Description: ; Exhibit No.: 4.6,
+ Description: ; Exhibit No.: 4.7,
+ Description: ; Exhibit No.: 4.8,
+ Description: ; Exhibit No.: 5.1,
+ Description: ; Exhibit No.: 12.1,
+ Description: ; Exhibit No.: 23.1,
+ Description:] 
+
+PAGE NUMBER: 5
+
