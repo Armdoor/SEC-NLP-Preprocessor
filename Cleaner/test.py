@@ -1,5 +1,5 @@
 from file_cleaner import FileCleaner 
-from clean_10k import Clean10k 
+# from clean_10k import Clean10k 
 from clean_8k import Clean8k 
 from Normalization import Normalizer  
 from models import *

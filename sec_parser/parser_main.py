@@ -50,12 +50,12 @@ class EntityData:
     def num_of_former_names(self) -> int:
         return len(self.formerNames) if self.formerNames else 0
 
-    @property
-    def total_num_of_filings(self) -> int:
-        try:
-            return len(self.filings['recent']['accessionNumber'])
-        except (KeyError, TypeError):
-            return 0
+    # @property
+    # def total_num_of_filings(self) -> int:
+    #     try:
+    #         return len(self.filings['recent']['accessionNumber'])
+    #     except (KeyError, TypeError):
+    #         return 0
 
     def __post_init__(self):
         # Initialize mutable defaults
